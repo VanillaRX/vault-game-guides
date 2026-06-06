@@ -21,10 +21,10 @@ export function Header() {
       <div className="mx-auto flex h-16 max-w-7xl items-center justify-between px-4 sm:px-6">
         <Link href="/" className="flex items-center gap-2 group">
           <span className="font-display text-lg font-bold tracking-wider text-[var(--accent)] group-hover:animate-glow">
-            VAULT
+            {lang === "zh" ? "攻略" : "VAULT"}
           </span>
           <span className="font-display text-lg font-bold tracking-wider text-[var(--neon)]">
-            GUIDES
+            {lang === "zh" ? "库" : "GUIDES"}
           </span>
         </Link>
 
