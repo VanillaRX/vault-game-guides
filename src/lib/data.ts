@@ -62,7 +62,7 @@ export const GAMES: Game[] = [
     headerImage: "https://cdn.cloudflare.steamstatic.com/steam/apps/1044720/header.jpg",
     releaseDate: "2022-08-09",
     developer: "Crate Entertainment",
-    guideCount: 0,
+    guideCount: 1,
     featured: false,
   },
   {
@@ -78,7 +78,7 @@ export const GAMES: Game[] = [
     headerImage: "https://cdn.cloudflare.steamstatic.com/steam/apps/1029780/header.jpg",
     releaseDate: "2021-06-01",
     developer: "Foxy Voxel",
-    guideCount: 0,
+    guideCount: 1,
     featured: false,
   },
   {
@@ -94,7 +94,7 @@ export const GAMES: Game[] = [
     headerImage: "https://cdn.cloudflare.steamstatic.com/steam/apps/690830/header.jpg",
     releaseDate: "2025-01-31",
     developer: "Polymorph Games",
-    guideCount: 0,
+    guideCount: 1,
     featured: false,
   },
 ];
@@ -166,6 +166,48 @@ export const GUIDES: Guide[] = [
     tags: ["defense", "killbox", "combat"],
     wordCount: 5600,
     estimatedReadTime: 24,
+    publishDate: "2026-06-06",
+  },
+  // Farthest Frontier
+  {
+    slug: "farming-guide",
+    gameSlug: "farthest-frontier",
+    title: "Farthest Frontier: Complete Farming & Food Guide",
+    description:
+      "Crop rotation for maximum yield, soil fertility management, livestock optimization, and food preservation. Keep your colony fed through the harshest winters.",
+    category: "walkthrough",
+    difficulty: "medium",
+    tags: ["farming", "food", "survival"],
+    wordCount: 4800,
+    estimatedReadTime: 20,
+    publishDate: "2026-06-06",
+  },
+  // Going Medieval
+  {
+    slug: "castle-defense",
+    gameSlug: "going-medieval",
+    title: "Going Medieval: Castle Design & Defense Architecture",
+    description:
+      "Layered defense design, wall material engineering, settler mood management, and winter survival. Build a fortress that makes 20-man raids into target practice.",
+    category: "advanced",
+    difficulty: "hard",
+    tags: ["defense", "castle", "architecture"],
+    wordCount: 5100,
+    estimatedReadTime: 22,
+    publishDate: "2026-06-06",
+  },
+  // Foundation
+  {
+    slug: "city-layout",
+    gameSlug: "foundation",
+    title: "Foundation: Organic City Layout & Supply Chain Guide",
+    description:
+      "Zone planning for organic growth, complete supply chain reference, monument building workflow, and trade economy mastery for a thriving medieval city.",
+    category: "beginner",
+    difficulty: "easy",
+    tags: ["layout", "supply-chain", "trade"],
+    wordCount: 4200,
+    estimatedReadTime: 18,
     publishDate: "2026-06-06",
   },
 ];

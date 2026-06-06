@@ -1,0 +1,153 @@
+import { Callout } from "@/components/guide/callout";
+import { GAMES } from "@/lib/data";
+
+export default function FoundationCityLayout() {
+  const game = GAMES.find((g) => g.slug === "foundation")!;
+
+  return (
+    <div className="space-y-12">
+      <img src={game.headerImage} alt="Foundation" className="w-full rounded-xl border border-[var(--border)] object-cover" />
+
+      <div className="rounded-xl border border-[var(--border)] bg-[var(--card)]/50 p-6">
+        <p className="text-sm leading-relaxed text-[var(--fg)]/90">
+          Foundation is a gridless, organic city-builder where villagers build their own paths and houses. Traditional
+          grid-based planning <b>does not work here</b>. Instead, you paint zones, manage supply chains, and let the city
+          grow organically. This guide covers zone planning, production chains, monument building, and the trade economy
+          that turns a village into a thriving medieval city.
+        </p>
+      </div>
+
+      {/* Zone Planning */}
+      <section id="section-0">
+        <h2 className="font-display text-xl font-bold tracking-tight text-[var(--neon)]">🗺️ Zone Planning: The Organic Approach</h2>
+
+        <div className="mt-3 grid gap-3 sm:grid-cols-3">
+          {[
+            { title: "Residential Zones", desc: "Paint near workplaces. Villagers walk to work — if the walk exceeds 150m, they build a new house closer. Never paint residential zones in one giant block — scatter them in 3-4 clusters near different industries.", icon: "🏘️" },
+            { title: "Industrial Zones", desc: "Place near resource nodes. Lumber camps near forests. Mines near stone/iron deposits. Wheat farms on flat, open land. Keep noisy industries (blacksmith, stonemason) 50m+ from residential — noise reduces desirability.", icon: "🏭" },
+            { title: "Market Zones", desc: "The center of your city. Place the Market building first, then paint a large market zone around it. Stall vendors set up automatically. Luxury stalls (jewelry, clothing) generate the most tax income. Every house must be within 100m of a market.", icon: "🏪" },
+          ].map((z) => (
+            <div key={z.title} className="rounded-xl border border-[var(--border)] bg-[var(--card)]/40 p-4">
+              <span className="text-xl">{z.icon}</span>
+              <h4 className="mt-2 text-sm font-semibold text-[var(--fg)]">{z.title}</h4>
+              <p className="mt-1.5 text-xs leading-relaxed text-[var(--muted)]">{z.desc}</p>
+            </div>
+          ))}
+        </div>
+
+        <Callout type="strategy" title="The Golden Rule of Foundation">
+          <b>Paint zones, don&apos;t place buildings.</b> Unlike other city builders, Foundation lets villagers build their own houses, workshops, and paths within zones you designate. Your job is zone placement and supply chain management — not micro-managing every building. The more you micromanage, the slower your city grows.
+        </Callout>
+      </section>
+
+      {/* Supply Chains */}
+      <section id="section-1">
+        <h2 className="font-display text-xl font-bold tracking-tight text-[var(--neon)]">📦 Complete Supply Chain Reference</h2>
+
+        <div className="mt-3 overflow-x-auto rounded-xl border border-[var(--border)]">
+          <table className="w-full text-xs">
+            <thead>
+              <tr className="border-b border-[var(--border)] bg-[var(--card)]/50">
+                <th className="px-3 py-2 text-left font-semibold text-[var(--fg)]">End Product</th>
+                <th className="px-3 py-2 text-left font-semibold text-[var(--fg)]">Input Chain</th>
+                <th className="px-3 py-2 text-left font-semibold text-[var(--fg)]">Required Buildings</th>
+                <th className="px-3 py-2 text-left font-semibold text-[var(--fg)]">Villager Tier</th>
+              </tr>
+            </thead>
+            <tbody className="divide-y divide-[var(--border)]">
+              <tr><td className="px-3 py-2 text-[var(--neon)] font-medium">Bread</td><td className="px-3 py-2 text-[var(--muted)]">Wheat Farm → Windmill (Flour) → Bakery</td><td className="px-3 py-2 text-[var(--muted)]">3 buildings</td><td className="px-3 py-2">Serf</td></tr>
+              <tr><td className="px-3 py-2 text-[var(--neon)] font-medium">Beer</td><td className="px-3 py-2 text-[var(--muted)]">Wheat Farm → Brewery + Hop Farm → Brewery</td><td className="px-3 py-2 text-[var(--muted)]">3 buildings</td><td className="px-3 py-2">Commoner</td></tr>
+              <tr><td className="px-3 py-2 text-[var(--neon)] font-medium">Clothing</td><td className="px-3 py-2 text-[var(--muted)]">Sheep Farm (Wool) → Weaver (Cloth) → Tailor</td><td className="px-3 py-2 text-[var(--muted)]">3 buildings</td><td className="px-3 py-2">Commoner</td></tr>
+              <tr><td className="px-3 py-2 text-[var(--neon)] font-medium">Tools</td><td className="px-3 py-2 text-[var(--muted)]">Iron Mine → Smelter (Iron Bars) → Blacksmith</td><td className="px-3 py-2 text-[var(--muted)]">3 buildings</td><td className="px-3 py-2">Commoner</td></tr>
+              <tr><td className="px-3 py-2 text-[var(--amber)] font-medium">Jewelry</td><td className="px-3 py-2 text-[var(--muted)]">Gold Mine → Goldsmith + Gem Mine → Gem Cutter → Jeweler</td><td className="px-3 py-2 text-[var(--muted)]">4 buildings</td><td className="px-3 py-2">Citizen</td></tr>
+              <tr><td className="px-3 py-2 text-[var(--amber)] font-medium">Weapons</td><td className="px-3 py-2 text-[var(--muted)]">Iron Bars + Coal Mine (Charcoal) → Weaponsmith</td><td className="px-3 py-2 text-[var(--muted)]">3 buildings</td><td className="px-3 py-2">Citizen</td></tr>
+              <tr><td className="px-3 py-2 text-[var(--amber)] font-medium">Stained Glass</td><td className="px-3 py-2 text-[var(--muted)]">Sand Pit → Glassmaker + Quartz Mine → Glass Workshop</td><td className="px-3 py-2 text-[var(--muted)]">3 buildings</td><td className="px-3 py-2">Citizen</td></tr>
+            </tbody>
+          </table>
+        </div>
+
+        <Callout type="info" title="Promotion Requirements">
+          Villagers promote when all their needs are met. Serf → Commoner: needs food variety (2+ types) + basic clothing. Commoner → Citizen: needs luxury food (beer, meat) + tools + decorated housing (tier 2 house + decorations). Commoners consume <b>3× more goods than serfs</b> — don&apos;t promote too many until your production chains can support it.
+        </Callout>
+      </section>
+
+      {/* Monuments */}
+      <section id="section-2">
+        <h2 className="font-display text-xl font-bold tracking-tight text-[var(--neon)]">🏛️ Monument Building Guide</h2>
+
+        <div className="mt-3 overflow-x-auto rounded-xl border border-[var(--border)]">
+          <table className="w-full text-xs">
+            <thead>
+              <tr className="border-b border-[var(--border)] bg-[var(--card)]/50">
+                <th className="px-3 py-2 text-left font-semibold text-[var(--fg)]">Monument</th>
+                <th className="px-3 py-2 text-left font-semibold text-[var(--fg)]">Resources Required</th>
+                <th className="px-3 py-2 text-left font-semibold text-[var(--fg)]">Workers</th>
+                <th className="px-3 py-2 text-left font-semibold text-[var(--fg)]">Benefit</th>
+              </tr>
+            </thead>
+            <tbody className="divide-y divide-[var(--border)]">
+              <tr><td className="px-3 py-2 text-[var(--neon)] font-medium">⛪ Village Church</td><td className="px-3 py-2 text-[var(--muted)]">100 Stone, 50 Planks</td><td className="px-3 py-2">8 builders</td><td className="px-3 py-2 text-[var(--muted)]">Faith need satisfied. Unlocks Monastery (tier 2). Prevents mass emigration during hardship events.</td></tr>
+              <tr><td className="px-3 py-2 text-[var(--neon)] font-medium">🏰 Lord&apos;s Manor</td><td className="px-3 py-2 text-[var(--muted)]">200 Stone, 100 Planks, 50 Iron Bars</td><td className="px-3 py-2">12 builders</td><td className="px-3 py-2 text-[var(--muted)]">Unlocks taxation. Generates 5 gold/month per citizen. Required for Citizen tier promotion.</td></tr>
+              <tr><td className="px-3 py-2 text-[var(--neon)] font-medium">⛲ Grand Fountain</td><td className="px-3 py-2 text-[var(--muted)]">150 Stone, 50 Marble</td><td className="px-3 py-2">10 builders</td><td className="px-3 py-2 text-[var(--muted)]">Massive desirability boost in 50m radius. Houses near fountains promote 40% faster.</td></tr>
+              <tr><td className="px-3 py-2 text-[var(--amber)] font-medium">🏛️ Cathedral</td><td className="px-3 py-2 text-[var(--muted)]">500 Stone, 200 Marble, 100 Stained Glass, 50 Gold</td><td className="px-3 py-2">20 builders</td><td className="px-3 py-2 text-[var(--muted)]">Endgame monument. Max faith. Attracts pilgrims (+20 population). Required for ultimate city achievement.</td></tr>
+            </tbody>
+          </table>
+        </div>
+
+        <Callout type="strategy" title="Monument Construction Workflow">
+          1. Build the monument&apos;s resource depot FIRST (next to the construction site).<br/>
+          2. Set all resource depots to &quot;Fill&quot; priority for the monument materials.<br/>
+          3. Assign 2 dedicated builders and prevent them from doing other jobs.<br/>
+          4. Build in spring — winter slows construction by 40%.<br/>
+          A Cathedral takes ~45 in-game days with optimized logistics. Without planning: 90+ days.
+        </Callout>
+      </section>
+
+      {/* Trade */}
+      <section id="section-3">
+        <h2 className="font-display text-xl font-bold tracking-tight text-[var(--neon)]">📊 Trade Economy &amp; Mastery</h2>
+
+        <div className="mt-3 overflow-x-auto rounded-xl border border-[var(--border)]">
+          <table className="w-full text-xs">
+            <thead>
+              <tr className="border-b border-[var(--border)] bg-[var(--card)]/50">
+                <th className="px-3 py-2 text-left font-semibold text-[var(--fg)]">Export Good</th>
+                <th className="px-3 py-2 text-left font-semibold text-[var(--fg)]">Buyer</th>
+                <th className="px-3 py-2 text-left font-semibold text-[var(--fg)]">Price</th>
+                <th className="px-3 py-2 text-left font-semibold text-[var(--fg)]">Strategy</th>
+              </tr>
+            </thead>
+            <tbody className="divide-y divide-[var(--border)]">
+              <tr><td className="px-3 py-2 text-[var(--neon)] font-medium">Surplus Bread</td><td className="px-3 py-2 text-[var(--muted)]">Northburgh (city)</td><td className="px-3 py-2 text-[var(--neon)]">8-12 Gold/unit</td><td className="px-3 py-2 text-[var(--muted)]">Best early-game export. Bread has a 3:1 wheat-to-bread ratio. 3 wheat farms feed 1 windmill + bakery + surplus for export.</td></tr>
+              <tr><td className="px-3 py-2 font-medium">Iron Tools</td><td className="px-3 py-2 text-[var(--muted)]">All trading partners</td><td className="px-3 py-2 text-[var(--neon)]">18-25 Gold/unit</td><td className="px-3 py-2 text-[var(--muted)]">Best value-to-weight export. 1 iron ore → 1 tool. Tools stack to 10. One trading cart of tools = 250 gold.</td></tr>
+              <tr><td className="px-3 py-2 font-medium">Jewelry</td><td className="px-3 py-2 text-[var(--muted)]">Kallio (distant city)</td><td className="px-3 py-2 text-[var(--neon)]">35-50 Gold/unit</td><td className="px-3 py-2 text-[var(--muted)]">Highest single-item value. But requires citizen-tier workers + 4-step chain. Build this industry last.</td></tr>
+              <tr><td className="px-3 py-2 font-medium">Stained Glass</td><td className="px-3 py-2 text-[var(--muted)]">Kallio, Monasteries</td><td className="px-3 py-2 text-[var(--neon)]">40-55 Gold/unit</td><td className="px-3 py-2 text-[var(--muted)]">Best late-game export. Sand pit is unlimited resource. With 3 sand pits + 2 quartz mines = continuous production.</td></tr>
+            </tbody>
+          </table>
+        </div>
+
+        <Callout type="tip" title="Trade Mastery Perk System">
+          Each trade route has a <b>Mastery level (1-10)</b>. Higher mastery = better prices + faster carts. Max out bread mastery first (it&apos;s your primary export for 50+ years). Never diversify trade routes before mastery level 5 on your primary good — spreading thin means no mastery bonus for decades.
+        </Callout>
+      </section>
+
+      <section id="faq" className="border-t border-[var(--border)] pt-8">
+        <h2 className="font-display text-xl font-bold tracking-tight text-[var(--neon)]">FAQ</h2>
+        <div className="mt-4 space-y-4">
+          {[
+            { q: "Why aren&apos;t my villagers building houses?", a: "Check three things: (1) Residential zone is painted — without it, no houses. (2) Zone is within 150m of workplaces. (3) Desirability is above 0. Add a well and decorate with trees (+2 desirability each)." },
+            { q: "How do I promote more villagers to Commoner?", a: "You need: (1) At least 2 food types in the market. (2) Clothing available in a market stall. (3) Church built and staffed. (4) Their house is within 100m of a market. Then click the house and press Promote." },
+            { q: "Best monument to build first?", a: "Village Church. It unlocks faith needs and prevents the 'Mass Exodus' event. Second: Lord&apos;s Manor for taxation income. Third: Grand Fountain for the desirability boost that speeds all future promotions." },
+          ].map((item, i) => (
+            <details key={i} className="group rounded-xl border border-[var(--border)] bg-[var(--card)]/30">
+              <summary className="cursor-pointer px-5 py-4 text-sm font-medium text-[var(--fg)]/90 list-none marker:hidden flex items-center justify-between">
+                {item.q}<span className="ml-2 text-[var(--muted)] group-open:rotate-45 transition-transform text-xs">+</span>
+              </summary>
+              <p className="px-5 pb-4 text-sm leading-relaxed text-[var(--muted)]">{item.a}</p>
+            </details>
+          ))}
+        </div>
+      </section>
+    </div>
+  );
+}
