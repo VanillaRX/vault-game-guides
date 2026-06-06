@@ -1,4 +1,5 @@
 import { Callout } from "@/components/guide/callout";
+import { GuideTrans } from "@/components/guide/guide-chrome";
 import { GAMES } from "@/lib/data";
 
 export default function Anno1800BeginnerGuide() {
@@ -17,7 +18,7 @@ export default function Anno1800BeginnerGuide() {
       </div>
 
       <section id="section-0">
-        <h2 className="font-display text-lg font-bold tracking-tight text-[var(--neon)]">🛖 Population Tiers: The Foundation</h2>
+        <h2 className="font-display text-lg font-bold tracking-tight text-[var(--neon)]">🛖 <GuideTrans en="Population Tiers: The Foundation" /></h2>
         <p className="mt-3 text-sm text-[var(--fg)]/80">
           Anno&apos;s progression is gated by population tiers. Each tier unlocks new buildings and production chains.
           <b>You can&apos;t skip tiers.</b> Every tier must be satisfied before the next one appears.
@@ -49,7 +50,7 @@ export default function Anno1800BeginnerGuide() {
       </section>
 
       <section id="section-1">
-        <h2 className="font-display text-lg font-bold tracking-tight text-[var(--neon)]">🛑 The 7 Deadly Beginner Mistakes</h2>
+        <h2 className="font-display text-lg font-bold tracking-tight text-[var(--neon)]">🛑 <GuideTrans en="The 7 Deadly Beginner Mistakes" /></h2>
         <div className="mt-3 space-y-2">
           {[
             { n: 1, title: "Building too many farmers", desc: "300 farmers generate the same tax as 300 investors? No. Farmer tax = 3 coins/house. Investor tax = 750 coins/house. <b>Upgrade, don't sprawl.</b>" },
@@ -69,7 +70,7 @@ export default function Anno1800BeginnerGuide() {
       </section>
 
       <section id="section-2">
-        <h2 className="font-display text-lg font-bold tracking-tight text-[var(--neon)]">⛵ The New World: Your First Expedition</h2>
+        <h2 className="font-display text-lg font-bold tracking-tight text-[var(--neon)]">⛵ <GuideTrans en="The New World: Your First Expedition" /></h2>
         <p className="mt-3 text-sm text-[var(--fg)]/80">
           The New World (Manola) is not optional. <b>Artisans and above require goods that ONLY grow in the New World.</b>
           Your first expedition ship arrives around the 2-hour mark.
@@ -90,7 +91,7 @@ export default function Anno1800BeginnerGuide() {
       </section>
 
       <section id="faq" className="border-t border-[var(--border)] pt-8">
-        <h2 className="font-display text-lg font-bold tracking-tight text-[var(--neon)]">FAQ</h2>
+        <h2 className="font-display text-lg font-bold tracking-tight text-[var(--neon)]"><GuideTrans en="FAQ" /></h2>
         <div className="mt-4 space-y-4">
           {[
             { q: "How many farmers do I need before upgrading?", a: "~200 farmers total. 1 fishery, 1 work clothes chain, 1 schnapps chain. That&apos;s enough to support your first 50 workers comfortably." },
