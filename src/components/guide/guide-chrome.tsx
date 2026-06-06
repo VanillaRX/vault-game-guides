@@ -48,12 +48,13 @@ export function UseT({ k }: { k: string }) {
 }
 
 /** Translates guide content text (section headings, callout titles) when viewing in Chinese. */
-export function GuideTrans({ en }: { en: string }) {
+export function GuideTrans({ en, zh }: { en: string; zh?: string }) {
   const { lang } = useLang();
   if (lang !== "zh") return <>{en}</>;
+  if (zh) return <>{zh}</>;
 
   // Lazy import the translation map
-  let zh = en;
+  let translated = en;
   // Common section headings
   const map: Record<string, string> = {
     "Production Ratio Cheat Sheet": "生产效率速查表",
@@ -122,6 +123,26 @@ export function GuideTrans({ en }: { en: string }) {
     "The New World: Your First Expedition": "新世界：第一次远征",
     "Understanding the Meta-Progression": "理解元进程系统",
     "Room Choice Priority": "房间选择优先级",
+    "Tier": "等级",
+    "Unlock at": "解锁条件",
+    "Basic Needs": "基本需求",
+    "Key Unlock": "解锁内容",
+    "Start": "开局即有",
+    "100 farmers": "100 农民",
+    "1 worker house": "1 间工人房",
+    "1 artisan house": "1 间工匠房",
+    "1 engineer house": "1 间工程师房",
+    "Fish, Work Clothes": "鱼、工服",
+    "Sausage, Soap, Bread": "香肠、肥皂、面包",
+    "Canned Food, Fur Coats": "罐头、皮草大衣",
+    "Spectacles, Coffee": "眼镜、咖啡",
+    "Chocolate, Champagne, Cigars": "巧克力、香槟、雪茄",
+    "Warehouse, Marketplace": "仓库、市场",
+    "Shipyard, Steel": "船坞、钢",
+    "New World, Rum": "新世界、朗姆酒",
+    "Electricity, Steam Ships": "电力、蒸汽船",
+    "World's Fair, Banks": "世博会、银行",
+    "The 1-House Trick": "一间房解锁法",
     "Weapon Choice: Start with the Staff": "武器选择：初心者用法杖",
     "The Chronos Fight Strategy": "克洛诺斯战策略",
     "FAQ": "常见问题",
@@ -136,6 +157,6 @@ export function GuideTrans({ en }: { en: string }) {
     "Mood Cascade Prevention": "心情连锁崩溃预防",
     "Winter Livestock Survival": "冬季牲畜生存",
   };
-  zh = map[en] || en;
-  return <>{zh}</>;
+  translated = map[en] || en;
+  return <>{translated}</>;
 }

@@ -32,7 +32,7 @@ const config: Record<CalloutType, { icon: typeof AlertTriangle; border: string; 
 
 interface CalloutProps {
   type: CalloutType;
-  title?: string;
+  title?: React.ReactNode;
   children: React.ReactNode;
 }
 
