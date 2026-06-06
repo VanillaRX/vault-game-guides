@@ -62,7 +62,7 @@ export const GAMES: Game[] = [
     headerImage: "https://cdn.cloudflare.steamstatic.com/steam/apps/1044720/header.jpg",
     releaseDate: "2022-08-09",
     developer: "Crate Entertainment",
-    guideCount: 1,
+    guideCount: 2,
     featured: false,
   },
   {
@@ -78,7 +78,7 @@ export const GAMES: Game[] = [
     headerImage: "https://cdn.cloudflare.steamstatic.com/steam/apps/1029780/header.jpg",
     releaseDate: "2021-06-01",
     developer: "Foxy Voxel",
-    guideCount: 1,
+    guideCount: 2,
     featured: false,
   },
   {
@@ -94,7 +94,7 @@ export const GAMES: Game[] = [
     headerImage: "https://cdn.cloudflare.steamstatic.com/steam/apps/690830/header.jpg",
     releaseDate: "2025-01-31",
     developer: "Polymorph Games",
-    guideCount: 1,
+    guideCount: 2,
     featured: false,
   },
 ];
@@ -221,6 +221,48 @@ export const GUIDES: Guide[] = [
     tags: ["layout", "supply-chain", "trade"],
     wordCount: 4200,
     estimatedReadTime: 18,
+    publishDate: "2026-06-06",
+  },
+  // Farthest Frontier — Defense
+  {
+    slug: "defense-guide",
+    gameSlug: "farthest-frontier",
+    title: "Farthest Frontier: Defense, Walls & Town Protection",
+    description:
+      "Wall engineering from palisade to fortress, tower placement for overlapping coverage, troop composition ratios, disease control protocols, and raider defense strategies.",
+    category: "advanced",
+    difficulty: "hard",
+    tags: ["defense", "walls", "combat"],
+    wordCount: 4600,
+    estimatedReadTime: 19,
+    publishDate: "2026-06-06",
+  },
+  // Going Medieval — Production
+  {
+    slug: "production-chains",
+    gameSlug: "going-medieval",
+    title: "Going Medieval: Production Chains & Settler Management",
+    description:
+      "Complete production tree from raw resources to steel weapons, settler specialization with star skills, research priority path, and underground storage optimization.",
+    category: "advanced",
+    difficulty: "medium",
+    tags: ["production", "crafting", "management"],
+    wordCount: 4300,
+    estimatedReadTime: 18,
+    publishDate: "2026-06-06",
+  },
+  // Foundation — Economy
+  {
+    slug: "economy-mastery",
+    gameSlug: "foundation",
+    title: "Foundation: Economy Mastery & Trade Domination",
+    description:
+      "Villager promotion pipeline (60-25-15 rule), trade route mastery optimization, monument ROI analysis, and gold management strategies for a self-sustaining medieval economy.",
+    category: "advanced",
+    difficulty: "medium",
+    tags: ["economy", "trade", "gold"],
+    wordCount: 4500,
+    estimatedReadTime: 19,
     publishDate: "2026-06-06",
   },
 ];
