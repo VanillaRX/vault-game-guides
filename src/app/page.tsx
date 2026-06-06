@@ -29,17 +29,17 @@ export default function Home() {
               </div>
               <h1 className="mt-4 animate-fade-in font-display text-4xl font-black leading-tight tracking-tight sm:text-5xl lg:text-6xl"
                   style={{ animationDelay: "0.1s" }}>
-                <span className="text-[var(--fg)]">Master the</span>
+                <span className="text-[var(--fg)]">Strategy Games,</span>
                 <br />
                 <span className="bg-gradient-to-r from-[var(--accent)] to-[var(--neon)] bg-clip-text text-transparent">
-                  Production Chain
+                  Solved.
                 </span>
               </h1>
               <p className="mt-6 animate-fade-in text-base leading-relaxed text-[var(--muted)] sm:text-lg"
                   style={{ animationDelay: "0.2s" }}>
-                In-depth production layouts, district adjacency guides, defense
-                strategies, and optimization walkthroughs for strategy, city-builder,
-                and colony sim games.
+                Production layouts. District adjacency. Killbox designs. City planning.
+                Every strategy, management, and colony sim guide you need —
+                written by players who&apos;ve already put in the hours.
               </p>
               <div className="mt-8 flex animate-fade-in flex-wrap gap-4"
                   style={{ animationDelay: "0.3s" }}>
