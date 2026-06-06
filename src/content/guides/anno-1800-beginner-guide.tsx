@@ -1,5 +1,6 @@
 import { Callout } from "@/components/guide/callout";
 import { GuideTrans } from "@/components/guide/guide-chrome";
+import { GuideText } from "@/components/guide/guide-text";
 import { GAMES } from "@/lib/data";
 
 export default function Anno1800BeginnerGuide() {
@@ -11,9 +12,8 @@ export default function Anno1800BeginnerGuide() {
 
       <div className="rounded-xl border border-[var(--border)] bg-[var(--card)]/50 p-6">
         <p className="text-sm leading-relaxed text-[var(--fg)]/90">
-          Anno 1800 drops you onto an island with a warehouse, 10 farmers, and zero instructions. The campaign teaches
-          some basics, but it skips the most important concepts. This guide covers your first 5 hours — what to build,
-          what to avoid, and the 7 mistakes every new player makes.
+          <GuideText en="Anno 1800 drops you onto an island with a warehouse, 10 farmers, and zero instructions. The campaign teaches some basics, but it skips the most important concepts. This guide covers your first 5 hours — what to build, what to avoid, and the 7 mistakes every new player makes."
+            zh="《纪元1800》把你丢到一座岛上：一个仓库、10个农民、零教程。战役模式教了点基础，但漏掉了最重要的概念。这篇攻略覆盖你前5个小时的游戏——该造什么、别踩什么坑、以及每个新手都会犯的7个错误。" />
         </p>
       </div>
 
