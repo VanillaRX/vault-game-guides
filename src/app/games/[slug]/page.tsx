@@ -4,6 +4,8 @@ import type { Metadata } from "next";
 import { GAMES, GUIDES } from "@/lib/data";
 import { ArrowRight, Clock, Users, Star, Swords } from "lucide-react";
 import { SteamStats } from "@/components/game/steam-stats";
+import { Suspense } from "react";
+import { UseT } from "@/components/guide/guide-chrome";
 
 interface Props {
   params: Promise<{ slug: string }>;
@@ -77,7 +79,7 @@ export default async function GamePage({ params }: Props) {
               </div>
               <div className="flex items-center gap-1.5 text-xs text-[var(--muted)]">
                 <BookIcon size={14} />
-                <span>{gameGuides.length} guides available</span>
+                <span>{gameGuides.length} <Suspense><UseT k="game.guidesAvailable" /></Suspense></span>
               </div>
             </div>
           </div>

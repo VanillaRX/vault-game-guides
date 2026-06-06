@@ -1,4 +1,7 @@
+"use client";
+
 import Link from "next/link";
+import { useLang } from "@/components/layout/lang-context";
 
 interface GameCardProps {
   slug: string;
@@ -19,6 +22,7 @@ export function GameCard({
   guideCount,
   index = 0,
 }: GameCardProps) {
+  const { t } = useLang();
   return (
     <Link
       href={`/games/${slug}`}
@@ -56,7 +60,7 @@ export function GameCard({
           </p>
           <div className="mt-3 flex items-center justify-between">
             <span className="text-[11px] text-[var(--muted)]/70">
-              {guideCount} guides
+              {guideCount} {t("game.guides")}
             </span>
             <span className="text-[11px] font-medium text-[var(--accent)] opacity-0 transition-opacity group-hover:opacity-100">
               Browse &rarr;

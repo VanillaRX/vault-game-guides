@@ -4,8 +4,10 @@ import { useState } from "react";
 import Link from "next/link";
 import { Search } from "lucide-react";
 import { GAMES, GUIDES } from "@/lib/data";
+import { useLang } from "@/components/layout/lang-context";
 
 export default function SearchPage() {
+  const { t } = useLang();
   const [query, setQuery] = useState("");
 
   const filteredGames = query
@@ -28,19 +30,16 @@ export default function SearchPage() {
 
   return (
     <div className="mx-auto max-w-2xl px-4 py-16 sm:px-6 sm:py-24">
-      <h1 className="font-display text-3xl font-bold tracking-tight">Search</h1>
+      <h1 className="font-display text-3xl font-bold tracking-tight">{t("nav.search")}</h1>
 
       <div className="mt-8">
         <div className="relative">
-          <Search
-            size={18}
-            className="absolute left-4 top-1/2 -translate-y-1/2 text-[var(--muted)]"
-          />
+          <Search size={18} className="absolute left-4 top-1/2 -translate-y-1/2 text-[var(--muted)]" />
           <input
             type="text"
             value={query}
             onChange={(e) => setQuery(e.target.value)}
-            placeholder="Search games and guides..."
+            placeholder={t("search.placeholder")}
             className="w-full rounded-xl border border-[var(--border)] bg-[var(--card)] py-3.5 pl-12 pr-4 text-sm text-[var(--fg)] placeholder:text-[var(--muted)]/50 focus:border-[var(--accent)] focus:outline-none"
             autoFocus
           />
@@ -54,7 +53,7 @@ export default function SearchPage() {
               {filteredGames.length > 0 && (
                 <div>
                   <h2 className="text-xs font-semibold uppercase tracking-wider text-[var(--muted)]">
-                    Games ({filteredGames.length})
+                    {t("nav.games")} ({filteredGames.length})
                   </h2>
                   <div className="mt-3 space-y-2">
                     {filteredGames.map((g) => (
@@ -64,19 +63,16 @@ export default function SearchPage() {
                         className="block rounded-lg border border-[var(--border)] bg-[var(--card)] p-4 transition-colors hover:border-[var(--accent)]"
                       >
                         <p className="font-medium">{g.title}</p>
-                        <p className="mt-1 text-xs text-[var(--muted)]">
-                          {g.shortDescription}
-                        </p>
+                        <p className="mt-1 text-xs text-[var(--muted)]">{g.shortDescription}</p>
                       </Link>
                     ))}
                   </div>
                 </div>
               )}
-
               {filteredGuides.length > 0 && (
                 <div>
                   <h2 className="text-xs font-semibold uppercase tracking-wider text-[var(--muted)]">
-                    Guides ({filteredGuides.length})
+                    {t("nav.guides")} ({filteredGuides.length})
                   </h2>
                   <div className="mt-3 space-y-2">
                     {filteredGuides.map((g) => (
@@ -97,7 +93,7 @@ export default function SearchPage() {
             </div>
           ) : (
             <p className="py-12 text-center text-sm text-[var(--muted)]">
-              No results for &ldquo;{query}&rdquo;. Try a game name or topic.
+              {t("search.noResults")} &ldquo;{query}&rdquo;
             </p>
           )}
         </div>
