@@ -4,6 +4,7 @@ import Anno1800BeginnerGuide from "./anno-1800-beginner-guide";
 import Civ6DistrictGuide from "./civ6-district-guide";
 import Civ6VictoryGuide from "./civ6-victory-paths";
 import RimWorldDefenseGuide from "./rimworld-defense-layout";
+import RimWorldMoodGuide from "./rimworld-mood-management";
 import FarthestFrontierFarmingGuide from "./farthest-frontier-farming-guide";
 import GoingMedievalCastleGuide from "./going-medieval-castle-guide";
 import FoundationCityLayout from "./foundation-city-layout";
@@ -16,6 +17,7 @@ const REGISTRY: Record<string, GuideComponent> = {
   "civilization-6-district-guide": Civ6DistrictGuide,
   "civilization-6-victory-paths": Civ6VictoryGuide,
   "rimworld-defense-layout": RimWorldDefenseGuide,
+  "rimworld-mood-management": RimWorldMoodGuide,
   "farthest-frontier-farming-guide": FarthestFrontierFarmingGuide,
   "going-medieval-castle-defense": GoingMedievalCastleGuide,
   "foundation-city-layout": FoundationCityLayout,

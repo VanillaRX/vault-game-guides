@@ -46,7 +46,7 @@ export const GAMES: Game[] = [
     headerImage: "https://cdn.cloudflare.steamstatic.com/steam/apps/294100/header.jpg",
     releaseDate: "2018-10-17",
     developer: "Ludeon Studios",
-    guideCount: 1,
+    guideCount: 2,
     featured: true,
   },
   {
@@ -166,6 +166,19 @@ export const GUIDES: Guide[] = [
     tags: ["defense", "killbox", "combat"],
     wordCount: 5600,
     estimatedReadTime: 24,
+    publishDate: "2026-06-06",
+  },
+  {
+    slug: "mood-management",
+    gameSlug: "rimworld",
+    title: "RimWorld: Colony Management & Mood Optimization Guide",
+    description:
+      "Complete mood system reference, room impressiveness math, work priority configurations, colony layout templates, and storyteller-specific strategies for a mental-break-free colony.",
+    category: "walkthrough",
+    difficulty: "medium",
+    tags: ["mood", "management", "layout"],
+    wordCount: 6200,
+    estimatedReadTime: 26,
     publishDate: "2026-06-06",
   },
   // Farthest Frontier
