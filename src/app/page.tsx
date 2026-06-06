@@ -60,7 +60,7 @@ export default function Home() {
 
             {/* Pixel castle animation — desktop only */}
             <div className="mt-12 flex justify-center lg:mt-0 lg:shrink-0">
-              <div className="rounded-2xl border border-[var(--border)] bg-[var(--card)]/50 p-6 backdrop-blur-sm">
+              <div className="p-6">
                 <PixelCastle />
                 <p className="mt-3 text-center font-mono text-[10px] tracking-wider text-[var(--muted)] animate-pulse-pixel">
                   BUILDING...

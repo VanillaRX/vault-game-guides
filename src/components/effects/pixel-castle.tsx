@@ -86,7 +86,7 @@ export function PixelCastle() {
   }, []);
 
   const grid = CASTLE_FRAMES[frame];
-  const pixelSize = 4;
+  const pixelSize = 8;
 
   return (
     <div className="flex flex-col items-center gap-2 select-none">
