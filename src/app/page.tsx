@@ -2,6 +2,8 @@ import Link from "next/link";
 import { GameCard } from "@/components/game/game-card";
 import { GAMES, GUIDES } from "@/lib/data";
 import { ArrowRight, Zap, BookOpen, Target } from "lucide-react";
+import { PixelCastle } from "@/components/effects/pixel-castle";
+import { PixelGears } from "@/components/effects/pixel-gears";
 
 const featuredGames = GAMES.filter((g) => g.featured);
 const latestGuides = GUIDES.sort(
@@ -17,38 +19,53 @@ export default function Home() {
         {/* Background gradient */}
         <div className="absolute inset-0 bg-[radial-gradient(ellipse_at_top_right,rgba(168,85,247,0.08),transparent_50%),radial-gradient(ellipse_at_bottom_left,rgba(34,211,160,0.05),transparent_50%)]" />
         <div className="relative mx-auto max-w-7xl px-4 py-24 sm:px-6 sm:py-32">
-          <div className="max-w-2xl">
-            <p className="animate-fade-in font-mono text-xs tracking-[0.2em] text-[var(--neon)]">
-              NO FLUFF. JUST THE STRATS.
-            </p>
-            <h1 className="mt-4 animate-fade-in font-display text-4xl font-black leading-tight tracking-tight sm:text-5xl lg:text-6xl"
-                style={{ animationDelay: "0.1s" }}>
-              <span className="text-[var(--fg)]">Beat the Game,</span>
-              <br />
-              <span className="bg-gradient-to-r from-[var(--accent)] to-[var(--neon)] bg-clip-text text-transparent">
-                Not the Search Bar
-              </span>
-            </h1>
-            <p className="mt-6 animate-fade-in text-base leading-relaxed text-[var(--muted)] sm:text-lg"
-                style={{ animationDelay: "0.2s" }}>
-              In-depth walkthroughs, builds, and secrets for the indie games
-              you can&apos;t stop thinking about. Written by players who&apos;ve
-              already done the 47-tab shuffle.
-            </p>
-            <div className="mt-8 flex animate-fade-in flex-wrap gap-4"
-                style={{ animationDelay: "0.3s" }}>
-              <Link
-                href="/games"
-                className="inline-flex items-center gap-2 rounded-lg bg-[var(--accent)] px-6 py-3 text-sm font-semibold text-white transition-all hover:bg-[var(--accent)]/80 hover:shadow-[0_0_25px_rgba(168,85,247,0.4)]"
-              >
-                Browse Games <ArrowRight size={16} />
-              </Link>
-              <Link
-                href="/guides"
-                className="inline-flex items-center gap-2 rounded-lg border border-[var(--border)] px-6 py-3 text-sm font-semibold text-[var(--fg)]/80 transition-all hover:border-[var(--accent)] hover:text-[var(--accent)]"
-              >
-                Latest Guides
-              </Link>
+          <div className="flex flex-col lg:flex-row lg:items-center lg:justify-between lg:gap-12">
+            <div className="max-w-2xl">
+              <div className="flex items-center gap-3">
+                <PixelGears />
+                <p className="animate-fade-in font-mono text-xs tracking-[0.2em] text-[var(--neon)]">
+                  NO FLUFF. JUST THE STRATS.
+                </p>
+              </div>
+              <h1 className="mt-4 animate-fade-in font-display text-4xl font-black leading-tight tracking-tight sm:text-5xl lg:text-6xl"
+                  style={{ animationDelay: "0.1s" }}>
+                <span className="text-[var(--fg)]">Master the</span>
+                <br />
+                <span className="bg-gradient-to-r from-[var(--accent)] to-[var(--neon)] bg-clip-text text-transparent">
+                  Production Chain
+                </span>
+              </h1>
+              <p className="mt-6 animate-fade-in text-base leading-relaxed text-[var(--muted)] sm:text-lg"
+                  style={{ animationDelay: "0.2s" }}>
+                In-depth production layouts, district adjacency guides, defense
+                strategies, and optimization walkthroughs for strategy, city-builder,
+                and colony sim games.
+              </p>
+              <div className="mt-8 flex animate-fade-in flex-wrap gap-4"
+                  style={{ animationDelay: "0.3s" }}>
+                <Link
+                  href="/games"
+                  className="inline-flex items-center gap-2 rounded-lg bg-[var(--accent)] px-6 py-3 text-sm font-semibold text-white transition-all hover:bg-[var(--accent)]/80 hover:shadow-[0_0_25px_rgba(168,85,247,0.4)]"
+                >
+                  Browse Games <ArrowRight size={16} />
+                </Link>
+                <Link
+                  href="/guides"
+                  className="inline-flex items-center gap-2 rounded-lg border border-[var(--border)] px-6 py-3 text-sm font-semibold text-[var(--fg)]/80 transition-all hover:border-[var(--accent)] hover:text-[var(--accent)]"
+                >
+                  Latest Guides
+                </Link>
+              </div>
+            </div>
+
+            {/* Pixel castle animation — desktop only */}
+            <div className="mt-12 flex justify-center lg:mt-0 lg:shrink-0">
+              <div className="rounded-2xl border border-[var(--border)] bg-[var(--card)]/50 p-6 backdrop-blur-sm">
+                <PixelCastle />
+                <p className="mt-3 text-center font-mono text-[10px] tracking-wider text-[var(--muted)] animate-pulse-pixel">
+                  BUILDING...
+                </p>
+              </div>
             </div>
           </div>
         </div>
