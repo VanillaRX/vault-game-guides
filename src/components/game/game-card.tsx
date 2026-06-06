@@ -2,11 +2,14 @@
 
 import Link from "next/link";
 import { useLang } from "@/components/layout/lang-context";
+import { Bilingual } from "@/components/layout/bilingual";
 
 interface GameCardProps {
   slug: string;
   title: string;
+  zhTitle: string;
   description: string;
+  zhDescription: string;
   coverImage: string;
   genres: string[];
   guideCount: number;
@@ -16,7 +19,9 @@ interface GameCardProps {
 export function GameCard({
   slug,
   title,
+  zhTitle,
   description,
+  zhDescription,
   coverImage,
   genres,
   guideCount,
@@ -53,17 +58,17 @@ export function GameCard({
         {/* Content */}
         <div className="p-4">
           <h3 className="font-display text-sm font-bold tracking-wide text-[var(--fg)] group-hover:text-[var(--neon)] transition-colors">
-            {title}
+            <Bilingual en={title} zh={zhTitle} />
           </h3>
           <p className="mt-1.5 line-clamp-2 text-xs leading-relaxed text-[var(--muted)]">
-            {description}
+            <Bilingual en={description} zh={zhDescription} />
           </p>
           <div className="mt-3 flex items-center justify-between">
             <span className="text-[11px] text-[var(--muted)]/70">
               {guideCount} {t("game.guides")}
             </span>
             <span className="text-[11px] font-medium text-[var(--accent)] opacity-0 transition-opacity group-hover:opacity-100">
-              Browse &rarr;
+              {t("game.browse")} &rarr;
             </span>
           </div>
         </div>

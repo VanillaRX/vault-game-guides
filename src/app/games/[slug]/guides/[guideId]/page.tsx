@@ -4,6 +4,7 @@ import type { Metadata } from "next";
 import { GAMES, GUIDES } from "@/lib/data";
 import { getGuideComponent } from "@/content/guides/registry";
 import { Suspense } from "react";
+import { Bilingual } from "@/components/layout/bilingual";
 import {
   GuideCategoryLabel,
   GuideDifficultyLabel,
@@ -94,10 +95,10 @@ export default async function GuidePage({ params }: Props) {
               </span>
             </div>
             <h1 className="mt-4 font-display text-2xl font-bold leading-tight tracking-tight sm:text-3xl">
-              {guide.title}
+              <Bilingual en={guide.title} zh={guide.zhTitle} />
             </h1>
             <p className="mt-3 text-sm leading-relaxed text-[var(--muted)]">
-              {guide.description}
+              <Bilingual en={guide.description} zh={guide.zhDescription} />
             </p>
             <div className="mt-4 flex items-center gap-5 text-xs text-[var(--muted)]/60">
               <span>{guide.estimatedReadTime} min read</span>
@@ -109,7 +110,7 @@ export default async function GuidePage({ params }: Props) {
                 href={`/games/${slug}`}
                 className="mt-3 inline-flex items-center gap-1.5 text-xs font-medium text-[var(--accent)] hover:underline"
               >
-                More {game.title} guides &rarr;
+                <Suspense><Bilingual en={`More ${game.title} guides →`} zh={`更多${game.zhTitle}攻略 →`} /></Suspense>
               </Link>
             )}
           </header>

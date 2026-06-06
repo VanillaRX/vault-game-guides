@@ -6,6 +6,7 @@ import { ArrowRight, Clock, Users, Star, Swords } from "lucide-react";
 import { SteamStats } from "@/components/game/steam-stats";
 import { Suspense } from "react";
 import { UseT } from "@/components/guide/guide-chrome";
+import { Bilingual } from "@/components/layout/bilingual";
 
 interface Props {
   params: Promise<{ slug: string }>;
@@ -60,10 +61,10 @@ export default async function GamePage({ params }: Props) {
               ))}
             </div>
             <h1 className="mt-4 font-display text-3xl font-black tracking-tight sm:text-4xl">
-              {game.title}
+              <Bilingual en={game.title} zh={game.zhTitle} />
             </h1>
             <p className="mt-4 text-sm leading-relaxed text-[var(--muted)]">
-              {game.description}
+              <Bilingual en={game.description} zh={game.zhDescription} />
             </p>
             <div className="mt-4">
               <SteamStats appId={game.steamAppId} />
@@ -107,10 +108,10 @@ export default async function GamePage({ params }: Props) {
                 </span>
               </div>
               <h3 className="mt-3 font-semibold leading-snug group-hover:text-[var(--neon)] transition-colors">
-                {guide.title}
+                <Bilingual en={guide.title} zh={guide.zhTitle} />
               </h3>
               <p className="mt-1.5 line-clamp-2 text-xs text-[var(--muted)]">
-                {guide.description}
+                <Bilingual en={guide.description} zh={guide.zhDescription} />
               </p>
               <div className="mt-3 flex items-center gap-4 text-[10px] text-[var(--muted)]/60">
                 <span>{guide.estimatedReadTime} min read</span>
