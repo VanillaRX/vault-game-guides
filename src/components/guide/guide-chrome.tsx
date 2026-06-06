@@ -118,7 +118,7 @@ export function GuideTrans({ en }: { en: string }) {
     "Troop Composition & Management": "部队编制与管理",
     "Disease Control & Sanitation": "疾病控制与卫生",
     "Population Tiers: The Foundation": "人口等级：基础",
-    "The 7 Deadly Beginner Mistakes": "新手最要命的7个错误",
+    "The 7 Deadly Beginner Mistakes": "新手要注意的7个点",
     "The New World: Your First Expedition": "新世界：第一次远征",
     "Understanding the Meta-Progression": "理解元进程系统",
     "Room Choice Priority": "房间选择优先级",
