@@ -1,4 +1,5 @@
 import { GuideTrans } from "@/components/guide/guide-chrome";
+import { GuideText } from "@/components/guide/guide-text";
 import { Callout } from "@/components/guide/callout";
 import { GAMES } from "@/lib/data";
 
