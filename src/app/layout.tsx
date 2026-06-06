@@ -22,6 +22,9 @@ const jetbrainsMono = JetBrains_Mono({
 });
 
 export const metadata: Metadata = {
+  verification: {
+    google: "6xrjY2M3T1Q-1KVtiMvSmCS3HVsLZR51fCGKDw7C6Uw",
+  },
   title: {
     default: "Vault Guides — Strategy & Management Game Walkthroughs",
     template: "%s | Vault Guides",
