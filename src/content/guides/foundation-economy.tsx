@@ -12,10 +12,8 @@ export default function FoundationEconomy() {
 
       <div className="rounded-xl border border-[var(--border)] bg-[var(--card)]/50 p-6">
         <p className="text-sm leading-relaxed text-[var(--fg)]/90">
-          Foundation&apos;s economy runs on a tax-and-trade system where villager promotion drives everything. A serf pays
-          1 gold/month. A citizen pays 25 gold/month and consumes luxury goods that fuel advanced industries. This guide
-          covers the complete villaer promotion pipeline, trade route mastery, monument ROI optimization, and
-          economic scaling from village treasury to medieval financial powerhouse.
+          <GuideText en="Foundation's economy runs on a tax-and-trade system where villager promotion drives everything. A serf pays 1 gold/month. A citizen pays 25 gold/month and consumes luxury goods that fuel advanced industries. This guide covers the complete villager promotion pipeline, trade route mastery, monument ROI optimization, and economic scaling from village treasury to medieval financial powerhouse."
+            zh="《Foundation》的经济建立在税收与贸易体系之上，居民晋升是核心驱动力。一个农奴每月交 1 金币，一个市民每月交 25 金币，同时消费推动高级产业的奢侈品。本指南涵盖完整的居民晋升路径、贸易路线精通、纪念碑投资回报优化，以及从小村金库到中世纪金融巨头的经济扩张策略。" />
         </p>
       </div>
 

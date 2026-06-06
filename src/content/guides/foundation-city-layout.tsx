@@ -12,10 +12,8 @@ export default function FoundationCityLayout() {
 
       <div className="rounded-xl border border-[var(--border)] bg-[var(--card)]/50 p-6">
         <p className="text-sm leading-relaxed text-[var(--fg)]/90">
-          Foundation is a gridless, organic city-builder where villagers build their own paths and houses. Traditional
-          grid-based planning <b>does not work here</b>. Instead, you paint zones, manage supply chains, and let the city
-          grow organically. This guide covers zone planning, production chains, monument building, and the trade economy
-          that turns a village into a thriving medieval city.
+          <GuideText en="Foundation is a gridless, organic city-builder where villagers build their own paths and houses. Traditional grid-based planning <b>does not work here</b>. Instead, you paint zones, manage supply chains, and let the city grow organically. This guide covers zone planning, production chains, monument building, and the trade economy that turns a village into a thriving medieval city."
+            zh="《Foundation》是一款无网格的有机城市建造游戏——村民自己修路盖房。传统的网格规划 <b>在这没用</b>。你要做的是划定功能区域、管理供应链，让城市自然生长。本指南涵盖区域规划、产业链、纪念碑建造和贸易经济，帮你的小村庄成长为繁华的中世纪城市。" />
         </p>
       </div>
 

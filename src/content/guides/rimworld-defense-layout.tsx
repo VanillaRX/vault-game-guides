@@ -12,9 +12,8 @@ export default function RimWorldDefenseGuide() {
 
       <div className="rounded-xl border border-[var(--border)] bg-[var(--card)]/50 p-6">
         <p className="text-sm leading-relaxed text-[var(--fg)]/90">
-          On the rim, your colony lives or dies by its defenses. A single breach raid can end a 50-hour colony in minutes.
-          This guide covers every killbox design, cover mechanics, sapper-proofing, turret placement, and storyteller-specific
-          defense strategies for Cassandra, Phoebe, and Randy.
+          <GuideText en="On the rim, your colony lives or dies by its defenses. A single breach raid can end a 50-hour colony in minutes. This guide covers every killbox design, cover mechanics, sapper-proofing, turret placement, and storyteller-specific defense strategies for Cassandra, Phoebe, and Randy."
+            zh="在边缘世界，殖民地的生死取决于防御工事。一次破墙袭击能在几分钟内终结你玩了50小时的殖民地。本指南涵盖所有杀阵 (killbox) 设计、掩体机制、防工兵策略、炮塔摆放，以及针对卡桑德拉、菲比、兰迪三位叙事者的防御对策。" />
         </p>
       </div>
 

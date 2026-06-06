@@ -12,10 +12,8 @@ export default function GoingMedievalProduction() {
 
       <div className="rounded-xl border border-[var(--border)] bg-[var(--card)]/50 p-6">
         <p className="text-sm leading-relaxed text-[var(--fg)]/90">
-          Going Medieval&apos;s production system spans raw resource gathering, intermediate crafting, and high-tier
-          manufacturing spread across multiple Z-levels. A disorganized production chain means settlers walking
-          200 tiles to grab one log. This guide covers the complete production tree, settler specialization,
-          research priorities, and underground storage optimization.
+          <GuideText en="Going Medieval's production system spans raw resource gathering, intermediate crafting, and high-tier manufacturing spread across multiple Z-levels. A disorganized production chain means settlers walking 200 tiles to grab one log. This guide covers the complete production tree, settler specialization, research priorities, and underground storage optimization."
+            zh="《前往中世纪》的生产体系横跨多个 Z 轴层级的原材料采集、半成品加工和高级制造。一条混乱的生产链意味着居民要跑 200 格去拿一根原木。本指南涵盖完整的生产树、居民专精、科研优先路径和地下仓储优化。" />
         </p>
       </div>
 

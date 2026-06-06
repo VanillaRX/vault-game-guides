@@ -12,10 +12,8 @@ export default function RimWorldMoodManagement() {
 
       <div className="rounded-xl border border-[var(--border)] bg-[var(--card)]/50 p-6">
         <p className="text-sm leading-relaxed text-[var(--fg)]/90">
-          Mood management is the hidden difficulty slider of RimWorld. A colony with poor mood collapses from the inside —
-          mental breaks cascade, colonists refuse to work, and your best crafter punches the antigrain warhead. This guide
-          covers the complete mood system, room optimization for beauty and impressiveness, work priority configurations,
-          and colony layout for maximum efficiency across all three storytellers.
+          <GuideText en="Mood management is the hidden difficulty slider of RimWorld. A colony with poor mood collapses from the inside — mental breaks cascade, colonists refuse to work, and your best crafter punches the antigrain warhead. This guide covers the complete mood system, room optimization for beauty and impressiveness, work priority configurations, and colony layout for maximum efficiency across all three storytellers."
+            zh="心情管理是《边缘世界》隐藏的难度调节器。心情差的殖民地会从内部崩溃——精神连锁崩溃、殖民者罢工、你最好的工匠一拳打爆反物质弹头。本指南涵盖完整的心情系统、房间美观度与豪华度优化、工作优先级配置，以及三大叙事者下的殖民地布局效率最大化。" />
         </p>
       </div>
 

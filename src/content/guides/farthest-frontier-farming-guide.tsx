@@ -12,9 +12,8 @@ export default function FarthestFrontierFarmingGuide() {
 
       <div className="rounded-xl border border-[var(--border)] bg-[var(--card)]/50 p-6">
         <p className="text-sm leading-relaxed text-[var(--fg)]/90">
-          Food is the #1 cause of colony collapse in Farthest Frontier. A single bad harvest without backup stores means starvation
-          by winter. This guide covers crop rotation for maximum yield, soil fertility management, livestock optimization, food
-          preservation, and the exact production chains to keep your colony fed through the harshest winters.
+          <GuideText en="Food is the #1 cause of colony collapse in Farthest Frontier. A single bad harvest without backup stores means starvation by winter. This guide covers crop rotation for maximum yield, soil fertility management, livestock optimization, food preservation, and the exact production chains to keep your colony fed through the harshest winters."
+            zh="粮食短缺是《最远的边陲》殖民地崩溃的第一大原因。一次歉收加上没有储备粮，冬天就只能等着饿死。本指南涵盖最大化产量的轮作方案、土壤肥力管理、畜牧业优化、食物保存，以及确保殖民地熬过最严酷冬天的精确产业链配置。" />
         </p>
       </div>
 

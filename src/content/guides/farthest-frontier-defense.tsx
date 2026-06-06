@@ -12,10 +12,8 @@ export default function FarthestFrontierDefense() {
 
       <div className="rounded-xl border border-[var(--border)] bg-[var(--card)]/50 p-6">
         <p className="text-sm leading-relaxed text-[var(--fg)]/90">
-          Raiders in Farthest Frontier scale with your population and wealth. A 200-pop town with gold vaults attracts
-          raids of 40+ raiders with battering rams. Without proper walls, towers, and troop management, your colony
-          falls in minutes. This guide covers wall engineering, tower placement, troop management, disease control,
-          and the complete defense progression from wooden palisades to stone fortresses.
+          <GuideText en="Raiders in Farthest Frontier scale with your population and wealth. A 200-pop town with gold vaults attracts raids of 40+ raiders with battering rams. Without proper walls, towers, and troop management, your colony falls in minutes. This guide covers wall engineering, tower placement, troop management, disease control, and the complete defense progression from wooden palisades to stone fortresses."
+            zh="《最远的边陲》的掠夺者强度随人口和财富增长。一个200人口、有金库的城镇会招来40多个带着攻城槌的掠夺者。没有像样的城墙、箭塔和部队管理，殖民地几分钟就会被踏平。本指南涵盖城墙工程、箭塔摆放、部队管理、疾病控制，以及从木栅栏到石头要塞的完整防御升级路径。" />
         </p>
       </div>
 

@@ -12,9 +12,8 @@ export default function Civ6VictoryGuide() {
 
       <div className="rounded-xl border border-[var(--border)] bg-[var(--card)]/50 p-6">
         <p className="text-sm leading-relaxed text-[var(--fg)]/90">
-          Every Civ 6 leader has a built-in victory preference — but knowing which victory to pivot to based on your map, neighbors,
-          and era is what separates Prince from Deity players. This guide covers optimal victory paths for each leader, policy priorities,
-          and the exact tech/civic beelines for all five victory types.
+          <GuideText en="Every Civ 6 leader has a built-in victory preference — but knowing which victory to pivot to based on your map, neighbors, and era is what separates Prince from Deity players. This guide covers optimal victory paths for each leader, policy priorities, and the exact tech/civic beelines for all five victory types."
+            zh="每个《文明VI》的领袖都有预设的胜利倾向——但真正区分王子难度和神级难度的，是你能根据地图、邻居和时代来判断该转向哪种胜利。本指南涵盖每个领袖的最优胜利路线、各时代政策卡优先级，以及五种胜利类型的精确科技/文化冲线路径。" />
         </p>
       </div>
 

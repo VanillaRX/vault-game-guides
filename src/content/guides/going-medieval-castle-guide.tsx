@@ -12,9 +12,8 @@ export default function GoingMedievalCastleGuide() {
 
       <div className="rounded-xl border border-[var(--border)] bg-[var(--card)]/50 p-6">
         <p className="text-sm leading-relaxed text-[var(--fg)]/90">
-          Your castle is your colony&apos;s last line of defense. A well-designed fortress turns a 20-man raid into target practice.
-          A poorly designed one turns your settlers into loot. This guide covers layered defense design, material engineering,
-          settler mood management, and winter survival — everything you need to survive and thrive in a post-Calamity medieval world.
+          <GuideText en="Your castle is your colony's last line of defense. A well-designed fortress turns a 20-man raid into target practice. A poorly designed one turns your settlers into loot. This guide covers layered defense design, material engineering, settler mood management, and winter survival — everything you need to survive and thrive in a post-Calamity medieval world."
+            zh="城堡是殖民地最后一道防线。设计得当的要塞能让20人的袭击变成活靶子练习，设计不当的会让你的居民变成战利品。本指南涵盖分层防御设计、材料工程、居民心情管理和冬季生存——在天灾之后的中世纪世界里活下去并发展壮大所需的一切。" />
         </p>
       </div>
 

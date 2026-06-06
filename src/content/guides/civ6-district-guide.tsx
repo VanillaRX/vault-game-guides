@@ -12,10 +12,8 @@ export default function Civ6DistrictGuide() {
 
       <div className="rounded-xl border border-[var(--border)] bg-[var(--card)]/50 p-6">
         <p className="text-sm leading-relaxed text-[var(--fg)]/90">
-          District placement is the most important skill in Civilization VI. Every district generates yields based on
-          <b>adjacent terrain, features, and other districts</b>. A +4 Campus doubles to +8 with the right policy card. A +6
-          Industrial Zone becomes +12 and then radiates that production to every city within 6 tiles through the
-          Factory and Power Plant. This is the complete reference for every district&apos;s adjacency math.
+          <GuideText en="District placement is the most important skill in Civilization VI. Every district generates yields based on <b>adjacent terrain, features, and other districts</b>. A +4 Campus doubles to +8 with the right policy card. A +6 Industrial Zone becomes +12 and then radiates that production to every city within 6 tiles through the Factory and Power Plant. This is the complete reference for every district's adjacency math."
+            zh="区域规划是《文明VI》最重要的技能。每个区域根据 <b>相邻的地形、地貌和其他区域</b> 产生加成。一个 +4 的学院区配上正确的政策卡能翻到 +8。一个 +6 的工业区能变 +12，然后通过工厂和发电站把生产力辐射给 6 格范围内的每一座城市。这是每个区域相邻加成的完整数学参考。" />
         </p>
       </div>
 

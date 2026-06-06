@@ -12,9 +12,8 @@ export default function Anno1800ProductionGuide() {
 
       <div className="rounded-xl border border-[var(--border)] bg-[var(--card)]/50 p-6">
         <p className="text-sm leading-relaxed text-[var(--fg)]/90">
-          This is the <b>complete production chain reference</b> for Anno 1800. Every chain across all 5 population tiers,
-          all 4 regions (Old World, New World, Arctic, Enbesa), with <b>verified optimal ratios</b>, warehouse math, Trade Union
-          item effects, and electricity optimization. All ratios assume 100% productivity unless otherwise noted.
+          <GuideText en="This is the <b>complete production chain reference</b> for Anno 1800. Every chain across all 5 population tiers, all 4 regions (Old World, New World, Arctic, Enbesa), with <b>verified optimal ratios</b>, warehouse math, Trade Union item effects, and electricity optimization. All ratios assume 100% productivity unless otherwise noted."
+            zh="这是《纪元1800》的 <b>完整产业链参考手册</b>。涵盖全部 5 个居民等级、4 个区域（旧世界、新世界、北极、安贝沙）的每一条产业链，包含 <b>验证过的最优比例</b>、仓库数学、工会物品效果和电力优化。所有比例基于 100% 生产力，除非另有说明。" />
         </p>
       </div>
 
