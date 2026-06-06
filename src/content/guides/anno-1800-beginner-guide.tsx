@@ -80,7 +80,7 @@ export default function Anno1800BeginnerGuide() {
               <span className="flex h-6 w-6 items-center justify-center rounded-full bg-red-500/20 text-xs font-bold text-red-400">{item.n}</span>
               <div>
                 <b className="text-sm"><GuideText en={item.en_title} zh={item.zh_title} /></b>
-                <p className="mt-1 text-xs leading-relaxed text-[var(--muted)]" dangerouslySetInnerHTML={{ __html: item.en_desc }} />
+                <p className="mt-1 text-xs leading-relaxed text-[var(--muted)]"><GuideText en={item.en_desc} zh={item.zh_desc} /></p>
               </div>
             </div>
           ))}
@@ -100,7 +100,7 @@ export default function Anno1800BeginnerGuide() {
               <div className="text-xl">{item.en_item.split(" ")[0]}</div>
               <div>
                 <b className="text-sm"><GuideText en={item.en_item} zh={item.zh_item} /></b>
-                <p className="mt-1 text-xs leading-relaxed text-[var(--muted)]">{item.en_action}</p>
+                <p className="mt-1 text-xs leading-relaxed text-[var(--muted)]"><GuideText en={item.en_action} zh={item.zh_action} /></p>
               </div>
             </div>
           ))}

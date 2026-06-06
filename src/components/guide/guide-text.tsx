@@ -2,11 +2,11 @@
 
 import { useLang } from "@/components/layout/lang-context";
 
-/** Renders text: in EN mode shows as-is; in ZH mode translates common phrases and annotates game terms. */
+/** Renders text: in EN mode shows as-is; in ZH mode translates. Supports HTML content via dangerouslySetInnerHTML. */
 export function GuideText({ en, zh }: { en: string; zh?: string }) {
   const { lang } = useLang();
-  if (lang !== "zh") return <>{en}</>;
-  if (zh) return <>{zh}</>;
+  if (lang !== "zh") return <span dangerouslySetInnerHTML={{ __html: en }} />;
+  if (zh) return <span dangerouslySetInnerHTML={{ __html: zh }} />;
 
   // Auto-translate using the term dictionary for inline annotations
   return <>{translateInline(en)}</>;
