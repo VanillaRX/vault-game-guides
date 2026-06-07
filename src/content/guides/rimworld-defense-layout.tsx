@@ -41,7 +41,8 @@ export default function RimWorldDefenseGuide() {
           </table>
         </div>
 
-        <Callout type="strategy" title="The Wall-Sandbag Meta">
+        <Callout type="strategy" title="The Wall-Sandbag Meta"
+          zh="建造模式：<b>墙 — 沙袋 — 墙 — 沙袋 — 墙...</b> 殖民者站在 <b>墙后面</b>，从墙角探头射击。墙旁边的沙袋提供乘法叠加掩体。总计：75%（墙）+ 剩余25%的57%（沙袋）= <b>83%有效掩体</b>。这是边缘世界能达到的最高掩体值。">
           Build pattern: <b>Wall — Sandbag — Wall — Sandbag — Wall...</b> Colonists stand <b>behind the wall</b>, peeking around the corner. The sandbag adjacent to the wall stacks cover multiplicatively. Total: 75% (wall) + 57% of remaining 25% (sandbag) = <b>83% effective cover</b>. This is the highest achievable cover in RimWorld.
         </Callout>
       </section>

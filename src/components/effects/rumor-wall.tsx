@@ -26,8 +26,9 @@ const SECRETS: { en: string; zh: string }[] = [
   { en: "RimWorld human leather sofa: 3× price to certain factions. Not a bug — Tynan coded it deliberately.", zh: "边缘世界人皮沙发在特定派系卖3倍。不是bug——Tynan故意写的。" },
 ];
 
-const S = 16; // 16×16 dirt block
-const PX = 14; // pixels per "block pixel" — big
+const W = 36; // wide!
+const H = 10; // shorter
+const PX = 12; // pixel size
 
 // Minecraft dirt / grass block colors
 const DIRT_PALETTE = [
@@ -44,8 +45,8 @@ function pixelColor(row: number, col: number): string {
 
 function buildPixels() {
   const ps: { col: number; row: number; color: string; dead: boolean }[] = [];
-  for (let r = 0; r < S; r++)
-    for (let c = 0; c < S; c++)
+  for (let r = 0; r < H; r++)
+    for (let c = 0; c < W; c++)
       ps.push({ col: c, row: r, color: pixelColor(r, c), dead: false });
   return ps;
 }
@@ -78,10 +79,10 @@ export function RumorWall() {
       while (q.length && targets.size < killCount) {
         const [x, y] = q.shift()!;
         for (const [nx, ny] of [[x-1,y],[x+1,y],[x,y-1],[x,y+1]]) {
-          if (nx < 0 || nx >= S || ny < 0 || ny >= S) continue;
+          if (nx < 0 || nx >= W || ny < 0 || ny >= H) continue;
           const k = `${nx},${ny}`;
           if (targets.has(k)) continue;
-          if (prev[nx + ny * S].dead) continue;
+          if (prev[nx + ny * W].dead) continue;
           if (Math.random() < 0.5) {
             targets.add(k);
             q.push([nx, ny]);
@@ -98,7 +99,7 @@ export function RumorWall() {
   return (
     <div className="select-none">
       <div className="relative overflow-hidden rounded-xl border border-[var(--border)] bg-[var(--card)]/60"
-           style={{ minHeight: S * PX + 40 + 60 }}>
+           style={{ minHeight: H * PX + 40 + 60 }}>
         <div className="absolute inset-0 flex items-center justify-center p-4 z-0">
           <p className={`text-center text-xs leading-relaxed transition-all duration-500 max-w-md ${
             allDead ? "text-[var(--fg)]/90 opacity-100 scale-100" : "text-[var(--neon)] opacity-15 scale-90"
@@ -110,7 +111,7 @@ export function RumorWall() {
         <div className={`absolute inset-0 flex items-center justify-center z-10 ${allDead ? "opacity-0 pointer-events-none transition-opacity duration-500" : ""}`}>
           <button onClick={click}
             className="relative cursor-pointer active:scale-[0.98] transition-transform"
-            style={{ width: S * PX, height: S * PX }}>
+            style={{ width: W * PX, height: H * PX }}>
             {/* 3D shadow edge on right and bottom */}
             <div className="absolute -right-2 top-0 bottom-0 w-2 bg-[#3D2B1F]/40 rounded-r-sm" />
             <div className="absolute -bottom-2 left-0 right-2 h-2 bg-[#3D2B1F]/40 rounded-b-sm" />
@@ -134,7 +135,7 @@ export function RumorWall() {
       <p className="mt-2 text-center font-mono text-[10px] tracking-wider text-[var(--muted)]">
         {allDead
           ? (lang === "zh" ? "全碎啦 💥" : "Gone! 💥")
-          : (lang === "zh" ? `还剩 ${Math.round(pixels.filter(p=>!p.dead).length/(S*S)*100)}% · 第 ${clicks} 下` : `${Math.round(pixels.filter(p=>!p.dead).length/(S*S)*100)}% · ${clicks} taps`)
+          : (lang === "zh" ? `还剩 ${Math.round(pixels.filter(p=>!p.dead).length/(W*H)*100)}% · 第 ${clicks} 下` : `${Math.round(pixels.filter(p=>!p.dead).length/(W*H)*100)}% · ${clicks} taps`)
         }
       </p>
     </div>

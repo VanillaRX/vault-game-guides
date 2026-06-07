@@ -30,14 +30,23 @@ const config: Record<CalloutType, { icon: typeof AlertTriangle; border: string; 
   },
 };
 
+"use client";
+
+import { useLang } from "@/components/layout/lang-context";
+
 interface CalloutProps {
   type: CalloutType;
   title?: React.ReactNode;
   children: React.ReactNode;
+  zh?: React.ReactNode;
 }
 
-export function Callout({ type, title, children }: CalloutProps) {
+export function Callout({ type, title, children, zh }: CalloutProps) {
+  const { lang } = useLang();
   const { icon: Icon, border, bg } = config[type];
+
+  const body = lang === "zh" && zh ? zh : children;
+
   return (
     <div className={`my-5 rounded-xl border ${border} ${bg} p-4`}>
       <div className="flex items-start gap-3">
@@ -49,7 +58,7 @@ export function Callout({ type, title, children }: CalloutProps) {
             </p>
           )}
           <div className="text-sm leading-relaxed text-[var(--fg)]/80 [&_b]:text-[var(--fg)]">
-            {children}
+            {body}
           </div>
         </div>
       </div>
