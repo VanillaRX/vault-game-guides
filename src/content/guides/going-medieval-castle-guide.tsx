@@ -48,10 +48,10 @@ export default function GoingMedievalCastleGuide() {
           <table className="w-full text-xs">
             <thead>
               <tr className="border-b border-[var(--border)] bg-[var(--card)]/50">
-                <th className="px-3 py-2 text-left font-semibold text-[var(--fg)]">Material</th>
-                <th className="px-3 py-2 text-left font-semibold text-[var(--fg)]">HP</th>
-                <th className="px-3 py-2 text-left font-semibold text-[var(--fg)]">Build Time</th>
-                <th className="px-3 py-2 text-left font-semibold text-[var(--fg)]">Best For</th>
+                <th className="px-3 py-2 text-left font-semibold text-[var(--fg)]"><GuideTrans en="Material" /></th>
+                <th className="px-3 py-2 text-left font-semibold text-[var(--fg)]"><GuideTrans en="HP" /></th>
+                <th className="px-3 py-2 text-left font-semibold text-[var(--fg)]"><GuideTrans en="Build Time" /></th>
+                <th className="px-3 py-2 text-left font-semibold text-[var(--fg)]"><GuideTrans en="Best For" /></th>
               </tr>
             </thead>
             <tbody className="divide-y divide-[var(--border)]">
@@ -77,10 +77,10 @@ export default function GoingMedievalCastleGuide() {
           <table className="w-full text-xs">
             <thead>
               <tr className="border-b border-[var(--border)] bg-[var(--card)]/50">
-                <th className="px-3 py-2 text-left font-semibold text-[var(--fg)]">Need</th>
-                <th className="px-3 py-2 text-left font-semibold text-[var(--fg)]">Mood Impact</th>
-                <th className="px-3 py-2 text-left font-semibold text-[var(--fg)]">How to Satisfy</th>
-                <th className="px-3 py-2 text-left font-semibold text-[var(--fg)]">Critical?</th>
+                <th className="px-3 py-2 text-left font-semibold text-[var(--fg)]"><GuideTrans en="Need" /></th>
+                <th className="px-3 py-2 text-left font-semibold text-[var(--fg)]"><GuideTrans en="Mood Impact" /></th>
+                <th className="px-3 py-2 text-left font-semibold text-[var(--fg)]"><GuideTrans en="How to Satisfy" /></th>
+                <th className="px-3 py-2 text-left font-semibold text-[var(--fg)]"><GuideTrans en="Critical?" /></th>
               </tr>
             </thead>
             <tbody className="divide-y divide-[var(--border)]">

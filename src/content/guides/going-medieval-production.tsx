@@ -24,10 +24,10 @@ export default function GoingMedievalProduction() {
           <table className="w-full text-xs">
             <thead>
               <tr className="border-b border-[var(--border)] bg-[var(--card)]/50">
-                <th className="px-3 py-2 text-left font-semibold text-[var(--fg)]">End Product</th>
-                <th className="px-3 py-2 text-left font-semibold text-[var(--fg)]">Raw → Intermediate → Final</th>
-                <th className="px-3 py-2 text-left font-semibold text-[var(--fg)]">Required Skill</th>
-                <th className="px-3 py-2 text-left font-semibold text-[var(--fg)]">Research Tier</th>
+                <th className="px-3 py-2 text-left font-semibold text-[var(--fg)]"><GuideTrans en="End Product" /></th>
+                <th className="px-3 py-2 text-left font-semibold text-[var(--fg)]"><GuideTrans en="Raw → Intermediate → Final" /></th>
+                <th className="px-3 py-2 text-left font-semibold text-[var(--fg)]"><GuideTrans en="Required Skill" /></th>
+                <th className="px-3 py-2 text-left font-semibold text-[var(--fg)]"><GuideTrans en="Research Tier" /></th>
               </tr>
             </thead>
             <tbody className="divide-y divide-[var(--border)]">
@@ -60,10 +60,10 @@ export default function GoingMedievalProduction() {
           <table className="w-full text-xs">
             <thead>
               <tr className="border-b border-[var(--border)] bg-[var(--card)]/50">
-                <th className="px-3 py-2 text-left font-semibold text-[var(--fg)]">Role</th>
-                <th className="px-3 py-2 text-left font-semibold text-[var(--fg)]">Primary Skills (Starred)</th>
-                <th className="px-3 py-2 text-left font-semibold text-[var(--fg)]">Schedule</th>
-                <th className="px-3 py-2 text-left font-semibold text-[var(--fg)]">Colonists Needed (10-pop colony)</th>
+                <th className="px-3 py-2 text-left font-semibold text-[var(--fg)]"><GuideTrans en="Role" /></th>
+                <th className="px-3 py-2 text-left font-semibold text-[var(--fg)]"><GuideTrans en="Primary Skills (Starred)" /></th>
+                <th className="px-3 py-2 text-left font-semibold text-[var(--fg)]"><GuideTrans en="Schedule" /></th>
+                <th className="px-3 py-2 text-left font-semibold text-[var(--fg)]"><GuideTrans en="Colonists Needed (10-pop colony)" /></th>
               </tr>
             </thead>
             <tbody className="divide-y divide-[var(--border)]">

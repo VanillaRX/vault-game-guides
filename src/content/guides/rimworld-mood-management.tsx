@@ -26,10 +26,10 @@ export default function RimWorldMoodManagement() {
           <table className="w-full text-xs">
             <thead>
               <tr className="border-b border-[var(--border)] bg-[var(--card)]/50">
-                <th className="px-3 py-2 text-left font-semibold text-[var(--fg)]">Thought</th>
-                <th className="px-3 py-2 text-left font-semibold text-[var(--fg)]">Mood Effect</th>
-                <th className="px-3 py-2 text-left font-semibold text-[var(--fg)]">Duration</th>
-                <th className="px-3 py-2 text-left font-semibold text-[var(--fg)]">How to Get / Counter</th>
+                <th className="px-3 py-2 text-left font-semibold text-[var(--fg)]"><GuideTrans en="Thought" /></th>
+                <th className="px-3 py-2 text-left font-semibold text-[var(--fg)]"><GuideTrans en="Mood Effect" /></th>
+                <th className="px-3 py-2 text-left font-semibold text-[var(--fg)]"><GuideTrans en="Duration" /></th>
+                <th className="px-3 py-2 text-left font-semibold text-[var(--fg)]"><GuideTrans en="How to Get / Counter" /></th>
               </tr>
             </thead>
             <tbody className="divide-y divide-[var(--border)]">
@@ -69,10 +69,10 @@ export default function RimWorldMoodManagement() {
           <table className="w-full text-xs">
             <thead>
               <tr className="border-b border-[var(--border)] bg-[var(--card)]/50">
-                <th className="px-3 py-2 text-left font-semibold text-[var(--fg)]">Room Type</th>
-                <th className="px-3 py-2 text-left font-semibold text-[var(--fg)]">Minimum Size</th>
-                <th className="px-3 py-2 text-left font-semibold text-[var(--fg)]">Target Impressiveness</th>
-                <th className="px-3 py-2 text-left font-semibold text-[var(--fg)]">How to Achieve</th>
+                <th className="px-3 py-2 text-left font-semibold text-[var(--fg)]"><GuideTrans en="Room Type" /></th>
+                <th className="px-3 py-2 text-left font-semibold text-[var(--fg)]"><GuideTrans en="Minimum Size" /></th>
+                <th className="px-3 py-2 text-left font-semibold text-[var(--fg)]"><GuideTrans en="Target Impressiveness" /></th>
+                <th className="px-3 py-2 text-left font-semibold text-[var(--fg)]"><GuideTrans en="How to Achieve" /></th>
               </tr>
             </thead>
             <tbody className="divide-y divide-[var(--border)]">
@@ -100,10 +100,10 @@ export default function RimWorldMoodManagement() {
           <table className="w-full text-xs">
             <thead>
               <tr className="border-b border-[var(--border)] bg-[var(--card)]/50">
-                <th className="px-3 py-2 text-left font-semibold text-[var(--fg)]">Priority</th>
-                <th className="px-3 py-2 text-left font-semibold text-[var(--fg)]">Job Type</th>
-                <th className="px-3 py-2 text-left font-semibold text-[var(--fg)]">Who Gets It</th>
-                <th className="px-3 py-2 text-left font-semibold text-[var(--fg)]">Why</th>
+                <th className="px-3 py-2 text-left font-semibold text-[var(--fg)]"><GuideTrans en="Priority" /></th>
+                <th className="px-3 py-2 text-left font-semibold text-[var(--fg)]"><GuideTrans en="Job Type" /></th>
+                <th className="px-3 py-2 text-left font-semibold text-[var(--fg)]"><GuideTrans en="Who Gets It" /></th>
+                <th className="px-3 py-2 text-left font-semibold text-[var(--fg)]"><GuideTrans en="Why" /></th>
               </tr>
             </thead>
             <tbody className="divide-y divide-[var(--border)]">

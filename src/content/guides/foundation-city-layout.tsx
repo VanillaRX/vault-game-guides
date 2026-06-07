@@ -49,10 +49,10 @@ export default function FoundationCityLayout() {
           <table className="w-full text-xs">
             <thead>
               <tr className="border-b border-[var(--border)] bg-[var(--card)]/50">
-                <th className="px-3 py-2 text-left font-semibold text-[var(--fg)]">End Product</th>
-                <th className="px-3 py-2 text-left font-semibold text-[var(--fg)]">Input Chain</th>
-                <th className="px-3 py-2 text-left font-semibold text-[var(--fg)]">Required Buildings</th>
-                <th className="px-3 py-2 text-left font-semibold text-[var(--fg)]">Villager Tier</th>
+                <th className="px-3 py-2 text-left font-semibold text-[var(--fg)]"><GuideTrans en="End Product" /></th>
+                <th className="px-3 py-2 text-left font-semibold text-[var(--fg)]"><GuideTrans en="Input Chain" /></th>
+                <th className="px-3 py-2 text-left font-semibold text-[var(--fg)]"><GuideTrans en="Required Buildings" /></th>
+                <th className="px-3 py-2 text-left font-semibold text-[var(--fg)]"><GuideTrans en="Villager Tier" /></th>
               </tr>
             </thead>
             <tbody className="divide-y divide-[var(--border)]">
@@ -81,10 +81,10 @@ export default function FoundationCityLayout() {
           <table className="w-full text-xs">
             <thead>
               <tr className="border-b border-[var(--border)] bg-[var(--card)]/50">
-                <th className="px-3 py-2 text-left font-semibold text-[var(--fg)]">Monument</th>
-                <th className="px-3 py-2 text-left font-semibold text-[var(--fg)]">Resources Required</th>
-                <th className="px-3 py-2 text-left font-semibold text-[var(--fg)]">Workers</th>
-                <th className="px-3 py-2 text-left font-semibold text-[var(--fg)]">Benefit</th>
+                <th className="px-3 py-2 text-left font-semibold text-[var(--fg)]"><GuideTrans en="Monument" /></th>
+                <th className="px-3 py-2 text-left font-semibold text-[var(--fg)]"><GuideTrans en="Resources Required" /></th>
+                <th className="px-3 py-2 text-left font-semibold text-[var(--fg)]"><GuideTrans en="Workers" /></th>
+                <th className="px-3 py-2 text-left font-semibold text-[var(--fg)]"><GuideTrans en="Benefit" /></th>
               </tr>
             </thead>
             <tbody className="divide-y divide-[var(--border)]">
@@ -114,10 +114,10 @@ export default function FoundationCityLayout() {
           <table className="w-full text-xs">
             <thead>
               <tr className="border-b border-[var(--border)] bg-[var(--card)]/50">
-                <th className="px-3 py-2 text-left font-semibold text-[var(--fg)]">Export Good</th>
-                <th className="px-3 py-2 text-left font-semibold text-[var(--fg)]">Buyer</th>
-                <th className="px-3 py-2 text-left font-semibold text-[var(--fg)]">Price</th>
-                <th className="px-3 py-2 text-left font-semibold text-[var(--fg)]">Strategy</th>
+                <th className="px-3 py-2 text-left font-semibold text-[var(--fg)]"><GuideTrans en="Export Good" /></th>
+                <th className="px-3 py-2 text-left font-semibold text-[var(--fg)]"><GuideTrans en="Buyer" /></th>
+                <th className="px-3 py-2 text-left font-semibold text-[var(--fg)]"><GuideTrans en="Price" /></th>
+                <th className="px-3 py-2 text-left font-semibold text-[var(--fg)]"><GuideTrans en="Strategy" /></th>
               </tr>
             </thead>
             <tbody className="divide-y divide-[var(--border)]">

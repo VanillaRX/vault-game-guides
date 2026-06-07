@@ -24,11 +24,11 @@ export default function FoundationEconomy() {
           <table className="w-full text-xs">
             <thead>
               <tr className="border-b border-[var(--border)] bg-[var(--card)]/50">
-                <th className="px-3 py-2 text-left font-semibold text-[var(--fg)]">Tier</th>
-                <th className="px-3 py-2 text-left font-semibold text-[var(--fg)]">Tax/Month</th>
-                <th className="px-3 py-2 text-left font-semibold text-[var(--fg)]">Needs</th>
-                <th className="px-3 py-2 text-left font-semibold text-[var(--fg)]">Unlocks</th>
-                <th className="px-3 py-2 text-left font-semibold text-[var(--fg)]">Promotion Strategy</th>
+                <th className="px-3 py-2 text-left font-semibold text-[var(--fg)]"><GuideTrans en="Tier" /></th>
+                <th className="px-3 py-2 text-left font-semibold text-[var(--fg)]"><GuideTrans en="Tax/Month" /></th>
+                <th className="px-3 py-2 text-left font-semibold text-[var(--fg)]"><GuideTrans en="Needs" /></th>
+                <th className="px-3 py-2 text-left font-semibold text-[var(--fg)]"><GuideTrans en="Unlocks" /></th>
+                <th className="px-3 py-2 text-left font-semibold text-[var(--fg)]"><GuideTrans en="Promotion Strategy" /></th>
               </tr>
             </thead>
             <tbody className="divide-y divide-[var(--border)]">
@@ -52,11 +52,11 @@ export default function FoundationEconomy() {
           <table className="w-full text-xs">
             <thead>
               <tr className="border-b border-[var(--border)] bg-[var(--card)]/50">
-                <th className="px-3 py-2 text-left font-semibold text-[var(--fg)]">Trade Partner</th>
-                <th className="px-3 py-2 text-left font-semibold text-[var(--fg)]">Buys</th>
-                <th className="px-3 py-2 text-left font-semibold text-[var(--fg)]">Sells</th>
-                <th className="px-3 py-2 text-left font-semibold text-[var(--fg)]">Distance</th>
-                <th className="px-3 py-2 text-left font-semibold text-[var(--fg)]">Strategy</th>
+                <th className="px-3 py-2 text-left font-semibold text-[var(--fg)]"><GuideTrans en="Trade Partner" /></th>
+                <th className="px-3 py-2 text-left font-semibold text-[var(--fg)]"><GuideTrans en="Buys" /></th>
+                <th className="px-3 py-2 text-left font-semibold text-[var(--fg)]"><GuideTrans en="Sells" /></th>
+                <th className="px-3 py-2 text-left font-semibold text-[var(--fg)]"><GuideTrans en="Distance" /></th>
+                <th className="px-3 py-2 text-left font-semibold text-[var(--fg)]"><GuideTrans en="Strategy" /></th>
               </tr>
             </thead>
             <tbody className="divide-y divide-[var(--border)]">
@@ -81,11 +81,11 @@ export default function FoundationEconomy() {
           <table className="w-full text-xs">
             <thead>
               <tr className="border-b border-[var(--border)] bg-[var(--card)]/50">
-                <th className="px-3 py-2 text-left font-semibold text-[var(--fg)]">Monument</th>
-                <th className="px-3 py-2 text-left font-semibold text-[var(--fg)]">Gold Cost (Resources)</th>
-                <th className="px-3 py-2 text-left font-semibold text-[var(--fg)]">Monthly Return</th>
-                <th className="px-3 py-2 text-left font-semibold text-[var(--fg)]">Payback Period</th>
-                <th className="px-3 py-2 text-left font-semibold text-[var(--fg)]">Priority</th>
+                <th className="px-3 py-2 text-left font-semibold text-[var(--fg)]"><GuideTrans en="Monument" /></th>
+                <th className="px-3 py-2 text-left font-semibold text-[var(--fg)]"><GuideTrans en="Gold Cost (Resources)" /></th>
+                <th className="px-3 py-2 text-left font-semibold text-[var(--fg)]"><GuideTrans en="Monthly Return" /></th>
+                <th className="px-3 py-2 text-left font-semibold text-[var(--fg)]"><GuideTrans en="Payback Period" /></th>
+                <th className="px-3 py-2 text-left font-semibold text-[var(--fg)]"><GuideTrans en="Priority" /></th>
               </tr>
             </thead>
             <tbody className="divide-y divide-[var(--border)]">

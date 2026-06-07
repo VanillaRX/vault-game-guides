@@ -28,11 +28,11 @@ export default function Anno1800ProductionGuide() {
           <table className="w-full text-xs">
             <thead>
               <tr className="border-b border-[var(--border)] bg-[var(--card)]/50">
-                <th className="px-3 py-2.5 text-left font-semibold text-[var(--fg)]">Good</th>
-                <th className="px-3 py-2.5 text-left font-semibold text-[var(--fg)]">Input</th>
-                <th className="px-3 py-2.5 text-left font-semibold text-[var(--fg)]">Processing</th>
-                <th className="px-3 py-2.5 text-left font-semibold text-[var(--fg)]">Optimal Ratio</th>
-                <th className="px-3 py-2.5 text-left font-semibold text-[var(--fg)]">Population Supported</th>
+                <th className="px-3 py-2.5 text-left font-semibold text-[var(--fg)]"><GuideTrans en="Good" /></th>
+                <th className="px-3 py-2.5 text-left font-semibold text-[var(--fg)]"><GuideTrans en="Input" /></th>
+                <th className="px-3 py-2.5 text-left font-semibold text-[var(--fg)]"><GuideTrans en="Processing" /></th>
+                <th className="px-3 py-2.5 text-left font-semibold text-[var(--fg)]"><GuideTrans en="Optimal Ratio" /></th>
+                <th className="px-3 py-2.5 text-left font-semibold text-[var(--fg)]"><GuideTrans en="Population Supported" /></th>
               </tr>
             </thead>
             <tbody className="divide-y divide-[var(--border)]">
@@ -53,10 +53,10 @@ export default function Anno1800ProductionGuide() {
           <table className="w-full text-xs">
             <thead>
               <tr className="border-b border-[var(--border)] bg-[var(--card)]/50">
-                <th className="px-3 py-2.5 text-left font-semibold text-[var(--fg)]">Good</th>
-                <th className="px-3 py-2.5 text-left font-semibold text-[var(--fg)]">Input Chain</th>
-                <th className="px-3 py-2.5 text-left font-semibold text-[var(--fg)]">Optimal Ratio</th>
-                <th className="px-3 py-2.5 text-left font-semibold text-[var(--fg)]">Pop Supported</th>
+                <th className="px-3 py-2.5 text-left font-semibold text-[var(--fg)]"><GuideTrans en="Good" /></th>
+                <th className="px-3 py-2.5 text-left font-semibold text-[var(--fg)]"><GuideTrans en="Input Chain" /></th>
+                <th className="px-3 py-2.5 text-left font-semibold text-[var(--fg)]"><GuideTrans en="Optimal Ratio" /></th>
+                <th className="px-3 py-2.5 text-left font-semibold text-[var(--fg)]"><GuideTrans en="Pop Supported" /></th>
               </tr>
             </thead>
             <tbody className="divide-y divide-[var(--border)]">
@@ -79,10 +79,10 @@ export default function Anno1800ProductionGuide() {
           <table className="w-full text-xs">
             <thead>
               <tr className="border-b border-[var(--border)] bg-[var(--card)]/50">
-                <th className="px-3 py-2.5 text-left font-semibold text-[var(--fg)]">Good</th>
-                <th className="px-3 py-2.5 text-left font-semibold text-[var(--fg)]">Input Chain</th>
-                <th className="px-3 py-2.5 text-left font-semibold text-[var(--fg)]">Optimal Ratio</th>
-                <th className="px-3 py-2.5 text-left font-semibold text-[var(--fg)]">Pop Supported</th>
+                <th className="px-3 py-2.5 text-left font-semibold text-[var(--fg)]"><GuideTrans en="Good" /></th>
+                <th className="px-3 py-2.5 text-left font-semibold text-[var(--fg)]"><GuideTrans en="Input Chain" /></th>
+                <th className="px-3 py-2.5 text-left font-semibold text-[var(--fg)]"><GuideTrans en="Optimal Ratio" /></th>
+                <th className="px-3 py-2.5 text-left font-semibold text-[var(--fg)]"><GuideTrans en="Pop Supported" /></th>
               </tr>
             </thead>
             <tbody className="divide-y divide-[var(--border)]">
@@ -109,10 +109,10 @@ export default function Anno1800ProductionGuide() {
           <table className="w-full text-xs">
             <thead>
               <tr className="border-b border-[var(--border)] bg-[var(--card)]/50">
-                <th className="px-3 py-2.5 text-left font-semibold text-[var(--fg)]">Good</th>
-                <th className="px-3 py-2.5 text-left font-semibold text-[var(--fg)]">Input Chain</th>
-                <th className="px-3 py-2.5 text-left font-semibold text-[var(--fg)]">Optimal Ratio</th>
-                <th className="px-3 py-2.5 text-left font-semibold text-[var(--fg)]">Pop Supported</th>
+                <th className="px-3 py-2.5 text-left font-semibold text-[var(--fg)]"><GuideTrans en="Good" /></th>
+                <th className="px-3 py-2.5 text-left font-semibold text-[var(--fg)]"><GuideTrans en="Input Chain" /></th>
+                <th className="px-3 py-2.5 text-left font-semibold text-[var(--fg)]"><GuideTrans en="Optimal Ratio" /></th>
+                <th className="px-3 py-2.5 text-left font-semibold text-[var(--fg)]"><GuideTrans en="Pop Supported" /></th>
               </tr>
             </thead>
             <tbody className="divide-y divide-[var(--border)]">
@@ -135,10 +135,10 @@ export default function Anno1800ProductionGuide() {
           <table className="w-full text-xs">
             <thead>
               <tr className="border-b border-[var(--border)] bg-[var(--card)]/50">
-                <th className="px-3 py-2.5 text-left font-semibold text-[var(--fg)]">Good</th>
-                <th className="px-3 py-2.5 text-left font-semibold text-[var(--fg)]">Input Chain</th>
-                <th className="px-3 py-2.5 text-left font-semibold text-[var(--fg)]">Optimal Ratio</th>
-                <th className="px-3 py-2.5 text-left font-semibold text-[var(--fg)]">Pop Supported</th>
+                <th className="px-3 py-2.5 text-left font-semibold text-[var(--fg)]"><GuideTrans en="Good" /></th>
+                <th className="px-3 py-2.5 text-left font-semibold text-[var(--fg)]"><GuideTrans en="Input Chain" /></th>
+                <th className="px-3 py-2.5 text-left font-semibold text-[var(--fg)]"><GuideTrans en="Optimal Ratio" /></th>
+                <th className="px-3 py-2.5 text-left font-semibold text-[var(--fg)]"><GuideTrans en="Pop Supported" /></th>
               </tr>
             </thead>
             <tbody className="divide-y divide-[var(--border)]">
@@ -166,10 +166,10 @@ export default function Anno1800ProductionGuide() {
           <table className="w-full text-xs">
             <thead>
               <tr className="border-b border-[var(--border)] bg-[var(--card)]/50">
-                <th className="px-3 py-2.5 text-left font-semibold text-[var(--fg)]">Good</th>
-                <th className="px-3 py-2.5 text-left font-semibold text-[var(--fg)]">Used In</th>
-                <th className="px-3 py-2.5 text-left font-semibold text-[var(--fg)]">Input → Processing</th>
-                <th className="px-3 py-2.5 text-left font-semibold text-[var(--fg)]">Optimal Ratio (NW)</th>
+                <th className="px-3 py-2.5 text-left font-semibold text-[var(--fg)]"><GuideTrans en="Good" /></th>
+                <th className="px-3 py-2.5 text-left font-semibold text-[var(--fg)]"><GuideTrans en="Used In" /></th>
+                <th className="px-3 py-2.5 text-left font-semibold text-[var(--fg)]"><GuideTrans en="Input → Processing" /></th>
+                <th className="px-3 py-2.5 text-left font-semibold text-[var(--fg)]"><GuideTrans en="Optimal Ratio (NW)" /></th>
               </tr>
             </thead>
             <tbody className="divide-y divide-[var(--border)]">
@@ -201,10 +201,10 @@ export default function Anno1800ProductionGuide() {
           <table className="w-full text-xs">
             <thead>
               <tr className="border-b border-[var(--border)] bg-[var(--card)]/50">
-                <th className="px-3 py-2.5 text-left font-semibold text-[var(--fg)]">Good</th>
-                <th className="px-3 py-2.5 text-left font-semibold text-[var(--fg)]">Used In</th>
-                <th className="px-3 py-2.5 text-left font-semibold text-[var(--fg)]">Input Chain</th>
-                <th className="px-3 py-2.5 text-left font-semibold text-[var(--fg)]">Optimal Ratio</th>
+                <th className="px-3 py-2.5 text-left font-semibold text-[var(--fg)]"><GuideTrans en="Good" /></th>
+                <th className="px-3 py-2.5 text-left font-semibold text-[var(--fg)]"><GuideTrans en="Used In" /></th>
+                <th className="px-3 py-2.5 text-left font-semibold text-[var(--fg)]"><GuideTrans en="Input Chain" /></th>
+                <th className="px-3 py-2.5 text-left font-semibold text-[var(--fg)]"><GuideTrans en="Optimal Ratio" /></th>
               </tr>
             </thead>
             <tbody className="divide-y divide-[var(--border)]">
@@ -233,10 +233,10 @@ export default function Anno1800ProductionGuide() {
           <table className="w-full text-xs">
             <thead>
               <tr className="border-b border-[var(--border)] bg-[var(--card)]/50">
-                <th className="px-3 py-2.5 text-left font-semibold text-[var(--fg)]">Good</th>
-                <th className="px-3 py-2.5 text-left font-semibold text-[var(--fg)]">Requires</th>
-                <th className="px-3 py-2.5 text-left font-semibold text-[var(--fg)]">Optimal Ratio</th>
-                <th className="px-3 py-2.5 text-left font-semibold text-[var(--fg)]">Notes</th>
+                <th className="px-3 py-2.5 text-left font-semibold text-[var(--fg)]"><GuideTrans en="Good" /></th>
+                <th className="px-3 py-2.5 text-left font-semibold text-[var(--fg)]"><GuideTrans en="Requires" /></th>
+                <th className="px-3 py-2.5 text-left font-semibold text-[var(--fg)]"><GuideTrans en="Optimal Ratio" /></th>
+                <th className="px-3 py-2.5 text-left font-semibold text-[var(--fg)]"><GuideTrans en="Notes" /></th>
               </tr>
             </thead>
             <tbody className="divide-y divide-[var(--border)]">
@@ -265,11 +265,11 @@ export default function Anno1800ProductionGuide() {
           <table className="w-full text-xs">
             <thead>
               <tr className="border-b border-[var(--border)] bg-[var(--card)]/50">
-                <th className="px-3 py-2.5 text-left font-semibold text-[var(--fg)]">Warehouse Level</th>
-                <th className="px-3 py-2.5 text-left font-semibold text-[var(--fg)]">Carts</th>
-                <th className="px-3 py-2.5 text-left font-semibold text-[var(--fg)]">Loading Ramps</th>
-                <th className="px-3 py-2.5 text-left font-semibold text-[var(--fg)]">Max Range</th>
-                <th className="px-3 py-2.5 text-left font-semibold text-[var(--fg)]">Buildings Supported</th>
+                <th className="px-3 py-2.5 text-left font-semibold text-[var(--fg)]"><GuideTrans en="Warehouse Level" /></th>
+                <th className="px-3 py-2.5 text-left font-semibold text-[var(--fg)]"><GuideTrans en="Carts" /></th>
+                <th className="px-3 py-2.5 text-left font-semibold text-[var(--fg)]"><GuideTrans en="Loading Ramps" /></th>
+                <th className="px-3 py-2.5 text-left font-semibold text-[var(--fg)]"><GuideTrans en="Max Range" /></th>
+                <th className="px-3 py-2.5 text-left font-semibold text-[var(--fg)]"><GuideTrans en="Buildings Supported" /></th>
               </tr>
             </thead>
             <tbody className="divide-y divide-[var(--border)]">
@@ -308,10 +308,10 @@ export default function Anno1800ProductionGuide() {
           <table className="w-full text-xs">
             <thead>
               <tr className="border-b border-[var(--border)] bg-[var(--card)]/50">
-                <th className="px-3 py-2.5 text-left font-semibold text-[var(--fg)]">Industry</th>
-                <th className="px-3 py-2.5 text-left font-semibold text-[var(--fg)]">Best Specialist</th>
-                <th className="px-3 py-2.5 text-left font-semibold text-[var(--fg)]">Source</th>
-                <th className="px-3 py-2.5 text-left font-semibold text-[var(--fg)]">Effect</th>
+                <th className="px-3 py-2.5 text-left font-semibold text-[var(--fg)]"><GuideTrans en="Industry" /></th>
+                <th className="px-3 py-2.5 text-left font-semibold text-[var(--fg)]"><GuideTrans en="Best Specialist" /></th>
+                <th className="px-3 py-2.5 text-left font-semibold text-[var(--fg)]"><GuideTrans en="Source" /></th>
+                <th className="px-3 py-2.5 text-left font-semibold text-[var(--fg)]"><GuideTrans en="Effect" /></th>
               </tr>
             </thead>
             <tbody className="divide-y divide-[var(--border)]">
@@ -343,11 +343,11 @@ export default function Anno1800ProductionGuide() {
           <table className="w-full text-xs">
             <thead>
               <tr className="border-b border-[var(--border)] bg-[var(--card)]/50">
-                <th className="px-3 py-2.5 text-left font-semibold text-[var(--fg)]">Power Plant Type</th>
-                <th className="px-3 py-2.5 text-left font-semibold text-[var(--fg)]">Radius</th>
-                <th className="px-3 py-2.5 text-left font-semibold text-[var(--fg)]">Fuel</th>
-                <th className="px-3 py-2.5 text-left font-semibold text-[var(--fg)]">Productivity Bonus</th>
-                <th className="px-3 py-2.5 text-left font-semibold text-[var(--fg)]">Best Use</th>
+                <th className="px-3 py-2.5 text-left font-semibold text-[var(--fg)]"><GuideTrans en="Power Plant Type" /></th>
+                <th className="px-3 py-2.5 text-left font-semibold text-[var(--fg)]"><GuideTrans en="Radius" /></th>
+                <th className="px-3 py-2.5 text-left font-semibold text-[var(--fg)]"><GuideTrans en="Fuel" /></th>
+                <th className="px-3 py-2.5 text-left font-semibold text-[var(--fg)]"><GuideTrans en="Productivity Bonus" /></th>
+                <th className="px-3 py-2.5 text-left font-semibold text-[var(--fg)]"><GuideTrans en="Best Use" /></th>
               </tr>
             </thead>
             <tbody className="divide-y divide-[var(--border)]">

@@ -28,9 +28,9 @@ export default function RimWorldDefenseGuide() {
           <table className="w-full text-xs">
             <thead>
               <tr className="border-b border-[var(--border)] bg-[var(--card)]/50">
-                <th className="px-3 py-2 text-left font-semibold text-[var(--fg)]">Cover Type</th>
-                <th className="px-3 py-2 text-left font-semibold text-[var(--fg)]">Block %</th>
-                <th className="px-3 py-2 text-left font-semibold text-[var(--fg)]">Best Use</th>
+                <th className="px-3 py-2 text-left font-semibold text-[var(--fg)]"><GuideTrans en="Cover Type" /></th>
+                <th className="px-3 py-2 text-left font-semibold text-[var(--fg)]"><GuideTrans en="Block %" /></th>
+                <th className="px-3 py-2 text-left font-semibold text-[var(--fg)]"><GuideTrans en="Best Use" /></th>
               </tr>
             </thead>
             <tbody className="divide-y divide-[var(--border)]">
@@ -97,10 +97,10 @@ export default function RimWorldDefenseGuide() {
           <table className="w-full text-xs">
             <thead>
               <tr className="border-b border-[var(--border)] bg-[var(--card)]/50">
-                <th className="px-3 py-2 text-left font-semibold text-[var(--fg)]">Turret Type</th>
-                <th className="px-3 py-2 text-left font-semibold text-[var(--fg)]">Range</th>
-                <th className="px-3 py-2 text-left font-semibold text-[var(--fg)]">Damage</th>
-                <th className="px-3 py-2 text-left font-semibold text-[var(--fg)]">Best Placement</th>
+                <th className="px-3 py-2 text-left font-semibold text-[var(--fg)]"><GuideTrans en="Turret Type" /></th>
+                <th className="px-3 py-2 text-left font-semibold text-[var(--fg)]"><GuideTrans en="Range" /></th>
+                <th className="px-3 py-2 text-left font-semibold text-[var(--fg)]"><GuideTrans en="Damage" /></th>
+                <th className="px-3 py-2 text-left font-semibold text-[var(--fg)]"><GuideTrans en="Best Placement" /></th>
               </tr>
             </thead>
             <tbody className="divide-y divide-[var(--border)]">

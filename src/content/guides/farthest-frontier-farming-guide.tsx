@@ -26,11 +26,11 @@ export default function FarthestFrontierFarmingGuide() {
           <table className="w-full text-xs">
             <thead>
               <tr className="border-b border-[var(--border)] bg-[var(--card)]/50">
-                <th className="px-3 py-2 text-left font-semibold text-[var(--fg)]">Crop</th>
-                <th className="px-3 py-2 text-left font-semibold text-[var(--fg)]">Plant → Harvest</th>
-                <th className="px-3 py-2 text-left font-semibold text-[var(--fg)]">Yield</th>
-                <th className="px-3 py-2 text-left font-semibold text-[var(--fg)]">Soil Effect</th>
-                <th className="px-3 py-2 text-left font-semibold text-[var(--fg)]">Best Use</th>
+                <th className="px-3 py-2 text-left font-semibold text-[var(--fg)]"><GuideTrans en="Crop" /></th>
+                <th className="px-3 py-2 text-left font-semibold text-[var(--fg)]"><GuideTrans en="Plant → Harvest" /></th>
+                <th className="px-3 py-2 text-left font-semibold text-[var(--fg)]"><GuideTrans en="Yield" /></th>
+                <th className="px-3 py-2 text-left font-semibold text-[var(--fg)]"><GuideTrans en="Soil Effect" /></th>
+                <th className="px-3 py-2 text-left font-semibold text-[var(--fg)]"><GuideTrans en="Best Use" /></th>
               </tr>
             </thead>
             <tbody className="divide-y divide-[var(--border)]">
@@ -88,11 +88,11 @@ export default function FarthestFrontierFarmingGuide() {
           <table className="w-full text-xs">
             <thead>
               <tr className="border-b border-[var(--border)] bg-[var(--card)]/50">
-                <th className="px-3 py-2 text-left font-semibold text-[var(--fg)]">Animal</th>
-                <th className="px-3 py-2 text-left font-semibold text-[var(--fg)]">Feed</th>
-                <th className="px-3 py-2 text-left font-semibold text-[var(--fg)]">Produces</th>
-                <th className="px-3 py-2 text-left font-semibold text-[var(--fg)]">Optimal Herd</th>
-                <th className="px-3 py-2 text-left font-semibold text-[var(--fg)]">Best Setup</th>
+                <th className="px-3 py-2 text-left font-semibold text-[var(--fg)]"><GuideTrans en="Animal" /></th>
+                <th className="px-3 py-2 text-left font-semibold text-[var(--fg)]"><GuideTrans en="Feed" /></th>
+                <th className="px-3 py-2 text-left font-semibold text-[var(--fg)]"><GuideTrans en="Produces" /></th>
+                <th className="px-3 py-2 text-left font-semibold text-[var(--fg)]"><GuideTrans en="Optimal Herd" /></th>
+                <th className="px-3 py-2 text-left font-semibold text-[var(--fg)]"><GuideTrans en="Best Setup" /></th>
               </tr>
             </thead>
             <tbody className="divide-y divide-[var(--border)]">
@@ -117,11 +117,11 @@ export default function FarthestFrontierFarmingGuide() {
           <table className="w-full text-xs">
             <thead>
               <tr className="border-b border-[var(--border)] bg-[var(--card)]/50">
-                <th className="px-3 py-2 text-left font-semibold text-[var(--fg)]">Method</th>
-                <th className="px-3 py-2 text-left font-semibold text-[var(--fg)]">Input</th>
-                <th className="px-3 py-2 text-left font-semibold text-[var(--fg)]">Output</th>
-                <th className="px-3 py-2 text-left font-semibold text-[var(--fg)]">Shelf Life</th>
-                <th className="px-3 py-2 text-left font-semibold text-[var(--fg)]">Priority</th>
+                <th className="px-3 py-2 text-left font-semibold text-[var(--fg)]"><GuideTrans en="Method" /></th>
+                <th className="px-3 py-2 text-left font-semibold text-[var(--fg)]"><GuideTrans en="Input" /></th>
+                <th className="px-3 py-2 text-left font-semibold text-[var(--fg)]"><GuideTrans en="Output" /></th>
+                <th className="px-3 py-2 text-left font-semibold text-[var(--fg)]"><GuideTrans en="Shelf Life" /></th>
+                <th className="px-3 py-2 text-left font-semibold text-[var(--fg)]"><GuideTrans en="Priority" /></th>
               </tr>
             </thead>
             <tbody className="divide-y divide-[var(--border)]">

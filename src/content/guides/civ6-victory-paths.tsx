@@ -24,10 +24,10 @@ export default function Civ6VictoryGuide() {
           <table className="w-full text-xs">
             <thead>
               <tr className="border-b border-[var(--border)] bg-[var(--card)]/50">
-                <th className="px-3 py-2 text-left font-semibold text-[var(--fg)]">Victory</th>
-                <th className="px-3 py-2 text-left font-semibold text-[var(--fg)]">Key Metric</th>
-                <th className="px-3 py-2 text-left font-semibold text-[var(--fg)]">Tech Beeline</th>
-                <th className="px-3 py-2 text-left font-semibold text-[var(--fg)]">Best Leaders</th>
+                <th className="px-3 py-2 text-left font-semibold text-[var(--fg)]"><GuideTrans en="Victory" /></th>
+                <th className="px-3 py-2 text-left font-semibold text-[var(--fg)]"><GuideTrans en="Key Metric" /></th>
+                <th className="px-3 py-2 text-left font-semibold text-[var(--fg)]"><GuideTrans en="Tech Beeline" /></th>
+                <th className="px-3 py-2 text-left font-semibold text-[var(--fg)]"><GuideTrans en="Best Leaders" /></th>
               </tr>
             </thead>
             <tbody className="divide-y divide-[var(--border)]">
@@ -71,9 +71,9 @@ export default function Civ6VictoryGuide() {
           <table className="w-full text-xs">
             <thead>
               <tr className="border-b border-[var(--border)] bg-[var(--card)]/50">
-                <th className="px-3 py-2 text-left font-semibold text-[var(--fg)]">Era</th>
-                <th className="px-3 py-2 text-left font-semibold text-[var(--fg)]">Tourism Source</th>
-                <th className="px-3 py-2 text-left font-semibold text-[var(--fg)]">Target Tourism/turn</th>
+                <th className="px-3 py-2 text-left font-semibold text-[var(--fg)]"><GuideTrans en="Era" /></th>
+                <th className="px-3 py-2 text-left font-semibold text-[var(--fg)]"><GuideTrans en="Tourism Source" /></th>
+                <th className="px-3 py-2 text-left font-semibold text-[var(--fg)]"><GuideTrans en="Target Tourism/turn" /></th>
               </tr>
             </thead>
             <tbody className="divide-y divide-[var(--border)]">
@@ -97,9 +97,9 @@ export default function Civ6VictoryGuide() {
           <table className="w-full text-xs">
             <thead>
               <tr className="border-b border-[var(--border)] bg-[var(--card)]/50">
-                <th className="px-3 py-2 text-left font-semibold text-[var(--fg)]">Window</th>
-                <th className="px-3 py-2 text-left font-semibold text-[var(--fg)]">Unit</th>
-                <th className="px-3 py-2 text-left font-semibold text-[var(--fg)]">Power Spike</th>
+                <th className="px-3 py-2 text-left font-semibold text-[var(--fg)]"><GuideTrans en="Window" /></th>
+                <th className="px-3 py-2 text-left font-semibold text-[var(--fg)]"><GuideTrans en="Unit" /></th>
+                <th className="px-3 py-2 text-left font-semibold text-[var(--fg)]"><GuideTrans en="Power Spike" /></th>
               </tr>
             </thead>
             <tbody className="divide-y divide-[var(--border)]">

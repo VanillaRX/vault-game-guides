@@ -24,11 +24,11 @@ export default function FarthestFrontierDefense() {
           <table className="w-full text-xs">
             <thead>
               <tr className="border-b border-[var(--border)] bg-[var(--card)]/50">
-                <th className="px-3 py-2 text-left font-semibold text-[var(--fg)]">Wall Type</th>
-                <th className="px-3 py-2 text-left font-semibold text-[var(--fg)]">HP</th>
-                <th className="px-3 py-2 text-left font-semibold text-[var(--fg)]">Cost/Tile</th>
-                <th className="px-3 py-2 text-left font-semibold text-[var(--fg)]">Raider Protection</th>
-                <th className="px-3 py-2 text-left font-semibold text-[var(--fg)]">When to Build</th>
+                <th className="px-3 py-2 text-left font-semibold text-[var(--fg)]"><GuideTrans en="Wall Type" /></th>
+                <th className="px-3 py-2 text-left font-semibold text-[var(--fg)]"><GuideTrans en="HP" /></th>
+                <th className="px-3 py-2 text-left font-semibold text-[var(--fg)]"><GuideTrans en="Cost/Tile" /></th>
+                <th className="px-3 py-2 text-left font-semibold text-[var(--fg)]"><GuideTrans en="Raider Protection" /></th>
+                <th className="px-3 py-2 text-left font-semibold text-[var(--fg)]"><GuideTrans en="When to Build" /></th>
               </tr>
             </thead>
             <tbody className="divide-y divide-[var(--border)]">
@@ -53,10 +53,10 @@ export default function FarthestFrontierDefense() {
           <table className="w-full text-xs">
             <thead>
               <tr className="border-b border-[var(--border)] bg-[var(--card)]/50">
-                <th className="px-3 py-2 text-left font-semibold text-[var(--fg)]">Tower Type</th>
-                <th className="px-3 py-2 text-left font-semibold text-[var(--fg)]">Range</th>
-                <th className="px-3 py-2 text-left font-semibold text-[var(--fg)]">Garrison</th>
-                <th className="px-3 py-2 text-left font-semibold text-[var(--fg)]">Best Placement</th>
+                <th className="px-3 py-2 text-left font-semibold text-[var(--fg)]"><GuideTrans en="Tower Type" /></th>
+                <th className="px-3 py-2 text-left font-semibold text-[var(--fg)]"><GuideTrans en="Range" /></th>
+                <th className="px-3 py-2 text-left font-semibold text-[var(--fg)]"><GuideTrans en="Garrison" /></th>
+                <th className="px-3 py-2 text-left font-semibold text-[var(--fg)]"><GuideTrans en="Best Placement" /></th>
               </tr>
             </thead>
             <tbody className="divide-y divide-[var(--border)]">
@@ -80,11 +80,11 @@ export default function FarthestFrontierDefense() {
           <table className="w-full text-xs">
             <thead>
               <tr className="border-b border-[var(--border)] bg-[var(--card)]/50">
-                <th className="px-3 py-2 text-left font-semibold text-[var(--fg)]">Unit</th>
-                <th className="px-3 py-2 text-left font-semibold text-[var(--fg)]">Equipment</th>
-                <th className="px-3 py-2 text-left font-semibold text-[var(--fg)]">Role</th>
-                <th className="px-3 py-2 text-left font-semibold text-[var(--fg)]">Best Against</th>
-                <th className="px-3 py-2 text-left font-semibold text-[var(--fg)]">Pop Ratio</th>
+                <th className="px-3 py-2 text-left font-semibold text-[var(--fg)]"><GuideTrans en="Unit" /></th>
+                <th className="px-3 py-2 text-left font-semibold text-[var(--fg)]"><GuideTrans en="Equipment" /></th>
+                <th className="px-3 py-2 text-left font-semibold text-[var(--fg)]"><GuideTrans en="Role" /></th>
+                <th className="px-3 py-2 text-left font-semibold text-[var(--fg)]"><GuideTrans en="Best Against" /></th>
+                <th className="px-3 py-2 text-left font-semibold text-[var(--fg)]"><GuideTrans en="Pop Ratio" /></th>
               </tr>
             </thead>
             <tbody className="divide-y divide-[var(--border)]">
@@ -109,10 +109,10 @@ export default function FarthestFrontierDefense() {
           <table className="w-full text-xs">
             <thead>
               <tr className="border-b border-[var(--border)] bg-[var(--card)]/50">
-                <th className="px-3 py-2 text-left font-semibold text-[var(--fg)]">Disease</th>
-                <th className="px-3 py-2 text-left font-semibold text-[var(--fg)]">Cause</th>
-                <th className="px-3 py-2 text-left font-semibold text-[var(--fg)]">Mortality</th>
-                <th className="px-3 py-2 text-left font-semibold text-[var(--fg)]">Prevention</th>
+                <th className="px-3 py-2 text-left font-semibold text-[var(--fg)]"><GuideTrans en="Disease" /></th>
+                <th className="px-3 py-2 text-left font-semibold text-[var(--fg)]"><GuideTrans en="Cause" /></th>
+                <th className="px-3 py-2 text-left font-semibold text-[var(--fg)]"><GuideTrans en="Mortality" /></th>
+                <th className="px-3 py-2 text-left font-semibold text-[var(--fg)]"><GuideTrans en="Prevention" /></th>
               </tr>
             </thead>
             <tbody className="divide-y divide-[var(--border)]">

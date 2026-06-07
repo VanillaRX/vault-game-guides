@@ -26,9 +26,9 @@ export default function Civ6DistrictGuide() {
           <table className="w-full text-xs">
             <thead>
               <tr className="border-b border-[var(--border)] bg-[var(--card)]/50">
-                <th className="px-3 py-2 text-left font-semibold text-[var(--fg)]">Adjacent Feature</th>
-                <th className="px-3 py-2 text-left font-semibold text-[var(--fg)]">Bonus</th>
-                <th className="px-3 py-2 text-left font-semibold text-[var(--fg)]">Notes</th>
+                <th className="px-3 py-2 text-left font-semibold text-[var(--fg)]"><GuideTrans en="Adjacent Feature" /></th>
+                <th className="px-3 py-2 text-left font-semibold text-[var(--fg)]"><GuideTrans en="Bonus" /></th>
+                <th className="px-3 py-2 text-left font-semibold text-[var(--fg)]"><GuideTrans en="Notes" /></th>
               </tr>
             </thead>
             <tbody className="divide-y divide-[var(--border)]">
@@ -76,9 +76,9 @@ export default function Civ6DistrictGuide() {
           <table className="w-full text-xs">
             <thead>
               <tr className="border-b border-[var(--border)] bg-[var(--card)]/50">
-                <th className="px-3 py-2 text-left font-semibold text-[var(--fg)]">Adjacent Feature</th>
-                <th className="px-3 py-2 text-left font-semibold text-[var(--fg)]">Bonus</th>
-                <th className="px-3 py-2 text-left font-semibold text-[var(--fg)]">Notes</th>
+                <th className="px-3 py-2 text-left font-semibold text-[var(--fg)]"><GuideTrans en="Adjacent Feature" /></th>
+                <th className="px-3 py-2 text-left font-semibold text-[var(--fg)]"><GuideTrans en="Bonus" /></th>
+                <th className="px-3 py-2 text-left font-semibold text-[var(--fg)]"><GuideTrans en="Notes" /></th>
               </tr>
             </thead>
             <tbody className="divide-y divide-[var(--border)]">
@@ -122,9 +122,9 @@ export default function Civ6DistrictGuide() {
           <table className="w-full text-xs">
             <thead>
               <tr className="border-b border-[var(--border)] bg-[var(--card)]/50">
-                <th className="px-3 py-2 text-left font-semibold text-[var(--fg)]">Adjacent Feature</th>
-                <th className="px-3 py-2 text-left font-semibold text-[var(--fg)]">Bonus</th>
-                <th className="px-3 py-2 text-left font-semibold text-[var(--fg)]">Notes</th>
+                <th className="px-3 py-2 text-left font-semibold text-[var(--fg)]"><GuideTrans en="Adjacent Feature" /></th>
+                <th className="px-3 py-2 text-left font-semibold text-[var(--fg)]"><GuideTrans en="Bonus" /></th>
+                <th className="px-3 py-2 text-left font-semibold text-[var(--fg)]"><GuideTrans en="Notes" /></th>
               </tr>
             </thead>
             <tbody className="divide-y divide-[var(--border)]">
@@ -151,9 +151,9 @@ export default function Civ6DistrictGuide() {
           <table className="w-full text-xs">
             <thead>
               <tr className="border-b border-[var(--border)] bg-[var(--card)]/50">
-                <th className="px-3 py-2 text-left font-semibold text-[var(--fg)]">Adjacent Feature</th>
-                <th className="px-3 py-2 text-left font-semibold text-[var(--fg)]">Bonus</th>
-                <th className="px-3 py-2 text-left font-semibold text-[var(--fg)]">Notes</th>
+                <th className="px-3 py-2 text-left font-semibold text-[var(--fg)]"><GuideTrans en="Adjacent Feature" /></th>
+                <th className="px-3 py-2 text-left font-semibold text-[var(--fg)]"><GuideTrans en="Bonus" /></th>
+                <th className="px-3 py-2 text-left font-semibold text-[var(--fg)]"><GuideTrans en="Notes" /></th>
               </tr>
             </thead>
             <tbody className="divide-y divide-[var(--border)]">
@@ -180,9 +180,9 @@ export default function Civ6DistrictGuide() {
           <table className="w-full text-xs">
             <thead>
               <tr className="border-b border-[var(--border)] bg-[var(--card)]/50">
-                <th className="px-3 py-2 text-left font-semibold text-[var(--fg)]">Adjacent Feature</th>
-                <th className="px-3 py-2 text-left font-semibold text-[var(--fg)]">Bonus</th>
-                <th className="px-3 py-2 text-left font-semibold text-[var(--fg)]">Notes</th>
+                <th className="px-3 py-2 text-left font-semibold text-[var(--fg)]"><GuideTrans en="Adjacent Feature" /></th>
+                <th className="px-3 py-2 text-left font-semibold text-[var(--fg)]"><GuideTrans en="Bonus" /></th>
+                <th className="px-3 py-2 text-left font-semibold text-[var(--fg)]"><GuideTrans en="Notes" /></th>
               </tr>
             </thead>
             <tbody className="divide-y divide-[var(--border)]">
@@ -208,9 +208,9 @@ export default function Civ6DistrictGuide() {
           <table className="w-full text-xs">
             <thead>
               <tr className="border-b border-[var(--border)] bg-[var(--card)]/50">
-                <th className="px-3 py-2 text-left font-semibold text-[var(--fg)]">Adjacent Feature</th>
-                <th className="px-3 py-2 text-left font-semibold text-[var(--fg)]">Bonus</th>
-                <th className="px-3 py-2 text-left font-semibold text-[var(--fg)]">Notes</th>
+                <th className="px-3 py-2 text-left font-semibold text-[var(--fg)]"><GuideTrans en="Adjacent Feature" /></th>
+                <th className="px-3 py-2 text-left font-semibold text-[var(--fg)]"><GuideTrans en="Bonus" /></th>
+                <th className="px-3 py-2 text-left font-semibold text-[var(--fg)]"><GuideTrans en="Notes" /></th>
               </tr>
             </thead>
             <tbody className="divide-y divide-[var(--border)]">
@@ -230,11 +230,11 @@ export default function Civ6DistrictGuide() {
           <table className="w-full text-xs">
             <thead>
               <tr className="border-b border-[var(--border)] bg-[var(--card)]/50">
-                <th className="px-3 py-2 text-left font-semibold text-[var(--fg)] sticky left-0 bg-[var(--card)]">District</th>
-                <th className="px-3 py-2 text-left font-semibold text-[var(--fg)]">Unlock</th>
-                <th className="px-3 py-2 text-left font-semibold text-[var(--fg)]">Major Adjacency (+2)</th>
-                <th className="px-3 py-2 text-left font-semibold text-[var(--fg)]">Minor Adjacency (+1)</th>
-                <th className="px-3 py-2 text-left font-semibold text-[var(--fg)]">Doubling Policy</th>
+                <th className="px-3 py-2 text-left font-semibold text-[var(--fg)] sticky left-0 bg-[var(--card)]"><GuideTrans en="District" /></th>
+                <th className="px-3 py-2 text-left font-semibold text-[var(--fg)]"><GuideTrans en="Unlock" /></th>
+                <th className="px-3 py-2 text-left font-semibold text-[var(--fg)]"><GuideTrans en="Major Adjacency (+2)" /></th>
+                <th className="px-3 py-2 text-left font-semibold text-[var(--fg)]"><GuideTrans en="Minor Adjacency (+1)" /></th>
+                <th className="px-3 py-2 text-left font-semibold text-[var(--fg)]"><GuideTrans en="Doubling Policy" /></th>
               </tr>
             </thead>
             <tbody className="divide-y divide-[var(--border)]">
@@ -262,10 +262,10 @@ export default function Civ6DistrictGuide() {
           <table className="w-full text-xs">
             <thead>
               <tr className="border-b border-[var(--border)] bg-[var(--card)]/50">
-                <th className="px-3 py-2 text-left font-semibold text-[var(--fg)]">Civ</th>
-                <th className="px-3 py-2 text-left font-semibold text-[var(--fg)]">Unique District</th>
-                <th className="px-3 py-2 text-left font-semibold text-[var(--fg)]">Replaces</th>
-                <th className="px-3 py-2 text-left font-semibold text-[var(--fg)]">Adjacency Advantage</th>
+                <th className="px-3 py-2 text-left font-semibold text-[var(--fg)]"><GuideTrans en="Civ" /></th>
+                <th className="px-3 py-2 text-left font-semibold text-[var(--fg)]"><GuideTrans en="Unique District" /></th>
+                <th className="px-3 py-2 text-left font-semibold text-[var(--fg)]"><GuideTrans en="Replaces" /></th>
+                <th className="px-3 py-2 text-left font-semibold text-[var(--fg)]"><GuideTrans en="Adjacency Advantage" /></th>
               </tr>
             </thead>
             <tbody className="divide-y divide-[var(--border)]">
@@ -288,9 +288,9 @@ export default function Civ6DistrictGuide() {
           <table className="w-full text-xs">
             <thead>
               <tr className="border-b border-[var(--border)] bg-[var(--card)]/50">
-                <th className="px-3 py-2 text-left font-semibold text-[var(--fg)]">Wonder</th>
-                <th className="px-3 py-2 text-left font-semibold text-[var(--fg)]">Best Adjacent To</th>
-                <th className="px-3 py-2 text-left font-semibold text-[var(--fg)]">Strategic Reason</th>
+                <th className="px-3 py-2 text-left font-semibold text-[var(--fg)]"><GuideTrans en="Wonder" /></th>
+                <th className="px-3 py-2 text-left font-semibold text-[var(--fg)]"><GuideTrans en="Best Adjacent To" /></th>
+                <th className="px-3 py-2 text-left font-semibold text-[var(--fg)]"><GuideTrans en="Strategic Reason" /></th>
               </tr>
             </thead>
             <tbody className="divide-y divide-[var(--border)]">
