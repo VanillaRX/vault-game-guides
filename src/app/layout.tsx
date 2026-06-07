@@ -48,6 +48,14 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
       lang="en"
       className={`${orbitron.variable} ${manrope.variable} ${jetbrainsMono.variable} scroll-smooth`}
     >
+      <head>
+        <script async src="https://www.googletagmanager.com/gtag/js?id=G-7FKTX7NCSB" />
+        <script
+          dangerouslySetInnerHTML={{
+            __html: `window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments)}gtag('js',new Date());gtag('config','G-7FKTX7NCSB');`,
+          }}
+        />
+      </head>
       <body className="flex min-h-screen flex-col">
         <ClientLayout>{children}</ClientLayout>
       </body>
