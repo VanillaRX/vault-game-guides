@@ -30,7 +30,7 @@ export const metadata: Metadata = {
   },
   description:
     "In-depth production layouts, district adjacency guides, defense strategies, and optimization walkthroughs for strategy, city-builder, and colony sim games.",
-  metadataBase: new URL("https://vanillarx.github.io/vault-game-guides"),
+  metadataBase: new URL("https://vault-game-guides.com"),
   openGraph: {
     title: "Vault Guides — Strategy & Management Game Guides",
     description:
