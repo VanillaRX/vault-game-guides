@@ -163,19 +163,19 @@ export default function RimWorldMoodManagement() {
 
       {/* FAQ */}
       <section id="faq" className="border-t border-[var(--border)] pt-8">
-        <h2 className="font-display text-xl font-bold tracking-tight text-[var(--neon)]">FAQ</h2>
+        <h2 className="font-display text-xl font-bold tracking-tight text-[var(--neon)]"><GuideTrans en="FAQ" /></h2>
         <div className="mt-4 space-y-4">
           {[
-            { q: "My colonists keep having mental breaks. What&apos;s the #1 fix?", a: "Build one impressive combined dining + recreation room. Marble floor, 4 sculptures, excellent armchairs. This gives +6 mood to every colonist twice per day (when eating + when recreating). Single highest ROI mood investment." },
-            { q: "How do I prevent 'ate without table'?", a: "Colonists search for a table within 25 tiles of where they pick up food. Place a 1×2 table + 2 stools in your freezer entrance, near the meal stack. Also place tables near mining sites and killbox entrances (colonists eat on the go during long fights)." },
-            { q: "Best drug policy for mood management?", a: "Beer: 1/day if mood &lt;35%. Psychite tea: 1 every 3 days (zero addiction risk at this interval). Ambrosia: whenever available (no downsides). Avoid smokeleaf (−30% consciousness = worse at everything). Never use yayo or flake for mood — addiction risk is too high." },
-            { q: "How important is cleanliness?", a: "Critical for kitchen (food poisoning) and hospital (infection). Kitchen cleanliness below −2 = significant food poison chance. Hospital cleanliness below 0.60 = infection risk. Sterile tile in both. Doormats or straw matting at entrances reduce tracked-in dirt by 80%." },
+            { en_q: "My colonists keep having mental breaks. What's the #1 fix?", zh_q: "殖民者一直精神崩溃，最有效的解决办法是什么？", en_a: "Build one impressive combined dining + recreation room. Marble floor, 4 sculptures, excellent armchairs. This gives +6 mood to every colonist twice per day (when eating + when recreating). Single highest ROI mood investment.", zh_a: "建一个豪华的餐厅+娱乐室合并房间。大理石地板、4 个雕塑、高级扶手椅。每个殖民者每天能获得两次 +6 心情（吃饭时 + 娱乐时）。回报率最高的心情投资。" },
+            { en_q: "How do I prevent 'ate without table'?", zh_q: "怎么避免'没桌子吃饭'的 debuff？", en_a: "Colonists search for a table within 25 tiles of where they pick up food. Place a 1×2 table + 2 stools in your freezer entrance, near the meal stack. Also place tables near mining sites and killbox entrances (colonists eat on the go during long fights).", zh_a: "殖民者会在拿食物的位置 25 格范围内找桌子。在冷冻库入口放一张 1×2 桌子 + 2 个凳子，靠近餐食堆。采矿点和杀阵入口附近也要放桌子（长时间战斗时殖民者会在路上吃东西）。" },
+            { en_q: "Best drug policy for mood management?", zh_q: "心情管理的最佳药物策略？", en_a: "Beer: 1/day if mood <35%. Psychite tea: 1 every 3 days (zero addiction risk at this interval). Ambrosia: whenever available (no downsides). Avoid smokeleaf (−30% consciousness = worse at everything). Never use yayo or flake for mood — addiction risk is too high.", zh_a: "啤酒：心情低于 35% 时每天 1 杯。精神茶：每 3 天 1 次（这个间隔零成瘾风险）。仙馐果：有就吃（无副作用）。避免烟叶（-30% 意识 = 干什么都变差）。绝对不要用雅瑶或薄片来提心情——成瘾风险太高。" },
+            { en_q: "How important is cleanliness?", zh_q: "清洁度有多重要？", en_a: "Critical for kitchen (food poisoning) and hospital (infection). Kitchen cleanliness below −2 = significant food poison chance. Hospital cleanliness below 0.60 = infection risk. Sterile tile in both. Doormats or straw matting at entrances reduce tracked-in dirt by 80%.", zh_a: "厨房（食物中毒）和医院（感染）至关重要。厨房清洁度低于 −2 = 明显增加食物中毒概率。医院清洁度低于 0.60 = 感染风险。两者都用无菌地板。入口放门垫或稻草垫能减少 80% 带入的泥土。" },
           ].map((item, i) => (
             <details key={i} className="group rounded-xl border border-[var(--border)] bg-[var(--card)]/30">
               <summary className="cursor-pointer px-5 py-4 text-sm font-medium text-[var(--fg)]/90 list-none marker:hidden flex items-center justify-between">
-                {item.q}<span className="ml-2 text-[var(--muted)] group-open:rotate-45 transition-transform text-xs">+</span>
+                <GuideText en={item.en_q} zh={item.zh_q} /><span className="ml-2 text-[var(--muted)] group-open:rotate-45 transition-transform text-xs">+</span>
               </summary>
-              <p className="px-5 pb-4 text-sm leading-relaxed text-[var(--muted)]">{item.a}</p>
+              <p className="px-5 pb-4 text-sm leading-relaxed text-[var(--muted)]"><GuideText en={item.en_a} zh={item.zh_a} /></p>
             </details>
           ))}
         </div>

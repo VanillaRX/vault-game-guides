@@ -111,18 +111,18 @@ export default function RimWorldDefenseGuide() {
       </section>
 
       <section id="faq" className="border-t border-[var(--border)] pt-8">
-        <h2 className="font-display text-lg font-bold tracking-tight text-[var(--neon)]">FAQ</h2>
+        <h2 className="font-display text-lg font-bold tracking-tight text-[var(--neon)]"><GuideTrans en="FAQ" /></h2>
         <div className="mt-4 space-y-4">
           {[
-            { q: "What's the minimum defense for my first year?", a: "A 7-tile-wide corridor ending in a 9×9 room. 3 sandbag positions for colonists. Wooden traps along the corridor floor. That&apos;s enough for the first 3-4 raids." },
-            { q: "How do I deal with drop pod raids?", a: "Interior turrets in every room. Drop pods bypass outer walls. Keep a shelf with EMP grenades in your dining room. Draft all colonists IMMEDIATELY — don&apos;t wait for them to reach positions." },
-            { q: "Randy Random sent 50 manhunting squirrels. Help?", a: "Block all doors with a drafted colonist standing in the doorway (hold door open). Squirrels can&apos;t break doors fast. Wait 24-48 hours until they fall asleep, then hunt them one by one. Or use a molotov." },
+            { en_q: "What's the minimum defense for my first year?", zh_q: "第一年最少需要什么防御？", en_a: "A 7-tile-wide corridor ending in a 9×9 room. 3 sandbag positions for colonists. Wooden traps along the corridor floor. That's enough for the first 3-4 raids.", zh_a: "一条 7 格宽、尽头是 9×9 房间的通道，3 个殖民者沙袋射击位，通道地上铺满木陷阱。足够扛过前 3-4 波袭击。" },
+            { en_q: "How do I deal with drop pod raids?", zh_q: "空投仓袭击怎么处理？", en_a: "Interior turrets in every room. Drop pods bypass outer walls. Keep a shelf with EMP grenades in your dining room. Draft all colonists IMMEDIATELY — don't wait for them to reach positions.", zh_a: "每个房间内部放炮塔。空投仓会绕过外墙。餐厅里放一个 EMP 手雷架。立刻征召所有殖民者——不要等他们跑到指定位置。" },
+            { en_q: "Randy Random sent 50 manhunting squirrels. Help?", zh_q: "兰迪随机派了 50 只狂暴松鼠，怎么办？", en_a: "Block all doors with a drafted colonist standing in the doorway (hold door open). Squirrels can't break doors fast. Wait 24-48 hours until they fall asleep, then hunt them one by one. Or use a molotov.", zh_a: "征召一个殖民者站在门口堵住门。松鼠拆门很慢。等 24-48 小时它们睡着后一只只猎杀。或者扔个燃烧瓶。" },
           ].map((item, i) => (
             <details key={i} className="group rounded-xl border border-[var(--border)] bg-[var(--card)]/30">
               <summary className="cursor-pointer px-5 py-4 text-sm font-medium text-[var(--fg)]/90 list-none marker:hidden flex items-center justify-between">
-                {item.q}<span className="ml-2 text-[var(--muted)] group-open:rotate-45 transition-transform text-xs">+</span>
+                <GuideText en={item.en_q} zh={item.zh_q} /><span className="ml-2 text-[var(--muted)] group-open:rotate-45 transition-transform text-xs">+</span>
               </summary>
-              <p className="px-5 pb-4 text-sm leading-relaxed text-[var(--muted)]">{item.a}</p>
+              <p className="px-5 pb-4 text-sm leading-relaxed text-[var(--muted)]"><GuideText en={item.en_a} zh={item.zh_a} /></p>
             </details>
           ))}
         </div>

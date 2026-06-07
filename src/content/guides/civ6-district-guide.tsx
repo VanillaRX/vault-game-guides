@@ -302,19 +302,19 @@ export default function Civ6DistrictGuide() {
 
       {/* FAQ */}
       <section id="faq" className="border-t border-[var(--border)] pt-8">
-        <h2 className="font-display text-xl font-bold tracking-tight text-[var(--neon)]">FAQ</h2>
+        <h2 className="font-display text-xl font-bold tracking-tight text-[var(--neon)]"><GuideTrans en="FAQ" /></h2>
         <div className="mt-4 space-y-4">
           {[
-            { q: "What&apos;s the minimum IZ adjacency I should accept?", a: "+4 base (+8 with Craftsmen). Anything less and you&apos;re wasting the Power Plant&apos;s regional effect, which radiates the IZ&apos;s adjacency to all cities within 6 tiles." },
-            { q: "When should I place districts vs improve tiles?", a: "Place districts FIRST — they lock in production cost at the current era. Tile improvements can come later. District cost scales with your tech/civic tree progress. A turn-50 Campus costs half of a turn-200 Campus." },
-            { q: "Best district to build first in a new city?", a: "Depends on victory path. Science: Campus. Culture: Theater Square. Faith: Holy Site. Generalist: Commercial Hub (gold + trade route capacity). Always check terrain first — a +5 Campus beats a +2 CH even if you&apos;re going for gold." },
-            { q: "How does Japan&apos;s Meiji Restoration work?", a: "+1 adjacency per adjacent district (standard is +1 per 2). This means 3 adjacent districts = +3 adjacency (vs normal +1.5). Stack all districts together in a cluster for massive yields. Japan is the best district-clustering civ in the game." },
+            { en_q: "What's the minimum IZ adjacency I should accept?", zh_q: "工业区加成的底线是多少？", en_a: "+4 base (+8 with Craftsmen). Anything less and you're wasting the Power Plant's regional effect, which radiates the IZ's adjacency to all cities within 6 tiles.", zh_a: "基础 +4（配工匠政策卡翻倍到 +8）。低于这个值就是浪费发电站的区域效果——工业区的加成会辐射给 6 格内的所有城市。" },
+            { en_q: "When should I place districts vs improve tiles?", zh_q: "区域和地块改良哪个先放？", en_a: "Place districts FIRST — they lock in production cost at the current era. Tile improvements can come later. District cost scales with your tech/civic tree progress. A turn-50 Campus costs half of a turn-200 Campus.", zh_a: "先放区域——它们会锁定当前时代的生产力花费。地块改良可以后面再搞。区域花费随科技/文化树进度增长，50 回合的学院区成本只有 200 回合的一半。" },
+            { en_q: "Best district to build first in a new city?", zh_q: "新城第一个区域造什么？", en_a: "Depends on victory path. Science: Campus. Culture: Theater Square. Faith: Holy Site. Generalist: Commercial Hub (gold + trade route capacity). Always check terrain first — a +5 Campus beats a +2 CH even if you're going for gold.", zh_a: "看胜利路线。科技：学院区。文化：剧院广场。宗教：圣地。通用：商业中心（金币 + 商路容量）。先看地形——一个 +5 的学院区比 +2 的商业中心强，哪怕你走金币路线。" },
+            { en_q: "How does Japan's Meiji Restoration work?", zh_q: "日本的明治维新怎么用？", en_a: "+1 adjacency per adjacent district (standard is +1 per 2). This means 3 adjacent districts = +3 adjacency (vs normal +1.5). Stack all districts together in a cluster for massive yields. Japan is the best district-clustering civ in the game.", zh_a: "每个相邻区域 +1 加成（正常是每 2 个 +1）。这意味着 3 个相邻区域 = +3 加成（正常只有 +1.5）。把所有区域堆在一起形成集群，获得巨额产出。日本是全游戏最强区域集群文明。" },
           ].map((item, i) => (
             <details key={i} className="group rounded-xl border border-[var(--border)] bg-[var(--card)]/30">
               <summary className="cursor-pointer px-5 py-4 text-sm font-medium text-[var(--fg)]/90 list-none marker:hidden flex items-center justify-between">
-                {item.q}<span className="ml-2 text-[var(--muted)] group-open:rotate-45 transition-transform text-xs">+</span>
+                <GuideText en={item.en_q} zh={item.zh_q} /><span className="ml-2 text-[var(--muted)] group-open:rotate-45 transition-transform text-xs">+</span>
               </summary>
-              <p className="px-5 pb-4 text-sm leading-relaxed text-[var(--muted)]">{item.a}</p>
+              <p className="px-5 pb-4 text-sm leading-relaxed text-[var(--muted)]"><GuideText en={item.en_a} zh={item.zh_a} /></p>
             </details>
           ))}
         </div>
