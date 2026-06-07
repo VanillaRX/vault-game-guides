@@ -26,8 +26,8 @@ const SECRETS: { en: string; zh: string }[] = [
   { en: "RimWorld human leather sofa: 3× price to certain factions. Not a bug — Tynan coded it deliberately.", zh: "边缘世界人皮沙发在特定派系卖3倍。不是bug——Tynan故意写的。" },
 ];
 
-const S = 30; // 30×30 grid
-const PX = 10; // 10px → 300×300 square
+const S = 20; // 20×20 grid
+const PX = 10; // 10px → 200×200 square
 
 // Minecraft dirt / grass block colors
 const DIRT_PALETTE = [
