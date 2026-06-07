@@ -4,7 +4,7 @@ import Link from "next/link";
 import { GameCard } from "@/components/game/game-card";
 import { GAMES, GUIDES } from "@/lib/data";
 import { ArrowRight, Zap, BookOpen, Target } from "lucide-react";
-import { PixelCastle } from "@/components/effects/pixel-castle";
+import { RumorWall } from "@/components/effects/rumor-wall";
 import { PixelGears } from "@/components/effects/pixel-gears";
 import { useLang } from "@/components/layout/lang-context";
 
@@ -60,11 +60,8 @@ export default function Home() {
             </div>
 
             <div className="mt-12 flex justify-center lg:mt-0 lg:shrink-0">
-              <div className="p-6">
-                <PixelCastle />
-                <p className="mt-3 text-center font-mono text-[10px] tracking-wider text-[var(--muted)] animate-pulse-pixel">
-                  {t("pixel.building")}
-                </p>
+              <div className="w-full max-w-sm">
+                <RumorWall />
               </div>
             </div>
           </div>
