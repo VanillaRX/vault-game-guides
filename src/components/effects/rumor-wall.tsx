@@ -53,7 +53,7 @@ function buildPixels() {
 export function RumorWall() {
   const { lang } = useLang();
   const [idx] = useState(() => Math.floor(Math.random() * SECRETS.length));
-  const [breakAt] = useState(() => 7 + Math.floor(Math.random() * 4)); // 7-10
+  const [breakAt] = useState(() => 2 + Math.floor(Math.random() * 3)); // 2-4
   const [pixels, setPixels] = useState(buildPixels);
   const [clicks, setClicks] = useState(0);
   const allDead = pixels.every(p => p.dead);
@@ -69,7 +69,7 @@ export function RumorWall() {
 
       // Pick random alive pixel, kill it + a random cluster around it
       const seed = alive[Math.floor(Math.random() * alive.length)];
-      const killCount = Math.max(5, Math.floor(alive.length * (0.05 + Math.random() * 0.10)));
+      const killCount = Math.max(15, Math.floor(alive.length * (0.20 + Math.random() * 0.25)));
       const targets = new Set<string>();
       targets.add(`${seed.col},${seed.row}`);
 
