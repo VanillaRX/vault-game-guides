@@ -122,15 +122,15 @@ export default function FoundationEconomy() {
         <h2 className="font-display text-xl font-bold tracking-tight text-[var(--neon)]">FAQ</h2>
         <div className="mt-4 space-y-4">
           {[
-            { q: "When should I build the Lord&apos;s Manor?", a: "After your first 15 commoners. The Manor unlocks taxation which funds everything else. Without it, your only income is basic trade — you&apos;ll hit a gold wall around 80 population." },
-            { q: "How do I stop running out of gold?", a: "Three fixes: (1) Check your import bill — are you importing goods you could produce? (2) Promote serfs to commoners near workplaces with all needs met. (3) Focus trade mastery on 2 routes rather than spreading across 5." },
-            { q: "What&apos;s the best luxury good to produce?", a: "Jewelry (50 gold/unit export) but it requires citizens. Second best: Stained Glass (40-55 gold/unit) from sand pits (infinite resource) + quartz. Third: Iron Tools (18-25 gold/unit) — the most reliable mid-game export with the simplest chain." },
+            { en_q: "When should I build the Lord's Manor?", zh_q: "什么时候建领主庄园？", en_a: "After your first 15 commoners. The Manor unlocks taxation which funds everything else. Without it, your only income is basic trade — you'll hit a gold wall around 80 population.", zh_a: "有了 15 个平民之后。庄园解锁税收，税收支撑一切。没有庄园，你的唯一收入来源是基础贸易——80 人口左右就会碰到金币瓶颈。" },
+            { en_q: "How do I stop running out of gold?", zh_q: "金币总是不够用怎么办？", en_a: "Three fixes: (1) Check your import bill — are you importing goods you could produce? (2) Promote serfs to commoners near workplaces with all needs met. (3) Focus trade mastery on 2 routes rather than spreading across 5.", zh_a: "三个解决办法：(1) 检查进口账单——有没有东西是你自己能生产却在进口的？(2) 把需求已满足的农奴晋升为平民。(3) 把贸易精通集中在 2 条路线，不要分散到 5 条。" },
+            { en_q: "What's the best luxury good to produce?", zh_q: "最好的奢侈品是什么？", en_a: "Jewelry (50 gold/unit export) but it requires citizens. Second best: Stained Glass (40-55 gold/unit) from sand pits (infinite resource) + quartz. Third: Iron Tools (18-25 gold/unit) — the most reliable mid-game export with the simplest chain.", zh_a: "珠宝（50 金币/单位出口）但需要市民。第二：彩色玻璃（40-55 金币/单位）来自采砂场（无限资源）+ 石英。第三：铁制工具（18-25 金币/单位）——最可靠的中期出口品，产业链最简单。" },
           ].map((item, i) => (
             <details key={i} className="group rounded-xl border border-[var(--border)] bg-[var(--card)]/30">
               <summary className="cursor-pointer px-5 py-4 text-sm font-medium text-[var(--fg)]/90 list-none marker:hidden flex items-center justify-between">
-                {item.q}<span className="ml-2 text-[var(--muted)] group-open:rotate-45 transition-transform text-xs">+</span>
+                <GuideText en={item.en_q} zh={item.zh_q} /><span className="ml-2 text-[var(--muted)] group-open:rotate-45 transition-transform text-xs">+</span>
               </summary>
-              <p className="px-5 pb-4 text-sm leading-relaxed text-[var(--muted)]">{item.a}</p>
+              <p className="px-5 pb-4 text-sm leading-relaxed text-[var(--muted)]"><GuideText en={item.en_a} zh={item.zh_a} /></p>
             </details>
           ))}
         </div>

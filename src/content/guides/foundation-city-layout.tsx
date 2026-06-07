@@ -135,15 +135,15 @@ export default function FoundationCityLayout() {
         <h2 className="font-display text-xl font-bold tracking-tight text-[var(--neon)]">FAQ</h2>
         <div className="mt-4 space-y-4">
           {[
-            { q: "Why aren&apos;t my villagers building houses?", a: "Check three things: (1) Residential zone is painted — without it, no houses. (2) Zone is within 150m of workplaces. (3) Desirability is above 0. Add a well and decorate with trees (+2 desirability each)." },
-            { q: "How do I promote more villagers to Commoner?", a: "You need: (1) At least 2 food types in the market. (2) Clothing available in a market stall. (3) Church built and staffed. (4) Their house is within 100m of a market. Then click the house and press Promote." },
-            { q: "Best monument to build first?", a: "Village Church. It unlocks faith needs and prevents the 'Mass Exodus' event. Second: Lord&apos;s Manor for taxation income. Third: Grand Fountain for the desirability boost that speeds all future promotions." },
+            { en_q: "Why aren't my villagers building houses?", zh_q: "为什么村民不盖房子？", en_a: "Check three things: (1) Residential zone is painted — without it, no houses. (2) Zone is within 150m of workplaces. (3) Desirability is above 0. Add a well and decorate with trees (+2 desirability each).", zh_a: "检查三点：(1) 住宅区是否划定——没划定就没人盖房。(2) 区域是否在工作地点 150m 以内。(3) 吸引力是否高于 0。加口水井，种些树（每棵树 +2 吸引力）。" },
+            { en_q: "How do I promote more villagers to Commoner?", zh_q: "怎么让更多村民晋升为平民？", en_a: "You need: (1) At least 2 food types in the market. (2) Clothing available in a market stall. (3) Church built and staffed. (4) Their house is within 100m of a market. Then click the house and press Promote.", zh_a: "需要满足：(1) 市场至少有 2 种食物。(2) 市场摊位有衣服卖。(3) 教堂已建好并有神职人员。(4) 他们的房子在市场的 100m 范围内。满足后点房子，按晋升。" },
+            { en_q: "Best monument to build first?", zh_q: "第一个纪念碑造什么？", en_a: "Village Church. It unlocks faith needs and prevents the 'Mass Exodus' event. Second: Lord's Manor for taxation income. Third: Grand Fountain for the desirability boost that speeds all future promotions.", zh_a: "乡村教堂。解锁信仰需求，防止'大规模出逃'事件。第二：领主庄园，开启税收收入。第三：大喷泉，提升吸引力，加速后续所有晋升。" },
           ].map((item, i) => (
             <details key={i} className="group rounded-xl border border-[var(--border)] bg-[var(--card)]/30">
               <summary className="cursor-pointer px-5 py-4 text-sm font-medium text-[var(--fg)]/90 list-none marker:hidden flex items-center justify-between">
-                {item.q}<span className="ml-2 text-[var(--muted)] group-open:rotate-45 transition-transform text-xs">+</span>
+                <GuideText en={item.en_q} zh={item.zh_q} /><span className="ml-2 text-[var(--muted)] group-open:rotate-45 transition-transform text-xs">+</span>
               </summary>
-              <p className="px-5 pb-4 text-sm leading-relaxed text-[var(--muted)]">{item.a}</p>
+              <p className="px-5 pb-4 text-sm leading-relaxed text-[var(--muted)]"><GuideText en={item.en_a} zh={item.zh_a} /></p>
             </details>
           ))}
         </div>

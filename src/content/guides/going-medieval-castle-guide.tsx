@@ -125,15 +125,15 @@ export default function GoingMedievalCastleGuide() {
         <h2 className="font-display text-xl font-bold tracking-tight text-[var(--neon)]">FAQ</h2>
         <div className="mt-4 space-y-4">
           {[
-            { q: "How thick should my outer wall be?", a: "2 tiles minimum. 3 tiles for sections facing the most common raid direction. At 3 tiles, trebuchets take 40+ shots to breach — enough time for your archers to kill the crew." },
-            { q: "Why do my settlers keep having mental breaks?", a: "Check mood tab (click settler → mood). Most common causes: shared bedrooms (build individual rooms), eating raw food (build a kitchen), or no recreation time (schedule 2 hours of 'Anything' per day)." },
-            { q: "Best killbox design for Going Medieval?", a: "Unlike RimWorld, Going Medieval killboxes need verticality. A covered trench (3 tiles deep) in front of your gatehouse, lined with traps, with archers on battlements 2 Z-levels above. Raiders can&apos;t shoot up at a 45° angle — you&apos;re immune to return fire." },
+            { en_q: "How thick should my outer wall be?", zh_q: "外墙要多厚？", en_a: "2 tiles minimum. 3 tiles for sections facing the most common raid direction. At 3 tiles, trebuchets take 40+ shots to breach — enough time for your archers to kill the crew.", zh_a: "最少 2 格厚。面向敌人主攻方向的那段墙要 3 格厚。3 格厚的墙，投石机要 40 发以上才能打破——足够你的弓箭手把操作组干掉。" },
+            { en_q: "Why do my settlers keep having mental breaks?", zh_q: "为什么我的居民总是精神崩溃？", en_a: "Check mood tab (click settler → mood). Most common causes: shared bedrooms (build individual rooms), eating raw food (build a kitchen), or no recreation time (schedule 2 hours of 'Anything' per day).", zh_a: "点居民→心情标签查看。最常见原因：合住（建单人房）、吃生食（建厨房）、没有娱乐时间（每天安排 2 小时'自由活动'）。" },
+            { en_q: "Best killbox design for Going Medieval?", zh_q: "前往中世纪最优杀阵设计？", en_a: "Unlike RimWorld, Going Medieval killboxes need verticality. A covered trench (3 tiles deep) in front of your gatehouse, lined with traps, with archers on battlements 2 Z-levels above. Raiders can't shoot up at a 45° angle — you're immune to return fire.", zh_a: "和边缘世界不同，前往中世纪的杀阵需要利用 Z 轴。在门楼前挖一条 3 格深的有顶壕沟，铺满陷阱，弓箭手站在上方 2 层高的城垛上。掠夺者无法以 45° 角向上射击——你对还击免疫。" },
           ].map((item, i) => (
             <details key={i} className="group rounded-xl border border-[var(--border)] bg-[var(--card)]/30">
               <summary className="cursor-pointer px-5 py-4 text-sm font-medium text-[var(--fg)]/90 list-none marker:hidden flex items-center justify-between">
-                {item.q}<span className="ml-2 text-[var(--muted)] group-open:rotate-45 transition-transform text-xs">+</span>
+                <GuideText en={item.en_q} zh={item.zh_q} /><span className="ml-2 text-[var(--muted)] group-open:rotate-45 transition-transform text-xs">+</span>
               </summary>
-              <p className="px-5 pb-4 text-sm leading-relaxed text-[var(--muted)]">{item.a}</p>
+              <p className="px-5 pb-4 text-sm leading-relaxed text-[var(--muted)]"><GuideText en={item.en_a} zh={item.zh_a} /></p>
             </details>
           ))}
         </div>

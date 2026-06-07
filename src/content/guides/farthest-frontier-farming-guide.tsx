@@ -141,15 +141,15 @@ export default function FarthestFrontierFarmingGuide() {
         <h2 className="font-display text-xl font-bold tracking-tight text-[var(--neon)]">FAQ</h2>
         <div className="mt-4 space-y-4">
           {[
-            { q: "How many farm fields do I need for 100 colonists?", a: "5-6 fields of 8×8 or larger. 2 wheat, 1 flax, 1 cabbage, 1 pea/clover rotation, 1 flex. Plus 2 pastures (sheep + cattle). This feeds ~120 colonists with surplus." },
-            { q: "Why are my crops dying?", a: "Three common causes: (1) Soil fertility below 30% — use clover rotation and compost. (2) Frost before harvest — check the crop calendar. (3) Blight — diversify crops, blight hits monocultures hardest." },
-            { q: "When should I slaughter livestock?", a: "October, before winter. Keep 1 male + 3-4 females for breeding. Slaughter excess juveniles. This reduces winter feed demand by ~40% and provides emergency meat." },
+            { en_q: "How many farm fields do I need for 100 colonists?", zh_q: "100 个殖民者需要多少农田？", en_a: "5-6 fields of 8×8 or larger. 2 wheat, 1 flax, 1 cabbage, 1 pea/clover rotation, 1 flex. Plus 2 pastures (sheep + cattle). This feeds ~120 colonists with surplus.", zh_a: "5-6 块 8×8 以上的田。2 块小麦、1 块亚麻、1 块卷心菜、1 块豌豆/三叶草轮作、1 块灵活田。再加 2 个牧场（羊 + 牛）。能养活约 120 个殖民者还有盈余。" },
+            { en_q: "Why are my crops dying?", zh_q: "为什么我的庄稼总是在死？", en_a: "Three common causes: (1) Soil fertility below 30% — use clover rotation and compost. (2) Frost before harvest — check the crop calendar. (3) Blight — diversify crops, blight hits monocultures hardest.", zh_a: "三个常见原因：(1) 土壤肥力低于 30%——轮作三叶草并施肥。(2) 收获前霜冻——检查作物日历。(3) 枯萎病——多样化种植，单一作物受枯萎病打击最重。" },
+            { en_q: "When should I slaughter livestock?", zh_q: "什么时候宰杀牲畜？", en_a: "October, before winter. Keep 1 male + 3-4 females for breeding. Slaughter excess juveniles. This reduces winter feed demand by ~40% and provides emergency meat.", zh_a: "十月，入冬前。留 1 公 + 3-4 母用于繁殖，多余的幼崽全宰。这样能减少约 40% 的冬季饲料需求，同时提供应急肉食。" },
           ].map((item, i) => (
             <details key={i} className="group rounded-xl border border-[var(--border)] bg-[var(--card)]/30">
               <summary className="cursor-pointer px-5 py-4 text-sm font-medium text-[var(--fg)]/90 list-none marker:hidden flex items-center justify-between">
-                {item.q}<span className="ml-2 text-[var(--muted)] group-open:rotate-45 transition-transform text-xs">+</span>
+                <GuideText en={item.en_q} zh={item.zh_q} /><span className="ml-2 text-[var(--muted)] group-open:rotate-45 transition-transform text-xs">+</span>
               </summary>
-              <p className="px-5 pb-4 text-sm leading-relaxed text-[var(--muted)]">{item.a}</p>
+              <p className="px-5 pb-4 text-sm leading-relaxed text-[var(--muted)]"><GuideText en={item.en_a} zh={item.zh_a} /></p>
             </details>
           ))}
         </div>

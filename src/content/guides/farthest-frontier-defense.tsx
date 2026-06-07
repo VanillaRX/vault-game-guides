@@ -130,15 +130,15 @@ export default function FarthestFrontierDefense() {
         <h2 className="font-display text-xl font-bold tracking-tight text-[var(--neon)]">FAQ</h2>
         <div className="mt-4 space-y-4">
           {[
-            { q: "When should I build my first wall?", a: "Year 2, when population hits 50. Start with a wooden palisade enclosing your core buildings (granary, storehouse, market, root cellar). Expand and upgrade to stone by year 4." },
-            { q: "How many soldiers do I need?", a: "10% of population should be garrison-ready. A 200-pop town needs 20 archers/crossbowmen + 4 soldiers. Maintain arms and armor for all of them in the armory — unequipped soldiers are worse than no soldiers." },
-            { q: "Best defense against battering rams?", a: "Crossbowmen on towers flanking the gate. They have armor-piercing bolts — 4 crossbowmen can kill a battering ram crew before the gate breaks. Also: build the gate on a hill — rams move slower uphill, giving your archers 40% more shooting time." },
+            { en_q: "When should I build my first wall?", zh_q: "什么时候建第一道城墙？", en_a: "Year 2, when population hits 50. Start with a wooden palisade enclosing your core buildings (granary, storehouse, market, root cellar). Expand and upgrade to stone by year 4.", zh_a: "第二年，人口到 50。先用木栅栏围住核心建筑（粮仓、仓库、市场、根窖）。第四年扩建成石墙。" },
+            { en_q: "How many soldiers do I need?", zh_q: "需要多少兵力？", en_a: "10% of population should be garrison-ready. A 200-pop town needs 20 archers/crossbowmen + 4 soldiers. Maintain arms and armor for all of them in the armory — unequipped soldiers are worse than no soldiers.", zh_a: "10% 的人口处于可驻防状态。200 人的城镇需要 20 个弓箭手/弩手 + 4 个士兵。在军械库为所有人备好武器和盔甲——没装备的士兵比没有士兵更糟。" },
+            { en_q: "Best defense against battering rams?", zh_q: "攻城槌怎么对付？", en_a: "Crossbowmen on towers flanking the gate. They have armor-piercing bolts — 4 crossbowmen can kill a battering ram crew before the gate breaks. Also: build the gate on a hill — rams move slower uphill, giving your archers 40% more shooting time.", zh_a: "城门两侧箭塔上放弩手。弩箭可以破甲——4 个弩手能在城门被撞破前干掉攻城槌的操作组。另外：把城门建在坡上——攻城槌上坡速度慢，弓箭手多出 40% 的射击时间。" },
           ].map((item, i) => (
             <details key={i} className="group rounded-xl border border-[var(--border)] bg-[var(--card)]/30">
               <summary className="cursor-pointer px-5 py-4 text-sm font-medium text-[var(--fg)]/90 list-none marker:hidden flex items-center justify-between">
-                {item.q}<span className="ml-2 text-[var(--muted)] group-open:rotate-45 transition-transform text-xs">+</span>
+                <GuideText en={item.en_q} zh={item.zh_q} /><span className="ml-2 text-[var(--muted)] group-open:rotate-45 transition-transform text-xs">+</span>
               </summary>
-              <p className="px-5 pb-4 text-sm leading-relaxed text-[var(--muted)]">{item.a}</p>
+              <p className="px-5 pb-4 text-sm leading-relaxed text-[var(--muted)]"><GuideText en={item.en_a} zh={item.zh_a} /></p>
             </details>
           ))}
         </div>

@@ -115,15 +115,15 @@ export default function Civ6VictoryGuide() {
         <h2 className="font-display text-lg font-bold tracking-tight text-[var(--neon)]">FAQ</h2>
         <div className="mt-4 space-y-4">
           {[
-            { q: "Which victory is easiest for beginners?", a: "Science. It&apos;s the simplest path — build campuses, produce space projects, don&apos;t die. Sim City with a timer. No tourism math or combat required." },
-            { q: "How do I know which victory to pivot to?", a: "Check your terrain at turn 50. Lots of mountains? Science. Lots of chops/hills? Domination. Coastal + natural wonders? Culture. Neighbors are Korea? Abandon science — they&apos;ll out-tech you." },
-            { q: "Best all-rounder leader?", a: "Trajan (Rome). Free monument in every city = early culture + border expansion. Legions (Classical) can dominate early, then pivot to any victory. The most flexible leader in the game." },
+            { en_q: "Which victory is easiest for beginners?", zh_q: "新手最容易走哪种胜利？", en_a: "Science. It's the simplest path — build campuses, produce space projects, don't die. Sim City with a timer. No tourism math or combat required.", zh_a: "科技胜利。最简单的路线——建学院区、造太空项目、别死。带计时器的模拟城市。不需要旅游数学或战斗。" },
+            { en_q: "How do I know which victory to pivot to?", zh_q: "怎么判断该转哪种胜利？", en_a: "Check your terrain at turn 50. Lots of mountains? Science. Lots of chops/hills? Domination. Coastal + natural wonders? Culture. Neighbors are Korea? Abandon science — they'll out-tech you.", zh_a: "第 50 回合看地形。山多？科技。森林/丘陵多？征服。海岸 + 自然奇观？文化。邻居是韩国？放弃科技——你追不上他们的科研速度。" },
+            { en_q: "Best all-rounder leader?", zh_q: "最强的万金油领袖？", en_a: "Trajan (Rome). Free monument in every city = early culture + border expansion. Legions (Classical) can dominate early, then pivot to any victory. The most flexible leader in the game.", zh_a: "图拉真（罗马）。每座城免费纪念碑 = 早期文化 + 自动扩地。古典时代的罗马军团能前期制霸，然后转向任意胜利。全游戏最灵活的领袖。" },
           ].map((item, i) => (
             <details key={i} className="group rounded-xl border border-[var(--border)] bg-[var(--card)]/30">
               <summary className="cursor-pointer px-5 py-4 text-sm font-medium text-[var(--fg)]/90 list-none marker:hidden flex items-center justify-between">
-                {item.q}<span className="ml-2 text-[var(--muted)] group-open:rotate-45 transition-transform text-xs">+</span>
+                <GuideText en={item.en_q} zh={item.zh_q} /><span className="ml-2 text-[var(--muted)] group-open:rotate-45 transition-transform text-xs">+</span>
               </summary>
-              <p className="px-5 pb-4 text-sm leading-relaxed text-[var(--muted)]">{item.a}</p>
+              <p className="px-5 pb-4 text-sm leading-relaxed text-[var(--muted)]"><GuideText en={item.en_a} zh={item.zh_a} /></p>
             </details>
           ))}
         </div>

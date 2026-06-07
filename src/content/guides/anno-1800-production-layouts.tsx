@@ -362,19 +362,19 @@ export default function Anno1800ProductionGuide() {
 
       {/* FAQ */}
       <section id="faq" className="border-t border-[var(--border)] pt-8">
-        <h2 className="font-display text-xl font-bold tracking-tight text-[var(--neon)]">FAQ</h2>
+        <h2 className="font-display text-xl font-bold tracking-tight text-[var(--neon)]"><GuideTrans en="FAQ" /></h2>
         <div className="mt-4 space-y-4">
           {[
-            { q: "What's the most efficient farmer setup?", a: "4 fisheries + 2 framework knitters + 2 potato farms + 1 schnapps distillery. This feeds ~3,200 farmers. Add a second warehouse at 2,500+ farmers." },
-            { q: "How do I know if I&apos;m overproducing?", a: "Open Ctrl+Q (Production Stats). Green bar = production exceeds consumption. Blue bar = balanced (±10%). Red bar = shortage. Aim for blue on all goods. Green above 30% means you&apos;re wasting maintenance." },
-            { q: "Best Trade Union specialist for beginners?", a: "Dario the Mechanical Engineer (Eli Bleakworth&apos;s prison). Eliminates cotton from sewing machines — saves 2+ cotton plantations, a shipping route, and a cotton mill. Best single-item ROI in the game." },
-            { q: "When should I go to the New World?", a: "The moment the expedition unlocks (~2 hours). Delaying means your artisans stall on canned food and rum. Bring 50 timber, 50 steel beams, and 50 bricks on your first ship to build a colony immediately." },
+            { en_q: "What's the most efficient farmer setup?", zh_q: "最高效的农民配置是什么？", en_a: "4 fisheries + 2 framework knitters + 2 potato farms + 1 schnapps distillery. This feeds ~3,200 farmers. Add a second warehouse at 2,500+ farmers.", zh_a: "4 个渔场 + 2 个织布工坊 + 2 个土豆农场 + 1 个烈酒蒸馏厂。能养活约 3200 个农民。超过 2500 农民后加第二个仓库。" },
+            { en_q: "How do I know if I'm overproducing?", zh_q: "怎么知道我是不是生产过剩了？", en_a: "Open Ctrl+Q (Production Stats). Green bar = production exceeds consumption. Blue bar = balanced (±10%). Red bar = shortage. Aim for blue on all goods. Green above 30% means you're wasting maintenance.", zh_a: "打开 Ctrl+Q（生产统计面板）。绿色 = 产量超过消耗。蓝色 = 供需平衡（±10%）。红色 = 短缺。所有物资都争取蓝色。绿色超过 30% 说明你在浪费维护费。" },
+            { en_q: "Best Trade Union specialist for beginners?", zh_q: "新手最值得拿的工会专家？", en_a: "Dario the Mechanical Engineer (Eli Bleakworth's prison). Eliminates cotton from sewing machines — saves 2+ cotton plantations, a shipping route, and a cotton mill. Best single-item ROI in the game.", zh_a: "机械工程师达里奥（伊莱·布利克沃斯的监狱获取）。让缝纫机不再需要棉花——省下 2 个以上的棉花种植园、一条航线和一个轧棉厂。全游戏单项投资回报率最高的物品。" },
+            { en_q: "When should I go to the New World?", zh_q: "什么时候去新世界？", en_a: "The moment the expedition unlocks (~2 hours). Delaying means your artisans stall on canned food and rum. Bring 50 timber, 50 steel beams, and 50 bricks on your first ship to build a colony immediately.", zh_a: "远征解锁的那一刻（大约 2 小时）。拖一天，工匠的罐头和朗姆酒需求就会卡住。第一艘船带 50 原木、50 钢梁、50 砖头，到了就能立刻开建殖民地。" },
           ].map((item, i) => (
             <details key={i} className="group rounded-xl border border-[var(--border)] bg-[var(--card)]/30">
               <summary className="cursor-pointer px-5 py-4 text-sm font-medium text-[var(--fg)]/90 list-none marker:hidden flex items-center justify-between">
-                {item.q}<span className="ml-2 text-[var(--muted)] group-open:rotate-45 transition-transform text-xs">+</span>
+                <GuideText en={item.en_q} zh={item.zh_q} /><span className="ml-2 text-[var(--muted)] group-open:rotate-45 transition-transform text-xs">+</span>
               </summary>
-              <p className="px-5 pb-4 text-sm leading-relaxed text-[var(--muted)]">{item.a}</p>
+              <p className="px-5 pb-4 text-sm leading-relaxed text-[var(--muted)]"><GuideText en={item.en_a} zh={item.zh_a} /></p>
             </details>
           ))}
         </div>

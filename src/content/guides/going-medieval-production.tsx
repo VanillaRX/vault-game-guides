@@ -122,15 +122,15 @@ export default function GoingMedievalProduction() {
         <h2 className="font-display text-xl font-bold tracking-tight text-[var(--neon)]">FAQ</h2>
         <div className="mt-4 space-y-4">
           {[
-            { q: "What&apos;s the most efficient food chain?", a: "Hunt → raw meat → campfire (early) / stove (mid). 1 hunter with skill 10 bow provides enough meat for 5 settlers. Supplement with 1 flax + 1 cabbage field for vegetable variety and clothing material." },
-            { q: "How do I speed up production?", a: "Reduce walking distance. Every workbench should have input stockpiles within 2 tiles. Place related workbenches adjacent: smelter next to blacksmith, loom next to tailor bench. This eliminates 90% of production downtime." },
-            { q: "Should I specialize settlers or make everyone do everything?", a: "Specialize. A ★★ crafter at skill 15 produces 4× faster and at epic quality vs an unstarred settler. Set work priorities so specialists do ONLY their specialty. Non-specialist settlers handle hauling, cleaning, and emergency labor." },
+            { en_q: "What's the most efficient food chain?", zh_q: "最高效的食物链是什么？", en_a: "Hunt → raw meat → campfire (early) / stove (mid). 1 hunter with skill 10 bow provides enough meat for 5 settlers. Supplement with 1 flax + 1 cabbage field for vegetable variety and clothing material.", zh_a: "狩猎 → 生肉 → 篝火（前期）/ 炉灶（中期）。1 个弓技能 10 的猎人能养活 5 个居民。配 1 块亚麻田 + 1 块卷心菜田提供蔬菜和衣料。" },
+            { en_q: "How do I speed up production?", zh_q: "怎么加速生产？", en_a: "Reduce walking distance. Every workbench should have input stockpiles within 2 tiles. Place related workbenches adjacent: smelter next to blacksmith, loom next to tailor bench. This eliminates 90% of production downtime.", zh_a: "缩短步行距离。每个工作台的原料堆放在 2 格以内。相关工作台挨着放：冶炼炉挨着铁匠铺，织布机挨着裁缝台。这样能消除 90% 的生产空转时间。" },
+            { en_q: "Should I specialize settlers or make everyone do everything?", zh_q: "居民该专精还是全能？", en_a: "Specialize. A ★★ crafter at skill 15 produces 4× faster and at epic quality vs an unstarred settler. Set work priorities so specialists do ONLY their specialty. Non-specialist settlers handle hauling, cleaning, and emergency labor.", zh_a: "专精。一个 15 级★★工匠的生产速度是没天赋居民的 4 倍，品质也高得多。工作优先级设置让专精者只做自己擅长的事。非专精居民负责搬运、清洁和应急劳动。" },
           ].map((item, i) => (
             <details key={i} className="group rounded-xl border border-[var(--border)] bg-[var(--card)]/30">
               <summary className="cursor-pointer px-5 py-4 text-sm font-medium text-[var(--fg)]/90 list-none marker:hidden flex items-center justify-between">
-                {item.q}<span className="ml-2 text-[var(--muted)] group-open:rotate-45 transition-transform text-xs">+</span>
+                <GuideText en={item.en_q} zh={item.zh_q} /><span className="ml-2 text-[var(--muted)] group-open:rotate-45 transition-transform text-xs">+</span>
               </summary>
-              <p className="px-5 pb-4 text-sm leading-relaxed text-[var(--muted)]">{item.a}</p>
+              <p className="px-5 pb-4 text-sm leading-relaxed text-[var(--muted)]"><GuideText en={item.en_a} zh={item.zh_a} /></p>
             </details>
           ))}
         </div>
