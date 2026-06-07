@@ -1,8 +1,8 @@
 "use client";
 
-import { useState, useMemo } from "react";
+import { useState } from "react";
 
-const RUMORS = [
+const SECRETS = [
   "🏭 纪元1800里一条完整的投资人供应链需要跨越3个地图、12种以上的中间产品——比现实中维多利亚时代的真实工厂还复杂。",
   "⚓ 纪元1800的贸易船在满载时速度减半，但海盗不会追满载的船——因为沉了也捞不到东西。这个AI逻辑是开发者故意写的。",
   "📊 纪元1800里工程师每天喝掉的咖啡量，折算成现实单位，相当于每栋房子每天消耗2.5公斤咖啡豆。投资人喝香槟更夸张。",
@@ -27,29 +27,31 @@ const RUMORS = [
 
 const GRID_COLS = 5;
 const GRID_ROWS = 3;
-const TOTAL_BLOCKS = GRID_COLS * GRID_ROWS; // 15
+const TOTAL_BLOCKS = GRID_COLS * GRID_ROWS;
 const MAX_CLICKS = 15;
 
+const BLOCK_LABELS = ["挖", "掘", "彩", "蛋", "挖", "掘", "彩", "蛋", "挖", "掘", "彩", "蛋", "挖", "掘", "🔨"];
+
 type BlockState = {
-  hits: number;      // 0-3 clicks taken
-  maxHits: number;   // 1-3 max needed
+  hits: number;
+  maxHits: number;
   broken: boolean;
 };
 
-function getHitText(hitCount: number): string {
-  if (hitCount === 1) return "咔嚓";
-  if (hitCount === 2) return "碎裂";
+function getCrackText(hitCount: number): string {
+  if (hitCount === 1) return "裂了";
+  if (hitCount === 2) return "破了";
   return "";
 }
 
 export function RumorWall() {
-  const [rumorIndex] = useState(() => Math.floor(Math.random() * RUMORS.length));
-  const rumor = RUMORS[rumorIndex];
+  const [secretIndex] = useState(() => Math.floor(Math.random() * SECRETS.length));
+  const secret = SECRETS[secretIndex];
 
   const [blocks, setBlocks] = useState<BlockState[]>(() =>
     Array.from({ length: TOTAL_BLOCKS }, () => ({
       hits: 0,
-      maxHits: Math.floor(Math.random() * 3) + 1, // 1, 2, or 3
+      maxHits: Math.floor(Math.random() * 3) + 1,
       broken: false,
     }))
   );
@@ -73,16 +75,14 @@ export function RumorWall() {
   return (
     <div className="select-none">
       <div className="relative overflow-hidden rounded-xl border border-[var(--border)] bg-[var(--card)]/60">
-        {/* Rumor text behind blocks */}
         <div className="absolute inset-0 flex items-center justify-center p-4">
           <p className={`text-center text-xs sm:text-sm leading-relaxed transition-opacity duration-500 ${
-            allBroken ? "text-[var(--fg)]/90 opacity-100" : "text-[var(--neon)] opacity-40"
+            allBroken ? "text-[var(--fg)]/90 opacity-100" : "text-[var(--neon)] opacity-30"
           }`}>
-            {allBroken ? rumor : "👆 点击方块，破除谣言"}
+            {allBroken ? secret : "👆 点方块，挖彩蛋"}
           </p>
         </div>
 
-        {/* Blocks grid */}
         <div
           className={`relative grid transition-all duration-700 ${
             allBroken ? "opacity-0 pointer-events-none" : "opacity-100"
@@ -107,27 +107,20 @@ export function RumorWall() {
                   ? "bg-[var(--amber)]/80 text-white cursor-pointer active:scale-95"
                   : "bg-red-500/60 text-white/70 cursor-pointer active:scale-95"
               }`}
-              style={{
-                aspectRatio: "1",
-              }}
+              style={{ aspectRatio: "1" }}
             >
-              <span className={`text-center leading-tight px-0.5 ${
-                block.hits >= 2 ? "text-[10px]" : ""
-              }`}>
-                {block.hits === 0
-                  ? i < 3 ? "谣言" : i < 6 ? "破解" : i < 9 ? "点击" : i < 12 ? "查看" : "🔨"
-                  : getHitText(block.hits)}
+              <span className="text-center leading-tight px-0.5">
+                {block.hits === 0 ? BLOCK_LABELS[i] : getCrackText(block.hits)}
               </span>
             </button>
           ))}
         </div>
       </div>
 
-      {/* Click counter */}
       <p className="mt-2 text-center font-mono text-[10px] tracking-wider text-[var(--muted)]">
         {allBroken
-          ? "谣言已破 ✅"
-          : `点击 ${totalClicks}/${MAX_CLICKS} · 剩余 ${MAX_CLICKS - totalClicks} 次`}
+          ? "又挖到一个彩蛋 🥚"
+          : `${totalClicks}/${MAX_CLICKS} · 再来 ${MAX_CLICKS - totalClicks} 下`}
       </p>
     </div>
   );
