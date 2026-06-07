@@ -60,26 +60,24 @@ const PARAGRAPH_ZH: Record<string, string> = {
     "《Foundation》的经济建立在税收与贸易体系之上，居民晋升是核心驱动力。一个农奴每月交 1 金币，一个市民每月交 25 金币，同时消费推动高级产业的奢侈品。本指南涵盖完整的居民晋升路径、贸易路线精通、纪念碑投资回报优化，以及从小村金库到中世纪金融巨头的经济扩张策略。",
 
   // Callout bodies
-  "You only need <b>1 house of each tier</b> to unlock the next tier. Build one worker house → unlock Artisans immediately → then upgrade the rest of your farmers later. This accelerates progression dramatically.":
-    "解锁下一级只需要 <b>1 间房</b>。盖一间工人房 → 马上解锁工匠 → 剩下的农民慢慢升。这么搞，发展速度快一大截。",
-  "<b>Never overproduce intermediate goods.</b> Anno's warehouse system means idle buildings still cost maintenance. Match every intermediate building exactly to its consumer. Use the production statistics screen (Ctrl+Q) religiously.":
-    "<b>绝对不要过度生产中间产品。</b>纪元的仓库系统意味着空闲建筑照样吃维护费。每个中间产品建筑都要精确匹配下游消费者。养成每 15 分钟按 Ctrl+Q 看生产统计的习惯。",
-  "Carts travel at full speed for <b>exactly 17 tiles</b> of road distance from warehouse. Beyond 17 tiles, cart speed drops to walking speed — a <b>72% throughput loss</b>. Paved roads add 0% range but increase cart speed by 50%. Always cluster production within 17 tiles of its warehouse.":
-    "运输车在仓库 17 格道路距离内全速行驶。超过 17 格后速度降到步行——<b>效率损失 72%</b>。石板路不加范围，但车速 +50%。永远让生产建筑聚集在仓库 17 格以内。",
-  "<b>Dario + Printing Press + Feras Alsarami:</b> Dario makes input iron instead of cotton. Printing Press (+25%). Feras (+30% when electrified). Total: <b>+105% sewing machine output</b> with zero cotton cost and reduced workforce. This single TU setup can supply sewing machines for 4,500+ artisans from 1 factory.":
-    "<b>达里奥 + 印刷机 + 费拉斯·阿尔萨拉米：</b>达里奥让原料从棉花变铁。印刷机 (+25%)。费拉斯通电后 (+30%)。合计：<b>+105% 缝纫机产出</b>，零棉花成本，还省工人。这一个工会配置就能让 1 个工厂供 4500+ 工匠。",
-  "This is the tier where <b>production chains go multi-island</b>. Canned Food requires red pepper fertility AND cattle pastures. Fur Coats bridge Old and New World. <b>Build a second Old World island dedicated to artisan production.</b>":
-    "这是一个 <b>产业链开始跨岛</b> 的等级。罐头需要红椒产地和牧场。皮草大衣连接旧世界和新世界。<b>建第二个旧世界岛屿专门做工匠生产。</b>",
-  "Investors don't NEED all luxuries to stay happy. Prioritize <b>Cigars + Chocolate</b> (cheapest chains) before Champagne (glass bottleneck) and Steam Carriages (most complex chain in the game).":
-    "投资人不需要所有奢侈品就能开心。优先做 <b>雪茄+巧克力</b>（成本最低的链），再做香槟（玻璃是瓶颈），最后做蒸汽马车（全游戏最复杂的链）。",
-  "The Arctic has <b>no fertility</b> — all food must be imported or hunted. Caribou and Bears are finite resources on each plateau. <b>Build a dedicated Old World supply island</b> to feed your Arctic colonies. Airships carry 4× more than clippers over Arctic routes.":
-    "北极 <b>没有肥力</b>——所有食物必须进口或狩猎。驯鹿和熊是有限的。<b>建一个专门的旧世界供应岛</b>养活你的北极殖民地。飞艇运量是快船的 4 倍。",
-  "A building under electricity produces at <b>200%</b> (base 100% + 100% electricity bonus). This means a chain that required 4 buildings now requires 2. <b>Electricity effectively doubles your island's production capacity.</b> Always electrify your highest-value chains first: Spectacles, Light Bulbs, and Steam Motors.":
-    "通电后的建筑产出 <b>200%</b>（基础 100% + 电力加成 100%）。意味着一套需要 4 个建筑的链只需要 2 个。<b>电力实质上是把岛屿产能翻倍。</b>最先通电的应该是你最有价值的链：眼镜、灯泡、蒸汽发动机。",
-  "The single biggest beginner mistake: dashing <b>away</b> from the triple slash instead of <b>through</b> it. Shadow dash through gives you 3-4 free hits on his back.":
-    "新手最大的错误：三段斩往 <b>后退</b> 而不是 <b>穿过去</b>。暗影冲刺穿过去能打到他背后 3-4 下。",
-  "The chandelier trick permanently removes one Watcher Knight. Enter the room above the arena, break the ceiling, and the chandelier crushes one. This is <b>intentional game design</b>, not a glitch.":
-    "吊灯技巧能永久移除一个守望者骑士。进入竞技场上方的房间，打破天花板，吊灯会砸死一个。这是 <b>设计师故意留的设计</b>，不是 bug。",
+  "Never overproduce intermediate goods. Anno's warehouse system means idle buildings still cost maintenance. Match every intermediate building exactly to its consumer. Use the production statistics screen (Ctrl+Q) religiously.":
+    "绝对不要过度生产中间产品。纪元的仓库系统意味着空闲建筑照样吃维护费。每个中间产品建筑都要精确匹配下游消费者。养成每 15 分钟按 Ctrl+Q 看生产统计的习惯。",
+  "Carts travel at full speed for exactly 17 tiles of road distance from warehouse. Beyond 17 tiles, cart speed drops to walking speed — a 72% throughput loss. Paved roads add 0% range but increase cart speed by 50%. Always cluster production within 17 tiles of its warehouse.":
+    "运输车在仓库 17 格道路距离内全速行驶。超过 17 格后速度降到步行——效率损失 72%。石板路不加范围，但车速 +50%。永远让生产建筑聚集在仓库 17 格以内。",
+  "Dario + Printing Press + Feras Alsarami: Dario makes input iron instead of cotton. Printing Press (+25%). Feras (+30% when electrified). Total: +105% sewing machine output with zero cotton cost and reduced workforce. This single TU setup can supply sewing machines for 4,500+ artisans from 1 factory.":
+    "达里奥 + 印刷机 + 费拉斯·阿尔萨拉米：达里奥让原料从棉花变铁。印刷机 (+25%)。费拉斯通电后 (+30%)。合计：+105% 缝纫机产出，零棉花成本，还省工人。这一个工会配置就能让 1 个工厂供 4500+ 工匠。",
+  "This is the tier where production chains go multi-island. Canned Food requires red pepper fertility AND cattle pastures. Fur Coats bridge Old and New World. Build a second Old World island dedicated to artisan production.":
+    "这是一个产业链开始跨岛的等级。罐头需要红椒产地和牧场。皮草大衣连接旧世界和新世界。建第二个旧世界岛屿专门做工匠生产。",
+  "Investors do not NEED all luxuries to stay happy. Prioritize Cigars + Chocolate (cheapest chains) before Champagne (glass bottleneck) and Steam Carriages (most complex chain in the game).":
+    "投资人不需要所有奢侈品就能开心。优先做雪茄+巧克力（成本最低的链），再做香槟（玻璃是瓶颈），最后做蒸汽马车（全游戏最复杂的链）。",
+  "The Arctic has no fertility — all food must be imported or hunted. Caribou and Bears are finite resources on each plateau. Build a dedicated Old World supply island to feed your Arctic colonies. Airships carry 4x more than clippers over Arctic routes.":
+    "北极没有肥力——所有食物必须进口或狩猎。驯鹿和熊是有限的。建一个专门的旧世界供应岛养活你的北极殖民地。飞艇运量是快船的 4 倍。",
+  "A building under electricity produces at 200% (base 100% + 100% electricity bonus). This means a chain that required 4 buildings now requires 2. Electricity effectively doubles your island's production capacity. Always electrify your highest-value chains first: Spectacles, Light Bulbs, and Steam Motors.":
+    "通电后的建筑产出 200%（基础 100% + 电力加成 100%）。意味着一套需要 4 个建筑的链只需要 2 个。电力实质上是把岛屿产能翻倍。最先通电的应该是你最有价值的链：眼镜、灯泡、蒸汽发动机。",
+  "The single biggest beginner mistake: dashing away from the triple slash instead of through it. Shadow dash through gives you 3-4 free hits on his back.":
+    "新手最大的错误：三段斩往后退而不是穿过去。暗影冲刺穿过去能打到他背后 3-4 下。",
+  "The chandelier trick permanently removes one Watcher Knight. Enter the room above the arena, break the ceiling, and the chandelier crushes one. This is intentional game design, not a glitch.":
+    "吊灯技巧能永久移除一个守望者骑士。进入竞技场上方的房间，打破天花板，吊灯会砸死一个。这是设计师故意留的设计，不是 bug。",
   "Stone roads double cart speed. Place them between every warehouse and its production cluster. The stone cost is negligible compared to the efficiency gain.":
     "石板路让运输车速度翻倍。每个仓库到它服务的生产区之间全铺上。石头的成本跟它带来的效率提升比——几乎可以忽略。",
 };
