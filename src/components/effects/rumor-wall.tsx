@@ -99,14 +99,14 @@ export function RumorWall() {
     <div className="select-none">
       <div className="relative overflow-hidden rounded-xl border border-[var(--border)] bg-[var(--card)]/60"
            style={{ width: S * PX + 8, height: S * PX + 34, margin: "0 auto" }}>
-        {/* Secret text below — same dimensions as block */}
+        {/* Secret text behind block */}
         <div className="absolute inset-0 flex items-center justify-center p-3 z-0">
-          <div className={`w-full text-center transition-all duration-500 ${
-            allDead ? "opacity-100 scale-100" : "opacity-0 scale-90"
-          }`}>
-            <p className="text-sm leading-relaxed text-[var(--fg)]/90">
+          <div className="w-full text-center">
+            <p className="text-sm leading-relaxed text-[var(--fg)]/70">
               <span className="font-bold text-[var(--neon)]">{lang === "zh" ? "趣闻传言：" : "Fun Fact: "}</span>
-              {lang === "zh" ? secret.zh : secret.en}
+              <span className={`transition-opacity duration-500 ${allDead ? "opacity-100" : "opacity-0"}`}>
+                {lang === "zh" ? secret.zh : secret.en}
+              </span>
             </p>
           </div>
         </div>
