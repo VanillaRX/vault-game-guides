@@ -94,7 +94,8 @@ export default function Anno1800ProductionGuide() {
           </table>
         </div>
 
-        <Callout type="strategy" title="Artisan Pivot Point">
+        <Callout type="strategy" title="Artisan Pivot Point"
+          zh="这是<b>产业链开始跨岛</b>的等级。罐头需要红椒产地和牧场。皮草大衣连接旧世界和新世界。<b>建第二个旧世界岛屿专门做工匠生产。</b>">
           This is the tier where <b>production chains go multi-island</b>. Canned Food requires red pepper fertility AND cattle pastures. Fur Coats bridge Old and New World. <b>Build a second Old World island dedicated to artisan production.</b>
         </Callout>
       </section>
@@ -149,7 +150,8 @@ export default function Anno1800ProductionGuide() {
           </table>
         </div>
 
-        <Callout type="tip" title="Investor Goods Are Luxury">
+        <Callout type="tip" title="Investor Goods Are Luxury"
+          zh="投资人不需要所有奢侈品就能开心。优先做<b>雪茄+巧克力</b>（成本最低的链），再做香槟（玻璃是瓶颈），最后做蒸汽马车（全游戏最复杂的链）。">
           Investors don&apos;t NEED all luxuries to stay happy. Prioritize <b>Cigars + Chocolate</b> (cheapest chains) before Champagne (glass bottleneck) and Steam Carriages (most complex chain in the game).
         </Callout>
       </section>
@@ -215,7 +217,8 @@ export default function Anno1800ProductionGuide() {
           </table>
         </div>
 
-        <Callout type="warning" title="Arctic Logistics">
+        <Callout type="warning" title="Arctic Logistics"
+          zh="北极<b>没有肥力</b>——所有食物必须进口或狩猎。驯鹿和熊是每个高原上的有限资源。<b>建一个专门的旧世界供应岛</b>养活北极殖民地。飞艇在北极航线上的运量是快船的4倍。">
           The Arctic has <b>no fertility</b> — all food must be imported or hunted. Caribou and Bears are finite resources on each plateau. <b>Build a dedicated Old World supply island</b> to feed your Arctic colonies. Airships carry 4× more than clippers over Arctic routes.
         </Callout>
       </section>
@@ -246,7 +249,8 @@ export default function Anno1800ProductionGuide() {
           </table>
         </div>
 
-        <Callout type="info" title="Water Is Enbesa&apos;s Currency">
+        <Callout type="info" title="Water Is Enbesa&apos;s Currency"
+          zh="安贝沙每条产业链都靠灌溉水渠供水。每个水泵大约支持12格灌溉土地。<b>先确定水泵位置再建农场。</b>水渠不能穿过马路除非架桥——路最后修。">
           Every Enbesan chain requires water from irrigation canals. Each water pump supports ~12 tiles of irrigated land. <b>Plan your pump placement BEFORE building farms.</b> Canals can&apos;t cross roads without bridges — build roads LAST.
         </Callout>
       </section>
@@ -276,7 +280,8 @@ export default function Anno1800ProductionGuide() {
           </table>
         </div>
 
-        <Callout type="strategy" title="The 17-Tile Rule">
+        <Callout type="strategy" title="The 17-Tile Rule"
+          zh="运输车在仓库<b>正好17格</b>道路距离内全速行驶。超过17格后速度降到步行——<b>效率损失72%</b>。石板路不加范围，但车速+50%。永远让生产建筑聚集在仓库17格以内。">
           Carts travel at full speed for <b>exactly 17 tiles</b> of road distance from warehouse. Beyond 17 tiles, cart speed drops to walking speed — a <b>72% throughput loss</b>. Paved roads add 0% range but increase cart speed by 50%. Always cluster production within 17 tiles of its warehouse.
         </Callout>
 
@@ -322,7 +327,8 @@ export default function Anno1800ProductionGuide() {
           </table>
         </div>
 
-        <Callout type="strategy" title="Stacking Multiplier Example">
+        <Callout type="strategy" title="Stacking Multiplier Example"
+          zh="<b>达里奥+印刷机+费拉斯·阿尔萨拉米：</b>达里奥让原料从棉花变铁。印刷机(+25%)。费拉斯通电后(+30%)。合计：<b>+105%缝纫机产出</b>，零棉花成本，还省工人。这一个工会配置就能让1个工厂供4500+工匠。">
           <b>Dario + Printing Press + Feras Alsarami:</b> Dario makes input iron instead of cotton. Printing Press (+25%). Feras (+30% when electrified). Total: <b>+105% sewing machine output</b> with zero cotton cost and reduced workforce. This single TU setup can supply sewing machines for 4,500+ artisans from 1 factory.
         </Callout>
       </section>
@@ -351,11 +357,13 @@ export default function Anno1800ProductionGuide() {
           </table>
         </div>
 
-        <Callout type="info" title="Electricity Math">
+        <Callout type="info" title="Electricity Math"
+          zh="通电后的建筑产出<b>200%</b>（基础100%+电力加成100%）。意味着一套需要4个建筑的链只需要2个。<b>电力实质上是把岛屿产能翻倍。</b>最先通电的应该是你最有价值的链：眼镜、灯泡、蒸汽发动机。">
           A building under electricity produces at <b>200%</b> (base 100% + 100% electricity bonus). This means a chain that required 4 buildings now requires 2. <b>Electricity effectively doubles your island&apos;s production capacity.</b> Always electrify your highest-value chains first: Spectacles, Light Bulbs, and Steam Motors.
         </Callout>
 
-        <Callout type="tip" title="Power Plant Placement">
+        <Callout type="tip" title="Power Plant Placement"
+          zh="发电站放在工业区的<b>正中心</b>。45格半径基本覆盖一个中型岛屿的全部可建造区域。多个发电站的范围重叠不会叠加效果——不要贴着建两个。用你在新世界第一个炼油厂生产的油。">
           Place the power plant at the <b>center</b> of your industrial district. The 45-tile radius covers roughly the entire buildable area of a medium island. Overlap from multiple plants does NOT stack — don&apos;t build two plants near each other. Use the oil from your first refinery in the New World.
         </Callout>
       </section>
