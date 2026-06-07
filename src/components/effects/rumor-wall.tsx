@@ -26,146 +26,61 @@ const SECRETS: { en: string; zh: string }[] = [
   { en: "RimWorld human leather sofa: 3× price to certain factions. Not a bug — Tynan coded it deliberately.", zh: "边缘世界人皮沙发在特定派系卖3倍。不是bug——Tynan故意写的。" },
 ];
 
-// Minecraft dirt block colors
-const DIRT_COLORS = [
-  "#6B4226", "#5C3A1E", "#7B5232", "#8B5A2B",
-  "#4A3728", "#3D2B1F", "#6B4F3A", "#5A3D28",
-  "#8B6B4A", "#7B5A3A", "#9B7B5A", "#6B5B3A",
-  "#5D8A3C", "#6B9B37", "#4A7A2B", "#3D6B1F",
-];
+const COLS = 5;
+const ROWS = 3;
+const TOTAL = COLS * ROWS;
+const BLOCK_LABELS = ["挖", "掘", "彩", "蛋", "挖", "掘", "彩", "蛋", "挖", "掘", "彩", "蛋", "挖", "掘", "🔨"];
 
-const W = 24; // columns (wide)
-const H = 12; // rows
-const PX = 6; // pixel size
-
-function buildPixels() {
-  const pixels: { col: number; row: number; color: string; dead: boolean }[] = [];
-  for (let r = 0; r < H; r++) {
-    for (let c = 0; c < W; c++) {
-      const isGrass = r < 2;
-      const colorIdx = isGrass
-        ? 12 + (c % 4)
-        : Math.floor(Math.random() * 12);
-      pixels.push({ col: c, row: r, color: DIRT_COLORS[colorIdx], dead: false });
-    }
-  }
-  return pixels;
-}
-
-// Find connected clusters of alive pixels — for natural-looking breakage
-function getNeighbors(col: number, row: number): [number, number][] {
-  return [
-    [col - 1, row], [col + 1, row],
-    [col, row - 1], [col, row + 1],
-  ].filter(([c, r]) => c >= 0 && c < W && r >= 0 && r < H) as [number, number][];
-}
+type Block = { hits: number; maxHits: number; broken: boolean };
 
 export function RumorWall() {
   const { lang } = useLang();
-  const [secretIdx] = useState(() => Math.floor(Math.random() * SECRETS.length));
-  const [breakAt] = useState(() => 7 + Math.floor(Math.random() * 4)); // 7-10
+  const [idx] = useState(() => Math.floor(Math.random() * SECRETS.length));
+  const [blocks, setBlocks] = useState<Block[]>(() =>
+    Array.from({ length: TOTAL }, () => ({ hits: 0, maxHits: 1 + Math.floor(Math.random() * 3), broken: false }))
+  );
+  const allBroken = blocks.every((b) => b.broken);
+  const clicks = blocks.reduce((s, b) => s + b.hits, 0);
 
-  const [pixels, setPixels] = useState(() => buildPixels());
-  const [clicks, setClicks] = useState(0);
-  const [broken, setBroken] = useState(false);
-
-  const handleClick = () => {
-    if (broken) return;
-    const newClicks = clicks + 1;
-    setClicks(newClicks);
-
-    setPixels((prev) => {
-      const alive = prev.filter((p) => !p.dead);
-      if (alive.length === 0 || newClicks >= breakAt) {
-        return prev.map((p) => ({ ...p, dead: true }));
-      }
-
-      // Pick a random seed pixel from alive ones, flood its neighbors into a small cluster
-      const seed = alive[Math.floor(Math.random() * alive.length)];
-      const cluster = new Set<string>();
-      const queue: [number, number][] = [[seed.col, seed.row]];
-      const killTotal = Math.max(4, Math.floor(alive.length * (0.04 + Math.random() * 0.10)));
-
-      while (queue.length > 0 && cluster.size < killTotal) {
-        const [c, r] = queue.shift()!;
-        const key = `${c},${r}`;
-        if (cluster.has(key)) continue;
-        if (c < 0 || c >= W || r < 0 || r >= H) continue;
-        const p = prev[c + r * W];
-        if (p.dead) continue;
-        cluster.add(key);
-        // Randomly add neighbors
-        for (const [nc, nr] of getNeighbors(c, r)) {
-          if (Math.random() < 0.6) queue.push([nc, nr]);
-        }
-      }
-
-      return prev.map((p, i) => {
-        if (cluster.has(`${p.col},${p.row}`)) return { ...p, dead: true };
-        return p;
-      });
+  const hit = (i: number) => {
+    if (allBroken) return;
+    setBlocks((p) => {
+      const b = p[i];
+      if (b.broken) return p;
+      const h = b.hits + 1;
+      const n = [...p];
+      n[i] = { ...b, hits: h, broken: h >= b.maxHits };
+      return n;
     });
-
-    if (newClicks >= breakAt) {
-      setTimeout(() => setBroken(true), 400);
-    }
   };
 
-  const secret = SECRETS[secretIdx];
-  const alive = pixels.filter((p) => !p.dead).length;
-  const total = W * H;
+  const s = SECRETS[idx];
 
   return (
     <div className="select-none">
-      <div className="relative overflow-hidden rounded-xl border border-[var(--border)] bg-[var(--card)]/60"
-           style={{ minHeight: H * PX + 32 + 56 }}>
-        <div className="absolute inset-0 flex items-center justify-center p-4 z-0">
-          <p className={`text-center text-xs leading-relaxed transition-all duration-700 max-w-md ${
-            broken ? "text-[var(--fg)]/90 opacity-100 scale-100" : "text-[var(--neon)] opacity-15 scale-90"
+      <div className="relative overflow-hidden rounded-xl border border-[var(--border)] bg-[var(--card)]/60" style={{ minHeight: 120 }}>
+        <div className="absolute inset-0 flex items-center justify-center p-3 z-0">
+          <p className={`text-center text-xs leading-relaxed transition-opacity duration-500 ${
+            allBroken ? "text-[var(--fg)]/90 opacity-100" : "text-[var(--neon)] opacity-20"
           }`}>
-            {lang === "zh" ? secret.zh : secret.en}
+            {allBroken ? (lang === "zh" ? s.zh : s.en) : (lang === "zh" ? "👆 点方块，挖彩蛋" : "👆 Tap the blocks")}
           </p>
         </div>
-
-        {/* Dirt block */}
-        <div
-          className={`absolute inset-0 flex items-center justify-center z-10 ${
-            broken ? "opacity-0 pointer-events-none transition-opacity duration-500" : "opacity-100"
-          }`}
-        >
-          <button
-            onClick={handleClick}
-            className="relative cursor-pointer active:scale-[0.98] transition-transform duration-100"
-            style={{ width: W * PX, height: H * PX }}
-          >
-            {pixels.map((p, i) => (
-              <span
-                key={i}
-                className="absolute inline-block transition-all duration-400"
-                style={{
-                  left: p.col * PX,
-                  top: p.row * PX,
-                  width: PX + 0.5,
-                  height: PX + 0.5,
-                  backgroundColor: p.dead ? "transparent" : p.color,
-                  borderRadius: p.row < 2 ? 0.5 : 0,
-                  opacity: p.dead ? 0 : 1,
-                  transform: p.dead ? `translate(${(Math.random()-0.5)*8}px, ${(Math.random()-0.5)*8}px) scale(0)` : "none",
-                  transitionDelay: p.dead ? `${Math.floor(Math.random() * 150)}ms` : "0ms",
-                }}
-              />
-            ))}
-          </button>
+        <div className={`relative grid z-10 transition-opacity duration-500 ${allBroken ? "opacity-0 pointer-events-none" : ""}`}
+             style={{ gridTemplateColumns: `repeat(${COLS}, 1fr)`, gridTemplateRows: `repeat(${ROWS}, 1fr)`, minHeight: 120 }}>
+          {blocks.map((b, i) => (
+            <button key={i} onClick={() => hit(i)}
+              className={`flex items-center justify-center border border-black/20 text-[11px] font-bold transition-all duration-200
+                ${b.broken ? "opacity-0 scale-50 pointer-events-none" : b.hits === 0 ? "bg-[var(--accent)]/80 hover:bg-[var(--accent)] text-white active:scale-95" : b.hits === 1 ? "bg-[var(--amber)]/80 text-white active:scale-95" : "bg-red-500/60 text-white/70 active:scale-95"}`}
+              style={{ aspectRatio: "1" }}>
+              {b.hits === 0 ? BLOCK_LABELS[i] : b.hits === 1 ? "裂" : "碎"}
+            </button>
+          ))}
         </div>
       </div>
-
       <p className="mt-2 text-center font-mono text-[10px] tracking-wider text-[var(--muted)]">
-        {broken
-          ? (lang === "zh" ? "全碎了 💥" : "All gone! 💥")
-          : (lang === "zh"
-            ? `还剩 ${Math.round((alive/total)*100)}% · 第 ${clicks} 下`
-            : `${Math.round((alive/total)*100)}% left · click ${clicks}`)
-        }
+        {allBroken ? (lang === "zh" ? "又挖到一个彩蛋 🥚" : "Found a secret! 🥚")
+          : (lang === "zh" ? `${clicks} 下` : `${clicks} taps`)}
       </p>
     </div>
   );
