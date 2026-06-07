@@ -101,8 +101,8 @@ export default async function GuidePage({ params }: Props) {
               <Bilingual en={guide.description} zh={guide.zhDescription} />
             </p>
             <div className="mt-4 flex items-center gap-5 text-xs text-[var(--muted)]/60">
-              <span>{guide.estimatedReadTime} min read</span>
-              <span>{guide.wordCount.toLocaleString()} words</span>
+              <span>{guide.estimatedReadTime} <Suspense><UseT k="minRead" /></Suspense></span>
+              <span>{guide.wordCount.toLocaleString()} <Suspense><UseT k="words" /></Suspense></span>
               <span>{guide.publishDate}</span>
             </div>
             {game && (

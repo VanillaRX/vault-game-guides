@@ -20,7 +20,8 @@ export default function RimWorldDefenseGuide() {
       <section id="section-0">
         <h2 className="font-display text-lg font-bold tracking-tight text-[var(--neon)]">🎯 Cover Mechanics: The Math</h2>
         <p className="mt-3 text-sm text-[var(--fg)]/80">
-          RimWorld&apos;s combat is a dice roll. Cover reduces the attacker&apos;s hit chance. <b>Stacking cover is multiplicative, not additive.</b>
+          <GuideText en="RimWorld's combat is a dice roll. Cover reduces the attacker's hit chance. <b>Stacking cover is multiplicative, not additive.</b>"
+            zh="边缘世界的战斗是掷骰子。掩体降低攻击方的命中率。<b>掩体叠乘是乘法，不是加法。</b>" />
         </p>
 
         <div className="mt-3 overflow-x-auto rounded-xl border border-[var(--border)]">
@@ -63,7 +64,7 @@ export default function RimWorldDefenseGuide() {
                 <h4 className="font-semibold text-sm text-[var(--fg)]">{kb.name}</h4>
               </div>
               <p className="mt-2 text-xs leading-relaxed text-[var(--muted)]" dangerouslySetInnerHTML={{ __html: kb.desc }} />
-              <p className="mt-2 text-[10px] text-[var(--neon)]"><b>Best for:</b> {kb.best}</p>
+              <p className="mt-2 text-[10px] text-[var(--neon)]"><GuideText en="Best for:" zh="适用：" /> {kb.best}</p>
             </div>
           ))}
         </div>
@@ -72,7 +73,8 @@ export default function RimWorldDefenseGuide() {
       <section id="section-2">
         <h2 className="font-display text-lg font-bold tracking-tight text-[var(--neon)]">🧱 Sapper-Proofing Your Base</h2>
         <p className="mt-3 text-sm text-[var(--fg)]/80">
-          Sapper raids <b>ignore killboxes</b>. They mine through walls and mountains to reach your bedrooms. Counter-strategies:
+          <GuideText en="Sapper raids <b>ignore killboxes</b>. They mine through walls and mountains to reach your bedrooms. Counter-strategies:"
+            zh="工兵袭击<b>无视杀阵</b>。他们会挖穿墙壁和山体，直奔你的卧室。应对策略：" />
         </p>
 
         <div className="mt-3 space-y-2">
