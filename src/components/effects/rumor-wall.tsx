@@ -26,61 +26,116 @@ const SECRETS: { en: string; zh: string }[] = [
   { en: "RimWorld human leather sofa: 3× price to certain factions. Not a bug — Tynan coded it deliberately.", zh: "边缘世界人皮沙发在特定派系卖3倍。不是bug——Tynan故意写的。" },
 ];
 
-const COLS = 5;
-const ROWS = 3;
-const TOTAL = COLS * ROWS;
-const BLOCK_LABELS = ["挖", "掘", "彩", "蛋", "挖", "掘", "彩", "蛋", "挖", "掘", "彩", "蛋", "挖", "掘", "🔨"];
+const S = 16; // 16×16 dirt block
+const PX = 14; // pixels per "block pixel" — big
 
-type Block = { hits: number; maxHits: number; broken: boolean };
+// Minecraft dirt / grass block colors
+const DIRT_PALETTE = [
+  "#6B4226", "#5C3A1E", "#7B5232", "#8B5A2B",
+  "#4A3728", "#3D2B1F", "#6B4F3A", "#5A3D28",
+  "#8B6B4A", "#7B5A3A", "#9B7B5A", "#6B5B3A",
+];
+const GRASS_PALETTE = ["#5D8A3C", "#6B9B37", "#4A7A2B", "#3D6B1F", "#7BA84A", "#558B2F"];
+
+function pixelColor(row: number, col: number): string {
+  if (row < 3) return GRASS_PALETTE[(col + row * 3) % GRASS_PALETTE.length];
+  return DIRT_PALETTE[(col * 7 + row * 13) % DIRT_PALETTE.length];
+}
+
+function buildPixels() {
+  const ps: { col: number; row: number; color: string; dead: boolean }[] = [];
+  for (let r = 0; r < S; r++)
+    for (let c = 0; c < S; c++)
+      ps.push({ col: c, row: r, color: pixelColor(r, c), dead: false });
+  return ps;
+}
 
 export function RumorWall() {
   const { lang } = useLang();
   const [idx] = useState(() => Math.floor(Math.random() * SECRETS.length));
-  const [blocks, setBlocks] = useState<Block[]>(() =>
-    Array.from({ length: TOTAL }, () => ({ hits: 0, maxHits: 1 + Math.floor(Math.random() * 3), broken: false }))
-  );
-  const allBroken = blocks.every((b) => b.broken);
-  const clicks = blocks.reduce((s, b) => s + b.hits, 0);
+  const [breakAt] = useState(() => 7 + Math.floor(Math.random() * 4)); // 7-10
+  const [pixels, setPixels] = useState(buildPixels);
+  const [clicks, setClicks] = useState(0);
+  const allDead = pixels.every(p => p.dead);
 
-  const hit = (i: number) => {
-    if (allBroken) return;
-    setBlocks((p) => {
-      const b = p[i];
-      if (b.broken) return p;
-      const h = b.hits + 1;
-      const n = [...p];
-      n[i] = { ...b, hits: h, broken: h >= b.maxHits };
-      return n;
+  const click = () => {
+    if (allDead) return;
+    const c = clicks + 1;
+    setClicks(c);
+
+    setPixels(prev => {
+      const alive = prev.filter(p => !p.dead);
+      if (alive.length === 0 || c >= breakAt) return prev.map(p => ({ ...p, dead: true }));
+
+      // Pick random alive pixel, kill it + a random cluster around it
+      const seed = alive[Math.floor(Math.random() * alive.length)];
+      const killCount = Math.max(5, Math.floor(alive.length * (0.05 + Math.random() * 0.10)));
+      const targets = new Set<string>();
+      targets.add(`${seed.col},${seed.row}`);
+
+      // BFS from seed
+      const q: [number, number][] = [[seed.col, seed.row]];
+      while (q.length && targets.size < killCount) {
+        const [x, y] = q.shift()!;
+        for (const [nx, ny] of [[x-1,y],[x+1,y],[x,y-1],[x,y+1]]) {
+          if (nx < 0 || nx >= S || ny < 0 || ny >= S) continue;
+          const k = `${nx},${ny}`;
+          if (targets.has(k)) continue;
+          if (prev[nx + ny * S].dead) continue;
+          if (Math.random() < 0.5) {
+            targets.add(k);
+            q.push([nx, ny]);
+          }
+        }
+      }
+
+      return prev.map((p, i) => targets.has(`${p.col},${p.row}`) ? { ...p, dead: true } : p);
     });
   };
 
-  const s = SECRETS[idx];
+  const secret = SECRETS[idx];
 
   return (
     <div className="select-none">
-      <div className="relative overflow-hidden rounded-xl border border-[var(--border)] bg-[var(--card)]/60" style={{ minHeight: 120 }}>
-        <div className="absolute inset-0 flex items-center justify-center p-3 z-0">
-          <p className={`text-center text-xs leading-relaxed transition-opacity duration-500 ${
-            allBroken ? "text-[var(--fg)]/90 opacity-100" : "text-[var(--neon)] opacity-20"
+      <div className="relative overflow-hidden rounded-xl border border-[var(--border)] bg-[var(--card)]/60"
+           style={{ minHeight: S * PX + 40 + 60 }}>
+        <div className="absolute inset-0 flex items-center justify-center p-4 z-0">
+          <p className={`text-center text-xs leading-relaxed transition-all duration-500 max-w-md ${
+            allDead ? "text-[var(--fg)]/90 opacity-100 scale-100" : "text-[var(--neon)] opacity-15 scale-90"
           }`}>
-            {allBroken ? (lang === "zh" ? s.zh : s.en) : (lang === "zh" ? "👆 点方块，挖彩蛋" : "👆 Tap the blocks")}
+            {allDead ? (lang === "zh" ? secret.zh : secret.en) : (lang === "zh" ? "👆 点它" : "👆 Tap it")}
           </p>
         </div>
-        <div className={`relative grid z-10 transition-opacity duration-500 ${allBroken ? "opacity-0 pointer-events-none" : ""}`}
-             style={{ gridTemplateColumns: `repeat(${COLS}, 1fr)`, gridTemplateRows: `repeat(${ROWS}, 1fr)`, minHeight: 120 }}>
-          {blocks.map((b, i) => (
-            <button key={i} onClick={() => hit(i)}
-              className={`flex items-center justify-center border border-black/20 text-[11px] font-bold transition-all duration-200
-                ${b.broken ? "opacity-0 scale-50 pointer-events-none" : b.hits === 0 ? "bg-[var(--accent)]/80 hover:bg-[var(--accent)] text-white active:scale-95" : b.hits === 1 ? "bg-[var(--amber)]/80 text-white active:scale-95" : "bg-red-500/60 text-white/70 active:scale-95"}`}
-              style={{ aspectRatio: "1" }}>
-              {b.hits === 0 ? BLOCK_LABELS[i] : b.hits === 1 ? "裂" : "碎"}
-            </button>
-          ))}
+
+        <div className={`absolute inset-0 flex items-center justify-center z-10 ${allDead ? "opacity-0 pointer-events-none transition-opacity duration-500" : ""}`}>
+          <button onClick={click}
+            className="relative cursor-pointer active:scale-[0.98] transition-transform"
+            style={{ width: S * PX, height: S * PX }}>
+            {/* 3D shadow edge on right and bottom */}
+            <div className="absolute -right-2 top-0 bottom-0 w-2 bg-[#3D2B1F]/40 rounded-r-sm" />
+            <div className="absolute -bottom-2 left-0 right-2 h-2 bg-[#3D2B1F]/40 rounded-b-sm" />
+            {/* pixels */}
+            {pixels.map((p, i) => (
+              <span key={i} className="absolute inline-block transition-all duration-300"
+                style={{
+                  left: p.col * PX, top: p.row * PX,
+                  width: PX + 0.5, height: PX + 0.5,
+                  backgroundColor: p.dead ? "transparent" : p.color,
+                  borderRadius: 0.5,
+                  opacity: p.dead ? 0 : 1,
+                  transform: p.dead ? `translate(${(Math.random()-.5)*12}px,${(Math.random()-.5)*12}px) scale(0)` : "none",
+                  transitionDelay: p.dead ? `${Math.floor(Math.random()*200)}ms` : "0ms",
+                }} />
+            ))}
+          </button>
         </div>
       </div>
+
       <p className="mt-2 text-center font-mono text-[10px] tracking-wider text-[var(--muted)]">
-        {allBroken ? (lang === "zh" ? "又挖到一个彩蛋 🥚" : "Found a secret! 🥚")
-          : (lang === "zh" ? `${clicks} 下` : `${clicks} taps`)}
+        {allDead
+          ? (lang === "zh" ? "全碎啦 💥" : "Gone! 💥")
+          : (lang === "zh" ? `还剩 ${Math.round(pixels.filter(p=>!p.dead).length/(S*S)*100)}% · 第 ${clicks} 下` : `${Math.round(pixels.filter(p=>!p.dead).length/(S*S)*100)}% · ${clicks} taps`)
+        }
       </p>
     </div>
   );
