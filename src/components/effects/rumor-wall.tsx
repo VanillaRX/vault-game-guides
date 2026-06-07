@@ -105,6 +105,7 @@ export function RumorWall() {
             allDead ? "opacity-100 scale-100" : "opacity-0 scale-90"
           }`}>
             <p className="text-sm leading-relaxed text-[var(--fg)]/90">
+              <span className="font-bold text-[var(--neon)]">{lang === "zh" ? "趣闻传言：" : "Fun Fact: "}</span>
               {lang === "zh" ? secret.zh : secret.en}
             </p>
           </div>
