@@ -310,7 +310,6 @@ export function GuideTrans({ en, zh }: { en: string; zh?: string }) {
     "Loadout": "配装",
     "Charms": "护符",
     "Victory": "胜利类型",
-    "Tier": "等级",
     "Tower": "箭塔",
   };
   translated = map[en] || en;
