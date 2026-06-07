@@ -157,7 +157,6 @@ export function GuideTrans({ en, zh }: { en: string; zh?: string }) {
     "Mood Cascade Prevention": "心情连锁崩溃预防",
     "Winter Livestock Survival": "冬季牲畜生存",
     "Artisan Pivot Point": "工匠转折点",
-    "Campus Placement Priority": "学院区摆放优先级",
     "Culture Victory Math": "文化胜利数学",
     "Electricity Math": "电力数学",
     "Fertilizer Math": "肥料数学",
@@ -200,7 +199,6 @@ export function GuideTrans({ en, zh }: { en: string; zh?: string }) {
     "Build Order Priority": "祝福顺序优先级",
     "Arcana Unlock Priority": "奥秘卡解锁优先级",
     "Chaos Gates": "混沌之门",
-    "Garrison Rotation": "驻防轮换",
     "The 1-House Trick": "一间房解锁法",
   };
   translated = map[en] || en;
