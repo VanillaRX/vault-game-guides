@@ -13,6 +13,7 @@ import {
   GuideFaqTitle,
   GuideComingSoon,
   GuideAdPlaceholder,
+  UseT,
 } from "@/components/guide/guide-chrome";
 
 interface Props {
