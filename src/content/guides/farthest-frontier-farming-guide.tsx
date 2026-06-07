@@ -47,7 +47,8 @@ export default function FarthestFrontierFarmingGuide() {
           </table>
         </div>
 
-        <Callout type="strategy" title="The Optimal 3-Year Rotation">
+        <Callout type="strategy" title="The Optimal 3-Year Rotation"
+          zh="<b>第1年：</b>A=豌豆(+2)，B=小麦(-2)，C=三叶草(+3)。净：+3肥力+小麦。<br/><b>第2年：</b>A=亚麻(-1)，B=胡萝卜(-0.5)，C=三叶草(+3)。净：+1.5肥力+亚麻+蔬菜。<br/><b>第3年：</b>A=卷心菜(-1)，B=黑麦(-1)，C=三叶草(+3)。净：+1肥力+酸菜+谷物。<br/>此轮作可永久维持正土壤肥力，无需休耕。">
           <b>Year 1:</b> A=Peas (+2 fertility), B=Wheat (-2), C=Clover (+3). Net: +3 fertility + wheat harvest.<br/>
           <b>Year 2:</b> A=Flax (-1), B=Carrots (-0.5), C=Clover (+3). Net: +1.5 fertility + linen + vegetables.<br/>
           <b>Year 3:</b> A=Cabbage (-1), B=Rye (-1), C=Clover (+3). Net: +1 fertility + sauerkraut + grain.<br/>
@@ -73,7 +74,8 @@ export default function FarthestFrontierFarmingGuide() {
           ))}
         </div>
 
-        <Callout type="info" title="Fertilizer Math">
+        <Callout type="info" title="Fertilizer Math"
+          zh="每单位堆肥在生长季给田地<b>+5肥力</b>。10×10田每年基础消耗100单位堆肥。每3块田维护2个堆肥场。<b>绝对不要让肥力低于30%——低于此线的减产惩罚是指数级的。</b>">
           Each unit of compost adds <b>+5 fertility</b> to the field for one growing season. A 10×10 field consumes 100 compost per year at base rate. Maintain 2 compost yards per 3 farm fields. <b>Never let fertility drop below 30% — yield penalty is exponential below this threshold.</b>
         </Callout>
       </section>

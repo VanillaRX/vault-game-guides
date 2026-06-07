@@ -63,7 +63,8 @@ export default function GoingMedievalCastleGuide() {
           </table>
         </div>
 
-        <Callout type="warning" title="Never Use Wood for External Walls">
+        <Callout type="warning" title="Never Use Wood for External Walls"
+          zh="一发投石机就能瞬间摧毁木墙。攻城袭击大约在第3-4年带着投石机出现。如果你的外墙还是木头的，<b>殖民地必灭</b>。最晚第2年升级到石灰岩墙。">
           A single trebuchet shot destroys a wood wall instantly. Siege raiders arrive with trebuchets around year 3-4. If your outer wall is still wood when they arrive, <b>you lose the colony</b>. Upgrade to limestone by year 2 at the latest.
         </Callout>
       </section>
@@ -93,7 +94,8 @@ export default function GoingMedievalCastleGuide() {
           </table>
         </div>
 
-        <Callout type="strategy" title="Mood Cascade Prevention">
+        <Callout type="strategy" title="Mood Cascade Prevention"
+          zh="一个严重心情debuff的居民引发斗殴→打伤另一个→受伤的心情下降→更多斗殴。<b>这就是心情连锁崩溃。</b>预防：(1)绝不让食物低于3天供应量。(2)把心情<20%的居民关在有饭吃的单间直到恢复。(3)战斗后安排娱乐时间——战后PTSD是真实存在的。">
           One settler with severe mood debuffs can start a fistfight → injures another settler → their mood drops → more fights. <b>This is a mood cascade.</b> Prevent it by: (1) Never letting food drop below 3 days supply. (2) Isolating settlers with &lt;20% mood in a locked room with meals until they recover. (3) Scheduling recreation time after combat — post-raid PTSD is real.
         </Callout>
       </section>
@@ -116,7 +118,8 @@ export default function GoingMedievalCastleGuide() {
           ))}
         </div>
 
-        <Callout type="danger" title="The First Winter Kills Most Colonies">
+        <Callout type="danger" title="The First Winter Kills Most Colonies"
+          zh="新手总是低估冬季食物需求。<b>10居民×2餐/天×150天=3000单位食物。</b>如果11月1日库存少于2000，立刻宰杀牲畜，猎杀地图上所有动物。保不住畜群总比保不住殖民地强。">
           New players consistently underestimate winter food demand. <b>10 settlers × 2 meals/day × 150 days = 3,000 food.</b> If you have fewer than 2,000 food on November 1st, start slaughtering livestock and hunting every animal on the map. Better to lose your herd than your colony.
         </Callout>
       </section>

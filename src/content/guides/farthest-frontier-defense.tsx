@@ -40,7 +40,8 @@ export default function FarthestFrontierDefense() {
           </table>
         </div>
 
-        <Callout type="strategy" title="The Double Gate Kill Corridor">
+        <Callout type="strategy" title="The Double Gate Kill Corridor"
+          zh="建造：外门→3格宽、10格深的通道→内门。通道两侧建<b>Z+1层高的箭塔</b>配上弓箭手。掠夺者突破外门涌入通道时，两侧弓箭手居高临下射击。10格深通道两侧各6个弓箭手，没有一个掠夺者能活着走到内门。">
           Build: Outer Gate → 3-tile-wide corridor that runs 10 tiles deep → Inner Gate. On both sides of the corridor, build <b>towers at Z+1 with archers</b>. When raiders break the outer gate and flood into the corridor, your archers shoot down from both sides. No raider survives a 10-tile corridor with 6 archers on each side.
         </Callout>
       </section>
@@ -66,7 +67,8 @@ export default function FarthestFrontierDefense() {
           </table>
         </div>
 
-        <Callout type="warning" title="Tower Spacing Rule">
+        <Callout type="warning" title="Tower Spacing Rule"
+          zh="箭塔必须有<b>重叠的火力覆盖范围</b>。如果A塔射程40、B塔射程40，两塔间距不超过35格。这确保每个靠近城墙的掠夺者始终处于至少两座塔的射程内。面对重甲掠夺者，单塔火力不够。">
           Towers must have <b>overlapping fields of fire</b>. If Tower A has range 40 and Tower B has range 40, place them no more than 35 tiles apart. This ensures every raider approaching the wall is in range of at least two towers at all times. Against heavily armored raiders, single-tower DPS is insufficient.
         </Callout>
       </section>
@@ -94,7 +96,8 @@ export default function FarthestFrontierDefense() {
           </table>
         </div>
 
-        <Callout type="strategy" title="Garrison Rotation">
+        <Callout type="strategy" title="Garrison Rotation"
+          zh="保持<b>50%弓箭手常驻箭塔</b>，另外50%正常劳动。袭击号角响起时暂停，选中所有可驻防殖民者点附近箭塔驻防。200人口城镇应30秒内就绪13个弓箭手。反复演练——城墙上5个还是13个弓箭手的差别，就是守住还是丢城门的差别。">
           Keep <b>50% of archers on towers at all times</b>. The other 50% work as normal (farmers, laborers). When the raid horn sounds, pause, select all garrison-capable colonists, and click "Garrison" on their nearest tower. A 200-pop town should have 13 archers ready within 30 seconds. Practice this drill — the difference between 5 archers and 13 archers on the wall is the difference between repelling a raid and losing the gate.
         </Callout>
       </section>
@@ -121,7 +124,8 @@ export default function FarthestFrontierDefense() {
           </table>
         </div>
 
-        <Callout type="danger" title="Plague Can Wipe a Colony">
+        <Callout type="danger" title="Plague Can Wipe a Colony"
+          zh="瘟疫是游戏里最危险的事件，通过近距离接触在殖民者间传播。<b>紧急处理：</b>暂停。建隔离医院（独立建筑，离城镇15+格）。感染者全移过去。健康者移到城镇另一边。用药治疗。烧掉被污染的食物。瘟疫通过食物供应链传播——市场有感染食物=所有人中招。">
           Plague is the most dangerous event in Farthest Frontier. It spreads from colonist to colonist through proximity. <b>Immediate protocol:</b> pause game. Build a quarantine hospital (separate building, 15+ tiles from town). Move all infected colonists there. Move all healthy colonists to the opposite side of town. Treat with Medicine. Burn contaminated food. Plague spreads through the food supply — infected food in the market = everyone gets it.
         </Callout>
       </section>

@@ -39,7 +39,8 @@ export default function FoundationEconomy() {
           </table>
         </div>
 
-        <Callout type="strategy" title="The 60-25-15 Rule">
+        <Callout type="strategy" title="The 60-25-15 Rule"
+          zh="最优人口比例：<b>60%农奴，25%平民，15%市民。</b>200人城镇：120农奴(120金/月)，50平民(400金/月)，30市民(750金/月)=<b>总计1270金/月。</b>不要过度晋升——平民不种地，市民不劳动。晋升太多，劳动力会崩盘。">
           Optimal population ratio: <b>60% Serfs, 25% Commoners, 15% Citizens.</b> A 200-pop town: 120 serfs (120 gold/mo), 50 commoners (400 gold/mo), 30 citizens (750 gold/mo) = <b>1,270 gold/month total.</b> Don&apos;t over-promote — commoners don&apos;t farm and citizens don&apos;t labor. If you promote too many, your workforce collapses.
         </Callout>
       </section>
@@ -67,7 +68,8 @@ export default function FoundationEconomy() {
           </table>
         </div>
 
-        <Callout type="tip" title="Trade Mastery Levels">
+        <Callout type="tip" title="Trade Mastery Levels"
+          zh="每条贸易路线有精通等级(1-10)。等级越高=<b>买卖价格越好+马车越快。</b>10级精通的面包路线卖18金，1级的只卖12金——50%的收入差距。<b>永远不要在精通只有2级时把商队分散到5条路线。</b>先集中把3条路线升到7+级再扩张。精通加成会随贸易量滚动增长。">
           Each trade route has a Mastery level (1-10). Higher mastery = <b>better buy/sell prices + faster cart speed.</b> A mastery-10 bread route sells at 18 gold vs 12 at mastery-1 — a 50% income increase. <b>Never split your trade carts across 5 routes at mastery 2.</b> Focus 3 routes to mastery 7+ before expanding. The mastery bonus compounds with trade volume.
         </Callout>
       </section>
@@ -95,7 +97,8 @@ export default function FoundationEconomy() {
           </table>
         </div>
 
-        <Callout type="info" title="The Real ROI of the Church">
+        <Callout type="info" title="The Real ROI of the Church"
+          zh="乡村教堂不直接产生金币。但没有它的话，信仰低于30%时可能触发「大规模出逃」事件，5-10个居民永久离开。<b>补充这些居民需要2+游戏年的移民。</b>教堂能阻止这一切。最晚第2年建。">
           The Village Church doesn&apos;t generate direct gold. But without it, the &apos;Mass Exodus&apos; event can trigger when faith drops below 30%, causing 5-10 villagers to leave permanently. <b>Replacing those villagers takes 2+ in-game years of immigration.</b> The Church prevents this. Build it by year 2 at the latest.
         </Callout>
       </section>

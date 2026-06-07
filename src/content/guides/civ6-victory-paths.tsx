@@ -62,7 +62,8 @@ export default function Civ6VictoryGuide() {
       <section id="section-2">
         <h2 className="font-display text-lg font-bold tracking-tight text-[var(--neon)]">🎭 Culture Victory: The Tourism Engine</h2>
 
-        <Callout type="strategy" title="Culture Victory Math">
+        <Callout type="strategy" title="Culture Victory Math"
+          zh="你需要<b>外国游客</b>数量超过任何文明的国内游客数。旅游业绩=进攻，文化=防守。两者都要。文化胜利通常需要在现代时代达到每回合500+旅游业绩。">
           You need more <b>foreign tourists</b> than any other civ has domestic tourists. Tourism = the attack. Culture = the defense. You need both. A culture victory typically needs 500+ tourism per turn by the Modern era.
         </Callout>
 
@@ -84,7 +85,8 @@ export default function Civ6VictoryGuide() {
           </table>
         </div>
 
-        <Callout type="tip" title="Open Borders + Trade Route = +50% Tourism">
+        <Callout type="tip" title="Open Borders + Trade Route = +50% Tourism"
+          zh="给每个你想吸引游客的文明发一条商路，开放边境。两者各+25%旅游业绩（<b>合计+50%</b>）。这是全游戏最大的旅游业绩单次加成。">
           Send a trade route to every civ you want tourists from. Open borders with them. Both give +25% tourism each (<b>+50% total</b>). This is the single biggest tourism multiplier in the game.
         </Callout>
       </section>

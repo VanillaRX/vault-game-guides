@@ -42,7 +42,8 @@ export default function Civ6DistrictGuide() {
           </table>
         </div>
 
-        <Callout type="strategy" title="Campus Placement Priority">
+        <Callout type="strategy" title="Campus Placement Priority"
+          zh="<b>目标：最低+3加成。</b>理想学院区：被3座山脉+1个珊瑚礁包围=+5基础（配自然哲学翻到+10）。在山的脚下专门建新城。一个+5的学院区配上平加拉的研究员能力，抵得上3个平庸的学院区。">
           <b>Goal: +3 adjacency minimum.</b> The ideal campus: surrounded by 3 mountains and 1 reef = +5 base (+10 with Natural Philosophy). Settle cities specifically at the base of mountain clusters. One +5 campus with Pingala (Researcher) is worth 3 mediocre campuses.
         </Callout>
 
@@ -60,7 +61,8 @@ export default function Civ6DistrictGuide() {
           ))}
         </div>
 
-        <Callout type="info" title="Policy Cards">
+        <Callout type="info" title="Policy Cards"
+          zh="<b>自然哲学</b>（经济，历史记录解锁）：学院区加成翻倍。<b>五年计划</b>（经济，阶级斗争市政）：学院区和工业区加成同时翻倍。<b>理性主义</b>（经济，启蒙运动）：+3加成或10+人口的学院区，建筑产出科技翻倍。">
           <b>Natural Philosophy</b> (Economic, unlocks at Recorded History): Doubles Campus adjacency bonus. <b>Five-Year Plan</b> (Economic, Class Struggle civic): Doubles Campus AND Industrial Zone adjacency. <b>Rationalism</b> (Economic, The Enlightenment): Campuses with +3 adjacency OR 10+ population get +100% science from buildings.
         </Callout>
       </section>
@@ -91,7 +93,8 @@ export default function Civ6DistrictGuide() {
           </table>
         </div>
 
-        <Callout type="strategy" title="The IZ-Aqueduct-Dam Triangle">
+        <Callout type="strategy" title="The IZ-Aqueduct-Dam Triangle"
+          zh="工业区被<b>水渠（+2）</b>和<b>水坝（+2）</b>夹在中间=<b>基础+4加成</b>。配上工匠政策（+100%）=<b>+8生产力</b>。加一座燃煤发电厂，<b>区域生产加成+8辐射给6格内所有城市</b>。如果在3座相邻城市这么做，每个工业区除了自己的水渠+水坝，还能吃到邻居水渠的加成，达到+6到+8基础。">
           An IZ flanked by an <b>Aqueduct (+2)</b> and <b>Dam (+2)</b> = <b>+4 base adjacency</b>. With Craftsmen policy (+100%) = <b>+8 production</b>. Add a Coal Power Plant and the <b>regional production bonus is +8 to every city within 6 tiles</b>. If you do this in 3 adjacent cities, each IZ gets adjacency from its own Aqueduct + Dam PLUS the neighboring city&apos;s Aqueduct for +6 to +8 base.
         </Callout>
 
@@ -133,7 +136,8 @@ export default function Civ6DistrictGuide() {
           </table>
         </div>
 
-        <Callout type="tip" title="Wonder Clustering">
+        <Callout type="tip" title="Wonder Clustering"
+          zh="剧院广场最难获得高加成。关键：<b>在单个地块周围聚2-3个奇观</b>，再把剧院广场放中间。神谕(+2)、阿帕达纳宫(+2)、罗马斗兽场(+2)围一圈=+6基础加成。配美学政策(+100%)=+12。">
           The Theater Square is the hardest district to get high adjacency on. The key: <b>cluster 2-3 wonders around a single tile</b> and place the Theater Square there. Oracle (+2), Apadana (+2), and Colosseum (+2 around one tile gives +6 base adjacency. Add Aesthetics policy (+100%) for +12.
         </Callout>
       </section>
@@ -161,7 +165,8 @@ export default function Civ6DistrictGuide() {
           </table>
         </div>
 
-        <Callout type="strategy" title="Pantheon Picks by Adjacency">
+        <Callout type="strategy" title="Pantheon Picks by Adjacency"
+          zh="<b>极光之舞：</b>每格相邻冻土+1信仰。俄罗斯冻土修道院：经文解锁前就能+6/+7基础。<b>沙漠民俗：</b>每格相邻沙漠+1信仰。马里轻松+8。<b>神圣之路：</b>每格相邻雨林+1信仰。巴西双倍效果。">
           <b>Dance of the Aurora:</b> +1 faith per adjacent tundra. Russia Lavra on tundra: +6/+7 base adjacency before Scripture. <b>Desert Folklore:</b> +1 faith per adjacent desert. Mali can hit +8 easily. <b>Sacred Path:</b> +1 faith per adjacent rainforest. Brazil gets double value.
         </Callout>
       </section>
@@ -188,7 +193,8 @@ export default function Civ6DistrictGuide() {
           </table>
         </div>
 
-        <Callout type="info" title="Owls of Minerva (Secret Society)">
+        <Callout type="info" title="Owls of Minerva (Secret Society)"
+          zh="<b>镀金金库</b>替代银行：商业中心获得等于金币加成的文化值。+4金币商业中心→+4文化同时+4金币。配上城镇特许状(+100%)：+8文化+8金币。这让商业中心成为全游戏最强综合区域。">
           <b>Gilded Vault</b> replaces the Bank: Commercial Hub gets culture equal to its gold adjacency. +4 gold CH → +4 culture AND +4 gold. With Town Charters (+100%): +8 culture + 8 gold. This makes Commercial Hubs the best all-around district in the game.
         </Callout>
       </section>

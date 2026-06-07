@@ -47,7 +47,8 @@ export default function GoingMedievalProduction() {
           </table>
         </div>
 
-        <Callout type="tip" title="Production Proximity Bonus">
+        <Callout type="tip" title="Production Proximity Bonus"
+          zh="居民步行速度3.5格/秒。拿一根原木来回100格=浪费28秒。<b>原料堆放保持在消耗它的工作台5格以内。</b>示例：冶炼炉一边放铁矿石堆一边放煤炭堆，都在2格内。产出的铁锭堆放第三边2格外。">
           Settlers walk at 3.5 tiles/second. A 100-tile round trip to fetch one log = 28 seconds wasted. <b>Keep stockpiles within 5 tiles of their consuming workbench.</b> Example: smelter should have an iron ore stockpile on one side and a coal stockpile on the other, both within 2 tiles. The output iron ingot stockpile should be 2 tiles away on the third side.
         </Callout>
       </section>
@@ -76,7 +77,8 @@ export default function GoingMedievalProduction() {
           </table>
         </div>
 
-        <Callout type="strategy" title="Star Skills Matter">
+        <Callout type="strategy" title="Star Skills Matter"
+          zh="有★★（双星）烹饪天赋的居民技能提升速度是没天赋的4倍。烹饪10级的★★厨师比没天赋的5级厨师做菜快2倍，品质高50%。<b>绝对不要让没有匹配天赋的居民做生产工作。</b>让他们去搬运——总比浪费资源产出劣质品强。">
           A settler with ★★ (double star) Cooking gains skill at 4× the rate of an unstarred settler. At Cooking 10, a ★★ cook produces meals 2× faster and at 50% higher quality than an unstarred level 5 cook. <b>Never assign a production job to a settler without the matching star skill.</b> Let them haul — it&apos;s better than wasting resources on low-quality crafted goods.
         </Callout>
       </section>

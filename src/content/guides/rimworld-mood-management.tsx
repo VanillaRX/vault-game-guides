@@ -55,7 +55,8 @@ export default function RimWorldMoodManagement() {
           </table>
         </div>
 
-        <Callout type="strategy" title="The Mood Stack Formula">
+        <Callout type="strategy" title="The Mood Stack Formula"
+          zh="你的基础心情应该<b>+15以上</b>，靠正面效果叠加。目标：+5精致餐点+6豪华餐厅/娱乐室+5豪华卧室+10娱乐满足+5舒适度+3优美环境=<b>+34基础值。</b>这能吸收轻微负面效果如−3黑暗、−5没桌子吃饭、−4睡眠被打扰，永远不触达崩溃线。">
           Your baseline mood should be <b>+15 or higher</b> from stacked positives. Target: +5 fine meal + 6 impressive dining/rec + 5 impressive bedroom + 10 recreation + 5 comfort + 3 beautiful environment = <b>+34 baseline.</b> This absorbs minor negatives like −3 darkness, −5 ate without table, −4 disturbed sleep without ever reaching break threshold.
         </Callout>
       </section>
@@ -85,7 +86,8 @@ export default function RimWorldMoodManagement() {
           </table>
         </div>
 
-        <Callout type="info" title="Impressiveness Formula">
+        <Callout type="info" title="Impressiveness Formula"
+          zh="房间豪华度=财富+美观+空间+清洁度的加权平均。<b>空间是最便宜的提升维度——大房间不用花材料就能显著提高豪华度。</b>同样财富投入，7×7房间豪华度比5×5高40%。">
           Room impressiveness = weighted average of Wealth + Beauty + Space + Cleanliness. <b>Space is the cheapest stat to boost — a bigger room dramatically increases impressiveness with zero material cost.</b> For the same wealth investment, a 7×7 room scores 40% higher impressiveness than a 5×5 room.
         </Callout>
       </section>
@@ -115,7 +117,8 @@ export default function RimWorldMoodManagement() {
           </table>
         </div>
 
-        <Callout type="strategy" title="The Specialist System">
+        <Callout type="strategy" title="The Specialist System"
+          zh="每个殖民者应有<b>恰好2-3个优先级3的工作，4只放搬运/清洁。</b>6个优先级3的殖民者什么都做不好。示例：「工匠」=制作3,锻造3,裁缝3,搬运4。「农民」=种植3,收割3,建造3(维修),搬运4。避免切换工作开销——殖民者换工作台每次浪费2+秒。">
           Every colonist should have <b>exactly 2-3 jobs at priority 3, nothing at 4 except haul/clean.</b> A colonist with 6 jobs at priority 3 does everything poorly. Example: &quot;Crafter&quot; = Crafting 3, Smithing 3, Tailoring 3, Haul 4. &quot;Farmer&quot; = Growing 3, Plant Cut 3, Construction 3 (for repairs), Haul 4. This prevents job-switching overhead — a colonist switching workbenches costs 2+ seconds each time.
         </Callout>
       </section>

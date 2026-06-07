@@ -35,7 +35,8 @@ export default function FoundationCityLayout() {
           ))}
         </div>
 
-        <Callout type="strategy" title="The Golden Rule of Foundation">
+        <Callout type="strategy" title="The Golden Rule of Foundation"
+          zh="<b>画区域，不要放建筑。</b>和其他城市建造游戏不同，Foundation让村民在你划定的区域内自己盖房、建工坊、踩出路来。你的工作是区域布局和供应链管理——不是微操每一栋建筑。微操越多，城市发展越慢。">
           <b>Paint zones, don&apos;t place buildings.</b> Unlike other city builders, Foundation lets villagers build their own houses, workshops, and paths within zones you designate. Your job is zone placement and supply chain management — not micro-managing every building. The more you micromanage, the slower your city grows.
         </Callout>
       </section>
@@ -66,7 +67,8 @@ export default function FoundationCityLayout() {
           </table>
         </div>
 
-        <Callout type="info" title="Promotion Requirements">
+        <Callout type="info" title="Promotion Requirements"
+          zh="居民需求全部满足后自动晋升。农奴→平民：需要多种食物（2+种）+基础衣服。平民→市民：需要奢侈食物（啤酒、肉类）+工具+装修过的房子（T2房+装饰）。平民消耗的物资是农奴的<b>3倍</b>——产业链撑得起之前不要晋升太多人。">
           Villagers promote when all their needs are met. Serf → Commoner: needs food variety (2+ types) + basic clothing. Commoner → Citizen: needs luxury food (beer, meat) + tools + decorated housing (tier 2 house + decorations). Commoners consume <b>3× more goods than serfs</b> — don&apos;t promote too many until your production chains can support it.
         </Callout>
       </section>
@@ -94,7 +96,8 @@ export default function FoundationCityLayout() {
           </table>
         </div>
 
-        <Callout type="strategy" title="Monument Construction Workflow">
+        <Callout type="strategy" title="Monument Construction Workflow"
+          zh="1. 先建纪念碑的资源仓库（紧挨建筑工地）。<br/>2. 所有资源仓库设为对纪念碑材料「填满」优先级。<br/>3. 分配2个专职建筑工，禁止他们做其他工作。<br/>4. 春季开工——冬季施工速度慢40%。<br/>优化物流后大教堂约45个游戏日完工。不做规划：90+天。">
           1. Build the monument&apos;s resource depot FIRST (next to the construction site).<br/>
           2. Set all resource depots to &quot;Fill&quot; priority for the monument materials.<br/>
           3. Assign 2 dedicated builders and prevent them from doing other jobs.<br/>
@@ -126,7 +129,8 @@ export default function FoundationCityLayout() {
           </table>
         </div>
 
-        <Callout type="tip" title="Trade Mastery Perk System">
+        <Callout type="tip" title="Trade Mastery Perk System"
+          zh="每条贸易路线有<b>精通等级（1-10）</b>。等级越高=价格越好+马车越快。先把面包精通升满（它会是未来50多年你的主力出口）。在主力商品精通5级之前不要分散贸易路线——铺太散意味着几十年拿不到精通加成。">
           Each trade route has a <b>Mastery level (1-10)</b>. Higher mastery = better prices + faster carts. Max out bread mastery first (it&apos;s your primary export for 50+ years). Never diversify trade routes before mastery level 5 on your primary good — spreading thin means no mastery bonus for decades.
         </Callout>
       </section>
