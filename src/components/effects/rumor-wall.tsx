@@ -99,23 +99,27 @@ export function RumorWall() {
   return (
     <div className="select-none">
       <div className="relative overflow-hidden rounded-xl border border-[var(--border)] bg-[var(--card)]/60"
-           style={{ minHeight: H * PX + 40 + 60 }}>
-        <div className="absolute inset-0 flex items-center justify-center p-4 z-0">
-          <p className={`text-center text-xs leading-relaxed transition-all duration-500 max-w-md ${
-            allDead ? "text-[var(--fg)]/90 opacity-100 scale-100" : "text-[var(--neon)] opacity-15 scale-90"
+           style={{ width: W * PX + 8, height: H * PX + 34, margin: "0 auto" }}>
+        {/* Secret text below — same dimensions as block */}
+        <div className="absolute inset-0 flex items-center justify-center p-3 z-0">
+          <div className={`w-full text-center transition-all duration-500 ${
+            allDead ? "opacity-100 scale-100" : "opacity-0 scale-90"
           }`}>
-            {allDead ? (lang === "zh" ? secret.zh : secret.en) : (lang === "zh" ? "👆 点它" : "👆 Tap it")}
-          </p>
+            <p className="text-sm leading-relaxed text-[var(--fg)]/90">
+              {lang === "zh" ? secret.zh : secret.en}
+            </p>
+          </div>
         </div>
 
-        <div className={`absolute inset-0 flex items-center justify-center z-10 ${allDead ? "opacity-0 pointer-events-none transition-opacity duration-500" : ""}`}>
+        {/* Pixel block — on top until broken */}
+        <div className={`absolute inset-0 flex items-center justify-center z-10 transition-opacity duration-500 ${
+          allDead ? "opacity-0 pointer-events-none" : "opacity-100"
+        }`}>
           <button onClick={click}
             className="relative cursor-pointer active:scale-[0.98] transition-transform"
             style={{ width: W * PX, height: H * PX }}>
-            {/* 3D shadow edge on right and bottom */}
             <div className="absolute -right-2 top-0 bottom-0 w-2 bg-[#3D2B1F]/40 rounded-r-sm" />
             <div className="absolute -bottom-2 left-0 right-2 h-2 bg-[#3D2B1F]/40 rounded-b-sm" />
-            {/* pixels */}
             {pixels.map((p, i) => (
               <span key={i} className="absolute inline-block transition-all duration-300"
                 style={{
