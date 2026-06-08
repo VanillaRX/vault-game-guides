@@ -38,17 +38,17 @@ export default async function Home({ params }: Props) {
         <div className="relative mx-auto max-w-3xl px-4 py-20 text-center sm:py-28">
           <h1 className="font-display text-3xl font-bold tracking-tight sm:text-5xl">
             <span className="text-[var(--fg)]">
-              {isZh ? "找到你的" : "Find Your"}
+              {isZh ? "游戏荒了？" : "Game drought?"}
             </span>
             <br />
             <span className="bg-gradient-to-r from-[var(--accent)] to-[var(--neon)] bg-clip-text text-transparent">
-              {isZh ? "下一款游戏" : "Next Game"}
+              {isZh ? "来这里找下一款。" : "Find your next one."}
             </span>
           </h1>
           <p className="mt-4 text-sm text-[var(--muted)] sm:text-base">
             {isZh
-              ? "54 款精选农场、休闲、城市建造与管理模拟游戏，Steam 真实数据。"
-              : "54 curated farming, cozy, city builder & management sims. Real Steam data."}
+              ? "专注模拟经营、策略建造、休闲农场。Steam 真实数据，不用翻评论、不用看视频——几秒钟发现你真正会玩进去的游戏。"
+              : "Simulation, strategy, city builder & cozy farming games. Real Steam data. No scrolling reviews, no watching trailers — find games you'll actually play, in seconds."}
           </p>
 
           {/* Search bar */}
@@ -106,7 +106,7 @@ export default async function Home({ params }: Props) {
               {isZh ? "按类型探索" : "Explore by Genre"}
             </h2>
             <p className="mt-1 text-xs text-[var(--muted)]">
-              {isZh ? "每个类型精选的游戏" : "Hand-picked games for every genre"}
+              {isZh ? "模拟经营 · 策略建造 · 休闲农场 · 殖民生存" : "Simulation · Strategy · Farming · Colony Survival"}
             </p>
           </div>
           <div className="grid gap-4 sm:grid-cols-2 lg:grid-cols-3">

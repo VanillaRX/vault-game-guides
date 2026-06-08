@@ -5,6 +5,7 @@ import { usePathname } from "next/navigation";
 import { useState } from "react";
 import { Menu, X, Search } from "lucide-react";
 import { useLang } from "@/components/layout/lang-context";
+import { ThemeToggle } from "@/components/layout/theme-toggle";
 
 /** Strip /en/ or /zh/ prefix from pathname. Returns path without lang prefix. */
 function stripLangPrefix(pathname: string): string {
@@ -25,8 +26,6 @@ export function Header() {
 
   const NAV_LINKS = [
     { href: `/${lang}`, label: t("nav.home") },
-    { href: `/${lang}/games`, label: t("nav.games") },
-    { href: `/${lang}/guides`, label: t("nav.guides") },
     { href: `/${lang}/best/farming-games`, label: t("nav.best") },
     { href: `/${lang}/games-like/stardew-valley`, label: t("nav.like") },
     { href: `/${lang}/about`, label: t("nav.about") },
@@ -57,6 +56,7 @@ export function Header() {
         </nav>
 
         <div className="flex items-center gap-2">
+          <ThemeToggle />
           {/* Language switcher — URL-based navigation */}
           <div className="flex items-center rounded-lg border border-[var(--border)] overflow-hidden">
             <Link

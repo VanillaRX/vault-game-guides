@@ -26,6 +26,25 @@
   --card: #12122a;
   --border: #1e1e3a;
   --muted: #6b6b8a;
+  --accent-rgb: 168,85,247;
+  --neon-rgb: 34,211,160;
+  --bg-rgb: 10,10,20;
+}
+
+/* Cozy / warm theme */
+.cozy {
+  --bg: #faf7f2;
+  --fg: #3d2e28;
+  --accent: #e8785a;
+  --neon: #5ba675;
+  --amber: #d4a853;
+  --card: #ffffff;
+  --border: #e8ddd0;
+  --muted: #9b8c80;
+  --accent-rgb: 232,120,90;
+  --neon-rgb: 91,166,117;
+  --bg-rgb: 250,247,242;
+  color-scheme: light;
 }
 
 @keyframes glow {
