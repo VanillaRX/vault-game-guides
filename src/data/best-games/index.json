@@ -1,1 +1,54 @@
-{}
+{
+  "farming-games": {
+    "slug": "farming-games",
+    "titleEn": "Best Farming Games on Steam",
+    "titleZh": "Steam 最佳农场游戏",
+    "descriptionEn": "From pixel-art classics to modern 3D farming sims, these are the best farming games you can play right now. Ranked by gameplay depth, community love, and overall polish.",
+    "descriptionZh": "从像素经典到现代 3D 农场模拟，这是目前能玩到的最佳农场游戏。按玩法深度、社区口碑和整体打磨度排名。",
+    "games": [
+      { "slug": "stardew-valley", "rank": 1, "reasonEn": "The gold standard. Deep farming, town relationships, mining, fishing, endless content. Still updated after 9 years.", "reasonZh": "行业标杆。深度农耕、小镇社交、挖矿、钓鱼、无尽内容。发售 9 年后仍在更新。" },
+      { "slug": "my-time-at-portia", "rank": 2, "reasonEn": "Workshop crafting meets farm sim. Charming 3D world, deep crafting tree, memorable NPCs.", "reasonZh": "工坊制作为核心的农场模拟。迷人的 3D 世界，深度制作树，有个性的 NPC。" },
+      { "slug": "my-time-at-sandrock", "rank": 3, "reasonEn": "Portia's bigger, better sequel. Desert setting, improved combat, voice acting throughout.", "reasonZh": "Portia 更大更好的续作。沙漠背景，战斗升级，全程配音。" },
+      { "slug": "farming-simulator-22", "rank": 4, "reasonEn": "Realistic farming machinery sim. Deepest agricultural simulation available. Massive mod community.", "reasonZh": "真实农用机械模拟。最深的农业模拟体验。巨大的 MOD 社区。" },
+      { "slug": "farming-simulator-25", "rank": 5, "reasonEn": "Latest entry — upgraded graphics, new crops, dynamic weather. The most polished FS yet.", "reasonZh": "最新作——画面升级、新作物、动态天气。目前最精致的农用机械模拟。" }
+    ]
+  },
+  "city-building-games": {
+    "slug": "city-building-games",
+    "titleEn": "Best City Building Games on Steam",
+    "titleZh": "Steam 最佳城市建造游戏",
+    "descriptionEn": "The best city builders and colony sims for strategy-minded players. Supply chains, production layouts, and the satisfaction of watching your city grow organically.",
+    "descriptionZh": "最适合策略玩家的城市建造和殖民模拟游戏。供应链、生产布局、看着你的城市自然生长的满足感。",
+    "games": [
+      { "slug": "anno-1800", "rank": 1, "reasonEn": "Peak production chain city building. Cross-region trade, beautiful graphics, incredible depth after 4 years of DLC.", "reasonZh": "产业链城市建造巅峰。跨区域贸易、精美画质、4 年 DLC 积累的惊人深度。" },
+      { "slug": "rimworld", "rank": 2, "reasonEn": "Emergent storytelling meets colony management. No two games are the same. Infinite replayability.", "reasonZh": "涌现叙事结合殖民管理。没有两局相同。无限重玩性。" },
+      { "slug": "foundation", "rank": 3, "reasonEn": "Grid-free organic city building. Paint zones instead of placing buildings. Your city grows like a real medieval town.", "reasonZh": "无网格有机城市建造。划线分区而非放置建筑。城市像真实的中世纪小镇一样生长。" },
+      { "slug": "farthest-frontier", "rank": 4, "reasonEn": "Harsh medieval survival with deep farming, disease, and defense. Every winter is a test.", "reasonZh": "残酷中世纪生存，深度农耕、疾病、防御。每个冬天都是一次大考。" },
+      { "slug": "going-medieval", "rank": 5, "reasonEn": "3D colony sim with castle building. Multi-story fortresses, settler psychology, winter survival.", "reasonZh": "3D 殖民模拟加建城堡。多层要塞、居民心理、冬季生存。" }
+    ]
+  },
+  "cozy-games": {
+    "slug": "cozy-games",
+    "titleEn": "Best Cozy Games on Steam",
+    "titleZh": "Steam 最佳休闲游戏",
+    "descriptionEn": "Games to unwind with. Low stress, high charm, perfect for evenings. Farming, crafting, friend-making — zero pressure.",
+    "descriptionZh": "可以放松玩的游戏。低压、高魅力、适合下班后。种田、制作、交朋友——零压力。",
+    "games": [
+      { "slug": "stardew-valley", "rank": 1, "reasonEn": "The coziest farming sim ever made. No time limits, no fail state, just you and your farm at your own pace.", "reasonZh": "最温馨的农场模拟。没有时间限制，没有失败条件，只有你和你的农场，按自己的节奏来。" },
+      { "slug": "slime-rancher", "rank": 2, "reasonEn": "Collect adorable slimes, build a ranch on an alien world. Pure joy in a game.", "reasonZh": "收集可爱的史莱姆，在外星世界建农场。纯粹的快乐。" },
+      { "slug": "slime-rancher-2", "rank": 3, "reasonEn": "Bigger world, more slimes, same cozy charm. Still in early access but already wonderful.", "reasonZh": "更大的世界、更多的史莱姆、同样的温馨魅力。虽在 EA 阶段但已经非常棒。" }
+    ]
+  },
+  "management-games": {
+    "slug": "management-games",
+    "titleEn": "Best Management Games on Steam",
+    "titleZh": "Steam 最佳管理模拟游戏",
+    "descriptionEn": "The most satisfying management sims — optimize, plan, expand. From theme parks to medieval towns, these games reward smart decision-making.",
+    "descriptionZh": "最令人满足的管理模拟——优化、规划、扩张。从主题公园到中世纪城镇，这些游戏奖励聪明的决策。",
+    "games": [
+      { "slug": "anno-1800", "rank": 1, "reasonEn": "The deepest management sim available. Simultaneously manage 5+ regions, dozens of production chains, and thousands of citizens.", "reasonZh": "目前最深的管理模拟。同时管理 5 个以上区域、数十条产业链、数千居民。" },
+      { "slug": "rimworld", "rank": 2, "reasonEn": "Colony management at its finest. Moods, needs, relationships, combat — every colonist is a unique problem to solve.", "reasonZh": "殖民管理的极致。心情、需求、关系、战斗——每个殖民者都是一个独特的问题。" },
+      { "slug": "farthest-frontier", "rank": 3, "reasonEn": "Resource management meets survival. Every decision matters when winter can kill half your colony.", "reasonZh": "资源管理遇上生存。当冬天能杀掉你半个殖民地时，每个决定都很重要。" }
+    ]
+  }
+}
