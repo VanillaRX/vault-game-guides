@@ -47,12 +47,12 @@
     "GIANTS Software"
   ],
   "price_overview": {
-    "currency": "SAR",
-    "initial": 11150,
-    "final": 11150,
+    "currency": "USD",
+    "initial": 2999,
+    "final": 2999,
     "discount_percent": 0,
     "initial_formatted": "",
-    "final_formatted": "111.50 SR"
+    "final_formatted": "$29.99"
   },
   "packages": [
     825695
@@ -71,11 +71,11 @@
           "packageid": 825695,
           "percent_savings_text": " ",
           "percent_savings": 0,
-          "option_text": "Farming Simulator 25 - 111.50 SR",
+          "option_text": "Farming Simulator 25 - $29.99",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
-          "price_in_cents_with_discount": 11150
+          "price_in_cents_with_discount": 2999
         }
       ]
     }
@@ -217,7 +217,7 @@
     }
   ],
   "recommendations": {
-    "total": 35570
+    "total": 35572
   },
   "achievements": {
     "total": 45,
@@ -286,7 +286,7 @@
   },
   "release_date": {
     "coming_soon": false,
-    "date": "12 Nov, 2024"
+    "date": "Nov 12, 2024"
   },
   "support_info": {
     "url": "http://www.farming-simulator.com/support.php",

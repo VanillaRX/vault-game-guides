@@ -1,128 +1,78 @@
 /**
- * Steam Data Collector
+ * Steam Data Collector v2
  *
- * Fetches game data from Steam Store API for all games in seed-games.json.
- * Stores raw response to src/data/raw/{appId}.json
- * Stores normalized data to src/data/games/{slug}.json
- *
- * Features: rate limiting, resume support, incremental updates.
- *
- * Usage: npx tsx scripts/fetch-steam.ts
+ * 1. Reads game names from seed-games.json
+ * 2. Searches Steam for correct App ID (cc=us to avoid region blocking)
+ * 3. Fetches full details from App Details API
+ * 4. Saves raw data + normalized game JSON
  */
 
 import * as fs from "node:fs";
 import * as path from "node:path";
 
-const STEAM_API = "https://store.steampowered.com/api/appdetails";
+const SEARCH_API = "https://store.steampowered.com/api/storesearch/";
+const DETAIL_API = "https://store.steampowered.com/api/appdetails";
 const RAW_DIR = path.resolve(__dirname, "..", "src", "data", "raw");
 const GAMES_DIR = path.resolve(__dirname, "..", "src", "data", "games");
 const GAMES_INDEX = path.resolve(GAMES_DIR, "index.json");
 const SEED_FILE = path.resolve(__dirname, "seed-games.json");
-const PROGRESS_FILE = path.resolve(__dirname, "..", "src", "data", ".fetch-progress.json");
 
-// Rate limit: Steam Store API recommends ~200 requests per 5 minutes
-// We use 1 request per 2 seconds to be safe
-const RATE_LIMIT_MS = 2000;
-const MAX_RETRIES = 3;
-
-interface SeedGame {
-  steamAppId: number;
-  slug: string;
-}
-
-interface FetchProgress {
-  completed: number[];
-  failed: Record<number, string>;
-  lastUpdated: string;
-}
-
-function loadProgress(): FetchProgress {
-  try {
-    const data = fs.readFileSync(PROGRESS_FILE, "utf-8");
-    return JSON.parse(data);
-  } catch {
-    return { completed: [], failed: {}, lastUpdated: "" };
-  }
-}
-
-function saveProgress(progress: FetchProgress) {
-  fs.mkdirSync(path.dirname(PROGRESS_FILE), { recursive: true });
-  fs.writeFileSync(PROGRESS_FILE, JSON.stringify(progress, null, 2));
-}
+const RATE_MS = 3000;
 
 function sleep(ms: number) {
-  return new Promise((resolve) => setTimeout(resolve, ms));
+  return new Promise((r) => setTimeout(r, ms));
 }
 
-async function fetchAppDetails(appId: number, retries = MAX_RETRIES): Promise<Record<string, unknown> | null> {
-  for (let attempt = 0; attempt < retries; attempt++) {
+async function fetchWithRetry(url: string, retries = 3): Promise<Record<string, unknown>> {
+  for (let i = 0; i < retries; i++) {
     try {
-      const url = `${STEAM_API}?appids=${appId}`;
-      const response = await fetch(url, {
-        headers: { "Accept": "application/json" },
-      });
-
-      if (!response.ok) {
-        if (response.status === 429) {
-          console.log(`  Rate limited, waiting 30s...`);
-          await sleep(30000);
-          continue;
-        }
-        throw new Error(`HTTP ${response.status}`);
-      }
-
-      const data = await response.json() as Record<string, unknown>;
-      const appData = data[String(appId)] as Record<string, unknown> | undefined;
-
-      if (!appData?.success) {
-        return null;
-      }
-
-      return appData.data as Record<string, unknown>;
+      const res = await fetch(url, { signal: AbortSignal.timeout(15000) });
+      return (await res.json()) as Record<string, unknown>;
     } catch (err) {
-      if (attempt < retries - 1) {
-        console.log(`  Retry ${attempt + 1}/${retries}...`);
-        await sleep(5000);
+      if (i < retries - 1) {
+        const wait = (i + 1) * 5000;
+        console.log(`  Retry in ${wait / 1000}s...`);
+        await sleep(wait);
       } else {
         throw err;
       }
     }
   }
-  return null;
+  throw new Error("unreachable");
 }
 
-function normalizeGame(raw: Record<string, unknown>, seed: SeedGame): Record<string, unknown> {
-  const genres = (raw.genres as Array<{ description: string }> | undefined)
-    ?.map((g) => g.description) ?? [];
-  const categories = (raw.categories as Array<{ id: number; description: string }> | undefined) ?? [];
+async function searchGame(name: string): Promise<{ id: number; name: string } | null> {
+  const url = `${SEARCH_API}?term=${encodeURIComponent(name)}&cc=us&l=english`;
+  const data = await fetchWithRetry(url);
+  const items = data.items as Array<{ id: number; name: string }> | undefined;
+  return items?.[0] ?? null;
+}
+
+async function fetchApp(appId: number): Promise<Record<string, unknown> | null> {
+  const url = `${DETAIL_API}?appids=${appId}&cc=us`;
+  const data = await fetchWithRetry(url);
+  const app = data[String(appId)] as { success: boolean; data?: Record<string, unknown> } | undefined;
+  return app?.success ? (app.data as Record<string, unknown>) : null;
+}
+
+function slugify(name: string): string {
+  return name
+    .toLowerCase()
+    .replace(/[™®:]/g, "")
+    .replace(/[^a-z0-9]+/g, "-")
+    .replace(/^-|-$/g, "");
+}
+
+function normalize(raw: Record<string, unknown>, slug: string, appId: number): Record<string, unknown> {
+  const genres = (raw.genres as Array<{ description: string }> | undefined)?.map((g) => g.description) ?? [];
+  const cats = (raw.categories as Array<{ id: number; description: string }> | undefined) ?? [];
+  const hasCat = (id: number) => cats.some((c) => c.id === id);
   const languages = (raw.supported_languages as string) ?? "";
 
-  // Extract screenshots
-  const screenshots = (raw.screenshots as Array<{ path_full: string }> | undefined)
-    ?.map((s) => s.path_full) ?? [];
-
-  // Feature detection from categories
-  const hasCategory = (id: number) => categories.some((c) => c.id === id);
-  const supportsMultiplayer = hasCategory(1);
-  const supportsCoop = hasCategory(9);
-  const supportsController = hasCategory(18) || hasCategory(28);
-
-  // Language detection
-  const hasChinese = languages.includes("Simplified Chinese") || languages.includes("Traditional Chinese");
-
-  // Review data
-  const recommendations = raw.recommendations as { total: number } | undefined;
-
-  // Release date
-  const releaseDate = raw.release_date as { coming_soon: boolean; date: string } | undefined;
-
-  // Price
-  const priceOverview = raw.price_overview as Record<string, unknown> | undefined;
-
   return {
-    slug: seed.slug,
-    steamAppId: seed.steamAppId,
-    title: raw.name ?? seed.slug,
+    slug,
+    steamAppId: appId,
+    title: raw.name ?? slug,
     zhTitle: "",
     shortDescription: raw.short_description ?? "",
     zhShortDescription: "",
@@ -134,16 +84,16 @@ function normalizeGame(raw: Record<string, unknown>, seed: SeedGame): Record<str
     coverImage: raw.header_image ?? "",
     headerImage: raw.header_image ?? "",
     backgroundImage: (raw.background_raw as string) ?? "",
-    screenshots,
+    screenshots: (raw.screenshots as Array<{ path_full: string }> | undefined)?.map((s) => s.path_full) ?? [],
     developer: (raw.developers as string[])?.[0] ?? "",
     publisher: (raw.publishers as string[])?.[0] ?? "",
-    releaseDate: releaseDate?.date ?? "",
-    supportsChinese: hasChinese,
-    supportsMultiplayer,
-    supportsCoop,
-    supportsController,
-    steamDeckVerified: false,
-    positiveReviews: recommendations?.total ?? 0,
+    releaseDate: (raw.release_date as { date: string })?.date ?? "",
+    supportsChinese: languages.includes("Simplified Chinese") || languages.includes("Traditional Chinese"),
+    supportsMultiplayer: hasCat(1),
+    supportsCoop: hasCat(9),
+    supportsController: hasCat(18) || hasCat(28),
+    steamDeckVerified: (raw.steam_deck_compat_category === 1),
+    positiveReviews: (raw.recommendations as { total: number })?.total ?? 0,
     negativeReviews: 0,
     metacriticScore: (raw.metacritic as { score: number })?.score,
     featured: false,
@@ -157,83 +107,78 @@ function normalizeGame(raw: Record<string, unknown>, seed: SeedGame): Record<str
 }
 
 async function main() {
-  console.log("=== Steam Data Collector ===\n");
+  console.log("=== Steam Data Collector v2 ===\n");
 
-  // Load seed list
-  const seeds: SeedGame[] = JSON.parse(fs.readFileSync(SEED_FILE, "utf-8"));
-  console.log(`Total games in seed list: ${seeds.length}`);
-
-  // Load progress
-  const progress = loadProgress();
-  const pending = seeds.filter((s) => !progress.completed.includes(s.steamAppId) && !progress.failed[s.steamAppId]);
-  console.log(`Already fetched: ${progress.completed.length}, Failed: ${Object.keys(progress.failed).length}`);
-  console.log(`Remaining: ${pending.length}\n`);
-
-  // Ensure directories exist
   fs.mkdirSync(RAW_DIR, { recursive: true });
   fs.mkdirSync(GAMES_DIR, { recursive: true });
 
-  let count = 0;
+  const names: string[] = JSON.parse(fs.readFileSync(SEED_FILE, "utf-8"));
+  console.log(`Games to collect: ${names.length}\n`);
+
   const allGames: Record<string, unknown>[] = [];
+  let ok = 0, fail = 0;
 
-  for (const seed of pending) {
-    count++;
-    console.log(`[${count}/${pending.length}] ${seed.slug} (AppID: ${seed.steamAppId})`);
+  // Resume: skip already-fetched games
+  const existing = new Set(
+    fs.readdirSync(GAMES_DIR).filter((f) => f.endsWith(".json") && f !== "index.json").map((f) => f.replace(".json", ""))
+  );
 
-    try {
-      // Fetch and save raw data
-      const raw = await fetchAppDetails(seed.steamAppId);
-      if (!raw) {
-        console.log(`  No data (delisted or invalid)`);
-        progress.failed[seed.steamAppId] = "no_data";
-        saveProgress(progress);
-        await sleep(RATE_LIMIT_MS);
-        continue;
-      }
+  for (let i = 0; i < names.length; i++) {
+    const name = names[i];
+    const slug = slugify(name);
 
-      // Save raw data
-      const rawPath = path.resolve(RAW_DIR, `${seed.steamAppId}.json`);
-      fs.writeFileSync(rawPath, JSON.stringify(raw, null, 2));
-
-      // Normalize and save game data
-      const game = normalizeGame(raw, seed);
-      const gamePath = path.resolve(GAMES_DIR, `${seed.slug}.json`);
-      fs.writeFileSync(gamePath, JSON.stringify(game, null, 2));
-
-      allGames.push(game);
-
-      progress.completed.push(seed.steamAppId);
-      saveProgress(progress);
-
-      const gameTitle = (game as Record<string, unknown>).title ?? seed.slug;
-      const gameGenres = ((game as Record<string, unknown>).genres as string[])?.join(", ") || "no genres";
-      console.log(`  ✓ ${gameTitle} | ${gameGenres}`);
-
-      // Rate limit
-      await sleep(RATE_LIMIT_MS);
-    } catch (err) {
-      const msg = err instanceof Error ? err.message : String(err);
-      console.log(`  ✗ Error: ${msg}`);
-      progress.failed[seed.steamAppId] = msg;
-      saveProgress(progress);
-      await sleep(5000);
+    if (existing.has(slug)) {
+      console.log(`[${i + 1}/${names.length}] ${name} (cached)`);
+      // Load existing into allGames
+      try {
+        const g = JSON.parse(fs.readFileSync(path.resolve(GAMES_DIR, `${slug}.json`), "utf-8"));
+        allGames.push(g);
+      } catch {}
+      continue;
     }
+
+    console.log(`[${i + 1}/${names.length}] ${name}`);
+
+    // Step 1: Search for correct App ID
+    const search = await searchGame(name);
+    if (!search) {
+      console.log(`  ✗ Not found on Steam`);
+      fail++;
+      await sleep(RATE_MS);
+      continue;
+    }
+    console.log(`  → AppID: ${search.id} (${search.name})`);
+
+    // Step 2: Fetch details
+    await sleep(RATE_MS);
+    const raw = await fetchApp(search.id);
+    if (!raw) {
+      console.log(`  ✗ No details`);
+      fail++;
+      continue;
+    }
+
+    // Save raw
+    fs.writeFileSync(path.resolve(RAW_DIR, `${search.id}.json`), JSON.stringify(raw, null, 2));
+
+    // Normalize
+    const game = normalize(raw, slug, search.id);
+    fs.writeFileSync(path.resolve(GAMES_DIR, `${slug}.json`), JSON.stringify(game, null, 2));
+    allGames.push(game);
+
+    console.log(`  ✓ ${game.title}`);
+    ok++;
+    await sleep(RATE_MS);
   }
 
   // Write index
-  const indexData = {
+  fs.writeFileSync(GAMES_INDEX, JSON.stringify({
     games: allGames,
     total: allGames.length,
     updatedAt: new Date().toISOString(),
-  };
-  fs.writeFileSync(GAMES_INDEX, JSON.stringify(indexData, null, 2));
+  }, null, 2));
 
-  console.log(`\n=== Done ===`);
-  console.log(`Fetched: ${progress.completed.length}, Failed: ${Object.keys(progress.failed).length}`);
-  console.log(`Index written to ${GAMES_INDEX}`);
+  console.log(`\n=== Done: ${ok} ok, ${fail} failed ===`);
 }
 
-main().catch((err) => {
-  console.error("Fatal error:", err);
-  process.exit(1);
-});
+main().catch((err) => { console.error(err); process.exit(1); });

@@ -37,12 +37,12 @@
     "Monomi Park"
   ],
   "price_overview": {
-    "currency": "CNY",
-    "initial": 9000,
-    "final": 5400,
+    "currency": "USD",
+    "initial": 2999,
+    "final": 1799,
     "discount_percent": 40,
-    "initial_formatted": "¥ 90.00",
-    "final_formatted": "¥ 54.00"
+    "initial_formatted": "$29.99",
+    "final_formatted": "$17.99"
   },
   "packages": [
     589061
@@ -61,11 +61,11 @@
           "packageid": 589061,
           "percent_savings_text": "-40% ",
           "percent_savings": 0,
-          "option_text": "Slime Rancher 2 - <span class=\"discount_original_price\">¥ 90.00</span> ¥ 54.00",
+          "option_text": "Slime Rancher 2 - <span class=\"discount_original_price\">$29.99</span> $17.99",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
-          "price_in_cents_with_discount": 5400
+          "price_in_cents_with_discount": 1799
         }
       ]
     }
@@ -211,7 +211,7 @@
     }
   ],
   "recommendations": {
-    "total": 42216
+    "total": 42217
   },
   "achievements": {
     "total": 27,
@@ -280,7 +280,7 @@
   },
   "release_date": {
     "coming_soon": false,
-    "date": "23 Sep, 2025"
+    "date": "Sep 23, 2025"
   },
   "support_info": {
     "url": "https://slimerancher2.zendesk.com/hc/en-us",

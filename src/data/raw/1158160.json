@@ -36,12 +36,12 @@
     "Balor Games"
   ],
   "price_overview": {
-    "currency": "CNY",
-    "initial": 14800,
-    "final": 14800,
+    "currency": "USD",
+    "initial": 2999,
+    "final": 2999,
     "discount_percent": 0,
     "initial_formatted": "",
-    "final_formatted": "¥ 148.00"
+    "final_formatted": "$29.99"
   },
   "packages": [
     395020
@@ -60,11 +60,11 @@
           "packageid": 395020,
           "percent_savings_text": " ",
           "percent_savings": 0,
-          "option_text": "Coral Island - ¥ 148.00",
+          "option_text": "Coral Island - $29.99",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
-          "price_in_cents_with_discount": 14800
+          "price_in_cents_with_discount": 2999
         }
       ]
     }
@@ -344,7 +344,7 @@
   },
   "release_date": {
     "coming_soon": false,
-    "date": "14 Nov, 2023"
+    "date": "Nov 14, 2023"
   },
   "support_info": {
     "url": "https://www.stairwaygames.com/",

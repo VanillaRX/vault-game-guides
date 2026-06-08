@@ -58,12 +58,12 @@
     "Giants Software"
   ],
   "price_overview": {
-    "currency": "CNY",
-    "initial": 12400,
-    "final": 12400,
+    "currency": "USD",
+    "initial": 1999,
+    "final": 1999,
     "discount_percent": 0,
     "initial_formatted": "",
-    "final_formatted": "¥ 124.00"
+    "final_formatted": "$19.99"
   },
   "packages": [
     596253
@@ -82,11 +82,11 @@
           "packageid": 596253,
           "percent_savings_text": " ",
           "percent_savings": 0,
-          "option_text": "Farming Simulator 22 - ¥ 124.00",
+          "option_text": "Farming Simulator 22 - $19.99",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
-          "price_in_cents_with_discount": 12400
+          "price_in_cents_with_discount": 1999
         }
       ]
     }
@@ -353,7 +353,7 @@
   },
   "release_date": {
     "coming_soon": false,
-    "date": "21 Nov, 2021"
+    "date": "Nov 21, 2021"
   },
   "support_info": {
     "url": "http://www.farming-simulator.com/support.php",

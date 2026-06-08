@@ -33,13 +33,13 @@
   ],
   "developer": "GIANTS Software",
   "publisher": "GIANTS Software",
-  "releaseDate": "12 Nov, 2024",
+  "releaseDate": "Nov 12, 2024",
   "supportsChinese": true,
   "supportsMultiplayer": true,
   "supportsCoop": true,
   "supportsController": true,
   "steamDeckVerified": false,
-  "positiveReviews": 35570,
+  "positiveReviews": 35572,
   "negativeReviews": 0,
   "featured": false,
   "guideCount": 0,
@@ -47,5 +47,5 @@
   "metaDescriptionZh": "",
   "similarGames": [],
   "source": "steam_api",
-  "fetchedAt": "2026-06-08T06:05:45.284Z"
+  "fetchedAt": "2026-06-08T07:19:30.379Z"
 }

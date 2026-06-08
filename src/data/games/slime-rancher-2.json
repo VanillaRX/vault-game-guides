@@ -42,13 +42,13 @@
   ],
   "developer": "Monomi Park",
   "publisher": "Monomi Park",
-  "releaseDate": "23 Sep, 2025",
+  "releaseDate": "Sep 23, 2025",
   "supportsChinese": true,
   "supportsMultiplayer": false,
   "supportsCoop": false,
   "supportsController": true,
   "steamDeckVerified": false,
-  "positiveReviews": 42216,
+  "positiveReviews": 42217,
   "negativeReviews": 0,
   "featured": false,
   "guideCount": 0,
@@ -56,5 +56,5 @@
   "metaDescriptionZh": "",
   "similarGames": [],
   "source": "steam_api",
-  "fetchedAt": "2026-06-08T06:05:52.523Z"
+  "fetchedAt": "2026-06-08T07:18:43.529Z"
 }

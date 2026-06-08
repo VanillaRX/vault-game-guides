@@ -34,12 +34,12 @@
     "Mechanistry"
   ],
   "price_overview": {
-    "currency": "CNY",
-    "initial": 12800,
-    "final": 12800,
+    "currency": "USD",
+    "initial": 3499,
+    "final": 3499,
     "discount_percent": 0,
     "initial_formatted": "",
-    "final_formatted": "¥ 128.00"
+    "final_formatted": "$34.99"
   },
   "packages": [
     355119,
@@ -59,21 +59,21 @@
           "packageid": 355119,
           "percent_savings_text": " ",
           "percent_savings": 0,
-          "option_text": "Timberborn - ¥ 128.00",
+          "option_text": "Timberborn - $34.99",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
-          "price_in_cents_with_discount": 12800
+          "price_in_cents_with_discount": 3499
         },
         {
           "packageid": 953962,
           "percent_savings_text": " ",
           "percent_savings": 0,
-          "option_text": "Timberborn - ¥ 128.00",
+          "option_text": "Timberborn - $34.99",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
-          "price_in_cents_with_discount": 12800
+          "price_in_cents_with_discount": 3499
         }
       ]
     }
@@ -276,7 +276,7 @@
     }
   ],
   "recommendations": {
-    "total": 37034
+    "total": 37035
   },
   "achievements": {
     "total": 59,
@@ -345,7 +345,7 @@
   },
   "release_date": {
     "coming_soon": false,
-    "date": "12 Mar, 2026"
+    "date": "Mar 12, 2026"
   },
   "support_info": {
     "url": "",

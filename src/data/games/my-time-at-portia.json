@@ -40,7 +40,7 @@
   ],
   "developer": "Pathea Games",
   "publisher": "Focus Entertainment",
-  "releaseDate": "15 Jan, 2019",
+  "releaseDate": "Jan 15, 2019",
   "supportsChinese": true,
   "supportsMultiplayer": false,
   "supportsCoop": false,
@@ -55,5 +55,5 @@
   "metaDescriptionZh": "",
   "similarGames": [],
   "source": "steam_api",
-  "fetchedAt": "2026-06-08T06:05:57.396Z"
+  "fetchedAt": "2026-06-08T07:17:23.173Z"
 }

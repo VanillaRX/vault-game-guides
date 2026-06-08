@@ -47,7 +47,7 @@
   "supportsCoop": true,
   "supportsController": true,
   "steamDeckVerified": false,
-  "positiveReviews": 869485,
+  "positiveReviews": 869507,
   "negativeReviews": 0,
   "metacriticScore": 89,
   "featured": false,
@@ -56,5 +56,5 @@
   "metaDescriptionZh": "",
   "similarGames": [],
   "source": "steam_api",
-  "fetchedAt": "2026-06-08T06:05:35.403Z"
+  "fetchedAt": "2026-06-08T07:13:45.477Z"
 }
