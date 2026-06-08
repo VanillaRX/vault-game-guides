@@ -142,7 +142,9 @@
           "reactions": [],
           "zh_review": "非常有趣，适合喜欢城市建造但时间不多的玩家。难度可调节，游戏可以分成小段享受。建筑选择丰富，同时保持足够的挑战性——有时候你不得不在缺少心仪建筑的条件下运营。总的来说非常有意思的游戏。"
         }
-      ]
+      ],
+      "whyPlay": "Against the Storm is the rare game that respects your time while still delivering deep strategy. Each settlement is a fresh puzzle — random blueprints force you to adapt rather than follow a build order. The roguelite structure means no two runs feel alike, and you can finish a settlement in under an hour. It's the perfect game for strategy veterans who can't commit to 8-hour Civ sessions.",
+      "whyPlayZh": "《风暴之城》罕见地同时做到了深度策略和尊重你的时间。每次定居都是一道新谜题——随机蓝图迫使你临场应变而非照搬固定流程。肉鸽结构让每局体验都不同，一小时内就能跑完一个定居点。策略老玩家不用肝 8 小时的文明档也能获得满足感。"
     },
     {
       "slug": "anno-1800",
@@ -281,7 +283,9 @@
           "reactions": [],
           "zh_review": "育碧登录系统炸了，我连自己本地托管的单人游戏都进不去。太棒了。"
         }
-      ]
+      ],
+      "whyPlay": "Anno 1800 is the most polished production-chain game ever made. Watching your trade ships crisscross between Old World factories and New World plantations is hypnotic. The beauty mode alone is worth the price — you can spend hours just walking through your cities at street level. But don't let the pretty facade fool you: late-game supply chains require genuine engineering thought. It's the best game in the Anno series, full stop.",
+      "whyPlayZh": "《纪元1800》是有史以来最精致的产业链游戏。看着你的商船在旧世界工厂和新世界种植园之间穿梭，本身就是一种享受。光第一人称街景模式就值回票价——你能花几个小时在自己建的城市里散步。但别被美貌骗了：后期的供应链需要真正的工程思维。系列最佳，毫无疑问。"
     },
     {
       "slug": "banished",
@@ -367,7 +371,9 @@
           "reactions": [],
           "zh_review": "从发售至今，《放逐之城》依然是我最爱的城市建造游戏。没有任何游戏能给我同样的感觉。总结：我给它8.5/10。游戏把你丢进荒野，带着几个刚被流放的人和一些物资。目标是在荒野中建立繁荣的城镇。上手有难度，学习曲线挺陡的——你的前几个城镇大概率活不过100年，撑过200年是真正的挑战。但就是这样才让人上瘾。"
         }
-      ]
+      ],
+      "whyPlay": "Banished is the little game that launched a thousand city-builders. There are no enemies, no tech trees, no quests — just your villagers and the unforgiving seasons. Your first winter will probably kill everyone, and that's the point. Every survivor feels earned. It's lean, focused, and still unmatched in its purity of vision over a decade later.",
+      "whyPlayZh": "《放逐之城》是用一款小体量游戏催生了整个城市建造品类的传奇。没有敌人、没有科技树、没有任务——只有你的村民和无情的四季。你的第一个冬天大概率会让所有人死光，而这恰恰是精髓所在。每一个幸存者都让你觉得是自己挣来的。十多年过去，它在设计纯粹性上依然无人超越。"
     },
     {
       "slug": "campsite-hustle",
@@ -606,7 +612,9 @@
           ],
           "zh_review": "🏕️ 休闲建造游戏爱好者的小珍珠。透明声明：我作为内容创作者在EA前通过Keymailer免费获得了Key。以下评价基于我个人游戏体验和诚实意见。Campsite Hustle出乎意料地让我惊喜。乍看是又一个模拟器，但玩了几小时后你会发现这里有很多系统相互交织。值得一试。"
         }
-      ]
+      ],
+      "whyPlay": "Campsite Hustle is a scrappy indie management sim that punches above its weight. The core loop — build tents, stock the shop, make campers happy — is simple but surprisingly addictive once the tourists start pouring in. The dev team is small but hyper-responsive, pushing fixes within days of bug reports. It's still rough around the edges, but the charm and momentum are real.",
+      "whyPlayZh": "《Campsite Hustle》是一款小体量但超出预期的独立经营模拟。核心循环——搭帐篷、补货、让露营者开心——简单但出奇上瘾，一旦游客涌进来就停不下来。开发团队虽小但响应极快，bug 反馈几天内就修。边角还有些粗糙，但魅力和势头是真实的。"
     },
     {
       "slug": "cities-skylines",
@@ -795,7 +803,9 @@
           "reactions": [],
           "zh_review": "不推荐玩，一打开一上午没了，再一打开一下午没了，又一打开一晚上没了"
         }
-      ]
+      ],
+      "whyPlay": "Cities: Skylines didn't just inherit the city-builder crown from SimCity — it redefined the genre. The traffic simulation alone is deep enough to be its own game. With years of DLC and a massive modding community, you can build anything from a quaint European village to a cyberpunk megapolis. It's the definitive modern city builder, and 10 years later, nothing has truly surpassed it.",
+      "whyPlayZh": "《城市天际线》不仅从模拟城市手中继承了王冠，还重新定义了这个品类。光是交通模拟的深度就够单独做一款游戏了。多年 DLC 加上庞大的 MOD 社区，你可以建造从欧洲小镇到赛博朋克超级都会的任何东西。它就是现代城市建造的标杆，十年后依然无人真正超越。"
     },
     {
       "slug": "civilization-6",
@@ -1039,7 +1049,9 @@
           "reactions": [],
           "zh_review": "个人评分：非常好评（90%）。今天玩了一整个上午和下午。我以前很讨厌六边形格子设计，觉得看起来很蠢。但今天不知为什么又给了一次机会……结果我真的很喜欢。游戏性介于老AoH2和HoI4之间，简直完美——有挑战但不复杂。时间过得飞快，真的好玩。不知道会不会入Civ 7或DLC。"
         }
-      ]
+      ],
+      "whyPlay": "Civilization VI is the 'one more turn' meme made flesh. Its district system adds genuine spatial planning to the 4X formula — where you place your campus matters as much as when you research it. Each leader plays distinctly enough that switching civs feels like learning a new game. If you've ever wanted to nuke Gandhi while listening to a full orchestra, this is your game.",
+      "whyPlayZh": "《文明VI》就是'再来一回合'这个梗的化身。它的区域系统给 4X 公式加入了真正的空间规划——学院区摆在哪和研究什么科技同样重要。每个领袖玩法差异足够大，换文明就像换游戏。如果你曾经想边听交响乐边核平甘地，这就是你要的游戏。"
     },
     {
       "slug": "coral-island",
@@ -1262,7 +1274,9 @@
           "reactions": [],
           "zh_review": "很棒的农场经营游戏，非常可爱，和星露谷有很多不同的东西，我非常喜欢，有太多事情可以做和发现。看起来未来还会有更多令人期待的内容更新。好游戏。"
         }
-      ]
+      ],
+      "whyPlay": "Coral Island is what happens when a farming sim decides to be ambitious. Beyond the usual crops and romance, you get diving, coral restoration, bug catching, and an entire merfolk kingdom to befriend. The art direction is gorgeous — think Stardew Valley with a tropical 3D makeover. It's still growing through updates, but the foundation is already one of the strongest in the genre.",
+      "whyPlayZh": "《珊瑚岛》是一个农场模拟敢于做大梦的结果。在常规种田恋爱之外，你还有潜水、珊瑚修复、捕虫和一个完整的人鱼王国可以交朋友。美术方向惊艳——就当是星露谷做了热带 3D 改造。还在持续更新中成长，但底子已经是同类型里最扎实的之一。"
     },
     {
       "slug": "deep-crafter",
@@ -1386,7 +1400,9 @@
           "reactions": [],
           "zh_review": "操作太难受了，还不如学幸福工厂做成第一人称。而且我这个配置都特别卡，开局就这么卡后期还能玩吗？"
         }
-      ]
+      ],
+      "whyPlay": "Deep Crafter takes factory automation underwater, and the setting alone gives it a distinct identity. Instead of conveyor belts sprawling across green fields, you're laying pipes on the ocean floor while managing oxygen and pressure. It's rougher than Factorio or Satisfactory, but the underwater setting and mining mechanics give it a genuinely fresh feel for automation fans looking for something different.",
+      "whyPlayZh": "《深海工厂》把工厂自动化搬到了海底，光这个设定就有了独特辨识度。传送带不在绿地上蔓延，而是在海底铺设管道，同时还要管理氧气和水压。比异星工厂和幸福工厂粗糙些，但海底环境+采矿机制给自动化爱好者带来了真正新鲜的体验。"
     },
     {
       "slug": "dinkum",
@@ -1457,7 +1473,9 @@
       "fetchedAt": "2026-06-08T07:17:29.889Z",
       "reviewScore": 8,
       "reviewDesc": "Very Positive",
-      "topReviews": []
+      "topReviews": [],
+      "whyPlay": "Dinkum is the Australian love letter to Animal Crossing and Stardew Valley you didn't know you needed. You build a town in the outback, befriend anthropomorphic Aussie animals, and gradually turn a dusty patch of land into a thriving community. The multiplayer makes it shine — building a town with friends while fending off crocs and collecting bugs is pure joy. It's the best 'cozy multiplayer' game on this list.",
+      "whyPlayZh": "《金垦小镇》是一封你没想到会需要的澳洲版动森+星露谷情书。在澳洲荒野里建造小镇，和拟人化的澳式动物交朋友，把一块荒地逐步变成繁荣社区。联机让它发光——和朋友一起建镇、打鳄鱼、抓虫子，纯粹的快乐。这是这份列表上最好的'休闲联机'游戏。"
     },
     {
       "slug": "dragon-shelter",
@@ -1526,7 +1544,9 @@
       "fetchedAt": "2026-06-08T07:18:56.854Z",
       "reviewScore": 0,
       "reviewDesc": "No user reviews",
-      "topReviews": []
+      "topReviews": [],
+      "whyPlay": "Dragon Shelter is a cozy management game about rehabilitating injured dragons and giving them a home. Each dragon has its own personality and needs, and watching your sanctuary grow from a few nests into a thriving dragon haven is genuinely heartwarming. It's smaller in scope than most games here, but the dragon-care loop is polished and the art style is adorable.",
+      "whyPlayZh": "《龙之庇护所》是一款治愈系管理游戏，你要治愈受伤的龙并给它们一个家。每条龙都有自己的个性和需求，看着庇护所从几个巢穴成长为繁荣的龙族天堂，确实暖心。体量比这里大多数游戏小，但养龙循环打磨得很好，画风可爱。"
     },
     {
       "slug": "elden-ring",
@@ -1842,7 +1862,9 @@
           ],
           "zh_review": "这游戏太上瘾了，体量巨大！我花了275小时通关，现在刚开始DLC。50年游戏生涯中玩过最棒的游戏之一。"
         }
-      ]
+      ],
+      "whyPlay": "Elden Ring is the game that proved open worlds don't have to be boring. Every direction you ride holds a secret, a boss, or a weird NPC with cryptic dialogue. The build variety is staggering — you can be a naked man with a giant hammer, a spellblade, or a dragon-worshipping priest. It sold 25 million copies for a reason. Even if you've never played a Souls game, this is the one to start with.",
+      "whyPlayZh": "《艾尔登法环》证明了开放世界可以不无聊。你骑马去的每个方向都藏着秘密、BOSS 或一个说话云里雾里的奇怪 NPC。配装多样性惊人——你可以是裸男大锤流、魔法剑士或龙飨祭司。卖 2500 万份是有原因的。就算你没玩过魂系游戏，这也是入坑首选。"
     },
     {
       "slug": "fabledom",
@@ -2003,7 +2025,9 @@
           "reactions": [],
           "zh_review": "我喜欢这游戏的奇幻可爱风格，但不到12小时就通关了。确实有几小时的乐趣，但终局不够深入，后期就是重复。打折$6.29时买来玩几小时还行，但不值$20.99。2.5/5。"
         }
-      ]
+      ],
+      "whyPlay": "Fabledom is a city-builder that prioritizes charm over complexity. It's fairy-tale kingdom building with romance and diplomacy, wrapped in storybook visuals. The systems aren't as deep as Anno or Foundation, but that's the point — it's a gentler entry point for players who find traditional city-builders intimidating. Play it for the vibes, stay for the prince/princess romances.",
+      "whyPlayZh": "《寓言之地》是一款把魅力放在复杂度之前的城市建造游戏。童话王国建设加上恋爱和外交，包裹在绘本般的视觉里。系统不如纪元或 Foundation 深，但这正是重点——它是为觉得传统城市建造太难的玩家准备的温和入口。为氛围而来，为王子的浪漫留下。"
     },
     {
       "slug": "factorio",
@@ -2395,7 +2419,9 @@
           ],
           "zh_review": "挺好玩的，期待有朝一日能第一次通关。我电脑跑得动。"
         }
-      ]
+      ],
+      "whyPlay": "Factorio is the closest thing to a digital drug. You start by hand-mining iron ore. 200 hours later, you're debugging a 12-lane train network while calculating throughput ratios for your nuclear reactor. The Space Age DLC doubled the game length by adding four new planets, each with entirely new production challenges. There's a reason it's one of the highest-rated games in Steam history — it's perfect.",
+      "whyPlayZh": "《异星工厂》是最接近数字毒品的东西。你从手挖铁矿开始，200 小时后你在调试 12 轨火车网络，同时计算核电输出比。太空时代 DLC 加了四个新星球，每个都有全新的生产挑战，游戏长度直接翻倍。它是 Steam 历史评分最高的游戏之一——因为它完美。"
     },
     {
       "slug": "farming-simulator-22",
@@ -2461,7 +2487,9 @@
       "fetchedAt": "2026-06-08T07:19:23.670Z",
       "reviewScore": 8,
       "reviewDesc": "Very Positive",
-      "topReviews": []
+      "topReviews": [],
+      "whyPlay": "Farming Simulator 22 is the definitive entry in a series that has no right to be this popular — and yet millions of players can't be wrong. There's something deeply satisfying about plowing a field in a $400,000 tractor while listening to a podcast. With mod support and multiplayer, it's both a zen garden and a surprisingly deep management sim.",
+      "whyPlayZh": "《模拟农场22》是这个本不该如此流行的系列的标杆之作——但数百万玩家不会错。开着 40 万美元的拖拉机边耕地边听播客，有一种深入骨髓的满足感。配上 MOD 和联机，它既是禅意花园又是出奇有深度的经营模拟。"
     },
     {
       "slug": "farming-simulator-25",
@@ -2675,7 +2703,9 @@
           "reactions": [],
           "zh_review": "玩过很多模拟农场系列。优点：整体来说每代画质都有提升，可种植作物、动物种类越来越多。缺点：开发者每次卖的几乎是同一款游戏，改动极小。物理引擎至今没做好——树、灌木、围栏全是硬的，开着拖拉机撞上去像撞500吨混凝土墙，2026年了这不严肃。建议：让我能揍那些鸣笛的过路司机。"
         }
-      ]
+      ],
+      "whyPlay": "FS25 brings three new biomes and improved graphics to the tried-and-true farming formula. The new Asian map with rice paddies is a standout, and the AI worker improvements actually make solo play viable. It's still a niche taste, but if the farming sim bug has bitten you, this is the best version yet.",
+      "whyPlayZh": "《模拟农场25》给这套久经验证的种田配方带来了三个新地图和画质提升。亚洲稻田地图是亮点，AI 工人改进让单人玩也顺畅了。它口味仍然小众，但如果你已经被农场模拟咬过，这就是目前最好的版本。"
     },
     {
       "slug": "farthest-frontier",
@@ -2940,7 +2970,9 @@
           "reactions": [],
           "zh_review": "这个游戏玩起来心很累。所有的突发事件全是负回馈——每年不是天灾就是人祸。人民生病、谷物枯竭、极端天气、房屋失火、食物腐烂、人民吃不饱、被侵略……游戏中没有任何谷物丰收、产能加倍、风调雨顺的正向事件。最重要的是被侵略打赢战争没有任何好处——就是赢了而已，没有奖励（战争的目的是为了消耗你的资源）。整个游戏就是在维持平衡，维持得很累。玩了快100小时，窗口跳的全是负面事件……再更新，又玩了30小时，人口到1200。纯新手没装MOD，只想体验完。这游戏充满种种恶意，所有负面事件总是同时发生。战争（同时面对4个方向）、疾病、移民、种田是地狱！我和AI讨论了5个小时、试了各种轮耕方案、这30小时全在种田！作物会得各种病并随风交叉传染，一旦得病就要改轮作或休耕。"
         }
-      ]
+      ],
+      "whyPlay": "Farthest Frontier is the most detailed medieval survival city-builder on the market. The crop rotation and soil fertility system alone has more depth than most entire games. Disease spreads through water sources, bears maul your foragers, raiders breach weak walls — every system is interconnected. It's still in early access, but what's here already puts most 'finished' city-builders to shame.",
+      "whyPlayZh": "《最远的边陲》是市面上最细致的中世纪生存城市建造。光是作物轮作和土壤肥力系统就比大多数完整游戏还深。疾病通过水源传播，熊袭击采集者，掠夺者攻破薄弱城墙——每个系统相互关联。还在 EA 但现有内容已经让很多'正式版'城市建造汗颜。"
     },
     {
       "slug": "field-of-mistria",
@@ -3132,7 +3164,9 @@
           ],
           "zh_review": "这个游戏唯一的问题是太健全了——或者说，太宽容了。无论何种个性，都在爱中生长，这太不现实了。所以要一直玩。我会记得过生日时众人即使仓促也掏出礼物，在旅馆学烹饪即使只煮了锅汤也被夸奖，臭屁如马奇大家也都会为他说话。地球online从未如此宽待过我，而我们一生追求的只是这样简单的东西。其实我并不向往田园生活，仅仅是自由和创作在当代还算好实现。自然的一切也从不吝啬。然而我们难以唤醒的是人，是一个社会无可撼动的正确性。这就是逃跑的牧歌永垂不朽的原因。制作东西不用带材料好评，紫色小球买技能好评，角色话特别多好评，战斗好难。"
         }
-      ]
+      ],
+      "whyPlay": "Fields of Mistria feels like a lost 90s anime brought to life as a farming sim. The character writing is genuinely funny — NPCs have distinct personalities and dialogue that evolves with your relationships. Quality-of-life features like auto-tool switching and jumping make it hard to go back to older farming sims. It's still in early access but already more polished than most finished games in the genre.",
+      "whyPlayZh": "《Fields of Mistria》像是一部被遗忘的 90 年代动漫做成了农场游戏。角色写作真的有趣——NPC 个性鲜明，对话随关系发展变化。自动切换工具、跳跃等 QoL 功能让老农场游戏很难再回去。还在 EA 但已经比同类型大多数成品更精致。"
     },
     {
       "slug": "foundation",
@@ -3249,7 +3283,9 @@
           "reactions": [],
           "zh_review": "即使有4支军队在两块小住宅区永久巡逻、轻度防御、带乡村瞭望塔，也只有4栋房子升到中密度。我无法进一步发展因为居民一直因缺乏住房而离开。市场摊位也有些问题但主要是烦人。如果没bug的话应该挺好玩。希望开发者修好。"
         }
-      ]
+      ],
+      "whyPlay": "Foundation is the city-builder for people tired of grids. Villagers build their own paths and houses — you paint zones and manage supply chains instead. The result is cities that look and feel organic rather than planned. The monument system gives you long-term goals, and the medieval setting is gorgeous. It's the anti-Anno, and that's a compliment.",
+      "whyPlayZh": "《Foundation》是给厌倦网格的人准备的城市建造游戏。居民自己修路盖房——你只需要划定区域、管理供应链。结果是看起来有机生长的城市，而不是精心规划出来的。纪念碑系统给你长远目标，中世纪画风美轮美奂。它就是反纪元风格，这是褒义。"
     },
     {
       "slug": "frozenheim",
@@ -3314,7 +3350,9 @@
       "fetchedAt": "2026-06-08T07:20:37.633Z",
       "reviewScore": 5,
       "reviewDesc": "Mixed",
-      "topReviews": []
+      "topReviews": [],
+      "whyPlay": "Frozenheim mixes Viking city-building with RTS combat, and while neither half is the best in its class, the combination is compelling. Sending raiding parties across the fjord while your villagers chop wood through a blizzard creates genuine atmosphere. It's a solid pick for players who want their city-builder with a side of conquest.",
+      "whyPlayZh": "《维京之城》混合了维京城市建造和即时战略，虽然两边单拿出来都不是顶尖，但组合在一起很有吸引力。派掠夺队穿越峡湾，同时你的村民在暴风雪中砍柴——氛围感拉满。适合想在城市建造里加点征服味道的玩家。"
     },
     {
       "slug": "going-medieval",
@@ -3469,7 +3507,9 @@
           "reactions": [],
           "zh_review": "非常好的游戏，但请加入生育小孩的设定。"
         }
-      ]
+      ],
+      "whyPlay": "Going Medieval's killer feature is its Z-level system — you build multi-story castles with underground vaults, rooftop battlements, and murder holes. The structural integrity simulation means your castle can collapse if you dig too greedily. Settler psychology adds RimWorld-style emergent stories. It's still early access but the vertical building alone makes it unique in the genre.",
+      "whyPlayZh": "《前往中世纪》的杀手锏是 Z 轴系统——你能建造多层城堡，包括地下金库、屋顶城垛和杀戮孔。结构完整性模拟意味着挖得太贪心城堡会塌。居民心理系统加入了边缘世界式的涌现叙事。还在 EA 但光是垂直建造就让它在这个类型中独树一帜。"
     },
     {
       "slug": "jurassic-world-evolution-2",
@@ -3583,7 +3623,9 @@
           "reactions": [],
           "zh_review": "建造和管理自己的恐龙公园依然超级好玩，尤其是当混乱开始、一切不可避免地失控时。恐龙种类、生物群落和自定义选项的丰富程度让人轻松沉浸数十小时。混沌理论模式对电影粉丝是极好的补充，看你养的恐龙互动即使玩了几十小时也依然有趣。管理系统后期可能变得有些重复，但如果你喜欢公园建造和恐龙，轻松推荐。"
         }
-      ]
+      ],
+      "whyPlay": "JW Evolution 2 is the best dinosaur park sim ever made — though the bar isn't exactly sky-high. The dinosaurs are stunningly detailed, and the Chaos Theory mode lets you replay movie scenarios with a twist. Park management can feel shallow after a while, but watching a T-Rex rampage through your carefully designed park never gets old.",
+      "whyPlayZh": "《侏罗纪世界进化2》是有史以来最好的恐龙公园模拟——虽然这个赛道的门槛本来也不高。恐龙的细节惊人，混沌理论模式让你重新演绎电影场景。公园管理玩久了会感觉浅，但看霸王龙在你精心设计的公园里横冲直撞永远不会腻。"
     },
     {
       "slug": "kingdoms-and-castles",
@@ -3642,7 +3684,9 @@
       "fetchedAt": "2026-06-08T07:21:11.319Z",
       "reviewScore": 8,
       "reviewDesc": "Very Positive",
-      "topReviews": []
+      "topReviews": [],
+      "whyPlay": "Kingdoms and Castles is the definition of 'easy to learn, hard to master.' Its low-poly aesthetic hides a surprisingly deep city-builder where dragon attacks, Viking raids, and plague outbreaks keep you on your toes. The building placement matters — walls, towers, and archer ranges create real tactical depth. It's the perfect entry-level city-builder that veterans will still enjoy.",
+      "whyPlayZh": "《王国与城堡》是'易学难精'的教科书。低多边形画风下藏着出奇有深度的城市建造——龙袭、维京劫掠和瘟疫让你时刻警惕。建筑摆放很重要——城墙、塔楼和弓箭射程创造真正的战术深度。新手和老手都能乐在其中的完美入门作。"
     },
     {
       "slug": "kynseed",
@@ -3723,7 +3767,9 @@
       "fetchedAt": "2026-06-08T07:18:16.791Z",
       "reviewScore": 8,
       "reviewDesc": "Very Positive",
-      "topReviews": []
+      "topReviews": [],
+      "whyPlay": "Kynseed is an absurdly ambitious indie project — a multi-generation life sim where your character ages, dies, and passes the torch to their children. Each generation inherits skills and traits from the last. The pixel art is gorgeous, the world is packed with secrets, and the crafting/farming/combat loop has surprising depth. It's been in development for years and the scope is genuinely staggering for a small team.",
+      "whyPlayZh": "《Kynseed》是野心大到离谱的独立项目——多世代生活模拟，你的角色会衰老、死亡、把火炬传给下一代。每代继承上一代的技能和特质。像素美术惊艳，世界塞满了秘密，制造/农耕/战斗循环有出人意料的深度。开发多年，对小团队来说这个规模确实惊人。"
     },
     {
       "slug": "life-below",
@@ -3989,7 +4035,9 @@
           "reactions": [],
           "zh_review": "目前来说我不会推荐买这个游戏，除非有平衡性改动。它比有趣更让人烦躁。概念真的很酷，可以轻松吸引你玩上几个小时，但之后就是一个接一个的恶心事。灾害对游戏没有任何有趣的添加——它们是随机出现的繁琐恶心路障，让人头疼。主要问题是：用于修复环境不平衡的建筑本身不对同样环境效果免疫。这是真的烂设计。"
         }
-      ]
+      ],
+      "whyPlay": "Life Below turns city-building vertical — you're managing an underwater base on the ocean floor. The hazard system (temperature spikes, contamination, structural breaches) keeps the tension high. It's rough in places and the balance needs work, but the core concept is so fresh that it's worth trying if you've exhausted traditional city-builders.",
+      "whyPlayZh": "《Life Below》把城市建造竖过来了——你在海底管理一个水下基地。灾害系统（温度骤变、污染、结构破损）让紧张感持续在线。有些地方粗糙需要打磨平衡，但核心理念太新鲜了，传统城市建造玩腻了值得试试。"
     },
     {
       "slug": "littlewood",
@@ -4052,7 +4100,9 @@
       "fetchedAt": "2026-06-08T07:18:10.070Z",
       "reviewScore": 8,
       "reviewDesc": "Very Positive",
-      "topReviews": []
+      "topReviews": [],
+      "whyPlay": "Littlewood is a town-builder where you've already saved the world — now you just rebuild. There's no combat, no pressure, no time limits. You terraform the land, place buildings, befriend villagers, and gradually unlock memories of your adventure. It's pure comfort gaming with a surprising amount of content hidden behind its simple exterior.",
+      "whyPlayZh": "《Littlewood》是一款你已经拯救了世界后重建家园的城镇建造游戏。没有战斗、没有压力、没有时间限制。你改造地形、放置建筑、和村民交朋友，逐步解锁冒险的记忆。表面简约内部内容量惊人，纯粹治愈系。"
     },
     {
       "slug": "manor-lords",
@@ -4389,7 +4439,9 @@
           ],
           "zh_review": "我真的开始厌倦EA游戏了。不幸的是，今天最原创、最有趣的作品往往是独立游戏……因此几乎一律是EA。在纸面上支持有前途的项目听上去诱人，但实际上当免费beta测试员最终会耗尽耐心。bug、半成品机制、运行不正常的系统——体验很快就变得令人沮丧。EA现在已经成了独立游戏行业的常态。"
         }
-      ]
+      ],
+      "whyPlay": "Manor Lords set the internet on fire with its reveal trailer, and the actual game — while still early access — delivers on the visual promise. The city-building is organic and gridless, with burgage plots that grow naturally. Combat is Total War-lite: you position units on the same map you built your city on. It's been slow to update, but the foundation is one of the most promising in the genre.",
+      "whyPlayZh": "《庄园领主》用一支预告片点燃了互联网，实际游戏虽然还在 EA 但兑现了视觉承诺。城市建造有机无网格，宅基地自然生长。战斗是轻量全战风格——你直接在建造城市的同一张地图上调兵遣将。更新虽慢，但底子是同类型最有前途的之一。"
     },
     {
       "slug": "monster-hunter-world",
@@ -4637,7 +4689,9 @@
           "reactions": [],
           "zh_review": "写这篇评论时，刚好破一千小时。更重要的是，截至今年，完整地把旧大陆各作和新大陆三部曲都体验过一次，算是能发表一篇系统化的分析了。先说结论，世界仍然是我心中最棒的一作。以前不懂得和怪物周旋，老实巴交站头前，结果引到各种粪招，一度让人怀疑自己。后面突然开窍了——原来我可以分出一部分精力来和怪绕啊，思路可以不拘泥于招式连段。它走位我也走位，这不就是立回的基本思路吗。把复杂交互简化成怪物出招→规避→蓄力反打的过程，每掌握一个蓄力点那种实打实进步的爽快感，是数值驱动永远给不了的。就这样朴素的思想，让我从小动物打到飞龙，再到古龙，再到F4都能游刃有余地处理。这样的历练和心路历程实在是太棒了。"
         }
-      ]
+      ],
+      "whyPlay": "Monster Hunter World is Capcom's best-selling game for a reason. 14 weapon types, each with the depth of a full fighting game character. Monsters have ecology, not just health bars — they limp, sleep, eat, and fight each other. The learning curve is steep but the moment it clicks is one of the most satisfying experiences in gaming.",
+      "whyPlayZh": "《怪物猎人世界》是卡普空史上最畅销游戏，有原因的。14 种武器，每种深度相当于一个完整格斗游戏角色。怪物有生态而不只是血条——它们瘸腿、睡觉、进食、互相打斗。上手陡但开窍那一刻是游戏界最有满足感的体验之一。"
     },
     {
       "slug": "my-time-at-portia",
@@ -4739,7 +4793,9 @@
           "reactions": [],
           "zh_review": "《波西亚时光》是一款还不错、挺漂亮的游戏，但它患有严重的'姐姐综合症'——它走路了，好让续作能冲刺。如果你是硬核休闲游戏狂热爱好者，需要把每个制造模拟器直接注入血管，买吧，你会玩得开心。但如果你是个正常人今天才玩，整个体验会感觉明显……不对劲。现在玩波西亚感觉就像戴烤箱手套组装宜家家具。操作是纯粹的、未经过滤的生硬，资源肝度不是'放松周末爱好'而是'第二份全职工作'。"
         }
-      ]
+      ],
+      "whyPlay": "My Time at Portia walked so its sequel could run. The workshop-building loop — gather materials, craft items, fulfill commissions — is genuinely satisfying. The world is colorful and the NPCs are charming, even if the controls feel dated by modern standards. Play it for the cozy vibes, then graduate to Sandrock for the polished version.",
+      "whyPlayZh": "《波西亚时光》走了路，好让续作能跑。工坊经营循环——收集材料、制作物品、完成委托——真的让人满足。世界多彩 NPC 可爱，虽然按现代标准操作手感显老。来享受治愈氛围，然后去沙石镇体验打磨升级版。"
     },
     {
       "slug": "my-time-at-sandrock",
@@ -4844,7 +4900,9 @@
           "reactions": [],
           "zh_review": "中评吧，缺点不少，但因为我刚从隔壁橄榄镇坐过大牢觉得哪里都是天堂，且相比种田我更喜欢捡垃圾，BGM和废土末日画风也很喜欢，剧情没多好但多次让我忍俊不禁，综合来看还是玩得很开心。优点：所有类似游戏的箱子系统请都照着这个来！所有箱子连通一键整理收纳，制作和交任务不用放背包，箱子里有就行。升级箱子直接把大箱子往小箱子上一放。废土末日氛围别有滋味，一个人骑着羊在沙漠里狂奔或看日落星空非常浪漫。本作人物美术有较大进步，史诗级更新了外观系统——装备找属性好的穿、外观找好看的穿。缺点：优化和流畅度有问题，部分任务引导不够清晰。但瑕不掩瑜，依然是非常值得推荐的游戏。"
         }
-      ]
+      ],
+      "whyPlay": "My Time at Sandrock improves on Portia in almost every way — smoother controls, better writing, more variety. The desert setting is surprisingly beautiful once you settle in, and the story has genuine emotional beats. The quality-of-life upgrades alone (linked storage, fast travel, outfit system) make it the best workshop sim on the market right now.",
+      "whyPlayZh": "《沙石镇时光》几乎在各方面超越了波西亚——操作更流畅、剧本更好、内容更丰富。沙漠设定一旦适应了其实很美，故事有真实的情感触动。光是 QoL 升级（连通仓库、快速旅行、外观系统）就让它成为目前市面上最好的工坊模拟。"
     },
     {
       "slug": "northgard",
@@ -5024,7 +5082,9 @@
           ],
           "zh_review": "我玩了100多小时。很明显他们几年前就停止开发了，只是不断出DLC。连存档退出选项都没有。功能极其匮乏，bug一堆。可悲的迷失工作室。"
         }
-      ]
+      ],
+      "whyPlay": "Northgard distills RTS into something you can play at a civilized pace. Each clan has genuinely different mechanics — not just stat tweaks but entirely different resource loops and victory conditions. The Definitive Edition bundles years of DLC into one package. It's the thinking person's RTS, and it works brilliantly as a co-op experience.",
+      "whyPlayZh": "《北加尔》把即时战略提炼成了你可以用文明节奏来玩的东西。每个氏族有真正不同的机制——不只是数值微调而是完全不同的资源循环和胜利条件。终极版打包了多年 DLC。这是思考者的 RTS，合作体验尤其出色。"
     },
     {
       "slug": "ooblets",
@@ -5101,7 +5161,9 @@
       "fetchedAt": "2026-06-08T07:18:30.147Z",
       "reviewScore": 8,
       "reviewDesc": "Very Positive",
-      "topReviews": []
+      "topReviews": [],
+      "whyPlay": "Ooblets is what happens when Pokémon meets Stardew Valley meets a dance battle. It's weird, colorful, and deeply charming. You collect creatures, grow them from seeds, and battle through dance-offs. The writing is genuinely funny, and the game never takes itself too seriously. It's the perfect palate cleanser between heavier strategy games.",
+      "whyPlayZh": "《Ooblets》是宝可梦遇上星露谷遇上跳舞对决。它又怪又多彩又无比有魅力。你收集生物、从种子种出来、通过斗舞对战。剧本真的好笑，游戏从不把自己当回事。它是重策略游戏之间完美的调味剂。"
     },
     {
       "slug": "oxygen-not-included",
@@ -5273,7 +5335,9 @@
           ],
           "zh_review": "表面可爱放松的卡通画风，实际暗藏热力学博士学位要求。《缺氧》是现代游戏中最伟大的特洛伊木马——表面是可爱殖民模拟，本质是热传导、流体力学和废物管理的博士项目。"
         }
-      ]
+      ],
+      "whyPlay": "Oxygen Not Included is a thermodynamics simulator disguised as a cute cartoon. Managing oxygen, temperature, and waste in a closed asteroid base is genuinely hard — in a good way. The physics simulation is so detailed that players have built working computers inside the game. It's the smartest colony sim ever made, bar none.",
+      "whyPlayZh": "《缺氧》是伪装成可爱卡通的工程热力学模拟器。在封闭小行星基地里管理氧气、温度和废物——真的很难，是好事那种难。物理模拟细致到玩家在游戏里造出了能运行的计算机。是最聪明的殖民模拟游戏没有之一。"
     },
     {
       "slug": "palia",
@@ -5572,7 +5636,9 @@
           ],
           "zh_review": "我宁愿他们定个价然后取消微交易。一开始很好玩，但现在每次登录看到可以花钱买的东西就翻白眼。"
         }
-      ]
+      ],
+      "whyPlay": "Palia is a cozy MMO that doesn't demand your soul. No combat pressure, no gear treadmill — just farming, fishing, house decorating, and community events. It's free-to-play with a cosmetic shop, which means you can try it risk-free. The monetization has drawn criticism, but the core game is genuinely relaxing and the community is one of the friendliest in online gaming.",
+      "whyPlayZh": "《帕里亚》是一款不需要你献出灵魂的休闲 MMO。没有战斗压力、没有装备肝——只有种田、钓鱼、装修房子和社区活动。免费玩加外观商城，零风险试玩。变现方式有争议，但核心游戏真的放松，社区是网游里最友好的之一。"
     },
     {
       "slug": "palworld",
@@ -5900,7 +5966,9 @@
           ],
           "zh_review": "我盗版玩了这个游戏，在自己的世界里独处很久。游戏确实很棒，一个人玩也很享受。非常新手友好。我一定会用这游戏教女朋友入坑……如果我有的话。买正版保护开发者免受任天堂迫害。"
         }
-      ]
+      ],
+      "whyPlay": "Palworld is the most unhinged survival game in years, and that's exactly why 25 million people played it. It's Pokémon with guns, factory labor, and existential questions about Pal rights. Underneath the meme exterior is a genuinely solid survival crafting game with base building, exploration, and boss fights. The multiplayer chaos is where it truly shines.",
+      "whyPlayZh": "《幻兽帕鲁》是近年来最疯狂不设限的生存游戏，2500 万玩家就是这么来的。它是宝可梦+枪+工厂劳动+帕鲁权益的哲学拷问。在 meme 外表下是一个真正扎实的生存建造游戏——基地建设、探索、BOSS 战俱全。联机混乱才是它发光的地方。"
     },
     {
       "slug": "planet-coaster-2",
@@ -6197,7 +6265,9 @@
           "reactions": [],
           "zh_review": "我真的很不喜欢每个主题没有内置结构建筑——感觉特别懒，好像他们期望你要么自己从头建，要么花好几小时翻工坊。我只想建个大主题公园，不想花几个小时建结构。"
         }
-      ]
+      ],
+      "whyPlay": "Planet Coaster 2 is the best pure theme park builder available. The coaster builder is powerful enough that people spend hundreds of hours just designing rides. Water parks are a strong addition, and the graphical upgrade from PC1 is significant. The UI still has a learning curve, but once it clicks, there's nothing else like it.",
+      "whyPlayZh": "《过山车之星2》是最好的纯主题公园建造游戏。过山车编辑器强大到有人花几百小时只设计轨道。水上乐园是很棒的补充，画质比一代提升显著。UI 仍需学习但一旦上手，没有替代品。"
     },
     {
       "slug": "project-zomboid",
@@ -6504,7 +6574,9 @@
           ],
           "zh_review": "醒来，看了本漫画，做了健身，看电视，喝醉了，揍了一个老太太，然后我玩了僵尸毁灭工程——太棒了"
         }
-      ]
+      ],
+      "whyPlay": "Project Zomboid is the most realistic zombie survival sim ever made, and it's not close. You will die. A lot. Each death teaches you something — check corners, don't run everywhere, boil your water. The depth is staggering: nutrition, temperature, mental health, vehicle maintenance, farming, trapping, and more. It looks dated but plays deeper than almost anything else here.",
+      "whyPlayZh": "《僵尸毁灭工程》是有史以来最真实的僵尸生存模拟，优势断层领先。你会死。很多次。每次死亡教你一件事——检查角落、别到处跑、把水烧开。深度惊人：营养、体温、心理健康、车辆维护、农耕、陷阱……看着老旧但玩法比这里几乎任何游戏都深。"
     },
     {
       "slug": "rimworld",
@@ -6828,7 +6900,9 @@
           ],
           "zh_review": "决定开一个正常和平档。1小时后我在向商队倒卖器官。11/10"
         }
-      ]
+      ],
+      "whyPlay": "RimWorld labels itself a 'story generator' and that's not marketing fluff. Your colonists will fall in love, lose limbs, develop addictions, adopt stray cats, and get kidnapped by raiders — all while you're trying to build a functional colony. The modding community is among the best in gaming. No two colonies ever play out the same way. It's not a game you play — it's a game you live in.",
+      "whyPlayZh": "《边缘世界》自称'故事生成器'，这不是营销话术。你的殖民者会相爱、断肢、成瘾、收养流浪猫、被掠夺者绑架——同时你还在试图建造一个正常运转的殖民地。MOD 社区是游戏界最好的之一。没有两个殖民地的故事是相同的。你不是在玩它，你是在活在里面。"
     },
     {
       "slug": "roots-of-pacha",
@@ -7018,7 +7092,9 @@
           ],
           "zh_review": "这可能是我玩过的唯一有作物驯化系统的农场模拟！有很多独特功能我很喜欢，比如坐骑系统。小抱怨：深肤色角色肤色太灰白/不饱和，请加点颜色！深肤色NPC几乎总是直发，希望能看到更多非洲纹理发型。"
         }
-      ]
+      ],
+      "whyPlay": "Roots of Pacha brings genuine innovation to the farming sim genre with its crop domestication system. Instead of buying seeds, you discover wild plants and gradually breed them into crops over generations. The prehistoric setting is refreshingly different from the endless green valleys of its peers. The clan contribution system makes progression feel communal rather than solitary — a fitting theme for a Stone Age game.",
+      "whyPlayZh": "《Roots of Pacha》用作物驯化系统给农场模拟带来了真正创新。不是买种子，而是发现野生植物并经过世代逐步培育成作物。史前设定和同类游戏千篇一律的绿色山谷截然不同。氏族贡献系统让成长进度有集体感而非孤独感——对石器时代游戏来说主题契合完美。"
     },
     {
       "slug": "satisfactory",
@@ -7311,7 +7387,9 @@
           ],
           "zh_review": "看着不能亲的嘴唇不如意识到一运行这游戏你就会变成工程师、数学教授、腰疼患者、没有社交生活，你女朋友/老婆大概会离开你那么痛苦。"
         }
-      ]
+      ],
+      "whyPlay": "Satisfactory takes the Factorio formula into 3D, and the verticality changes everything. Building a multi-floor factory with conveyor lifts and observation decks is just satisfying in a way 2D can't match. The map is hand-crafted rather than procedural, with deliberate exploration rewards. It's prettier and more relaxed than Factorio — but no less addictive.",
+      "whyPlayZh": "《幸福工厂》把异星工厂配方带进 3D，垂直维度改变了一切。建造多层工厂带上传送带升降机和观景台，那种满足感是 2D 无法比拟的。地图是手工制作而非程序生成，探索奖励经过精心设计。比异星工厂更漂亮更放松——但同样上瘾。"
     },
     {
       "slug": "settlement-rising",
@@ -7385,7 +7463,9 @@
       "fetchedAt": "2026-06-08T07:20:51.108Z",
       "reviewScore": 8,
       "reviewDesc": "Very Positive",
-      "topReviews": []
+      "topReviews": [],
+      "whyPlay": "Settlements Rising is a medieval city-builder that focuses on supply chains and trade over combat. The economic simulation is its strong suit — managing production chains, trade routes, and villager needs creates a satisfying puzzle. It's a quieter, more economy-focused take on the genre that rewards optimization-minded players.",
+      "whyPlayZh": "《Settlements Rising》是一款侧重供应链和贸易而非战斗的中世纪城市建造。经济模拟是它的强项——管理产业链、贸易路线和居民需求构成一道令人满足的谜题。对热衷优化的玩家来说，这是一款更安静、更经济导向的同类型作品。"
     },
     {
       "slug": "slime-rancher-2",
@@ -7562,7 +7642,9 @@
           "reactions": [],
           "zh_review": "终于100%完成了。总体体验非常正面，我爱这个系列。画面绝对惊艳，第一次探索每个区域都充满乐趣。天气是很好的新功能。但终局内容需要更多打磨。有些QoL问题拖了后腿。"
         }
-      ]
+      ],
+      "whyPlay": "Slime Rancher 2 is bigger and prettier, but the sequel hasn't quite captured the magic of the original — yet. Rainbow Island is gorgeous, the new slimes are creative, and the weather system adds variety. The early access model means content is still coming. If you loved the first one, this is worth keeping an eye on as updates roll in.",
+      "whyPlayZh": "《史莱姆牧场2》更大更美了，但续作还没完全捕捉到初代的魔力——目前来说。彩虹岛美轮美奂，新史莱姆有创意，天气系统增加了变化。EA 模式意味着内容还在出。喜欢初代的话，值得持续关注更新。"
     },
     {
       "slug": "slime-rancher",
@@ -7698,7 +7780,9 @@
           "app_release_date": "1501603265",
           "reactions": []
         }
-      ]
+      ],
+      "whyPlay": "Slime Rancher is pure joy in game form. You vacuum up adorable slimes, bring them back to your ranch, feed them, and sell their plorts for profit. The exploration is driven by curiosity — each new area holds new slime types and secrets. It's genuinely funny, surprisingly emotional by the end, and one of the most universally beloved indie games of the last decade.",
+      "whyPlayZh": "《史莱姆牧场》是快乐本身的游戏形态。你用吸尘器吸起可爱的史莱姆，带回牧场喂养，卖它们的结晶赚钱。探索由好奇心驱动——每个新区域藏着新史莱姆种类和秘密。剧本真的好笑，结局意外感人，是近十年最普适被爱的独立游戏之一。"
     },
     {
       "slug": "solarpunk",
@@ -7765,7 +7849,9 @@
       "fetchedAt": "2026-06-08T07:18:50.204Z",
       "reviewScore": 0,
       "reviewDesc": "No user reviews",
-      "topReviews": []
+      "topReviews": [],
+      "whyPlay": "Solarpunk is a survival game that dares to be optimistic — you build floating sky islands powered by solar energy and automated farming. The aesthetic is clean, green, and refreshingly different from the grim survival games that dominate the genre. It's still early access with some rough edges, but the concept alone makes it worth watching.",
+      "whyPlayZh": "《太阳朋克：浮岛家园》是一款敢于乐观的生存游戏——你建造靠太阳能和自动化农场驱动的浮空岛屿。画风干净、绿色，和统治这个类型的黑暗生存游戏截然不同。还在 EA 有些粗糙，但光是概念就值得关注。"
     },
     {
       "slug": "song-of-syx",
@@ -8007,7 +8093,9 @@
           "reactions": [],
           "zh_review": "改成让掠夺者可以用投石机炸穿实心山体？防御工事强度减半？所以在这个关于建造防御城市的游戏里防御工事不再重要了？从8/10掉到0/10。完全无法理解这种疯狂。"
         }
-      ]
+      ],
+      "whyPlay": "Songs of Syx is a city-builder at a scale nothing else matches. You don't manage dozens of settlers — you manage thousands. The game simulates individual citizens with needs, skills, and loyalties, then scales up to empire-level economics and Total War-style battles. It looks like a dwarf fortress spreadsheet but plays like a grand strategy game. If you've ever wished RimWorld had 10,000 colonists, this is your game.",
+      "whyPlayZh": "《希克斯之歌》的城市建造规模无人能及。你不是管理几十个居民——是管理成千上万个。游戏模拟每个公民的需求、技能和忠诚度，再扩展到帝国级经济和全战式战斗。看着像矮人要塞的表格，玩起来像大战略游戏。如果你曾幻想过边缘世界有 10000 个殖民者，这就是答案。"
     },
     {
       "slug": "space-haven",
@@ -8394,7 +8482,9 @@
           ],
           "zh_review": "伟大的殖民地飞船游戏。如果你喜欢边缘世界或任何自闭症殖民地模拟游戏，你会喜欢的。"
         }
-      ]
+      ],
+      "whyPlay": "Space Haven lets you build and manage a spaceship that's also a colony. The ship design system is deep — you lay out hull tiles, oxygen vents, power grids, and grow beds tile by tile. Crew management adds a RimWorld-lite layer of social drama when your crew gets cabin fever. It's a niche game for a niche audience, but if you've ever wanted to be the captain of your own Firefly-class ship, this is it.",
+      "whyPlayZh": "《Space Haven》让你建造和管理一艘既是飞船又是殖民地的太空船。飞船设计系统很深——你一格一格布置船体、氧气通风口、电网和种植舱。船员管理加上轻量边缘世界式的社交戏码——船员会得幽闭症。小众游戏给小众玩家，但如果你梦想过当宁静号船长，就是它了。"
     },
     {
       "slug": "stardew-valley",
@@ -8732,7 +8822,9 @@
             }
           ]
         }
-      ]
+      ],
+      "whyPlay": "Stardew Valley isn't just the best farming sim ever made — it's one of the best games ever made, period. One person built this: every pixel of art, every note of music, every line of dialogue. The result is a game with more heart and attention to detail than entire AAA studios manage. If you haven't played it, stop reading this and go play it. If you have, you already know.",
+      "whyPlayZh": "《星露谷物语》不只是最好的农场模拟——它是有史以来最好的游戏之一，句号。一个人做了这一切：每个像素、每个音符、每句对话。结果是一款用心程度和细节密度比整个 3A 工作室还高的游戏。没玩过的话，别看了去买。玩过的你已经知道了。"
     },
     {
       "slug": "stellaris",
@@ -9043,7 +9135,9 @@
           },
           "reactions": []
         }
-      ]
+      ],
+      "whyPlay": "Stellaris is the game where you start as a single planet and end as a galaxy-spanning empire that may or may not have accidentally become the crisis. The emergent storytelling is unmatched — your species might uplift primitives, fight interdimensional invaders, or become synth-ascended robots. Paradox's DLC model is aggressive, but the base game plus a few key expansions is one of the richest strategy experiences available.",
+      "whyPlayZh": "《群星》是一款你从单一星球开始，最终成为横跨银河帝国——可能还不小心变成了天灾——的游戏。涌现叙事无与伦比——你的物种可能提升原始文明、对抗跨维度入侵者、或成为合成飞升机器人。P 社 DLC 策略激进，但本体加几个关键扩展就能提供最丰富的策略体验之一。"
     },
     {
       "slug": "sun-haven",
@@ -9201,7 +9295,9 @@
           "reactions": [],
           "zh_review": "不知道开发者的情况，据其他评价说他们不给美术署名还低薪——太可惜了因为游戏很棒美术也很好！像星露谷但简单得多，取消了体力系统。有种族和职业系统非常酷！我推荐这款游戏。"
         }
-      ]
+      ],
+      "whyPlay": "Sun Haven is a fantasy farming RPG that never runs out of things to do. Three distinct cities, each with their own farms, NPCs, and storylines. Multiple playable races with unique abilities. Combat, magic, farming, romance, cooking — it throws everything at the wall and most of it sticks. It's overwhelming at first, but once you settle into the rhythm, it's hard to put down.",
+      "whyPlayZh": "《Sun Haven》是一款永远有事情做的奇幻农场 RPG。三座风格迥异的城市，各有自己的农场、NPC 和剧情线。多个可玩种族带独特能力。战斗、魔法、农耕、恋爱、烹饪——它把所有东西都扔上墙，大部分粘住了。一开始让人手足无措，但一旦找到节奏就很难放下。"
     },
     {
       "slug": "the-wandering-village",
@@ -9302,7 +9398,9 @@
           ],
           "zh_review": "✅ 非常有创意的理念 ✅ 出色的配乐。❌ 亲翁布的选择没有意义 ❌ 不能旋转建筑（开发者拒绝了因为'工作量太大'）❌ 打完一周目17小时后不想再玩了。"
         }
-      ]
+      ],
+      "whyPlay": "The Wandering Village is a city-builder on the back of a giant wandering creature. The Onbu isn't just set dressing — you form a symbiotic relationship with it, feeding and healing it while it carries your village through different biomes. The concept is so original and well-executed that it's worth trying even if city-builders aren't usually your thing.",
+      "whyPlayZh": "《漂泊牧歌》是在一只巨兽背上建造城市。翁布不只是背景板——你和它形成共生关系，喂养它治愈它，而它驮着你的村庄穿越不同生态区。概念太有创意且执行到位，就算不喜欢城市建造也值得试试。"
     },
     {
       "slug": "timberborn",
@@ -9441,7 +9539,9 @@
             }
           ]
         }
-      ]
+      ],
+      "whyPlay": "Timberborn turns water physics into the star of the show. You're not just building a city — you're engineering a water management system to survive droughts. Dams, aqueducts, and reservoirs are your real buildings; everything else supports them. The vertical building system lets you stack structures, and the two factions play differently enough to justify multiple playthroughs.",
+      "whyPlayZh": "《海狸浮生记》把水利物理变成了主角。你不是在建城市——你在设计一套水资源管理系统来扛过干旱。水坝、引水渠、水库才是真正的建筑，其他都是支撑系统。垂直建造让你叠结构，两个派系玩法差异足够大，值得多周目。"
     },
     {
       "slug": "tiny-glade",
@@ -9625,7 +9725,9 @@
           },
           "reactions": []
         }
-      ]
+      ],
+      "whyPlay": "Tiny Glade is less a game and more a digital zen garden. There are no objectives, no resources, no fail states. You just build pretty things: castles, cottages, cobblestone paths. The procedural detail generation — vines growing up walls, moss on stones, lamps casting warm light — makes everything you build look beautiful by default. It's the anti-stress game in its purest form.",
+      "whyPlayZh": "《Tiny Glade》比起游戏更像一个数字禅意花园。没有目标、没有资源、没有失败。你只建造漂亮的东西：城堡、村舍、石板路。程序化细节生成——墙上长出藤蔓、石头上长苔藓、灯火投下暖光——让你造的任何东西默认就好看。减压游戏最纯粹的形式。"
     },
     {
       "slug": "travellers-rest",
@@ -9884,7 +9986,9 @@
           ],
           "zh_review": "一款关于我的服务员、酒保、保安和管家组织工会然后罢工的游戏。十万桶麦芽酒/10"
         }
-      ]
+      ],
+      "whyPlay": "Travellers Rest puts you behind the bar — literally. You brew beer, cook food, clean tables, and manage staff while building your tavern from a dusty roadside inn into a bustling medieval pub. The progression from one-man show to managing a team is satisfying, and the pixel art is gorgeous. It's been in early access for years and content is still growing, but what's here is already a cozy delight.",
+      "whyPlayZh": "《旅者之憩》把你放到吧台后面——字面意义。你酿酒、做菜、擦桌子、管理员工，把酒馆从路边破客栈发展成热闹的中世纪酒吧。从单打独斗到管理团队的成长很有满足感，像素美术惊艳。EA 多年内容还在增长，但现有内容已经是治愈盛宴。"
     },
     {
       "slug": "valheim",
@@ -10218,7 +10322,9 @@
           ],
           "zh_review": "英灵神殿真的让我惊讶。我不是开放世界生存建造的粉丝，唯一例外是泰拉瑞亚。现在英灵神殿可以加入了。游戏节奏很慢但不是消极的慢。23小时才刚刚开始做青铜装备。目前只能在草原和黑森林活下来，正准备第一次进入沼泽。期待后续冒险。"
         }
-      ]
+      ],
+      "whyPlay": "Valheim's building system is so good it ruined other survival games for millions of players. The structural integrity system — where smoke needs ventilation and unsupported roofs collapse — adds genuine engineering to your Viking longhouse. Each biome is a genuine step up in threat and reward. Play it with friends, build a great hall, sail into the unknown. There's nothing quite like your first Valheim voyage.",
+      "whyPlayZh": "《英灵神殿》的建造系统好到毁了数百万玩家对其他生存游戏的期待。结构完整性系统——烟雾需要通风、没有支撑的屋顶会塌——给你的维京长屋加入了真正的工程学。每个生态区都是威胁和奖励的真正升级。和朋友一起玩，建个大殿，航向未知。第一次英灵神殿远航的体验独一无二。"
     },
     {
       "slug": "x4-foundations",
@@ -10478,7 +10584,9 @@
           "reactions": [],
           "zh_review": "你喜欢星际公民吗？群星？钢铁雄心？或任何有垂直学习曲线的策略游戏？这游戏就是我所想要的一切，害怕了好多年不敢花时间入坑。它比想象简单多了——只需做基础教程30分钟和地图教程。或者随时按H做任何你好奇的教程，完成后直接回到游戏。玩就完了。"
         }
-      ]
+      ],
+      "whyPlay": "X4: Foundations is the space empire sim for people who find EVE Online too social and Elite Dangerous too shallow. You can be a fighter pilot, a trader, a station magnate, or a fleet commander — all in the same save. The economy is fully simulated: every ship, station, and trade good exists in the world. The learning curve is a cliff, but the payoff is a living, breathing universe that reacts to your actions.",
+      "whyPlayZh": "《X4：基石》是给觉得 EVE 太社交、精英危险太浅的人准备的太空帝国模拟。你可以在同一个存档里当战机飞行员、贸易商、空间站大亨或舰队指挥官。经济完全模拟：每艘船、每座空间站、每种商品都在世界里真实存在。上手是悬崖峭壁，但回报是一个会对你的行为做出反应的活生生的宇宙。"
     }
   ],
   "total": 54,

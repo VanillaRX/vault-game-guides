@@ -143,21 +143,27 @@ export default async function GameDetailPage({ params }: Props) {
       )}
 
       {/* 3. Why It's Fun */}
-      <section className="mt-8">
-        <h2 className="font-display text-lg font-bold tracking-tight text-[var(--neon)]">
-          {isZh ? "好玩在哪里" : "Why It's Fun"}
-        </h2>
-        <div className="mt-3 space-y-3">
-          {highlights.map((h, i) => (
-            <div key={i} className="flex items-start gap-3 rounded-xl border border-[var(--border)] bg-[var(--card)]/30 p-4">
-              <span className="mt-0.5 shrink-0 text-sm">
-                {["🎯","🔥","⚡","💡"][i]}
-              </span>
-              <p className="text-sm leading-relaxed text-[var(--fg)]/80">{h}</p>
-            </div>
-          ))}
-        </div>
-      </section>
+      {highlights.length > 0 && (
+        <section className="mt-8">
+          <h2 className="font-display text-lg font-bold tracking-tight text-[var(--neon)]">
+            {isZh ? "为什么值得玩" : "Why Play This"}
+          </h2>
+          <div className="mt-3 rounded-xl border border-[var(--border)] bg-[var(--card)]/40 p-5">
+            <p className="text-sm leading-relaxed text-[var(--fg)]/85">
+              {isZh ? (game.whyPlayZh || highlights[0]) : (game.whyPlay || highlights[0])}
+            </p>
+            {highlights.length > 1 && (
+              <div className="mt-4 flex flex-wrap gap-1.5">
+                {highlights.slice(1).map((h, i) => (
+                  <span key={i} className="rounded-full bg-[var(--accent)]/10 px-2.5 py-1 text-[11px] text-[var(--accent)]">
+                    {["🎯","🔥","⚡","💡"][i]} {h.slice(0, 60)}…
+                  </span>
+                ))}
+              </div>
+            )}
+          </div>
+        </section>
+      )}
 
       {/* 4. Screenshots */}
       {screenshots.length > 0 && (

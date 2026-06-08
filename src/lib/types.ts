@@ -40,6 +40,9 @@ export interface GameEntry {
   guideCount: number;
   metaDescriptionEn: string;
   metaDescriptionZh: string;
+  /** Original editorial — why this game is worth playing (3-5 sentences) */
+  whyPlay?: string;
+  whyPlayZh?: string;
   similarGames: string[];
 }
 
