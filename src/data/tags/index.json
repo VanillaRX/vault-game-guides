@@ -1,1 +1,122 @@
-{}
+{
+  "farming": {
+    "slug": "farming",
+    "titleEn": "Farming Games",
+    "titleZh": "农场游戏",
+    "descriptionEn": "Plant crops, raise animals, and build your dream farm. From pixel-art classics to modern 3D farming simulators.",
+    "descriptionZh": "种庄稼、养动物、打造梦想农场。从像素经典到现代3D农场模拟。",
+    "gameCount": 5,
+    "section": "genre",
+    "relatedTags": ["cozy", "simulation", "crafting"]
+  },
+  "cozy": {
+    "slug": "cozy",
+    "titleEn": "Cozy Games",
+    "titleZh": "休闲游戏",
+    "descriptionEn": "Low-stress, high-charm games to unwind with. No time pressure, no fail states — pure relaxation.",
+    "descriptionZh": "低压高魅力的放松游戏。没有时间压力，没有失败惩罚——纯粹放松。",
+    "gameCount": 4,
+    "section": "genre",
+    "relatedTags": ["farming", "life-sim", "casual"]
+  },
+  "city-builder": {
+    "slug": "city-builder",
+    "titleEn": "City Building Games",
+    "titleZh": "城市建造游戏",
+    "descriptionEn": "Design, build, and manage cities. From ancient settlements to futuristic metropolises — if it involves zoning and infrastructure, it's here.",
+    "descriptionZh": "设计、建造、管理城市。从古代定居点到未来大都市——只要涉及分区和基建，这里都有。",
+    "gameCount": 6,
+    "section": "genre",
+    "relatedTags": ["management", "strategy", "simulation"]
+  },
+  "management": {
+    "slug": "management",
+    "titleEn": "Management Games",
+    "titleZh": "管理模拟游戏",
+    "descriptionEn": "Optimize, plan, and expand. Management games reward smart decisions across supply chains, colonies, theme parks, and more.",
+    "descriptionZh": "优化、规划、扩张。管理模拟游戏奖励供应链、殖民地、主题公园等场景中的聪明决策。",
+    "gameCount": 6,
+    "section": "genre",
+    "relatedTags": ["city-builder", "strategy", "simulation"]
+  },
+  "colony-sim": {
+    "slug": "colony-sim",
+    "titleEn": "Colony Sim Games",
+    "titleZh": "殖民模拟游戏",
+    "descriptionEn": "Guide a group of settlers through survival, growth, and prosperity. Manage individual needs, build defenses, and write your own stories.",
+    "descriptionZh": "带领一群定居者经历生存、成长、繁荣。管理个人需求、建造防御、书写自己的故事。",
+    "gameCount": 3,
+    "section": "genre",
+    "relatedTags": ["survival", "management", "city-builder"]
+  },
+  "simulation": {
+    "slug": "simulation",
+    "titleEn": "Simulation Games",
+    "titleZh": "模拟游戏",
+    "descriptionEn": "Realistic simulations of farming, construction, life, and industry. Deep mechanics for players who love mastering complex systems.",
+    "descriptionZh": "农场、建筑、生活、工业的真实模拟。适合喜欢掌握复杂系统的深度玩家。",
+    "gameCount": 7,
+    "section": "genre",
+    "relatedTags": ["farming", "management", "city-builder"]
+  },
+  "strategy": {
+    "slug": "strategy",
+    "titleEn": "Strategy Games",
+    "titleZh": "策略游戏",
+    "descriptionEn": "Plan your moves, outsmart opponents, and build empires. Turn-based and real-time strategy that rewards deep thinking.",
+    "descriptionZh": "规划行动、智胜对手、建造帝国。回合制和即时策略，奖励深度思考。",
+    "gameCount": 4,
+    "section": "genre",
+    "relatedTags": ["management", "city-builder"]
+  },
+  "single-player": {
+    "slug": "single-player",
+    "titleEn": "Single Player Games",
+    "titleZh": "单机游戏",
+    "descriptionEn": "Games designed for solo play. Immerse yourself at your own pace without depending on other players.",
+    "descriptionZh": "为单人体验设计的游戏。按自己的节奏沉浸其中，不依赖其他玩家。",
+    "gameCount": 17,
+    "section": "feature",
+    "relatedTags": []
+  },
+  "multiplayer": {
+    "slug": "multiplayer",
+    "titleEn": "Multiplayer Games",
+    "titleZh": "联机游戏",
+    "descriptionEn": "Play with friends or strangers. Cooperative and competitive multiplayer experiences.",
+    "descriptionZh": "和朋友或陌生人一起玩。合作和竞技类联机体验。",
+    "gameCount": 5,
+    "section": "feature",
+    "relatedTags": ["co-op"]
+  },
+  "co-op": {
+    "slug": "co-op",
+    "titleEn": "Co-op Games",
+    "titleZh": "合作游戏",
+    "descriptionEn": "Team up and play together. Cooperative games where you work with other players toward shared goals.",
+    "descriptionZh": "组队一起玩。和其他玩家合作，一起达成共同目标。",
+    "gameCount": 5,
+    "section": "feature",
+    "relatedTags": ["multiplayer", "farming"]
+  },
+  "chinese-language": {
+    "slug": "chinese-language",
+    "titleEn": "Games with Chinese Support",
+    "titleZh": "支持中文的游戏",
+    "descriptionEn": "Games that include Simplified or Traditional Chinese localization. Full text and UI in Chinese.",
+    "descriptionZh": "包含简体或繁体中文本地化的游戏。文本和界面全中文。",
+    "gameCount": 5,
+    "section": "feature",
+    "relatedTags": []
+  },
+  "early-access": {
+    "slug": "early-access",
+    "titleEn": "Early Access Games",
+    "titleZh": "抢先体验游戏",
+    "descriptionEn": "Games still in active development. Play now and watch them grow with updates.",
+    "descriptionZh": "仍在积极开发中的游戏。现在体验，看着它们随更新成长。",
+    "gameCount": 3,
+    "section": "status",
+    "relatedTags": []
+  }
+}
