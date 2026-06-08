@@ -10,6 +10,8 @@ export const t: Record<Lang, Record<string, string>> = {
     "nav.home": "Home",
     "nav.games": "Games",
     "nav.guides": "Guides",
+    "nav.best": "Best",
+    "nav.like": "Similar",
     "nav.about": "About",
     "nav.search": "Search",
 
@@ -33,6 +35,15 @@ export const t: Record<Lang, Record<string, string>> = {
 
     "latest.eyebrow": "FRESH STRATS",
     "latest.title": "Latest Guides",
+
+    "discover.eyebrow": "DISCOVER GAMES",
+    "discover.title": "Find Your Next Game",
+    "discover.like": "Games Like…",
+    "discover.likeDesc": "Stuck on a game you love? Find similar titles.",
+    "discover.best": "Best Games",
+    "discover.bestDesc": "Curated rankings by genre, mood, and features.",
+    "discover.tag": "Browse by Tag",
+    "discover.tagDesc": "Farming, cozy, city builder — find your genre.",
 
     "footer.tagline": "Deep guides for strategy and management games worth mastering. No fluff, just the strats.",
     "footer.about": "About",
@@ -87,6 +98,8 @@ export const t: Record<Lang, Record<string, string>> = {
     "nav.home": "首页",
     "nav.games": "游戏",
     "nav.guides": "攻略",
+    "nav.best": "榜单",
+    "nav.like": "相似推荐",
     "nav.about": "关于",
     "nav.search": "搜索",
 
@@ -110,6 +123,15 @@ export const t: Record<Lang, Record<string, string>> = {
 
     "latest.eyebrow": "最新攻略",
     "latest.title": "最新发布",
+
+    "discover.eyebrow": "发现游戏",
+    "discover.title": "找找你的下一款游戏",
+    "discover.like": "相似推荐",
+    "discover.likeDesc": "喜欢某款游戏？找到类似的。",
+    "discover.best": "最佳榜单",
+    "discover.bestDesc": "按类型、氛围、功能精选的排行榜。",
+    "discover.tag": "按标签浏览",
+    "discover.tagDesc": "农场、休闲、城市建造——找到你的类型。",
 
     "footer.tagline": "策略与经营游戏的深度攻略。干货，不废话。",
     "footer.about": "关于",

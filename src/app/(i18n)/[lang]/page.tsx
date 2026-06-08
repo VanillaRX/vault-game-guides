@@ -153,6 +153,58 @@ export default function Home() {
           </div>
         </div>
       </section>
+
+      {/* Discover Section */}
+      <section className="border-t border-[var(--border)]">
+        <div className="mx-auto max-w-7xl px-4 py-16 sm:px-6 sm:py-20">
+          <div className="mb-10">
+            <p className="font-mono text-xs tracking-[0.15em] text-[var(--neon)]">
+              {t("discover.eyebrow")}
+            </p>
+            <h2 className="mt-2 font-display text-2xl font-bold tracking-tight">
+              {t("discover.title")}
+            </h2>
+          </div>
+          <div className="grid gap-4 sm:grid-cols-3">
+            <Link
+              href="/games-like/stardew-valley"
+              className="group rounded-xl border border-[var(--border)] bg-[var(--card)] p-6 transition-all hover:border-[var(--accent)]/50 hover:-translate-y-0.5"
+            >
+              <div className="text-2xl">🎮</div>
+              <h3 className="mt-3 font-semibold text-[var(--fg)] group-hover:text-[var(--neon)] transition-colors">
+                {t("discover.like")}
+              </h3>
+              <p className="mt-1.5 text-xs leading-relaxed text-[var(--muted)]">
+                {t("discover.likeDesc")}
+              </p>
+            </Link>
+            <Link
+              href="/best/farming-games"
+              className="group rounded-xl border border-[var(--border)] bg-[var(--card)] p-6 transition-all hover:border-[var(--accent)]/50 hover:-translate-y-0.5"
+            >
+              <div className="text-2xl">🏆</div>
+              <h3 className="mt-3 font-semibold text-[var(--fg)] group-hover:text-[var(--neon)] transition-colors">
+                {t("discover.best")}
+              </h3>
+              <p className="mt-1.5 text-xs leading-relaxed text-[var(--muted)]">
+                {t("discover.bestDesc")}
+              </p>
+            </Link>
+            <Link
+              href="/tag/farming"
+              className="group rounded-xl border border-[var(--border)] bg-[var(--card)] p-6 transition-all hover:border-[var(--accent)]/50 hover:-translate-y-0.5"
+            >
+              <div className="text-2xl">🔍</div>
+              <h3 className="mt-3 font-semibold text-[var(--fg)] group-hover:text-[var(--neon)] transition-colors">
+                {t("discover.tag")}
+              </h3>
+              <p className="mt-1.5 text-xs leading-relaxed text-[var(--muted)]">
+                {t("discover.tagDesc")}
+              </p>
+            </Link>
+          </div>
+        </div>
+      </section>
     </>
   );
 }

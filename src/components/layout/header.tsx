@@ -27,6 +27,8 @@ export function Header() {
     { href: `/${lang}`, label: t("nav.home") },
     { href: `/${lang}/games`, label: t("nav.games") },
     { href: `/${lang}/guides`, label: t("nav.guides") },
+    { href: `/${lang}/best/farming-games`, label: t("nav.best") },
+    { href: `/${lang}/games-like/stardew-valley`, label: t("nav.like") },
     { href: `/${lang}/about`, label: t("nav.about") },
   ];
 
