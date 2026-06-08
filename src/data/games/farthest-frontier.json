@@ -1,0 +1,37 @@
+{
+  "slug": "farthest-frontier",
+  "steamAppId": 1044720,
+  "title": "Farthest Frontier",
+  "zhTitle": "最远的边陲",
+  "shortDescription": "",
+  "zhShortDescription": "",
+  "description": "",
+  "zhDescription": "",
+  "genres": [
+    "City Builder",
+    "Survival"
+  ],
+  "tags": [],
+  "steamTags": [
+    "City Builder",
+    "Survival"
+  ],
+  "coverImage": "https://cdn.cloudflare.steamstatic.com/steam/apps/1044720/header.jpg",
+  "headerImage": "https://cdn.cloudflare.steamstatic.com/steam/apps/1044720/header.jpg",
+  "screenshots": [],
+  "developer": "Crate Entertainment",
+  "publisher": "Crate Entertainment",
+  "releaseDate": "2022-08-09",
+  "supportsChinese": false,
+  "supportsMultiplayer": false,
+  "supportsCoop": false,
+  "supportsController": false,
+  "steamDeckVerified": false,
+  "positiveReviews": 0,
+  "negativeReviews": 0,
+  "featured": false,
+  "guideCount": 2,
+  "metaDescriptionEn": "",
+  "metaDescriptionZh": "",
+  "similarGames": []
+}

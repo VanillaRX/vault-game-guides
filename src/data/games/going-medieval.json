@@ -1,0 +1,37 @@
+{
+  "slug": "going-medieval",
+  "steamAppId": 1029780,
+  "title": "Going Medieval",
+  "zhTitle": "前往中世纪",
+  "shortDescription": "",
+  "zhShortDescription": "",
+  "description": "",
+  "zhDescription": "",
+  "genres": [
+    "Colony Sim",
+    "Strategy"
+  ],
+  "tags": [],
+  "steamTags": [
+    "Colony Sim",
+    "Strategy"
+  ],
+  "coverImage": "https://cdn.cloudflare.steamstatic.com/steam/apps/1029780/header.jpg",
+  "headerImage": "https://cdn.cloudflare.steamstatic.com/steam/apps/1029780/header.jpg",
+  "screenshots": [],
+  "developer": "Foxy Voxel",
+  "publisher": "Foxy Voxel",
+  "releaseDate": "2021-06-01",
+  "supportsChinese": false,
+  "supportsMultiplayer": false,
+  "supportsCoop": false,
+  "supportsController": false,
+  "steamDeckVerified": false,
+  "positiveReviews": 0,
+  "negativeReviews": 0,
+  "featured": false,
+  "guideCount": 2,
+  "metaDescriptionEn": "",
+  "metaDescriptionZh": "",
+  "similarGames": []
+}

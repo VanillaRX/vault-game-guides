@@ -1,0 +1,37 @@
+{
+  "slug": "civilization-6",
+  "steamAppId": 289070,
+  "title": "Civilization VI",
+  "zhTitle": "文明VI",
+  "shortDescription": "",
+  "zhShortDescription": "",
+  "description": "",
+  "zhDescription": "",
+  "genres": [
+    "4X Strategy",
+    "Turn-Based"
+  ],
+  "tags": [],
+  "steamTags": [
+    "4X Strategy",
+    "Turn-Based"
+  ],
+  "coverImage": "https://cdn.cloudflare.steamstatic.com/steam/apps/289070/header.jpg",
+  "headerImage": "https://cdn.cloudflare.steamstatic.com/steam/apps/289070/header.jpg",
+  "screenshots": [],
+  "developer": "Firaxis Games",
+  "publisher": "2K",
+  "releaseDate": "2016-10-21",
+  "supportsChinese": false,
+  "supportsMultiplayer": false,
+  "supportsCoop": false,
+  "supportsController": false,
+  "steamDeckVerified": false,
+  "positiveReviews": 0,
+  "negativeReviews": 0,
+  "featured": true,
+  "guideCount": 2,
+  "metaDescriptionEn": "",
+  "metaDescriptionZh": "",
+  "similarGames": []
+}

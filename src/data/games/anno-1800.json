@@ -1,0 +1,37 @@
+{
+  "slug": "anno-1800",
+  "steamAppId": 916440,
+  "title": "Anno 1800",
+  "zhTitle": "纪元1800",
+  "shortDescription": "",
+  "zhShortDescription": "",
+  "description": "",
+  "zhDescription": "",
+  "genres": [
+    "City Builder",
+    "Strategy"
+  ],
+  "tags": [],
+  "steamTags": [
+    "City Builder",
+    "Strategy"
+  ],
+  "coverImage": "https://cdn.cloudflare.steamstatic.com/steam/apps/916440/header.jpg",
+  "headerImage": "https://cdn.cloudflare.steamstatic.com/steam/apps/916440/header.jpg",
+  "screenshots": [],
+  "developer": "Ubisoft Mainz",
+  "publisher": "Ubisoft",
+  "releaseDate": "2019-04-16",
+  "supportsChinese": false,
+  "supportsMultiplayer": false,
+  "supportsCoop": false,
+  "supportsController": false,
+  "steamDeckVerified": false,
+  "positiveReviews": 0,
+  "negativeReviews": 0,
+  "featured": true,
+  "guideCount": 2,
+  "metaDescriptionEn": "",
+  "metaDescriptionZh": "",
+  "similarGames": []
+}

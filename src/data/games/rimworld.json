@@ -1,0 +1,37 @@
+{
+  "slug": "rimworld",
+  "steamAppId": 294100,
+  "title": "RimWorld",
+  "zhTitle": "边缘世界",
+  "shortDescription": "",
+  "zhShortDescription": "",
+  "description": "",
+  "zhDescription": "",
+  "genres": [
+    "Colony Sim",
+    "Management"
+  ],
+  "tags": [],
+  "steamTags": [
+    "Colony Sim",
+    "Management"
+  ],
+  "coverImage": "https://cdn.cloudflare.steamstatic.com/steam/apps/294100/header.jpg",
+  "headerImage": "https://cdn.cloudflare.steamstatic.com/steam/apps/294100/header.jpg",
+  "screenshots": [],
+  "developer": "Ludeon Studios",
+  "publisher": "Ludeon Studios",
+  "releaseDate": "2018-10-17",
+  "supportsChinese": false,
+  "supportsMultiplayer": false,
+  "supportsCoop": false,
+  "supportsController": false,
+  "steamDeckVerified": false,
+  "positiveReviews": 0,
+  "negativeReviews": 0,
+  "featured": true,
+  "guideCount": 2,
+  "metaDescriptionEn": "",
+  "metaDescriptionZh": "",
+  "similarGames": []
+}
