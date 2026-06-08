@@ -43,8 +43,8 @@
   "metacriticScore": 73,
   "featured": false,
   "guideCount": 0,
-  "metaDescriptionEn": "In this city-building strategy game, you control a group of exiled travelers who decide to restart their lives in a new land. They have only the clothes on their backs and a cart filled with supplies from their homeland. The townspeople of Banished are your primary resource.",
-  "metaDescriptionZh": "《放逐之城》新手攻略 — 资源管理、冬季生存、人口控制完全指南。",
+  "metaDescriptionEn": "Banished review — the cult classic survival city-builder. Resource management, winter prep, population control.",
+  "metaDescriptionZh": "《放逐之城》Steam 评测与介绍 — 生存城市建造经典之作。资源管理、冬季生存、人口控制。",
   "similarGames": [],
   "reviewScore": 8,
   "reviewDesc": "Very Positive",
@@ -79,7 +79,8 @@
       "written_during_early_access": false,
       "primarily_steam_deck": false,
       "app_release_date": "1392746064",
-      "reactions": []
+      "reactions": [],
+      "zh_review": "从发售至今，《放逐之城》依然是我最爱的城市建造游戏。没有任何游戏能给我同样的感觉。总结：我给它8.5/10。游戏把你丢进荒野，带着几个刚被流放的人和一些物资。目标是在荒野中建立繁荣的城镇。上手有难度，学习曲线挺陡的——你的前几个城镇大概率活不过100年，撑过200年是真正的挑战。但就是这样才让人上瘾。"
     }
   ]
 }

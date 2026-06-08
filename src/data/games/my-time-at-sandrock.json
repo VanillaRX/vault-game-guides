@@ -59,8 +59,8 @@
   "metacriticScore": 80,
   "featured": false,
   "guideCount": 0,
-  "metaDescriptionEn": "Travel to the desert community of Sandrock and take on the role of a fledgling Builder. Use your trusty toolset to gather resources, construct machines, and turn your run-down workshop into a well-oiled production facility to save the town from the jaws of economic ruin!",
-  "metaDescriptionZh": "《沙石镇时光》工坊攻略 — 沙漠资源采集、工坊升级、NPC好感度。",
+  "metaDescriptionEn": "My Time at Sandrock review — desert workshop RPG sequel. Resource gathering, workshop upgrades, NPC bonding.",
+  "metaDescriptionZh": "《沙石镇时光》Steam 评测与介绍 — 沙漠工坊 RPG 续作。资源采集、工坊升级、NPC 好感度。",
   "similarGames": [],
   "source": "steam_api",
   "fetchedAt": "2026-06-08T07:17:16.489Z",
@@ -98,7 +98,8 @@
       "written_during_early_access": false,
       "primarily_steam_deck": false,
       "app_release_date": "1653530220",
-      "reactions": []
+      "reactions": [],
+      "zh_review": "中评吧，缺点不少，但因为我刚从隔壁橄榄镇坐过大牢觉得哪里都是天堂，且相比种田我更喜欢捡垃圾，BGM和废土末日画风也很喜欢，剧情没多好但多次让我忍俊不禁，综合来看还是玩得很开心。优点：所有类似游戏的箱子系统请都照着这个来！所有箱子连通一键整理收纳，制作和交任务不用放背包，箱子里有就行。升级箱子直接把大箱子往小箱子上一放。废土末日氛围别有滋味，一个人骑着羊在沙漠里狂奔或看日落星空非常浪漫。本作人物美术有较大进步，史诗级更新了外观系统——装备找属性好的穿、外观找好看的穿。缺点：优化和流畅度有问题，部分任务引导不够清晰。但瑕不掩瑜，依然是非常值得推荐的游戏。"
     }
   ]
 }

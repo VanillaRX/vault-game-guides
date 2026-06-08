@@ -2,7 +2,7 @@
   "slug": "sun-haven",
   "steamAppId": 1432860,
   "title": "Sun Haven",
-  "zhTitle": "太阳天堂",
+  "zhTitle": "Sun Haven",
   "shortDescription": "Build your farm and relationships with townsfolk, or forge ahead on a quest of magic, monsters, and dragons. Level up through a skill tree in 8 person multiplayer, or adventure solo!",
   "zhShortDescription": "幻想RPG农场模拟——三座城市、多种种族、魔法耕作。",
   "description": "A fantasy farming sim with an RPG twist like you’ve never experienced! Immerse yourself in over 30,000 lines of dialogue, romance any (or all…) 23 characters, embark on side quests, interact with hundreds of unique NPCs, solve riddles, and discover secrets all around you in this lore-rich, story-driven world. Your actions may shape your journey, but your choices will determine your legacy. Where will your adventure take you? Sun Haven, a farming sim with no stamina bar! Every Sun Haven playthrough is fully customizable with tons of in-game settings. Adjust the length of each day to be faster or shorter, make yourself invincible to damage, turn off seasonal pests that eat your crops, toggle weather effects on and off, or just enjoy the vanilla game with default settings! Transform your run-",
@@ -71,8 +71,8 @@
   "negativeReviews": 2085,
   "featured": false,
   "guideCount": 0,
-  "metaDescriptionEn": "Build your farm and relationships with townsfolk, or forge ahead on a quest of magic, monsters, and dragons. Level up through a skill tree in 8 person multiplayer, or adventure solo!",
-  "metaDescriptionZh": "《太阳天堂》全种族农场攻略 — 三城市开荒、魔法技能、战斗技巧、NPC好感度。",
+  "metaDescriptionEn": "Sun Haven review — fantasy farming sim with RPG elements. Three cities, magic skills, combat, NPC romance.",
+  "metaDescriptionZh": "《Sun Haven》Steam 评测与介绍 — 奇幻农场 RPG。三城市开荒、魔法技能、战斗、NPC 恋爱。",
   "similarGames": [],
   "source": "steam_api",
   "fetchedAt": "2026-06-08T07:17:50.010Z",
@@ -118,7 +118,8 @@
           "reaction_type": 29,
           "count": 2
         }
-      ]
+      ],
+      "zh_review": "我想爱这个游戏……Bug Haven不值得你的钱。公司被告是有原因的。联机有50%几率连上。最常见bug：角色永久冻结、存档消失、农场随机删除、动物消失、持续崩溃和断开。好几年了都这样，开发者无视联机bug反馈。单人好一点但bug也够多了。"
     },
     {
       "recommendationid": "225079193",
@@ -150,7 +151,8 @@
       "written_during_early_access": false,
       "primarily_steam_deck": false,
       "app_release_date": "1624656273",
-      "reactions": []
+      "reactions": [],
+      "zh_review": "不知道开发者的情况，据其他评价说他们不给美术署名还低薪——太可惜了因为游戏很棒美术也很好！像星露谷但简单得多，取消了体力系统。有种族和职业系统非常酷！我推荐这款游戏。"
     }
   ]
 }

@@ -49,8 +49,8 @@
   "negativeReviews": 4959,
   "featured": false,
   "guideCount": 0,
-  "metaDescriptionEn": "Manor Lords is a medieval strategy game featuring in-depth city building, large-scale tactical battles, and complex economic and social simulations. Rule your lands as a medieval lord – the seasons pass, the weather changes, and cities rise and fall.",
-  "metaDescriptionZh": "《庄园领主》城市建造与战争攻略 — 农田布局、城市扩张、军团指挥指南。",
+  "metaDescriptionEn": "Manor Lords review — historical city-builder with tactical combat. Farm layout, city expansion, army command.",
+  "metaDescriptionZh": "《庄园领主》Steam 评测与介绍 — 历史城市建造与战术战斗。农田布局、城市扩张、军团指挥。",
   "similarGames": [],
   "source": "steam_api",
   "fetchedAt": "2026-06-08T07:19:43.731Z",
@@ -108,7 +108,8 @@
           "reaction_type": 31,
           "count": 1
         }
-      ]
+      ],
+      "zh_review": "两年前发售时这款游戏前景极其光明，骨架依然在。它拥有其他中世纪城市建造游戏没有的基础，我真心希望未来能改这条评价。但过去两年内容增加极少（基本上就是石城堡，说实在的不怎么有趣），只是反复做平衡改动却没有真正改变游戏体验。每次'大'更新我看更新日志时觉得酷，玩一小时就退了因为'改进的平衡'并没有改进什么。"
     },
     {
       "recommendationid": "225162159",
@@ -174,7 +175,8 @@
           "reaction_type": 30,
           "count": 1
         }
-      ]
+      ],
+      "zh_review": "你和其他一万人买了这个游戏。然后那个独立开发者不雇像样的团队来推进项目。他靠一个25%完成度的游戏成了百万富翁。而你还在等每60天出一次的更新，里面只有少得可怜的微不足道的改进。这游戏本有巨大潜力成为伟大作品，但很可能2035年出EA前就有人做出更好的了。"
     },
     {
       "recommendationid": "225257623",
@@ -215,7 +217,8 @@
           "reaction_type": 31,
           "count": 1
         }
-      ]
+      ],
+      "zh_review": "两年间变化不大，想法铺了很多但实现都是表面的。从首发就没玩了，当时觉得开局不错，筹了钱应该能打磨好。可惜，无论是两年前还是现在，感觉什么都没变。新增的东西在整体面前显得微不足道。"
     },
     {
       "recommendationid": "225658469",
@@ -252,7 +255,8 @@
           "reaction_type": 29,
           "count": 1
         }
-      ]
+      ],
+      "zh_review": "以后绝对不买抢先体验游戏了，垃圾骗子。前期玩了会，搁置几年了，一点进展都没有。各位，如果你们在犹豫买不买这个游戏，千万别买。"
     },
     {
       "recommendationid": "226587161",
@@ -326,7 +330,8 @@
           "reaction_type": 33,
           "count": 1
         }
-      ]
+      ],
+      "zh_review": "我真的开始厌倦EA游戏了。不幸的是，今天最原创、最有趣的作品往往是独立游戏……因此几乎一律是EA。在纸面上支持有前途的项目听上去诱人，但实际上当免费beta测试员最终会耗尽耐心。bug、半成品机制、运行不正常的系统——体验很快就变得令人沮丧。EA现在已经成了独立游戏行业的常态。"
     }
   ]
 }

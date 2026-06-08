@@ -2,7 +2,7 @@
   "slug": "song-of-syx",
   "steamAppId": 1162750,
   "title": "Songs of Syx",
-  "zhTitle": "塞克斯之歌",
+  "zhTitle": "希克斯之歌",
   "shortDescription": "Songs of Syx is a fantasy city-builder with vast battles simulating thousands of citizens and soldiers. Start off as a small village and build, scheme, and fight your way towards a mighty empire. The mechanics are deep and true to life, where tiny events can spiral into the collapse of kingdoms. ",
   "zhShortDescription": "史诗级城市建造与大规模战斗——从几十人到数万人。",
   "description": "Songs of Syx is in Early Access. We recommend reading the EA clause carefully and playing the demo before purchasing. Songs of Syx is a low fantasy city-builder with vast real-time battles simulating tens of thousands of citizens and soldiers. Start off as an insignificant village and build, scheme, and fight your way towards a mighty city state and empire. The mechanics are deep and true to life, where small events can spiral into the collapse of kingdoms. Full of different races, cultures, old and new gods and strange creatures - everything in Songs of Syx is connected. Night turns to day, climate and weather change, and migrations of animals and people flow. Droughts and pestilence, raiders, traders and bandits, and new discoveries will ensure kingdoms and empires come and go with or wi",
@@ -61,8 +61,8 @@
   "negativeReviews": 276,
   "featured": false,
   "guideCount": 0,
-  "metaDescriptionEn": "Songs of Syx is a fantasy city-builder with vast battles simulating thousands of citizens and soldiers. Start off as a small village and build, scheme, and fight your way towards a mighty empire. The mechanics are deep and true to life, where tiny events can spiral into the collapse of kingdoms. ",
-  "metaDescriptionZh": "《塞克斯之歌》帝国攻略 — 经济管理、军事策略、人口增长、城市建设。",
+  "metaDescriptionEn": "Songs of Syx review — grand-scale city-builder and empire sim. Economy, military, population, city design.",
+  "metaDescriptionZh": "《希克斯之歌》Steam 评测与介绍 — 大规模帝国模拟。经济管理、军事策略、人口增长、城市建设。",
   "similarGames": [],
   "source": "steam_api",
   "fetchedAt": "2026-06-08T07:21:51.392Z",
@@ -136,7 +136,8 @@
           "reaction_type": 26,
           "count": 1
         }
-      ]
+      ],
+      "zh_review": "毫无疑问是我玩过的最伟大的城市建造/殖民模拟游戏。一开始看起来难但搞清楚后非常有成就感。有所有其他同类游戏缺乏的细节水平。还有全战风格战斗简直是额外福利。有史以来最喜欢的游戏之一。"
     },
     {
       "recommendationid": "226405846",
@@ -168,7 +169,8 @@
       "written_during_early_access": true,
       "primarily_steam_deck": false,
       "app_release_date": "1600704159",
-      "reactions": []
+      "reactions": [],
+      "zh_review": "这款游戏是真家伙。比最远的边陲更复杂，比矮人要塞更易上手，比边缘世界更不繁琐。轻松10/10。"
     },
     {
       "recommendationid": "226730440",
@@ -200,7 +202,8 @@
       "written_during_early_access": true,
       "primarily_steam_deck": false,
       "app_release_date": "1600704159",
-      "reactions": []
+      "reactions": [],
+      "zh_review": "在建筑完工前能配置设置之前评价保持差评。这是非常基础的功能缺失。我的仓库经常空好几年就因为没盯着它盖好去设存储内容。浪费了所有皮革因为不能在裁缝铺建完之前设定配方。"
     },
     {
       "recommendationid": "225930692",
@@ -232,7 +235,8 @@
       "written_during_early_access": true,
       "primarily_steam_deck": false,
       "app_release_date": "1600704159",
-      "reactions": []
+      "reactions": [],
+      "zh_review": "改成让掠夺者可以用投石机炸穿实心山体？防御工事强度减半？所以在这个关于建造防御城市的游戏里防御工事不再重要了？从8/10掉到0/10。完全无法理解这种疯狂。"
     }
   ]
 }

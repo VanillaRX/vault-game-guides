@@ -1,7 +1,6 @@
 "use client";
 
 import { useLang } from "@/components/layout/lang-context";
-import type { Metadata } from "next";
 
 export default function AboutPage() {
   const { lang } = useLang();
@@ -15,26 +14,26 @@ export default function AboutPage() {
       <div className="mt-8 space-y-5 text-sm leading-relaxed text-[var(--muted)]">
         <p>
           <strong className="text-[var(--fg)]">
-            {zh ? "烂攻略太多了。" : "There's a lot of bad guides out there."}
+            {zh ? "好游戏太多，时间太少。" : "Too many games, too little time."}
           </strong>{" "}
           {zh
-            ? "三千字介绍\"什么是区域加成\"，正文还没开始。AI写的攻略数值全错。YouTube上号称\"一分钟学会\"的视频，关键技巧藏在第18分钟。我每个游戏都通关过，大部分不止一次。所以我自己写了。"
-            : "Three thousand words explaining what a district is before giving you any actual strategy. AI-written guides with wrong numbers. \"Quick tips\" videos where the tip is somewhere around minute 18. I've beaten every game on this site, most of them more than once. So I wrote my own guides."}
+            ? "Steam 上有十几万款游戏，好游戏被埋在算法和广告下面。Vault Guides 帮你发现真正值得玩的策略和模拟经营游戏——城市建造、殖民模拟、农场经营、自动化工厂，都是机制深、耐玩的好东西。"
+            : "Steam has over 100,000 games. The good ones get buried under algorithms and ads. Vault Guides helps you discover strategy and simulation games actually worth your time — city builders, colony sims, farming games, automation. Deep mechanics, high replay value."}
         </p>
         <p>
           {zh
-            ? "每篇攻略开头直接给结论。每节标了阅读时间。砍掉了\"游戏介绍\"和\"总结\"——你不需要我告诉你纪元1800是育碧出的，你需要知道工业区怎么摆。"
-            : "Every guide starts with the strategy, not the backstory. Each section has an estimated read time. I cut the intro fluff — you don't need me to tell you Anno 1800 was made by Ubisoft. You need to know where to put the industrial zone."}
+            ? "每款游戏都有真实的 Steam 玩家评论（中英双语），高清截图，玩法高光标记。不靠算法，不靠赞助，纯手工挑选。"
+            : "Every game has real Steam player reviews (in English and Chinese), high-res screenshots, and gameplay highlight tags. No algorithm, no sponsorships — just hand-picked curation."}
         </p>
         <p>
           {zh
-            ? "我只写策略和经营游戏。Anno 1800、文明6、RimWorld、Foundation、最远的边陲、前往中世纪。这些游戏的机制深，社区又小，好攻略难找。"
-            : "I only write about strategy and management games. Anno 1800, Civ 6, RimWorld, Foundation, Farthest Frontier, Going Medieval. Deep mechanics, small communities, hard to find good info."}
+            ? "喜欢某款游戏？看看「相似推荐」。不确定喜欢什么？按标签浏览——农场、休闲治愈、城市建造、生存挑战。找好了就去 Steam 下单。"
+            : "Love a game? Check out Similar Games. Not sure what you like? Browse by tag — farming, cozy, city builder, survival. Find it here, buy it on Steam."}
         </p>
         <p>
           {zh
-            ? "这个站靠广告活着。没有付费墙，没有会员，没有\"高级攻略\"。觉得有用就发给卡在同一关的朋友。有意见或发现错误直接联系我——我回得很快。"
-            : "This site runs on ads. No paywalls, no memberships, no \"premium content.\" If a guide helps you, send it to someone stuck on the same thing. Found a mistake? Email me — I actually respond."}
+            ? "这个站靠广告活着。没有付费墙，没有会员。觉得有用就发给也在找游戏的朋友。有问题或想推荐游戏？直接联系我。"
+            : "This site runs on ads. No paywalls, no memberships. Find something good? Send it to a friend who's also looking. Got a suggestion or found an issue? Reach out."}
         </p>
       </div>
     </div>

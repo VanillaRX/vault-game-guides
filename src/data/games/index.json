@@ -51,8 +51,8 @@
       "metacriticScore": 91,
       "featured": false,
       "guideCount": 0,
-      "metaDescriptionEn": "A dark fantasy city builder where you must rebuild civilization in the face of apocalyptic rains. As the Queen’s Viceroy, lead humans, beavers, lizards, foxes, and harpies to reclaim the wilderness and secure a future for civilization's last survivors.",
-      "metaDescriptionZh": "《风暴之城》Steam 攻略与评测 — 黑暗幻想城市建造 Roguelite，随机蓝图与资源管理。",
+      "metaDescriptionEn": "Against the Storm review — dark fantasy city-builder roguelite. Real Steam reviews, screenshots, and similar game picks.",
+      "metaDescriptionZh": "《风暴之城》Steam 评测与介绍 — 黑暗幻想城市建造 Roguelite，随机蓝图与资源管理。真实玩家评价与截图。",
       "similarGames": [],
       "source": "steam_api",
       "fetchedAt": "2026-06-08T07:19:50.388Z",
@@ -106,7 +106,8 @@
               "reaction_type": 34,
               "count": 1
             }
-          ]
+          ],
+          "zh_review": "大多数游戏都有保质期——玩了、通关了（或玩腻了），然后卸载为下一款大作腾空间。《风暴之城》是罕见的例外。这是我SSD上少数几个永驻的游戏之一，我已经玩了200多小时。不管玩了多少炫酷新作，风暴之城总能把我拉回来。它是我大脑的终极'舒适游戏'。为什么戒不掉：完美的循环——因为是肉鸽城市建造，我不需要记得50小时战役停在哪。三个月没玩也能直接跳进去，15分钟就能回到状态。"
         },
         {
           "recommendationid": "225226640",
@@ -138,7 +139,8 @@
           "written_during_early_access": false,
           "primarily_steam_deck": false,
           "app_release_date": "1667293057",
-          "reactions": []
+          "reactions": [],
+          "zh_review": "非常有趣，适合喜欢城市建造但时间不多的玩家。难度可调节，游戏可以分成小段享受。建筑选择丰富，同时保持足够的挑战性——有时候你不得不在缺少心仪建筑的条件下运营。总的来说非常有意思的游戏。"
         }
       ]
     },
@@ -202,8 +204,8 @@
       "metacriticScore": 81,
       "featured": false,
       "guideCount": 0,
-      "metaDescriptionEn": "Anno 1800™ – Lead the Industrial Revolution! Welcome to the dawn of the Industrial Age. The path you choose will define your world. Are you an innovator or an exploiter? A conqueror or a liberator? How the world remembers your name is up to you.",
-      "metaDescriptionZh": "《纪元1800》产业链布局攻略 — 仓库摆放、工会优化、跨区域供应链完全指南。",
+      "metaDescriptionEn": "Anno 1800 review — the definitive industrial-age city builder. Production chains, trade routes, and New World exploration.",
+      "metaDescriptionZh": "《纪元1800》Steam 评测与介绍 — 工业时代城市建造巅峰之作。产业链、贸易路线、新世界探索。",
       "similarGames": [],
       "source": "steam_api",
       "fetchedAt": "2026-06-08T07:20:23.980Z",
@@ -243,7 +245,8 @@
           "timestamp_dev_responded": 1778769776,
           "developer_response": "Hi there Didi. I'm sorry to hear you are having an issue creating an account.\n\nIf you've only tried using the Ubisoft Connect launcher, let's instead try creating your account via the Ubisoft website. Once you're there, click on the grey person icon in the top right corner, then choose \"Create an Account.\" From there, please follow these [url=www.ubisoft.com/help/article/000078663] dedicated steps on Ubisoft account creation [/url].\n\nIf you continue encountering issues with account creation such as the website remaining blank/constantly loading trying your credentials, or 404 errors, try all the steps in our [url=www.ubisoft.com/help/article/000062631] browser troubleshooting guide [/url]. These will cross off common causes for websites not working properly.\n\nIf you are still having issues after this, please do not hesitate to contact our support teams so that we can assist you further. To do that open a [url=https://www.ubisoft.com/en-us/help/contact] new support case [/url] and choose the following options:\n\nAccount Management and Security > Other Account Queries > Type a full detailed description and include any error messages you've seen as well as mentioning all specific troubleshooting you've already tried.\n\nAttach a screenshot of any error messages or in general what you're seeing when trying to create an account and someone will get back to you.\n",
           "app_release_date": "1555430400",
-          "reactions": []
+          "reactions": [],
+          "zh_review": "下载游戏20分钟了，还是注册不了他们网站的账号？？？"
         },
         {
           "recommendationid": "225454959",
@@ -275,7 +278,8 @@
           "written_during_early_access": false,
           "primarily_steam_deck": false,
           "app_release_date": "1555430400",
-          "reactions": []
+          "reactions": [],
+          "zh_review": "育碧登录系统炸了，我连自己本地托管的单人游戏都进不去。太棒了。"
         }
       ]
     },
@@ -324,8 +328,8 @@
       "metacriticScore": 73,
       "featured": false,
       "guideCount": 0,
-      "metaDescriptionEn": "In this city-building strategy game, you control a group of exiled travelers who decide to restart their lives in a new land. They have only the clothes on their backs and a cart filled with supplies from their homeland. The townspeople of Banished are your primary resource.",
-      "metaDescriptionZh": "《放逐之城》新手攻略 — 资源管理、冬季生存、人口控制完全指南。",
+      "metaDescriptionEn": "Banished review — the cult classic survival city-builder. Resource management, winter prep, population control.",
+      "metaDescriptionZh": "《放逐之城》Steam 评测与介绍 — 生存城市建造经典之作。资源管理、冬季生存、人口控制。",
       "similarGames": [],
       "reviewScore": 8,
       "reviewDesc": "Very Positive",
@@ -360,7 +364,8 @@
           "written_during_early_access": false,
           "primarily_steam_deck": false,
           "app_release_date": "1392746064",
-          "reactions": []
+          "reactions": [],
+          "zh_review": "从发售至今，《放逐之城》依然是我最爱的城市建造游戏。没有任何游戏能给我同样的感觉。总结：我给它8.5/10。游戏把你丢进荒野，带着几个刚被流放的人和一些物资。目标是在荒野中建立繁荣的城镇。上手有难度，学习曲线挺陡的——你的前几个城镇大概率活不过100年，撑过200年是真正的挑战。但就是这样才让人上瘾。"
         }
       ]
     },
@@ -368,7 +373,7 @@
       "slug": "campsite-hustle",
       "steamAppId": 3708070,
       "title": "Campsite Hustle! - Management Simulator",
-      "zhTitle": "营地经营模拟器",
+      "zhTitle": "Campsite Hustle!",
       "shortDescription": "Build your own Outdoor Store and Camping Business in the heart of Red Shore Valley! Arrange your shelves, manage your stock, construct facilities on your campsite, and take care of every guest. Grow from humble beginnings into a thriving business surrounded by nature!",
       "zhShortDescription": "经营你的露营地，布置帐篷、管理资源、吸引游客。",
       "description": "• Sell campsite tickets, unlock new camping areas, and build essential facilities like showers and restrooms as you grow your business. Creating an organized, functional, and attractive campsite is up to you. • Fill your shelves with products, handle sales at the register, and create a tidy shopping space where customers can browse comfortably. A well-managed store looks better and helps bring in more sales. • Assign tasks to your workers, organize daily operations, clean messy areas, and repair damaged structures. Keeping your business running smoothly means staying on top of things every day. • Remove trespassers, deal with raccoons, and protect your business from disruptive saboteurs. Sometimes keeping order means stepping in and handling the chaos yourself. • Design your own signs and ",
@@ -430,8 +435,8 @@
       "negativeReviews": 12,
       "featured": false,
       "guideCount": 0,
-      "metaDescriptionEn": "Build your own Outdoor Store and Camping Business in the heart of Red Shore Valley! Arrange your shelves, manage your stock, construct facilities on your campsite, and take care of every guest. Grow from humble beginnings into a thriving business surrounded by nature!",
-      "metaDescriptionZh": "《Campsite Hustle》露营地经营攻略 — 帐篷布局、资源管理、游客满意度。",
+      "metaDescriptionEn": "Campsite Hustle review — cozy campground management sim. Tent layouts, resource management, visitor happiness.",
+      "metaDescriptionZh": "《Campsite Hustle》Steam 评测与介绍 — 治愈系露营地经营模拟。帐篷布局、资源管理、游客满意度。",
       "similarGames": [],
       "source": "steam_api",
       "fetchedAt": "2026-06-08T07:19:03.538Z",
@@ -485,7 +490,8 @@
               "reaction_type": 34,
               "count": 1
             }
-          ]
+          ],
+          "zh_review": "我玩《营地经营模拟器》时预期会遇到混乱、bug和可疑的物理效果——老实说这三样我都碰上了。但我也得到了一个意外让人放松的管理循环，让我比预期玩了更久。优点：商店循环简单但满足；后期户外区域会变得热闹；学会正确使用员工后管理轻松很多；教程后进程加速，更有成就感。更重要的是：开发团队热情真诚，活跃且倾听反馈，已经在做平衡和改进。你知道开发者在乎，这很加分。"
         },
         {
           "recommendationid": "227032501",
@@ -551,7 +557,8 @@
               "reaction_type": 26,
               "count": 1
             }
-          ]
+          ],
+          "zh_review": "100%推荐。Demo时试过，后来参与测试，现在买了。游戏很美，让你的创造力尽情发挥。团队修bug速度快到离谱——有Discord和反馈区。那个说光标消失的差评……其实是按了F1进入飞行/拍照模式了。用户操作失误，不是bug。期待后续更新和扩展。🙌 10/10推荐。"
         },
         {
           "recommendationid": "227029241",
@@ -596,7 +603,8 @@
               "reaction_type": 31,
               "count": 1
             }
-          ]
+          ],
+          "zh_review": "🏕️ 休闲建造游戏爱好者的小珍珠。透明声明：我作为内容创作者在EA前通过Keymailer免费获得了Key。以下评价基于我个人游戏体验和诚实意见。Campsite Hustle出乎意料地让我惊喜。乍看是又一个模拟器，但玩了几小时后你会发现这里有很多系统相互交织。值得一试。"
         }
       ]
     },
@@ -650,8 +658,8 @@
       "metacriticScore": 85,
       "featured": false,
       "guideCount": 0,
-      "metaDescriptionEn": "Cities: Skylines is a modern take on the classic city simulation. The game introduces new game play elements to realize the thrill and hardships of creating and maintaining a real city whilst expanding on some well-established tropes of the city building experience.",
-      "metaDescriptionZh": "《城市天际线》交通规划与城市布局攻略 — 道路设计、公共交通、区域划分完全指南。",
+      "metaDescriptionEn": "Cities: Skylines review — the ultimate modern city builder. Traffic design, transit systems, zoning strategies.",
+      "metaDescriptionZh": "《城市天际线》Steam 评测与介绍 — 现代城市建造标杆之作。交通规划、公共交通、区域划分。",
       "similarGames": [],
       "source": "steam_api",
       "fetchedAt": "2026-06-08T07:20:30.958Z",
@@ -713,7 +721,8 @@
               "reaction_type": 33,
               "count": 1
             }
-          ]
+          ],
+          "zh_review": "尽管这款游戏广受好评，但我最近想重新入坑时遇到了可能是游戏市场最恶劣的消费陷阱。自从我转主机后，我花了4-5周在PS4上把DLC全买了。要知道Paradox的模式就是以DLC为中心！他们的游戏光DLC就要100-400美元！几乎所有游戏都有DLC订阅！社区竟然容忍这种无底洞般的变现方式——无论他们的游戏多好，我都不想支持这种模式了。"
         },
         {
           "recommendationid": "226061115",
@@ -750,7 +759,8 @@
               "reaction_type": 35,
               "count": 1
             }
-          ]
+          ],
+          "zh_review": "堵车、建设、污染。你扮演市长，从一块空地和一笔钱开始。任务是建造一座人们可以生活、工作和永远抱怨的城市。游戏提供广泛的可能性：从铺设道路和交通系统到管理预算、税收和公用事业。基础设施规划工具丰富，可自定义程度高。细节处理出色：比如可以控制污染水平、提供水电、管理垃圾处理。城市会像真实城市一样有机发展。"
         },
         {
           "recommendationid": "226751889",
@@ -782,7 +792,8 @@
           "written_during_early_access": false,
           "primarily_steam_deck": false,
           "app_release_date": "1426003200",
-          "reactions": []
+          "reactions": [],
+          "zh_review": "不推荐玩，一打开一上午没了，再一打开一下午没了，又一打开一晚上没了"
         }
       ]
     },
@@ -833,8 +844,8 @@
       "metacriticScore": 88,
       "featured": false,
       "guideCount": 0,
-      "metaDescriptionEn": "Expand your empire, advance your culture and go head-to-head against history’s greatest leaders. Will your civilization stand the test of time?",
-      "metaDescriptionZh": "《文明VI》区域相邻加成完全攻略 — 学院区、工业区、剧院广场最优摆放。",
+      "metaDescriptionEn": "Civilization VI review — the 4X strategy king. District adjacency, leader strategies, victory paths.",
+      "metaDescriptionZh": "《文明VI》Steam 评测与介绍 — 4X 策略游戏之王。区域相邻加成、领袖策略、胜利路线。",
       "similarGames": [],
       "source": "steam_api",
       "fetchedAt": "2026-06-08T07:21:58.151Z",
@@ -900,7 +911,8 @@
               "reaction_type": 35,
               "count": 1
             }
-          ]
+          ],
+          "zh_review": "太好玩了捏，自从玩了文明6，管也不导了，批也不扣了，唱也不漂了"
         },
         {
           "recommendationid": "225300730",
@@ -937,7 +949,8 @@
               "reaction_type": 29,
               "count": 1
             }
-          ]
+          ],
+          "zh_review": "《文明VI》就是那种你告诉自己只玩一小时，然后一抬头发现凌晨3点的游戏。每个文明都独特、好玩，没有两次体验是相同的。重玩性真的离谱，尤其加了DLC。绝对是我玩过最让人上瘾的策略游戏之一。"
         },
         {
           "recommendationid": "226631337",
@@ -969,7 +982,8 @@
           "written_during_early_access": false,
           "primarily_steam_deck": false,
           "app_release_date": "1477022400",
-          "reactions": []
+          "reactions": [],
+          "zh_review": "💿 游戏名：Sid Meier's Civilization VI | 📅 发售日：2016年10月21日 | 🏢 工作室：Firaxis Games | ⌛️ 通关时间：约50+小时（无限重玩性） | 🎭 类型：历史/策略。优点：深度策略、不同文明差异化体验、历史沉浸感强。超好玩，每次玩都有新发现。"
         },
         {
           "recommendationid": "225991788",
@@ -1022,7 +1036,8 @@
             "screen_height": null,
             "precise_frame_rate": null
           },
-          "reactions": []
+          "reactions": [],
+          "zh_review": "个人评分：非常好评（90%）。今天玩了一整个上午和下午。我以前很讨厌六边形格子设计，觉得看起来很蠢。但今天不知为什么又给了一次机会……结果我真的很喜欢。游戏性介于老AoH2和HoI4之间，简直完美——有挑战但不复杂。时间过得飞快，真的好玩。不知道会不会入Civ 7或DLC。"
         }
       ]
     },
@@ -1095,8 +1110,8 @@
       "negativeReviews": 1422,
       "featured": false,
       "guideCount": 0,
-      "metaDescriptionEn": "Coral Island is a vibrant, laid-back farm sim reimagined with multiplayer! Experience enchanting island life at your own pace: farm with friends, nurture animals, build relationships, hang out with a diverse cast of characters, and dive into the magical Merfolk Kingdom.",
-      "metaDescriptionZh": "《珊瑚岛》新手攻略 — 农耕指南、NPC好感度、潜水探索、珊瑚礁修复。",
+      "metaDescriptionEn": "Coral Island review — tropical farming sim with diving and coral restoration. NPCs, romance, exploration.",
+      "metaDescriptionZh": "《珊瑚岛》Steam 评测与介绍 — 热带农场模拟，潜水探索与珊瑚修复。NPC 好感度、恋爱系统、海底世界。",
       "similarGames": [],
       "source": "steam_api",
       "fetchedAt": "2026-06-08T07:17:09.527Z",
@@ -1138,7 +1153,8 @@
               "reaction_type": 29,
               "count": 1
             }
-          ]
+          ],
+          "zh_review": "作为一个对农场模拟现状失望、反复纠结珊瑚岛值不值得试的人，希望这条评价能帮到你。我知道每个农场模拟都会被拿来和星露谷比，玩家和开发者都烦了。但我不比较游戏本身，我比较的是玩的感觉。这是第一款让我找到第一次玩星露谷时那种感觉的农场模拟——那种感觉极难复制，因为太多农场游戏只是机械缝合。珊瑚岛不是。"
         },
         {
           "recommendationid": "225930476",
@@ -1189,7 +1205,8 @@
               "reaction_type": 35,
               "count": 1
             }
-          ]
+          ],
+          "zh_review": "我真的很喜欢这个游戏，但在我600小时的一个存档上，他们出了个更新直接把600小时进度毁了——因为存档在版本间不兼容。对于一个'正式版'游戏来说这根本不该发生。这直接浇灭了我的热情，放弃了。花了那么多心血后不想从头再来。看到现在还有巨大的路线图更是劝退——因为我的存档还会被毁。如果修好这个问题，这会是一款超棒的游戏。"
         },
         {
           "recommendationid": "225225575",
@@ -1242,7 +1259,8 @@
             "screen_height": null,
             "precise_frame_rate": null
           },
-          "reactions": []
+          "reactions": [],
+          "zh_review": "很棒的农场经营游戏，非常可爱，和星露谷有很多不同的东西，我非常喜欢，有太多事情可以做和发现。看起来未来还会有更多令人期待的内容更新。好游戏。"
         }
       ]
     },
@@ -1304,8 +1322,8 @@
       "negativeReviews": 0,
       "featured": false,
       "guideCount": 0,
-      "metaDescriptionEn": "Build a self-sustaining industrial empire in the deep sea of an ocean-covered alien world. Explore procedurally generated waters, automate resource production, and turn alien life into renewable industrial output through advanced bio-cultivation systems.",
-      "metaDescriptionZh": "《深海工厂》自动化生产线攻略 — 海底采矿、传送带布局、科技树指南。",
+      "metaDescriptionEn": "Deep Crafter review — underwater factory automation game. Seabed mining, conveyor layouts, tech tree.",
+      "metaDescriptionZh": "《深海工厂》Steam 评测与介绍 — 海底自动化工厂建造。深海采矿、传送带布局、科技树解锁。",
       "similarGames": [],
       "source": "steam_api",
       "fetchedAt": "2026-06-08T07:19:16.906Z",
@@ -1365,7 +1383,8 @@
             "screen_height": null,
             "precise_frame_rate": null
           },
-          "reactions": []
+          "reactions": [],
+          "zh_review": "操作太难受了，还不如学幸福工厂做成第一人称。而且我这个配置都特别卡，开局就这么卡后期还能玩吗？"
         }
       ]
     },
@@ -1373,7 +1392,7 @@
       "slug": "dinkum",
       "steamAppId": 1062520,
       "title": "Dinkum",
-      "zhTitle": "丁克姆",
+      "zhTitle": "金垦小镇",
       "shortDescription": "Dinkum is a survival life simulation game set on an island inspired by the rugged Australian outback. Farm, hunt, mine, fish, and forage to gather resources, expand your town, and discover what makes Dinkum so special—either solo or with friends.",
       "zhShortDescription": "澳洲荒野版动物森友会——耕种、建造、探索。",
       "description": "G'Day! Grab your tools, gather resources, and build your town while hanging out with friends and enjoying the charm of Dinkum. A Survival Life Sim with Endless Possibilities Plant crops, raise animals, and build your dream farm, or roam the island catching fish and bugs at your own pace. With changing seasons and weather affecting how your crops grow, every day brings a new challenge. Slip on your flip-flops to hunt for rare fish, bugs, or ores. Every moment becomes a special adventure. Explore and Survive the Wild From red deserts and lush forests to hidden mines, Dinkum is full of wild places to explore. Hunt wild animals, gather resources, and learn how to survive in the great outdoors. The creatures might look cute, but don't let your guard down! You'll need tools, weapons, and a solid",
@@ -1431,8 +1450,8 @@
       "negativeReviews": 985,
       "featured": false,
       "guideCount": 0,
-      "metaDescriptionEn": "Dinkum is a survival life simulation game set on an island inspired by the rugged Australian outback. Farm, hunt, mine, fish, and forage to gather resources, expand your town, and discover what makes Dinkum so special—either solo or with friends.",
-      "metaDescriptionZh": "《Dinkum》新手攻略 — 开荒技巧、赚钱方法、动物村民好感度、多人合作指南。",
+      "metaDescriptionEn": "Dinkum review — Australian-inspired farming and town-building. Crafting, exploration, multiplayer co-op.",
+      "metaDescriptionZh": "《金垦小镇》Steam 评测与介绍 — 澳洲风情农场模拟。开荒建造、探索、多人合作。",
       "similarGames": [],
       "source": "steam_api",
       "fetchedAt": "2026-06-08T07:17:29.889Z",
@@ -1500,8 +1519,8 @@
       "negativeReviews": 0,
       "featured": false,
       "guideCount": 0,
-      "metaDescriptionEn": "Dragon Shelter is a farming sim set in a fantasy world. Become a hero who'll reignite the long-lost friendship between humans and dragons. Care for wondrous creatures, explore the magical world, and cook enchanted dishes together!",
-      "metaDescriptionZh": "《Dragon Shelter》庇护所经营攻略 — 龙类饲养、栖息地建造、资源管理指南。",
+      "metaDescriptionEn": "Dragon Shelter review — cozy dragon sanctuary management. Dragon care, habitat building, resource crafting.",
+      "metaDescriptionZh": "《龙之庇护所》Steam 评测与介绍 — 治愈系龙类庇护所经营。龙类饲养、栖息地建造、资源管理。",
       "similarGames": [],
       "source": "steam_api",
       "fetchedAt": "2026-06-08T07:18:56.854Z",
@@ -1560,8 +1579,8 @@
       "metacriticScore": 94,
       "featured": false,
       "guideCount": 0,
-      "metaDescriptionEn": "THE CRITICALLY ACCLAIMED FANTASY ACTION RPG. Rise, Tarnished, and be guided by grace to brandish the power of the Elden Ring and become an Elden Lord in the Lands Between.",
-      "metaDescriptionZh": "《艾尔登法环》BOSS 攻略与配装指南 — 全BOSS打法、武器推荐、魔法流派。",
+      "metaDescriptionEn": "Elden Ring review — FromSoftware open-world masterpiece. Boss fights, builds, weapon picks, DLC content.",
+      "metaDescriptionZh": "《艾尔登法环》Steam 评测与介绍 — FromSoftware 开放世界神作。BOSS 打法、配装流派、DLC 内容。",
       "similarGames": [],
       "source": "steam_api",
       "fetchedAt": "2026-06-08T07:22:58.822Z",
@@ -1623,7 +1642,8 @@
               "reaction_type": 35,
               "count": 1
             }
-          ]
+          ],
+          "zh_review": "大家都知道宫崎英高小时候被他爸用皮带抽——但皮带出手有延迟，好让他躲不开。但很少有人知道这伟大故事的后续。宫崎英高后来适应了，记住了皮带的所有帧数，不再受到伤害。但他父亲没慌，花了2年时间再次给心爱的儿子惊喜——现在伤害提高10倍，满屋子乱跳，快慢刀组合让宫崎英高的眼睛根本追不上。但父亲知道他终将再次适应，所以在带子上涂毒（猩红腐败）。这就是——艾尔登法环。"
         },
         {
           "recommendationid": "225981378",
@@ -1697,7 +1717,8 @@
               "reaction_type": 33,
               "count": 1
             }
-          ]
+          ],
+          "zh_review": "终极游戏体验！说实话，写评测反而觉得多余，因为文字根本不足以表达。很久没买收藏版了，但这次发售前我就知道一定得入艾尔登法环的CE。完美之作，属于'死之前一定要玩'的级别。非要挑毛病的话，重复利用的敌人是最大缺陷。但玩法、探索和Boss战都是大师级！"
         },
         {
           "recommendationid": "225804474",
@@ -1734,7 +1755,8 @@
               "reaction_type": 24,
               "count": 3
             }
-          ]
+          ],
+          "zh_review": "是个好游戏，但快两千小时后也就剩十来套build能试了，他们应该再加点内容。"
         },
         {
           "recommendationid": "225995258",
@@ -1779,7 +1801,8 @@
               "reaction_type": 32,
               "count": 1
             }
-          ]
+          ],
+          "zh_review": "说实在的，我完全不懂，为什么法环里面这些NPC也依旧是没有善终的。你要是说黑魂系列，火要灭了，大家都得完蛋。这种末世背景下大家都很惨那很正常。但是交界地说白了就是玛丽卡一家打内战，可以说是乱世但完全不到灭世的地步。这样的世界观下居然NPC也基本没有好的结局……柯林疯了，D和他孪生兄弟死了，菲雅死了，罗杰尔死了，铁匠修古也要死了。罗德莉卡好不容易走上调灵师之路，居然要留在圆桌和修谷一起赴死。连最支持我们的解指婆婆恩雅也随着死亡卢恩的释放死去了。整个大赐福几乎死光了……也许三指真的是对的。"
         },
         {
           "recommendationid": "225971727",
@@ -1816,7 +1839,8 @@
               "reaction_type": 35,
               "count": 4
             }
-          ]
+          ],
+          "zh_review": "这游戏太上瘾了，体量巨大！我花了275小时通关，现在刚开始DLC。50年游戏生涯中玩过最棒的游戏之一。"
         }
       ]
     },
@@ -1824,7 +1848,7 @@
       "slug": "fabledom",
       "steamAppId": 1651560,
       "title": "Fabledom",
-      "zhTitle": "童话王国",
+      "zhTitle": "寓言之地",
       "shortDescription": "Set in a wholesome fairytale world, Fabledom is a laid-back City builder. Enjoy the growth of your settlement, interact with your neighbors and defend your kingdom from magical creatures. All to find true love and live happily ever after!",
       "zhShortDescription": "温馨童话风格的城市建造游戏，建造王国、发展外交。",
       "description": "Welcome, your Highness! A vast land awaits your settlers and is ready to be colonized. Fabledom offers an accessible and intuitive way of playing City builders, the game is easy to pick up and play for anyone but can still offer a challenge for more experienced players thanks to its difficulty settings. Set in a strange world where Fairytales become reality, you will witness the growth of your village; follow your citizens’ lives and watch the rise and fall of your relationships with the neighboring kingdoms. From a small village to a bustling Fairy tale Kingdom Find the promised land, settle, and flourish! You will need every resource available to you to expand and thrive. Build and shape a city worthy of your citizens! Meet & interact with magical creatures Experience a fairytale world f",
@@ -1879,8 +1903,8 @@
       "metacriticScore": 77,
       "featured": false,
       "guideCount": 0,
-      "metaDescriptionEn": "Set in a wholesome fairytale world, Fabledom is a laid-back City builder. Enjoy the growth of your settlement, interact with your neighbors and defend your kingdom from magical creatures. All to find true love and live happily ever after!",
-      "metaDescriptionZh": "《Fabledom》童话城市建造攻略 — 资源管理、外交策略、王国发展指南。",
+      "metaDescriptionEn": "Fabledom review — fairy-tale city builder with diplomacy. Resource management, kingdom growth, romance.",
+      "metaDescriptionZh": "《寓言之地》Steam 评测与介绍 — 童话风城市建造游戏。资源管理、外交策略、王国发展。",
       "similarGames": [],
       "source": "steam_api",
       "fetchedAt": "2026-06-08T07:19:57.107Z",
@@ -1943,7 +1967,8 @@
               "reaction_type": 33,
               "count": 1
             }
-          ]
+          ],
+          "zh_review": "我不太确定能管它叫'轻松休闲'。画面很美，但内容挺浅的，后期还特别繁琐。资源采集/产出严重失衡——玩了几个小时后我两个铁矿就有近2000铁却没处用，同时6个炭窑全天运转、库存永远0或1，居民一直抱怨冬天没取暖。我什么都没在造，根本不知道所有资源去哪了。"
         },
         {
           "recommendationid": "226977063",
@@ -1975,7 +2000,8 @@
           "written_during_early_access": false,
           "primarily_steam_deck": false,
           "app_release_date": "1681393757",
-          "reactions": []
+          "reactions": [],
+          "zh_review": "我喜欢这游戏的奇幻可爱风格，但不到12小时就通关了。确实有几小时的乐趣，但终局不够深入，后期就是重复。打折$6.29时买来玩几小时还行，但不值$20.99。2.5/5。"
         }
       ]
     },
@@ -2059,8 +2085,8 @@
       "metacriticScore": 90,
       "featured": false,
       "guideCount": 0,
-      "metaDescriptionEn": "Factorio is a game about building and creating automated factories to produce items of increasing complexity, within an infinite 2D world. Use your imagination to design your factory, combine simple elements into ingenious structures, and finally protect it from the creatures who don't really like you.",
-      "metaDescriptionZh": "《异星工厂》生产线布局攻略 — 传送带设计、火车信号、核电站建造指南。",
+      "metaDescriptionEn": "Factorio review — the ultimate factory automation game. Belt design, train signals, nuclear power, Space Age DLC.",
+      "metaDescriptionZh": "《异星工厂》Steam 评测与介绍 — 终极工厂自动化游戏。传送带设计、火车信号、核电站、太空时代 DLC。",
       "similarGames": [],
       "source": "steam_api",
       "fetchedAt": "2026-06-08T07:21:31.351Z",
@@ -2110,7 +2136,8 @@
               "reaction_type": 30,
               "count": 1
             }
-          ]
+          ],
+          "zh_review": "这游戏毁了我的人生。所以我自然要拉别人下水。"
         },
         {
           "recommendationid": "225479429",
@@ -2185,7 +2212,8 @@
               "reaction_type": 35,
               "count": 1
             }
-          ]
+          ],
+          "zh_review": "让你孩子玩这个游戏。孩子永远不会碰毒品——因为这游戏就是数字毒品。孩子最终会成为某种工程师。可选：偶尔来问一句'工程师了吗？'（亚洲家长必修）。稳赚。"
         },
         {
           "recommendationid": "225205271",
@@ -2242,7 +2270,8 @@
               "reaction_type": 31,
               "count": 1
             }
-          ]
+          ],
+          "zh_review": "轻松跻身史上最佳游戏，无限重玩性，对自闭症友好。唯一抱怨是没必要的涩涩场景太多了。"
         },
         {
           "recommendationid": "226520868",
@@ -2292,7 +2321,8 @@
               "reaction_type": 35,
               "count": 1
             }
-          ]
+          ],
+          "zh_review": "启动异星工厂→跳过教程→觉得太简单于是调设置，不小心把科技成本×10、敌袭群×10→20分钟内死亡→弃游几个月→重玩4遍幸福工厂并看了DoshDoshington好几个异星工厂视频后决定再试→跳过教程开默认模式→硬啃石油加工建核反应堆→弃游几个月→太空时代DLC发售→想起建工厂的乐趣→再次从头被虫子啃→循环往复。永远在玩，永远没通关，永远快乐。"
         },
         {
           "recommendationid": "225364381",
@@ -2362,7 +2392,8 @@
               "reaction_type": 34,
               "count": 1
             }
-          ]
+          ],
+          "zh_review": "挺好玩的，期待有朝一日能第一次通关。我电脑跑得动。"
         }
       ]
     },
@@ -2423,8 +2454,8 @@
       "negativeReviews": 1843,
       "featured": false,
       "guideCount": 0,
-      "metaDescriptionEn": "Create your farm and let the good times grow! Harvest crops, tend to animals, manage productions, and take on seasonal challenges.",
-      "metaDescriptionZh": "《模拟农场22》新手攻略 — 作物选择、机械推荐、畜牧管理指南。",
+      "metaDescriptionEn": "Farming Simulator 22 review — realistic farm management. Crop choice, machinery, livestock, production chains.",
+      "metaDescriptionZh": "《模拟农场22》Steam 评测与介绍 — 真实农场模拟。作物选择、机械推荐、畜牧管理。",
       "similarGames": [],
       "source": "steam_api",
       "fetchedAt": "2026-06-08T07:19:23.670Z",
@@ -2482,8 +2513,8 @@
       "negativeReviews": 2090,
       "featured": false,
       "guideCount": 0,
-      "metaDescriptionEn": "Farming Simulator 25 invites you to join the rewarding farm life, single-handedly or cooperatively in multiplayer. This Farm is Your Farm!",
-      "metaDescriptionZh": "《模拟农场25》新手指南 — 新作物、新机械、GPS辅助驾驶技巧。",
+      "metaDescriptionEn": "Farming Simulator 25 review — latest entry in the farm sim series. New biomes, crops, and mechanics.",
+      "metaDescriptionZh": "《模拟农场25》Steam 评测与介绍 — 系列最新作。全新地图、作物与机制。",
       "similarGames": [],
       "source": "steam_api",
       "fetchedAt": "2026-06-08T07:19:30.379Z",
@@ -2537,7 +2568,8 @@
               "reaction_type": 34,
               "count": 1
             }
-          ]
+          ],
+          "zh_review": "和其他GIANTS Software作品差别不大，《模拟农场25》确实带来了一些新意——三个新地图和不同的耕作方式。推荐给想亲手沾泥巴的人，以及寻找安静游戏体验的玩家。"
         },
         {
           "recommendationid": "225923797",
@@ -2607,7 +2639,8 @@
               "reaction_type": 31,
               "count": 1
             }
-          ]
+          ],
+          "zh_review": "这游戏的引擎是不知道多核CPU为何物的黑猩猩写的。我的GPU占用64%，CPU占用33%，仅仅因为开两个AI工人收割，游戏就跑54fps、1%low掉到30fps！更糟的是他们加密代码，mod作者都没法帮他们修引擎！气疯了……我还爱这个系列，但他们好像非要让我恨它。我们这社区都是瘾君子，GIANTS心知肚明，所以他们继续雇黑猩猩写代码。"
         },
         {
           "recommendationid": "225281667",
@@ -2639,7 +2672,8 @@
           "written_during_early_access": false,
           "primarily_steam_deck": false,
           "app_release_date": "1731414840",
-          "reactions": []
+          "reactions": [],
+          "zh_review": "玩过很多模拟农场系列。优点：整体来说每代画质都有提升，可种植作物、动物种类越来越多。缺点：开发者每次卖的几乎是同一款游戏，改动极小。物理引擎至今没做好——树、灌木、围栏全是硬的，开着拖拉机撞上去像撞500吨混凝土墙，2026年了这不严肃。建议：让我能揍那些鸣笛的过路司机。"
         }
       ]
     },
@@ -2714,8 +2748,8 @@
       "metacriticScore": 83,
       "featured": false,
       "guideCount": 0,
-      "metaDescriptionEn": "Protect and guide your people as you forge a town from untamed wilderness at the edge of the known world. Harvest raw materials, hunt, fish and farm to survive. Produce crafted items to trade, consume, equip and fight with as you battle for your survival against the elements and outside threats.",
-      "metaDescriptionZh": "《最远的边陲》城镇建造攻略 — 农耕轮作、城墙设计、冬季生存、疾病控制。",
+      "metaDescriptionEn": "Farthest Frontier review — medieval survival city-builder. Crop rotation, wall design, winter survival, disease control.",
+      "metaDescriptionZh": "《最远的边陲》Steam 评测与介绍 — 中世纪生存城市建造。农耕轮作、城墙设计、冬季生存、疾病控制。",
       "similarGames": [],
       "source": "steam_api",
       "fetchedAt": "2026-06-08T07:20:03.804Z",
@@ -2753,7 +2787,8 @@
           "written_during_early_access": false,
           "primarily_steam_deck": false,
           "app_release_date": "1660053745",
-          "reactions": []
+          "reactions": [],
+          "zh_review": "这不是最远的边陲，这是最远的公厕。什么中世纪城镇发展管理都是虚的，核心玩法就只是居民拉屎，然后运屎，然后把屎变肥料，然后拿肥料浇菜，然后吃屎浇出来的菜，然后再次循环。"
         },
         {
           "recommendationid": "226328241",
@@ -2794,7 +2829,8 @@
               "reaction_type": 31,
               "count": 1
             }
-          ]
+          ],
+          "zh_review": "说实话，Crate Entertainment是我最想不到会做如此激进类型转变的工作室。他们放弃了ARPG，决定做经典生存城市建造游戏……还给自己加了难度。如果你看看现在的城市建造游戏会发现一个规律——每款都想做点与众不同的东西。而最远的边陲做到了：深度农耕系统、真实疾病模型、四季分明、每个居民都有名字和故事。虽然有bug但核心极其扎实。"
         },
         {
           "recommendationid": "226657622",
@@ -2835,7 +2871,8 @@
               "reaction_type": 26,
               "count": 1
             }
-          ]
+          ],
+          "zh_review": "玩了10个游戏年后，如果定居点附近有强盗营地，一个居民跑过时被杀——之后工人和附近居民会不断尝试把尸体运到墓地，然后反复被同一个营地杀死。这时候游戏基本等于结束了，因为这个bug已经8年没修，开发者甚至没加一个取消搬运指定尸体的选项。"
         },
         {
           "recommendationid": "226960211",
@@ -2867,7 +2904,8 @@
           "written_during_early_access": false,
           "primarily_steam_deck": false,
           "app_release_date": "1660053745",
-          "reactions": []
+          "reactions": [],
+          "zh_review": "这些人走了多久才走出一段足够远的距离——远离贪婪的男爵和难忍的饥荒。他们睡得差、吃得差、活在恐惧中、不相信任何未来。合同签订、战争打响、王朝更替、历史添上新篇、旗帜变换、风俗更迭、建筑革新——而对农民来说什么都没变。他们只想活下去。这款游戏抓住了这种生存的苦难和坚韧。"
         },
         {
           "recommendationid": "225891054",
@@ -2899,7 +2937,8 @@
           "written_during_early_access": false,
           "primarily_steam_deck": false,
           "app_release_date": "1660053745",
-          "reactions": []
+          "reactions": [],
+          "zh_review": "这个游戏玩起来心很累。所有的突发事件全是负回馈——每年不是天灾就是人祸。人民生病、谷物枯竭、极端天气、房屋失火、食物腐烂、人民吃不饱、被侵略……游戏中没有任何谷物丰收、产能加倍、风调雨顺的正向事件。最重要的是被侵略打赢战争没有任何好处——就是赢了而已，没有奖励（战争的目的是为了消耗你的资源）。整个游戏就是在维持平衡，维持得很累。玩了快100小时，窗口跳的全是负面事件……再更新，又玩了30小时，人口到1200。纯新手没装MOD，只想体验完。这游戏充满种种恶意，所有负面事件总是同时发生。战争（同时面对4个方向）、疾病、移民、种田是地狱！我和AI讨论了5个小时、试了各种轮耕方案、这30小时全在种田！作物会得各种病并随风交叉传染，一旦得病就要改轮作或休耕。"
         }
       ]
     },
@@ -2907,7 +2946,7 @@
       "slug": "field-of-mistria",
       "steamAppId": 2142790,
       "title": "Fields of Mistria",
-      "zhTitle": "雾原田野",
+      "zhTitle": "Fields of Mistria",
       "shortDescription": "Start your new life! Build the farm of your dreams as you discover a world brimming with possibilities. Magic, romance, and adventure all await you in this nostalgic farming / life sim RPG!",
       "zhShortDescription": "90年代动画风格的农场 RPG，耕种、魔法、冒险。",
       "description": "Get ready to begin a brand-new life in a world that's brimming with possibilities! Mistria, an idyllic village tucked between forest and sea, has offered you an overgrown but full-of-potential homestead in exchange for your assistance. Restore the town to its former glory after an earthquake wreaks havoc and strange magic begins to flow through the land. In this spiritual successor to the Farm-Sim RPGs of the late 90s & onward, build the farm of your dreams as you discover magic, romance, and adventure! Customize your character , home and farm to suit your style! Farm, Fish, Mine & Craft your way to a revitalized town Find your ideal match with one of 12 marriage candidates Note: Heart progression past 8 hearts and Marriage itself will be added via future updates. Raise adorable animals & ",
@@ -2976,8 +3015,8 @@
       "negativeReviews": 423,
       "featured": false,
       "guideCount": 0,
-      "metaDescriptionEn": "Start your new life! Build the farm of your dreams as you discover a world brimming with possibilities. Magic, romance, and adventure all await you in this nostalgic farming / life sim RPG!",
-      "metaDescriptionZh": "《雾原田野》新手攻略 — 农耕指南、魔法系统、NPC好感度、地下城探索。",
+      "metaDescriptionEn": "Fields of Mistria review — magical farming sim with 90s anime aesthetics. Farming, magic, NPCs, dungeon crawling.",
+      "metaDescriptionZh": "《Fields of Mistria》Steam 评测与介绍 — 90 年代动漫风魔法农场模拟。农耕、魔法系统、地下城探索。",
       "similarGames": [],
       "source": "steam_api",
       "fetchedAt": "2026-06-08T07:17:56.686Z",
@@ -3014,7 +3053,8 @@
           "written_during_early_access": true,
           "primarily_steam_deck": false,
           "app_release_date": "1722876530",
-          "reactions": []
+          "reactions": [],
+          "zh_review": "好游戏。给新玩家：请务必注意——1. 每种昆虫、鱼、采集品和矿石至少收集保存一个，别卖别捐博物馆除非有多的。2. 重要：给Eiland和Juniper送礼物保持好感，即使你对他们不感兴趣。尽量搞到8心。等你自己想通为什么的时候会感谢我的。"
         },
         {
           "recommendationid": "225603816",
@@ -3051,7 +3091,8 @@
               "reaction_type": 29,
               "count": 1
             }
-          ]
+          ],
+          "zh_review": "我很少写评价，这是第二条，但必须为这颗宝石写。从游戏时长就能看出我多爱这个游戏。我有700小时星露谷，但我总告诉别人如果你喜欢星露谷，你会更喜欢这个（可惜大部分朋友用Mac玩不了）。我玩了这个游戏后，虽然还是很爱星露谷，但Mistria的QoL特性多到让人回不去——能跳！能游泳！跑得好快！更重要的是Mistria感觉更有生命力。角色有灵魂，对话从不重复，每一点都充满爱。"
         },
         {
           "recommendationid": "225496872",
@@ -3088,7 +3129,8 @@
               "reaction_type": 31,
               "count": 1
             }
-          ]
+          ],
+          "zh_review": "这个游戏唯一的问题是太健全了——或者说，太宽容了。无论何种个性，都在爱中生长，这太不现实了。所以要一直玩。我会记得过生日时众人即使仓促也掏出礼物，在旅馆学烹饪即使只煮了锅汤也被夸奖，臭屁如马奇大家也都会为他说话。地球online从未如此宽待过我，而我们一生追求的只是这样简单的东西。其实我并不向往田园生活，仅仅是自由和创作在当代还算好实现。自然的一切也从不吝啬。然而我们难以唤醒的是人，是一个社会无可撼动的正确性。这就是逃跑的牧歌永垂不朽的原因。制作东西不用带材料好评，紫色小球买技能好评，角色话特别多好评，战斗好难。"
         }
       ]
     },
@@ -3146,8 +3188,8 @@
       "metacriticScore": 84,
       "featured": false,
       "guideCount": 0,
-      "metaDescriptionEn": "Foundation is a grid-less, laidback medieval city-building game with a focus on organic development, monument construction and resource management.",
-      "metaDescriptionZh": "《Foundation》有机城市布局攻略 — 区域规划、供应链、纪念碑建造指南。",
+      "metaDescriptionEn": "Foundation review — gridless organic medieval city-builder. Zone planning, supply chains, monument construction.",
+      "metaDescriptionZh": "《Foundation》Steam 评测与介绍 — 无网格有机城市建造。区域规划、供应链、纪念碑建造。",
       "similarGames": [],
       "aliases": [],
       "reviewScore": 8,
@@ -3204,7 +3246,8 @@
             "screen_height": 1080,
             "precise_frame_rate": null
           },
-          "reactions": []
+          "reactions": [],
+          "zh_review": "即使有4支军队在两块小住宅区永久巡逻、轻度防御、带乡村瞭望塔，也只有4栋房子升到中密度。我无法进一步发展因为居民一直因缺乏住房而离开。市场摊位也有些问题但主要是烦人。如果没bug的话应该挺好玩。希望开发者修好。"
         }
       ]
     },
@@ -3212,7 +3255,7 @@
       "slug": "frozenheim",
       "steamAppId": 1134100,
       "title": "Frozenheim",
-      "zhTitle": "冰霜之地",
+      "zhTitle": "维京之城",
       "shortDescription": "Lead your Viking clan onto unknown shores and carve out a future for your people in the fjords of Frozenheim. Gather resources, expand, and watch your settlement grow to a bustling town that will withstand the harshness of winter and wrath of other clans.",
       "zhShortDescription": "北欧维京主题的城市建造与 RTS，建立部落、掠夺敌人。",
       "description": "",
@@ -3264,8 +3307,8 @@
       "metacriticScore": 67,
       "featured": false,
       "guideCount": 0,
-      "metaDescriptionEn": "Lead your Viking clan onto unknown shores and carve out a future for your people in the fjords of Frozenheim. Gather resources, expand, and watch your settlement grow to a bustling town that will withstand the harshness of winter and wrath of other clans.",
-      "metaDescriptionZh": "《冰霜之地》维京城镇建造攻略 — 资源管理、部队编制、部落战争策略。",
+      "metaDescriptionEn": "Frozenheim review — Viking city-builder with RTS combat. Resource management, clan warfare, settlement design.",
+      "metaDescriptionZh": "《维京之城》Steam 评测与介绍 — 维京城市建造与即时战略。资源管理、部队编制、部落战争。",
       "similarGames": [],
       "source": "steam_api",
       "fetchedAt": "2026-06-08T07:20:37.633Z",
@@ -3330,8 +3373,8 @@
       "metacriticScore": 76,
       "featured": false,
       "guideCount": 0,
-      "metaDescriptionEn": "Build and manage your own castle settlement in a land reclaimed by wilderness. With detailed management, survival strategy, and a moddable sandbox world, Going Medieval challenges you to build the mightiest colony this side of the apocalypse.",
-      "metaDescriptionZh": "《前往中世纪》城堡建造攻略 — 多层建筑设计、居民心情管理、冬季生存策略。",
+      "metaDescriptionEn": "Going Medieval review — multi-level castle builder. Z-level design, settler mood, winter survival, defense.",
+      "metaDescriptionZh": "《前往中世纪》Steam 评测与介绍 — 多层城堡建造模拟。Z 轴建筑设计、居民心情管理、冬季生存。",
       "similarGames": [],
       "source": "steam_api",
       "fetchedAt": "2026-06-08T07:20:10.530Z",
@@ -3390,7 +3433,8 @@
               "reaction_type": 29,
               "count": 1
             }
-          ]
+          ],
+          "zh_review": "急需家族系统。这是一个巨大的根本性缺陷。'中世纪'社会的整个概念建立在血统、王朝和家庭单元的基石上。当你想到中世纪定居点，你想到的是为家族建造家园、父女传承铁匠手艺、缔结联盟。去掉这些不仅是缺失功能——它直接掏空了整个时代的角色扮演和沉浸感。相反，《前往中世纪》把你困在一个奇怪的、冷漠的循环中，你的殖民地基本上只是一个高级公社。"
         },
         {
           "recommendationid": "225292589",
@@ -3422,7 +3466,8 @@
           "written_during_early_access": false,
           "primarily_steam_deck": false,
           "app_release_date": "1622559561",
-          "reactions": []
+          "reactions": [],
+          "zh_review": "非常好的游戏，但请加入生育小孩的设定。"
         }
       ]
     },
@@ -3476,8 +3521,8 @@
       "metacriticScore": 76,
       "featured": false,
       "guideCount": 0,
-      "metaDescriptionEn": "Jurassic World Evolution 2 is the much-anticipated sequel to Frontier’s highly successful Jurassic World Evolution. This bold new era in the Jurassic World Evolution game franchise builds upon the ground-breaking and immersive 2018 management simulation.",
-      "metaDescriptionZh": "《侏罗纪世界进化2》恐龙公园攻略 — 围场设计、恐龙培育、游客管理。",
+      "metaDescriptionEn": "Jurassic World Evolution 2 review — dinosaur park management. Enclosure design, dino breeding, guest management.",
+      "metaDescriptionZh": "《侏罗纪世界进化2》Steam 评测与介绍 — 恐龙公园经营管理。围场设计、恐龙培育、游客管理。",
       "similarGames": [],
       "source": "steam_api",
       "fetchedAt": "2026-06-08T07:22:31.815Z",
@@ -3535,7 +3580,8 @@
             "screen_height": null,
             "precise_frame_rate": null
           },
-          "reactions": []
+          "reactions": [],
+          "zh_review": "建造和管理自己的恐龙公园依然超级好玩，尤其是当混乱开始、一切不可避免地失控时。恐龙种类、生物群落和自定义选项的丰富程度让人轻松沉浸数十小时。混沌理论模式对电影粉丝是极好的补充，看你养的恐龙互动即使玩了几十小时也依然有趣。管理系统后期可能变得有些重复，但如果你喜欢公园建造和恐龙，轻松推荐。"
         }
       ]
     },
@@ -3589,8 +3635,8 @@
       "negativeReviews": 1191,
       "featured": false,
       "guideCount": 0,
-      "metaDescriptionEn": "Kingdoms and Castles is a city-building simulation game about growing a kingdom from a tiny hamlet to a sprawling city and imposing castle. Make trade agreements, alliance, and war with neighboring AI controlled kingdoms. Each villager and resource is individually simulated.",
-      "metaDescriptionZh": "《王国与城堡》城市建造攻略 — 布局规划、防御策略、居民满意度管理。",
+      "metaDescriptionEn": "Kingdoms and Castles review — charming medieval city-builder. Layout planning, defense strategy, villager happiness.",
+      "metaDescriptionZh": "《王国与城堡》Steam 评测与介绍 — 中世纪城市建造模拟。布局规划、防御策略、居民满意度。",
       "similarGames": [],
       "source": "steam_api",
       "fetchedAt": "2026-06-08T07:21:11.319Z",
@@ -3602,7 +3648,7 @@
       "slug": "kynseed",
       "steamAppId": 758870,
       "title": "Kynseed",
-      "zhTitle": "血脉之种",
+      "zhTitle": "Kynseed",
       "shortDescription": "Embark on a lifetime of adventure in a beautiful world of creativity and intrigue. Raise a family, customise your farm, run a business, craft items, and battle some marvellously malevolent monsters.",
       "zhShortDescription": "世代传承的奇幻农场 RPG，耕种、探险、成家、老去。",
       "description": "A huge new update is now live! The Big Build Update adds farm and farmhouse customisation, building projects including bridges and Hob damaged houses, brand new gameplay gating, a beautiful feature-packed progress screen, a new challenge system with over 450 new objectives with rewards, story cut-scenes, combat totems around the world, loads of new and improved dialogue and many more changes. Embark on a lifetime of adventure in a beautiful world of creativity and intrigue. Raise a family, customise your farm, run a business, craft items, and battle some marvellously malevolent monsters. Your actions and decisions matter in our adventurous story filled with purpose and promise. Lend a helping hand to villagers in need and discover the unique blend of creativity and choice that sets Kynseed",
@@ -3670,8 +3716,8 @@
       "metacriticScore": 89,
       "featured": false,
       "guideCount": 0,
-      "metaDescriptionEn": "Embark on a lifetime of adventure in a beautiful world of creativity and intrigue. Raise a family, customise your farm, run a business, craft items, and battle some marvellously malevolent monsters.",
-      "metaDescriptionZh": "《血脉之种》世代传承攻略 — 农耕系统、探险指南、婚姻与后代养成。",
+      "metaDescriptionEn": "Kynseed review — multi-generation life sim RPG. Farming, exploration, marriage, and legacy.",
+      "metaDescriptionZh": "《Kynseed》Steam 评测与介绍 — 多世代传承 RPG。农耕系统、探险、婚姻与后代养成。",
       "similarGames": [],
       "source": "steam_api",
       "fetchedAt": "2026-06-08T07:18:16.791Z",
@@ -3683,7 +3729,7 @@
       "slug": "life-below",
       "steamAppId": 2932150,
       "title": "Life Below",
-      "zhTitle": "深海余生",
+      "zhTitle": "Life Below",
       "shortDescription": "Life Below is a refreshing twist on the city-building genre, set beneath the waves. Shape thriving coral reefs, revive collapsing ecosystems, and grow a living seascape in a heartfelt narrative by Rhianna Pratchett. You are the ocean's final hope.",
       "zhShortDescription": "在衰亡的海洋中建立海底基地，探索深海、重建文明。",
       "description": "The ocean is dying. Coral reefs are vanishing and ecosystems are breaking down. By the power of the mysterious reef heart you must restore balance, using the ocean floor itself as the foundation to build vibrant havens for sealife. Craft lures to entice different species to your reef and use their natural abilities to overcome underwater hazards. Experience Thalassa’s journey in campaign mode, then undergo new challenges in freeplay. Advised by marine biologists and shaped with authentic underwater audio, Life below introduces realism into its world of fantasy. Gameplay reflects natural rhythms and interactions, bringing the ocean floor to life with motion, color, and possibility. In a twist on the city-building genre, resurrect entire ecosystems by strategically crafting and managing vibr",
@@ -3752,8 +3798,8 @@
       "negativeReviews": 14,
       "featured": false,
       "guideCount": 0,
-      "metaDescriptionEn": "Life Below is a refreshing twist on the city-building genre, set beneath the waves. Shape thriving coral reefs, revive collapsing ecosystems, and grow a living seascape in a heartfelt narrative by Rhianna Pratchett. You are the ocean's final hope.",
-      "metaDescriptionZh": "《深海余生》海底基地建造攻略 — 资源采集、基地布局、海洋探索指南。",
+      "metaDescriptionEn": "Life Below review — underwater base builder with ecosystem management. Resource gathering, reef restoration, exploration.",
+      "metaDescriptionZh": "《Life Below》Steam 评测与介绍 — 海底基地建造，生态系统管理。资源采集、珊瑚礁修复、海洋探索。",
       "similarGames": [],
       "source": "steam_api",
       "fetchedAt": "2026-06-08T07:19:10.232Z",
@@ -3790,7 +3836,8 @@
           "written_during_early_access": false,
           "primarily_steam_deck": false,
           "app_release_date": "1779807079",
-          "reactions": []
+          "reactions": [],
+          "zh_review": "游戏设计太棒了，我玩得很开心。那为什么不推荐呢？有严重的bug和非常糟糕的设计选择，我列出最让我恼火的两点：1）性能问题——当你到…中期吧，开始有7-8个区域后，游戏开始严重卡顿，玩起来非常挫败。2）游戏中的灾害可以毁掉你之前所有成就，因为要应对某些灾害需要特定技术，但这些技术可能需要你还没有的资源。灾害什么时候来完全随机且不可预测，根本没法提前准备。"
         },
         {
           "recommendationid": "226871336",
@@ -3831,7 +3878,8 @@
               "reaction_type": 31,
               "count": 1
             }
-          ]
+          ],
+          "zh_review": "那些说灾害太难的评价太搞笑了。我爸玩策略游戏的水平比我高得多，我看都看不懂。但这款游戏呢——太宁静了。只要你花时间阅读、用点脑子、有点耐心，就能搞定灾害。我不能再推荐这款游戏了。它没有那些巨作那么深入，但它绝对有自己的一席之地。玩家们应该在灾害打败没有准备的人之前给它更多机会。画面漂亮，区域规划后期很有挑战，整体非常治愈。"
         },
         {
           "recommendationid": "226741859",
@@ -3870,7 +3918,8 @@
               "reaction_type": 24,
               "count": 1
             }
-          ]
+          ],
+          "zh_review": "我真的很喜欢这个美术风格和概念，但开发团队需要平衡一些东西。随机事件很快就能摧毁你的珊瑚礁，游戏甚至没有清楚解释灾害是什么、怎么处理。我试过最低难度但还是一直快速死亡。我认为这是有一个坚实核心的游戏，开发者可以通过增加引导教程来让它变得更好。我还建议把灾害事件推到更后面。"
         },
         {
           "recommendationid": "226490055",
@@ -3902,7 +3951,8 @@
           "written_during_early_access": false,
           "primarily_steam_deck": false,
           "app_release_date": "1779807079",
-          "reactions": []
+          "reactions": [],
+          "zh_review": "城市建造类型中一个有趣、新鲜、色彩缤纷的转折。游戏性从一开始就引人入胜，深度出乎意料却又不会让人不知所措。在可访问性和技术复杂度之间取得了很好的平衡，让我这种不常玩城市建造的玩家也能享受。双倍点赞！！"
         },
         {
           "recommendationid": "226846256",
@@ -3936,7 +3986,8 @@
           "timestamp_dev_responded": 1780578901,
           "developer_response": "Hey!\nThank you so much for checking out our game, spending time with it and writing your thoughts. The corals being affected by the very hazard they are meant to fix, was an intentional choice we made. It is part of how we envisioned the push and pull in the game. Totally understand that's not for everyone, and appreciate that you shared your feedback on that feature. Some ways that players can expand is by:\n[spoiler]\n-Stockpiling resources so it takes less time to build the structures (or reclaiming buildings to gain back some resources).\n-Use a stable zone to build energy production with a network that expands into the zone you want to build in. That way you only need to build the parameter corals in the unstable zone. They have more life and comfort than the moon coral for instance.\n-After stockpiling resources, use buildings that have secondary effects to your benefit, building many (many) moon corals in the arctic zone will both boost your energy production, and warm the zone. If you have enough resources and water sprites available, it's possible to do with some zones from the start.\n[/spoiler]\nFor the random event hazards that has definitely been on our radar post launch. We released a patch yesterday that we hope will make the experience better. We've changed when some hazards can be experienced, and the severity of them.\n\nWe'll continue to do our best based on the feedback we get here, in the discussion forums and our discord server. I hope you want to try the game again with this rebalance, but either way really appreciate your thoughts and your time.\n-Lise\"",
           "app_release_date": "1779807079",
-          "reactions": []
+          "reactions": [],
+          "zh_review": "目前来说我不会推荐买这个游戏，除非有平衡性改动。它比有趣更让人烦躁。概念真的很酷，可以轻松吸引你玩上几个小时，但之后就是一个接一个的恶心事。灾害对游戏没有任何有趣的添加——它们是随机出现的繁琐恶心路障，让人头疼。主要问题是：用于修复环境不平衡的建筑本身不对同样环境效果免疫。这是真的烂设计。"
         }
       ]
     },
@@ -3944,7 +3995,7 @@
       "slug": "littlewood",
       "steamAppId": 894940,
       "title": "Littlewood",
-      "zhTitle": "小小森林",
+      "zhTitle": "Littlewood",
       "shortDescription": "The world has already been saved. Now it's time to rebuild your town, learn new hobbies, and forge lifelong friendships in this peaceful and relaxing RPG.",
       "zhShortDescription": "你拯救世界之后的故事——重建家园、耕种、交友。",
       "description": "You defeated the Dark Wizard. The world of Solemn is finally at peace, but at what cost? You can't quite remember... The Hero Who Saved the World Explore the vast world of Solemn. Enchanted Forests, Bustling Fishing Towns, & Dark Mining Caves are some of the few places to visit. Meet Townsfolk and convince them to stay in your town. Perhaps meeting people will unlock your memories of the past… Collect rare items and materials found across the world and bring them back to your town for selling and crafting! Customize Your Town Harvest materials by chopping wood, mining ores, catching bugs, and fishing in rivers and ponds! Unlock new structures to build by meeting new Townsfolk. Want a Tavern or a Lumber Mill? How about a Fishing Hut or a Magical Library? Your town's design is all up to you!",
@@ -3994,8 +4045,8 @@
       "negativeReviews": 335,
       "featured": false,
       "guideCount": 0,
-      "metaDescriptionEn": "The world has already been saved. Now it's time to rebuild your town, learn new hobbies, and forge lifelong friendships in this peaceful and relaxing RPG.",
-      "metaDescriptionZh": "《小小森林》小镇重建攻略 — 地形改造、建筑布局、NPC好感度指南。",
+      "metaDescriptionEn": "Littlewood review — cozy town-rebuilding RPG. Terraforming, building layout, villager relationships.",
+      "metaDescriptionZh": "《Littlewood》Steam 评测与介绍 — 治愈系小镇重建 RPG。地形改造、建筑布局、村民关系。",
       "similarGames": [],
       "source": "steam_api",
       "fetchedAt": "2026-06-08T07:18:10.070Z",
@@ -4054,8 +4105,8 @@
       "negativeReviews": 4959,
       "featured": false,
       "guideCount": 0,
-      "metaDescriptionEn": "Manor Lords is a medieval strategy game featuring in-depth city building, large-scale tactical battles, and complex economic and social simulations. Rule your lands as a medieval lord – the seasons pass, the weather changes, and cities rise and fall.",
-      "metaDescriptionZh": "《庄园领主》城市建造与战争攻略 — 农田布局、城市扩张、军团指挥指南。",
+      "metaDescriptionEn": "Manor Lords review — historical city-builder with tactical combat. Farm layout, city expansion, army command.",
+      "metaDescriptionZh": "《庄园领主》Steam 评测与介绍 — 历史城市建造与战术战斗。农田布局、城市扩张、军团指挥。",
       "similarGames": [],
       "source": "steam_api",
       "fetchedAt": "2026-06-08T07:19:43.731Z",
@@ -4113,7 +4164,8 @@
               "reaction_type": 31,
               "count": 1
             }
-          ]
+          ],
+          "zh_review": "两年前发售时这款游戏前景极其光明，骨架依然在。它拥有其他中世纪城市建造游戏没有的基础，我真心希望未来能改这条评价。但过去两年内容增加极少（基本上就是石城堡，说实在的不怎么有趣），只是反复做平衡改动却没有真正改变游戏体验。每次'大'更新我看更新日志时觉得酷，玩一小时就退了因为'改进的平衡'并没有改进什么。"
         },
         {
           "recommendationid": "225162159",
@@ -4179,7 +4231,8 @@
               "reaction_type": 30,
               "count": 1
             }
-          ]
+          ],
+          "zh_review": "你和其他一万人买了这个游戏。然后那个独立开发者不雇像样的团队来推进项目。他靠一个25%完成度的游戏成了百万富翁。而你还在等每60天出一次的更新，里面只有少得可怜的微不足道的改进。这游戏本有巨大潜力成为伟大作品，但很可能2035年出EA前就有人做出更好的了。"
         },
         {
           "recommendationid": "225257623",
@@ -4220,7 +4273,8 @@
               "reaction_type": 31,
               "count": 1
             }
-          ]
+          ],
+          "zh_review": "两年间变化不大，想法铺了很多但实现都是表面的。从首发就没玩了，当时觉得开局不错，筹了钱应该能打磨好。可惜，无论是两年前还是现在，感觉什么都没变。新增的东西在整体面前显得微不足道。"
         },
         {
           "recommendationid": "225658469",
@@ -4257,7 +4311,8 @@
               "reaction_type": 29,
               "count": 1
             }
-          ]
+          ],
+          "zh_review": "以后绝对不买抢先体验游戏了，垃圾骗子。前期玩了会，搁置几年了，一点进展都没有。各位，如果你们在犹豫买不买这个游戏，千万别买。"
         },
         {
           "recommendationid": "226587161",
@@ -4331,7 +4386,8 @@
               "reaction_type": 33,
               "count": 1
             }
-          ]
+          ],
+          "zh_review": "我真的开始厌倦EA游戏了。不幸的是，今天最原创、最有趣的作品往往是独立游戏……因此几乎一律是EA。在纸面上支持有前途的项目听上去诱人，但实际上当免费beta测试员最终会耗尽耐心。bug、半成品机制、运行不正常的系统——体验很快就变得令人沮丧。EA现在已经成了独立游戏行业的常态。"
         }
       ]
     },
@@ -4382,8 +4438,8 @@
       "metacriticScore": 88,
       "featured": false,
       "guideCount": 0,
-      "metaDescriptionEn": "Welcome to a new world! In Monster Hunter: World, the latest installment in the series, you can enjoy the ultimate hunting experience, using everything at your disposal to hunt monsters in a new world teeming with surprises and excitement.",
-      "metaDescriptionZh": "《怪物猎人世界》武器配装攻略 — 14种武器指南、怪物弱点、装备搭配。",
+      "metaDescriptionEn": "Monster Hunter World review — Capcom action RPG. 14 weapon types, monster ecology, armor builds, co-op hunts.",
+      "metaDescriptionZh": "《怪物猎人世界》Steam 评测与介绍 — 卡普空动作 RPG。14 种武器、怪物生态、装备搭配、合作狩猎。",
       "similarGames": [],
       "source": "steam_api",
       "fetchedAt": "2026-06-08T07:22:51.885Z",
@@ -4441,7 +4497,8 @@
             "screen_height": 1080,
             "precise_frame_rate": null
           },
-          "reactions": []
+          "reactions": [],
+          "zh_review": "优化不错喵，该配置最低画质能有20~30帧喵。武器种类丰富不重样，虽然看上去动作不是很多，但是每个武器的深度都挺深的喵，难度也不低，总之，好玩喵。帅太刀帅，快去玩太刀喵。"
         },
         {
           "recommendationid": "226019148",
@@ -4473,7 +4530,8 @@
           "written_during_early_access": false,
           "primarily_steam_deck": false,
           "app_release_date": "1533744000",
-          "reactions": []
+          "reactions": [],
+          "zh_review": "拿棍子，杀怪物，重复。"
         },
         {
           "recommendationid": "226873390",
@@ -4505,7 +4563,8 @@
           "written_during_early_access": false,
           "primarily_steam_deck": false,
           "app_release_date": "1533744000",
-          "reactions": []
+          "reactions": [],
+          "zh_review": "可以和我打一辈子MHW吗.jpg。但是最珍贵的是，和我一起打游戏的好朋友！游戏终有结束的时候，唯有幸福的时光成为永久UwU。"
         },
         {
           "recommendationid": "227225807",
@@ -4542,7 +4601,8 @@
               "reaction_type": 32,
               "count": 1
             }
-          ]
+          ],
+          "zh_review": "6/10分，说实话看到这个评论区我都不太敢说坏话了，评论区已经是完全神作了。那我来说点反话。我是一个路人玩家，不了解这个系列，只知道是卡普空做的。这次不列优点只说缺点——画质实在有点差、很糊，不过老游戏可以理解。其次上手难度实在太高了，要研究搓招、研究怪物下一步攻击动作。我坐牢玩了27小时，没有任何正反馈，无时无刻都感到乏力。里三层外三层的地图，好不容易找到目标怪不是被几巴掌拍死就是刚打两下怪物跑了，接着又是无比漫长的赶路找怪。剧情更是云里雾里。还有标签写的开放世界？你这也不开放啊，就是大一点的箱庭。总结：上手成本太高，有点像魂游，非常吃玩家。喜欢的人爱不释手，不喜欢的人嗤之以鼻。想入手建议多看测评，别跟我一样跟风买然后被劝退。"
         },
         {
           "recommendationid": "226445016",
@@ -4574,7 +4634,8 @@
           "written_during_early_access": false,
           "primarily_steam_deck": false,
           "app_release_date": "1533744000",
-          "reactions": []
+          "reactions": [],
+          "zh_review": "写这篇评论时，刚好破一千小时。更重要的是，截至今年，完整地把旧大陆各作和新大陆三部曲都体验过一次，算是能发表一篇系统化的分析了。先说结论，世界仍然是我心中最棒的一作。以前不懂得和怪物周旋，老实巴交站头前，结果引到各种粪招，一度让人怀疑自己。后面突然开窍了——原来我可以分出一部分精力来和怪绕啊，思路可以不拘泥于招式连段。它走位我也走位，这不就是立回的基本思路吗。把复杂交互简化成怪物出招→规避→蓄力反打的过程，每掌握一个蓄力点那种实打实进步的爽快感，是数值驱动永远给不了的。就这样朴素的思想，让我从小动物打到飞龙，再到古龙，再到F4都能游刃有余地处理。这样的历练和心路历程实在是太棒了。"
         }
       ]
     },
@@ -4637,8 +4698,8 @@
       "metacriticScore": 73,
       "featured": false,
       "guideCount": 0,
-      "metaDescriptionEn": "Start a new life in the enchanting town of Portia! Restore your Pa's neglected workshop to its former glory by fulfilling commissions, growing crops, raising animals, and befriending the quirky inhabitants of this charming post-apocalyptic land!",
-      "metaDescriptionZh": "《波西亚时光》工坊经营攻略 — 材料收集、物品制作、NPC好感度、遗迹探索。",
+      "metaDescriptionEn": "My Time at Portia review — charming workshop sim. Material gathering, crafting, NPC relationships, ruin diving.",
+      "metaDescriptionZh": "《波西亚时光》Steam 评测与介绍 — 治愈系工坊经营。材料收集、物品制作、NPC 好感度、遗迹探索。",
       "similarGames": [],
       "source": "steam_api",
       "fetchedAt": "2026-06-08T07:17:23.173Z",
@@ -4675,7 +4736,8 @@
           "written_during_early_access": false,
           "primarily_steam_deck": false,
           "app_release_date": "1516723620",
-          "reactions": []
+          "reactions": [],
+          "zh_review": "《波西亚时光》是一款还不错、挺漂亮的游戏，但它患有严重的'姐姐综合症'——它走路了，好让续作能冲刺。如果你是硬核休闲游戏狂热爱好者，需要把每个制造模拟器直接注入血管，买吧，你会玩得开心。但如果你是个正常人今天才玩，整个体验会感觉明显……不对劲。现在玩波西亚感觉就像戴烤箱手套组装宜家家具。操作是纯粹的、未经过滤的生硬，资源肝度不是'放松周末爱好'而是'第二份全职工作'。"
         }
       ]
     },
@@ -4740,8 +4802,8 @@
       "metacriticScore": 80,
       "featured": false,
       "guideCount": 0,
-      "metaDescriptionEn": "Travel to the desert community of Sandrock and take on the role of a fledgling Builder. Use your trusty toolset to gather resources, construct machines, and turn your run-down workshop into a well-oiled production facility to save the town from the jaws of economic ruin!",
-      "metaDescriptionZh": "《沙石镇时光》工坊攻略 — 沙漠资源采集、工坊升级、NPC好感度。",
+      "metaDescriptionEn": "My Time at Sandrock review — desert workshop RPG sequel. Resource gathering, workshop upgrades, NPC bonding.",
+      "metaDescriptionZh": "《沙石镇时光》Steam 评测与介绍 — 沙漠工坊 RPG 续作。资源采集、工坊升级、NPC 好感度。",
       "similarGames": [],
       "source": "steam_api",
       "fetchedAt": "2026-06-08T07:17:16.489Z",
@@ -4779,7 +4841,8 @@
           "written_during_early_access": false,
           "primarily_steam_deck": false,
           "app_release_date": "1653530220",
-          "reactions": []
+          "reactions": [],
+          "zh_review": "中评吧，缺点不少，但因为我刚从隔壁橄榄镇坐过大牢觉得哪里都是天堂，且相比种田我更喜欢捡垃圾，BGM和废土末日画风也很喜欢，剧情没多好但多次让我忍俊不禁，综合来看还是玩得很开心。优点：所有类似游戏的箱子系统请都照着这个来！所有箱子连通一键整理收纳，制作和交任务不用放背包，箱子里有就行。升级箱子直接把大箱子往小箱子上一放。废土末日氛围别有滋味，一个人骑着羊在沙漠里狂奔或看日落星空非常浪漫。本作人物美术有较大进步，史诗级更新了外观系统——装备找属性好的穿、外观找好看的穿。缺点：优化和流畅度有问题，部分任务引导不够清晰。但瑕不掩瑜，依然是非常值得推荐的游戏。"
         }
       ]
     },
@@ -4787,7 +4850,7 @@
       "slug": "northgard",
       "steamAppId": 466560,
       "title": "Northgard: Definitive Edition",
-      "zhTitle": "北境守护",
+      "zhTitle": "北加尔",
       "shortDescription": "Northgard: Definitive Edition is a critically acclaimed real-time strategy game based on Norse mythology. Lead your clan, uncover the secrets of a mysterious newfound continent and defeat your enemies to conquer the Throne!",
       "zhShortDescription": "北欧神话策略游戏，选择氏族、扩张领地、征服北境。",
       "description": "After years of tireless exploration, brave Vikings have discovered a new land filled with mystery, danger and riches: Northgard. The boldest Northmen have set sail to explore and conquer these new shores, bring fame to their Clan and write history through conquest, trading, or devotion to the Gods. Build your settlement on the newly discovered continent of Northgard! Assign your Vikings to various jobs and manage your resources carefully to survive harsh winters and ferocious foes. Expand your clan strategically by chasing conquest, fame, lore or trade victory. Survive and conquer the unforgiving wilderness of Northgard by mastering the unique attributes of the many different clans that inhabit the continent! Each clan has its own unique specificities, bonuses and features, introducing new",
@@ -4840,8 +4903,8 @@
       "metacriticScore": 81,
       "featured": false,
       "guideCount": 0,
-      "metaDescriptionEn": "Northgard: Definitive Edition is a critically acclaimed real-time strategy game based on Norse mythology. Lead your clan, uncover the secrets of a mysterious newfound continent and defeat your enemies to conquer the Throne!",
-      "metaDescriptionZh": "《北境守护》氏族攻略 — 各氏族玩法差异、资源管理、科技路线。",
+      "metaDescriptionEn": "Northgard review — Norse-themed strategy game. Clan differences, resource management, tech paths, conquest.",
+      "metaDescriptionZh": "《北加尔》Steam 评测与介绍 — 北欧主题策略游戏。各氏族玩法差异、资源管理、科技路线。",
       "similarGames": [],
       "source": "steam_api",
       "fetchedAt": "2026-06-08T07:20:44.350Z",
@@ -4883,7 +4946,8 @@
               "reaction_type": 26,
               "count": 2
             }
-          ]
+          ],
+          "zh_review": "我和朋友多年前买了这款当非传统RTS玩。某些方面很有趣，另一些很令人沮丧。联机问题没修，新种族平衡问题不断，核心机制保持不变——必须搞经济否则失败。你可以叫它RTS但那会误解这游戏有多慢。一局可能数小时，这让联机问题更糟。"
         },
         {
           "recommendationid": "225631032",
@@ -4915,7 +4979,8 @@
           "written_during_early_access": false,
           "primarily_steam_deck": false,
           "app_release_date": "1487786162",
-          "reactions": []
+          "reactions": [],
+          "zh_review": "终极版引入了导致崩溃的bug！难以置信！"
         },
         {
           "recommendationid": "226436849",
@@ -4956,7 +5021,8 @@
               "reaction_type": 29,
               "count": 1
             }
-          ]
+          ],
+          "zh_review": "我玩了100多小时。很明显他们几年前就停止开发了，只是不断出DLC。连存档退出选项都没有。功能极其匮乏，bug一堆。可悲的迷失工作室。"
         }
       ]
     },
@@ -4964,7 +5030,7 @@
       "slug": "ooblets",
       "steamAppId": 593150,
       "title": "Ooblets",
-      "zhTitle": "舞动的欧布莱特",
+      "zhTitle": "Ooblets",
       "shortDescription": "Ooblets is a relaxing and offbeat farming, town life, and creature collection game. Manage your farm, grow and train your ooblets, explore strange lands, and have dance-offs!",
       "zhShortDescription": "宝可梦+星露谷+舞蹈——收集可爱生物、经营农场。",
       "description": "Ooblets is a relaxing yet deeply-weird farming, creature collection, town life, and dance-battle game with a lot of heart and character. It's a game for people who want something cozy, eccentric, expressive, and full of things to do. Make It Your Own Convert your rundown shack into a cozy homestead, spooky sanctuary, retro-futuristic retreat, or just keep it as a rundown shack. There’s plenty of furniture and decor to collect. For your character, there are a bunch of hairs, hats, clothes, costumes, accessories, and more throughout the game. Grow Your Friends Collect ooblet seeds and grow your own lil followbabies on your farm. Each ooblet has a couple variants to nab, including the lauded and rare GLEAMY type. You can also make non-ooblet friends by talking, gift-giving, quest-fetching, an",
@@ -5028,8 +5094,8 @@
       "metacriticScore": 62,
       "featured": false,
       "guideCount": 0,
-      "metaDescriptionEn": "Ooblets is a relaxing and offbeat farming, town life, and creature collection game. Manage your farm, grow and train your ooblets, explore strange lands, and have dance-offs!",
-      "metaDescriptionZh": "《Ooblets》生物收集攻略 — Ooblet图鉴、舞蹈对战策略、农场经营技巧。",
+      "metaDescriptionEn": "Ooblets review — creature-collecting farming sim. Ooblet collecting, dance battles, farm management.",
+      "metaDescriptionZh": "《Ooblets》Steam 评测与介绍 — 生物收集与农场模拟。Ooblet 图鉴、舞蹈对战、农场经营。",
       "similarGames": [],
       "source": "steam_api",
       "fetchedAt": "2026-06-08T07:18:30.147Z",
@@ -5086,8 +5152,8 @@
       "metacriticScore": 85,
       "featured": false,
       "guideCount": 0,
-      "metaDescriptionEn": "Oxygen Not Included is a space-colony simulation game. Deep inside an alien space rock your industrious crew will need to master science, overcome strange new lifeforms, and harness incredible space tech to survive, and possibly, thrive.",
-      "metaDescriptionZh": "《缺氧》殖民基地攻略 — 氧气循环、温度控制、电力系统、自动化设计。",
+      "metaDescriptionEn": "Oxygen Not Included review — deep colony survival sim. Oxygen loops, temperature control, power grids, automation.",
+      "metaDescriptionZh": "《缺氧》Steam 评测与介绍 — 深度殖民生存模拟。氧气循环、温度控制、电力系统、自动化设计。",
       "similarGames": [],
       "source": "steam_api",
       "fetchedAt": "2026-06-08T07:21:24.678Z",
@@ -5129,7 +5195,8 @@
               "reaction_type": 28,
               "count": 1
             }
-          ]
+          ],
+          "zh_review": "哥们考研上岸了，备考时间才不到800个小时，这破游戏我玩了1800个小时"
         },
         {
           "recommendationid": "225573070",
@@ -5203,7 +5270,8 @@
               "reaction_type": 35,
               "count": 1
             }
-          ]
+          ],
+          "zh_review": "表面可爱放松的卡通画风，实际暗藏热力学博士学位要求。《缺氧》是现代游戏中最伟大的特洛伊木马——表面是可爱殖民模拟，本质是热传导、流体力学和废物管理的博士项目。"
         }
       ]
     },
@@ -5267,8 +5335,8 @@
       "negativeReviews": 2,
       "featured": false,
       "guideCount": 0,
-      "metaDescriptionEn": "Discover a welcoming world in Palia, a free-to-play fantasy life sim adventure where you can craft, explore, and create the life and home of your dreams. With nearly endless ways to make Palia your home, you’ll find relaxation and joy in every corner of this vibrant, heartwarming world.",
-      "metaDescriptionZh": "《帕里亚》新手指南 — 家园建造、技能升级、社区活动参与攻略。",
+      "metaDescriptionEn": "Palia review — cozy free-to-play MMO. Home building, skill progression, community events.",
+      "metaDescriptionZh": "《帕里亚》Steam 评测与介绍 — 治愈系免费 MMO。家园建造、技能升级、社区活动。",
       "similarGames": [],
       "source": "steam_api",
       "fetchedAt": "2026-06-08T07:18:23.459Z",
@@ -5342,7 +5410,8 @@
               "reaction_type": 34,
               "count": 1
             }
-          ]
+          ],
+          "zh_review": "想象一下：肝完所有任务终于获得稀有黑马奖励……然后开发者说'马不错，想骑再交25欧元？'外观商城是一回事，但把玩家通过游戏获得的奖励锁在离谱付费墙后面简直侮辱人。编辑：开发者好像听进去了。"
         },
         {
           "recommendationid": "225443667",
@@ -5374,7 +5443,8 @@
           "written_during_early_access": false,
           "primarily_steam_deck": false,
           "app_release_date": "1711391760",
-          "reactions": []
+          "reactions": [],
+          "zh_review": "感觉复杂。从alpha时期开始玩，最近回来了。魅力十足的美学和呈现，画面简洁，音乐很棒。太多事情可做。很多任务和有趣剧情。但大量信息/任务引导不够，很多事情不清楚。"
         },
         {
           "recommendationid": "225395160",
@@ -5419,7 +5489,8 @@
               "reaction_type": 35,
               "count": 1
             }
-          ]
+          ],
+          "zh_review": "花了很多时间、拉朋友一起玩、参与各种活动——然后地区限制连不上去了。对于一款大谈可能性、耐心、教人交流的游戏，这种决定太虚伪了。极度谴责。"
         },
         {
           "recommendationid": "226093319",
@@ -5456,7 +5527,8 @@
               "reaction_type": 29,
               "count": 3
             }
-          ]
+          ],
+          "zh_review": "对Palia感情复杂。从封闭beta就开始玩了，远超这500小时。曾期待一个休闲MMO能从魔兽世界喘口气。近3年花了大量时间在社区和商城。但内容更新太慢，bug永远修不完。"
         },
         {
           "recommendationid": "225403210",
@@ -5497,7 +5569,8 @@
               "reaction_type": 26,
               "count": 1
             }
-          ]
+          ],
+          "zh_review": "我宁愿他们定个价然后取消微交易。一开始很好玩，但现在每次登录看到可以花钱买的东西就翻白眼。"
         }
       ]
     },
@@ -5577,8 +5650,8 @@
       "negativeReviews": 6909,
       "featured": false,
       "guideCount": 0,
-      "metaDescriptionEn": "Fight, farm, build and work alongside mysterious creatures called &quot;Pals&quot; in this completely new multiplayer, open world survival and crafting game!",
-      "metaDescriptionZh": "《幻兽帕鲁》全帕鲁图鉴 — 帕鲁捕捉、基地建造、繁殖配方完全指南。",
+      "metaDescriptionEn": "Palworld review — monster-taming survival game. Pal collecting, base building, combat, multiplayer mayhem.",
+      "metaDescriptionZh": "《幻兽帕鲁》Steam 评测与介绍 — 怪物收集生存游戏。帕鲁收集、基地建造、战斗、多人联机。",
       "similarGames": [],
       "source": "steam_api",
       "fetchedAt": "2026-06-08T07:22:11.650Z",
@@ -5640,7 +5713,8 @@
               "reaction_type": 24,
               "count": 1
             }
-          ]
+          ],
+          "zh_review": "我和女儿跨平台联机（PC+Xbox），太好玩了。作为家长有些跟她玩的游戏对我不有趣，但这款不是——超好玩。家庭联机游戏第一推荐！"
         },
         {
           "recommendationid": "226299141",
@@ -5702,7 +5776,8 @@
               "reaction_type": 32,
               "count": 1
             }
-          ]
+          ],
+          "zh_review": "和朋友联机玩了幻兽帕鲁之后，终于知道我的世界的伟大之处了。帕鲁既能战斗又能工作，游戏一致性很高。地图设计上犄角旮旯总有奖励。配种也是一种工作，夜行性词条让帕鲁晚上不睡觉继续配种。商人居然也可以抓了带回家。联机进度共享很棒。超级好玩。"
         },
         {
           "recommendationid": "226571648",
@@ -5734,7 +5809,8 @@
           "written_during_early_access": true,
           "primarily_steam_deck": false,
           "app_release_date": "1705651175",
-          "reactions": []
+          "reactions": [],
+          "zh_review": "我攻击了一只鸟，然后游戏变成了黑暗之魂，10/10宝可梦"
         },
         {
           "recommendationid": "226237475",
@@ -5775,7 +5851,8 @@
               "reaction_type": 28,
               "count": 1
             }
-          ]
+          ],
+          "zh_review": "第一次看到帕鲁时为之着迷。但真正上手后发现没那么强。几年后再给一次机会——帕鲁成熟了，更稳定更有内容。现在终于可以推荐帕鲁了。"
         },
         {
           "recommendationid": "225141349",
@@ -5820,7 +5897,8 @@
               "reaction_type": 24,
               "count": 1
             }
-          ]
+          ],
+          "zh_review": "我盗版玩了这个游戏，在自己的世界里独处很久。游戏确实很棒，一个人玩也很享受。非常新手友好。我一定会用这游戏教女朋友入坑……如果我有的话。买正版保护开发者免受任天堂迫害。"
         }
       ]
     },
@@ -5881,8 +5959,8 @@
       "metacriticScore": 76,
       "featured": false,
       "guideCount": 0,
-      "metaDescriptionEn": "Build and customise thrilling roller coasters and incredible water slides, manage the ultimate theme park experience, and share your epic creations. Are you ready to ride the wave? ",
-      "metaDescriptionZh": "《过山车之星2》公园攻略 — 轨道建造技巧、游客满意度、盈利优化。",
+      "metaDescriptionEn": "Planet Coaster 2 review — ultimate theme park builder. Coaster design, guest satisfaction, profit optimization.",
+      "metaDescriptionZh": "《过山车之星2》Steam 评测与介绍 — 终极主题公园建造。轨道设计、游客满意度、盈利优化。",
       "similarGames": [],
       "source": "steam_api",
       "fetchedAt": "2026-06-08T07:22:38.512Z",
@@ -5940,7 +6018,8 @@
               "reaction_type": 27,
               "count": 1
             }
-          ]
+          ],
+          "zh_review": "作为过山车之星的轻度玩家，我玩得不久。我都70多岁了，孙子给我配了台能跑所有过山车游戏的新电脑。从过山车大亨年代一路玩到现在，已经上瘾了。虽然我玩得不太好但一直坚持。强烈推荐给喜欢这类游戏的人——有趣又上瘾。"
         },
         {
           "recommendationid": "225120050",
@@ -5981,7 +6060,8 @@
               "reaction_type": 34,
               "count": 1
             }
-          ]
+          ],
+          "zh_review": "玩了18个月后可以写评价了。游戏本身是顶级建造游戏——你甚至不需要做主题公园，可以建造任何想象的东西。相比一代，能调整大小、把物品附着到过山车上，是改变游戏规则的功能。游泳池和滑水道的加入是另一个加分项。UI有时让人头疼但整体很棒。"
         },
         {
           "recommendationid": "225636296",
@@ -6022,7 +6102,8 @@
               "reaction_type": 28,
               "count": 1
             }
-          ]
+          ],
+          "zh_review": "我真的希望这游戏能好，一直等到能写好评……但我做不到。每次更新都破坏之前能用的功能。然后几天后发个热修复修4-5个问题。之后2-3个月静默。等DLC准备好榨钱时才宣布旧bug的'修复'。首发日bug至今没修。"
         },
         {
           "recommendationid": "225852714",
@@ -6080,7 +6161,8 @@
               "reaction_type": 24,
               "count": 1
             }
-          ]
+          ],
+          "zh_review": "关于过山车之星2我必须老实说：我不太明白为什么非要出第二代。画面确实提升了，不能否认。但对我来说真正的游戏乐趣几乎没有。整个电力、水过滤等管理系统太繁琐了。"
         },
         {
           "recommendationid": "226757970",
@@ -6112,7 +6194,8 @@
           "written_during_early_access": false,
           "primarily_steam_deck": false,
           "app_release_date": "1730905185",
-          "reactions": []
+          "reactions": [],
+          "zh_review": "我真的很不喜欢每个主题没有内置结构建筑——感觉特别懒，好像他们期望你要么自己从头建，要么花好几小时翻工坊。我只想建个大主题公园，不想花几个小时建结构。"
         }
       ]
     },
@@ -6171,8 +6254,8 @@
       "negativeReviews": 8933,
       "featured": false,
       "guideCount": 0,
-      "metaDescriptionEn": "Project Zomboid is the ultimate in zombie survival. Alone or in MP: you loot, build, craft, fight, farm and fish in a struggle to survive. A hardcore RPG skillset, a vast map, massively customisable sandbox and a cute tutorial raccoon await the unwary. So how will you die? All it takes is a bite..",
-      "metaDescriptionZh": "《僵尸毁灭工程》生存攻略 — 基地选址、技能加点、战斗技巧、长期策略。",
+      "metaDescriptionEn": "Project Zomboid review — hardcore zombie survival. Base location, skill progression, combat tactics, long-term strategy.",
+      "metaDescriptionZh": "《僵尸毁灭工程》Steam 评测与介绍 — 硬核僵尸生存模拟。基地选址、技能加点、战斗技巧、长期策略。",
       "similarGames": [],
       "source": "steam_api",
       "fetchedAt": "2026-06-08T07:22:25.078Z",
@@ -6230,7 +6313,8 @@
               "reaction_type": 34,
               "count": 1
             }
-          ]
+          ],
+          "zh_review": "第一次玩→随机出生→杀了几个僵尸→找到一把带3发子弹的枪→杀附近僵尸→3秒内被奔跑僵尸包围→惨死→恼火关游戏10分钟→重新开局→重复类似情况→再次死亡。推荐吗？绝对推荐。"
         },
         {
           "recommendationid": "225446581",
@@ -6275,7 +6359,8 @@
               "reaction_type": 35,
               "count": 1
             }
-          ]
+          ],
+          "zh_review": "玩3天建个抽烟角色→找不到烟开始焦虑→不知道不抽烟也不会死→凌晨跑到妓院找烟→找到烟→40只僵尸破窗而入把你生吞。神作。"
         },
         {
           "recommendationid": "225212625",
@@ -6312,7 +6397,8 @@
               "reaction_type": 24,
               "count": 2
             }
-          ]
+          ],
+          "zh_review": "男人的模拟人生，就算在沙盒设置里关掉僵尸也很有趣。"
         },
         {
           "recommendationid": "225269695",
@@ -6357,7 +6443,8 @@
               "reaction_type": 30,
               "count": 1
             }
-          ]
+          ],
+          "zh_review": "这款游戏可能是一个人唯一能逃离的地方。与一切隔绝、完全独处的世界。我正在经历人生最艰难的时期，这个游戏是我唯一能独处的空间。打开喜欢的音乐、建基地、升级、出去搜刮物资、做长远规划、看着进展获得满足感。偶尔狩猎钓鱼做手工。有太多事可以做。"
         },
         {
           "recommendationid": "225952432",
@@ -6414,7 +6501,8 @@
               "reaction_type": 32,
               "count": 1
             }
-          ]
+          ],
+          "zh_review": "醒来，看了本漫画，做了健身，看电视，喝醉了，揍了一个老太太，然后我玩了僵尸毁灭工程——太棒了"
         }
       ]
     },
@@ -6472,8 +6560,8 @@
       "metacriticScore": 87,
       "featured": false,
       "guideCount": 0,
-      "metaDescriptionEn": "A sci-fi colony sim driven by an intelligent AI storyteller. Generates stories by simulating psychology, ecology, gunplay, melee combat, climate, biomes, diplomacy, interpersonal relationships, art, medicine, trade, and more.",
-      "metaDescriptionZh": "《边缘世界》殖民管理攻略 — 杀阵设计、心情优化、殖民地布局指南。",
+      "metaDescriptionEn": "RimWorld review — story-generating colony sim. Colony layout, mood optimization, defense design, modding.",
+      "metaDescriptionZh": "《边缘世界》Steam 评测与介绍 — 故事生成器殖民模拟。殖民地布局、心情优化、防御设计、海量 MOD。",
       "similarGames": [],
       "source": "steam_api",
       "fetchedAt": "2026-06-08T07:21:18.010Z",
@@ -6630,7 +6718,8 @@
               "reaction_type": 35,
               "count": 1
             }
-          ]
+          ],
+          "zh_review": "17000+小时的游戏时长说明一切。惊人的游戏设计。无限重玩性和无尽的mod，这是我史上最爱的游戏。"
         },
         {
           "recommendationid": "226552283",
@@ -6736,7 +6825,8 @@
               "reaction_type": 27,
               "count": 1
             }
-          ]
+          ],
+          "zh_review": "决定开一个正常和平档。1小时后我在向商队倒卖器官。11/10"
         }
       ]
     },
@@ -6744,7 +6834,7 @@
       "slug": "roots-of-pacha",
       "steamAppId": 1245560,
       "title": "Roots of Pacha",
-      "zhTitle": "帕查之根",
+      "zhTitle": "Roots of Pacha",
       "shortDescription": "The charming and relaxing stone-age farming sim where you live in a thriving community exploring the wonderful world of Pacha. Discover &quot;ideas,&quot; domesticate crops, befriend animals, and help your village grow. Play co-op with friends or explore the early days of civilization in single-player.",
       "zhShortDescription": "石器时代农场模拟——驯化第一批作物、发明第一批工具。",
       "description": "Fall in love with Roots of Pacha, where every moment is a pleasant surprise! Roots of Pacha offers a relaxed and fresh take on the classic farming sim genre. Set in an ancient era, you’ll gather, farm, and explore the enchanting world of Pacha. Befriend animals, craft tools, and customize your character, home, and farm. Expand your village while forging deep community bonds. Thrive and evolve together with your clan through the seasons, and shape your own story at a calm and peaceful pace. Meet your Clan, delve into the biomes, and discover charming surprises wherever you go. From new flora and fauna to mini-games and cave mysteries. Unearth a long-forgotten world. ‎‎‎‏‏‎ Manage crops, gather resources, fish, and discover ways to process and preserve food. Domesticate and breed animals eit",
@@ -6808,8 +6898,8 @@
       "negativeReviews": 129,
       "featured": false,
       "guideCount": 0,
-      "metaDescriptionEn": "The charming and relaxing stone-age farming sim where you live in a thriving community exploring the wonderful world of Pacha. Discover &quot;ideas,&quot; domesticate crops, befriend animals, and help your village grow. Play co-op with friends or explore the early days of civilization in single-player.",
-      "metaDescriptionZh": "《帕查之根》石器农场攻略 — 作物驯化、工具发明、部落发展指南。",
+      "metaDescriptionEn": "Roots of Pacha review — Stone Age farming sim. Crop domestication, tool invention, clan development.",
+      "metaDescriptionZh": "《Roots of Pacha》Steam 评测与介绍 — 石器时代农场模拟。作物驯化、工具发明、部落发展。",
       "similarGames": [],
       "source": "steam_api",
       "fetchedAt": "2026-06-08T07:17:43.239Z",
@@ -6883,7 +6973,8 @@
               "reaction_type": 26,
               "count": 1
             }
-          ]
+          ],
+          "zh_review": "简而言之：裹着石器时代外衣的普通农场模拟，后期犯了中年危机。因为这个概念入手——旧石器幻想一直让我着迷。你必须自己摸索驯化动物、种植作物、水车、工具制作，往往有一个漫长到令人沮丧的过程，我很喜欢。但对结局的处理不如开头那么令人满意。"
         },
         {
           "recommendationid": "225682588",
@@ -6924,7 +7015,8 @@
               "reaction_type": 31,
               "count": 1
             }
-          ]
+          ],
+          "zh_review": "这可能是我玩过的唯一有作物驯化系统的农场模拟！有很多独特功能我很喜欢，比如坐骑系统。小抱怨：深肤色角色肤色太灰白/不饱和，请加点颜色！深肤色NPC几乎总是直发，希望能看到更多非洲纹理发型。"
         }
       ]
     },
@@ -6990,8 +7082,8 @@
       "metacriticScore": 91,
       "featured": false,
       "guideCount": 0,
-      "metaDescriptionEn": "Satisfactory is a first-person open-world factory building game with a dash of exploration and combat. Play alone or with friends, explore an alien planet, create multi-story factories, and enter conveyor belt heaven!",
-      "metaDescriptionZh": "《幸福工厂》工厂布局攻略 — 传送带设计、生产线规划、资源节点地图。",
+      "metaDescriptionEn": "Satisfactory review — 3D factory building game. Conveyor design, production planning, resource node mapping.",
+      "metaDescriptionZh": "《幸福工厂》Steam 评测与介绍 — 3D 工厂建造游戏。传送带设计、生产线规划、资源节点地图。",
       "similarGames": [],
       "source": "steam_api",
       "fetchedAt": "2026-06-08T07:21:38.028Z",
@@ -7045,7 +7137,8 @@
               "reaction_type": 31,
               "count": 1
             }
-          ]
+          ],
+          "zh_review": "别玩这个游戏。它会吃掉你所有空闲时间。你离开时会想怎么扩建工厂。做梦时你梦到工厂。工厂必须增长，为了拯救所有小猫小狗。"
         },
         {
           "recommendationid": "225228067",
@@ -7087,7 +7180,8 @@
               "reaction_type": 35,
               "count": 2
             }
-          ]
+          ],
+          "zh_review": "我喜欢这游戏大部分时候很放松，但想高效建造还是要动5%的脑子。我花了100多小时完成所有等级和太空电梯目标。我喜欢没有真正的任务，只有制造和发现。游戏直接把你丢在星球上说'去吧！'有自由决定怎么做。非常有趣。"
         },
         {
           "recommendationid": "225894782",
@@ -7132,7 +7226,8 @@
               "reaction_type": 29,
               "count": 1
             }
-          ]
+          ],
+          "zh_review": "游戏还行。别在意时长。说真的我爱这个游戏是我的内疚快乐。加上Epic版从U3开始应该接近2500小时了。"
         },
         {
           "recommendationid": "225574035",
@@ -7213,7 +7308,8 @@
               "reaction_type": 29,
               "count": 1
             }
-          ]
+          ],
+          "zh_review": "看着不能亲的嘴唇不如意识到一运行这游戏你就会变成工程师、数学教授、腰疼患者、没有社交生活，你女朋友/老婆大概会离开你那么痛苦。"
         }
       ]
     },
@@ -7221,7 +7317,7 @@
       "slug": "settlement-rising",
       "steamAppId": 2378910,
       "title": "Settlements Rising",
-      "zhTitle": "定居点崛起",
+      "zhTitle": "Settlements Rising",
       "shortDescription": "Settlements Rising is a medieval city building and colony management game. It offers a lively colony experience with simulated villagers, dozens of professions and resources, natural disasters, and raids, while providing full control over the colony through trade, production chains and datas.",
       "zhShortDescription": "中世纪城市建造与殖民模拟，管理供应链、发展贸易。",
       "description": "Settlements Rising is a city-building and colony management simulation game set in medieval times. The game offers extensive depth with dozens of professions and resources available to the player. Each profession features villagers with their own animations and work cycles, creating a living colony experience in the game. It allows for micromanagement through trade, limited resources, production chains, and production data. Villagers have their own life cycles. They can work in over 35 different professions. Each villager has needs for hunger, energy, health, and warmth. When they're hungry, they eat, and when their inventory runs out of food, they purchase more. When their energy depletes while working or during cold weather, they return home to rest. They are born, grow, receive educatio",
@@ -7282,8 +7378,8 @@
       "negativeReviews": 36,
       "featured": false,
       "guideCount": 0,
-      "metaDescriptionEn": "Settlements Rising is a medieval city building and colony management game. It offers a lively colony experience with simulated villagers, dozens of professions and resources, natural disasters, and raids, while providing full control over the colony through trade, production chains and datas.",
-      "metaDescriptionZh": "《定居点崛起》城市建造攻略 — 供应链管理、贸易路线、防御策略。",
+      "metaDescriptionEn": "Settlements Rising review — medieval city-builder. Supply chain management, trade routes, defensive strategy.",
+      "metaDescriptionZh": "《Settlements Rising》Steam 评测与介绍 — 中世纪城市建造。供应链管理、贸易路线、防御策略。",
       "similarGames": [],
       "source": "steam_api",
       "fetchedAt": "2026-06-08T07:20:51.108Z",
@@ -7350,8 +7446,8 @@
       "negativeReviews": 1355,
       "featured": false,
       "guideCount": 0,
-      "metaDescriptionEn": "Continue the adventures of Beatrix LeBeau as she journeys across the Slime Sea to Rainbow Island, a land brimming with ancient mysteries, and bursting with wiggly, new slimes to wrangle in this sequel to the smash-hit, Slime Rancher.",
-      "metaDescriptionZh": "《史莱姆牧场2》新手指南 — 彩虹岛探索、新史莱姆图鉴、牧场扩建攻略。",
+      "metaDescriptionEn": "Slime Rancher 2 review — Rainbow Island slime farming. New slimes, ranch expansion, exploration.",
+      "metaDescriptionZh": "《史莱姆牧场2》Steam 评测与介绍 — 彩虹岛史莱姆农场。新史莱姆图鉴、牧场扩建、岛屿探索。",
       "similarGames": [],
       "source": "steam_api",
       "fetchedAt": "2026-06-08T07:18:43.529Z",
@@ -7397,7 +7493,8 @@
               "reaction_type": 32,
               "count": 2
             }
-          ]
+          ],
+          "zh_review": "更大但不是更好。我讨厌写差评但跟一代比太令人失望了。一代是探索和建造，二代变成枯燥刷资源。探索在拿到几个升级前都很痛苦。牧场扩张太多导致管理变成苦差事。前三个区域画面漂亮但千篇一律。"
         },
         {
           "recommendationid": "226125722",
@@ -7462,7 +7559,8 @@
           "written_during_early_access": false,
           "primarily_steam_deck": true,
           "app_release_date": "1663866009",
-          "reactions": []
+          "reactions": [],
+          "zh_review": "终于100%完成了。总体体验非常正面，我爱这个系列。画面绝对惊艳，第一次探索每个区域都充满乐趣。天气是很好的新功能。但终局内容需要更多打磨。有些QoL问题拖了后腿。"
         }
       ]
     },
@@ -7529,8 +7627,8 @@
       "metacriticScore": 81,
       "featured": false,
       "guideCount": 0,
-      "metaDescriptionEn": "Slime Rancher is the tale of Beatrix LeBeau, a plucky, young rancher who sets out for a life a thousand light years away from Earth on the ‘Far, Far Range’ where she tries her hand at making a living wrangling slimes.",
-      "metaDescriptionZh": "《史莱姆牧场》牧场攻略 — 史莱姆图鉴、围栏设计、探索路线、赚钱技巧。",
+      "metaDescriptionEn": "Slime Rancher review — classic slime farming sim. Slime types, corral design, exploration routes, profit tips.",
+      "metaDescriptionZh": "《史莱姆牧场》Steam 评测与介绍 — 经典史莱姆农场模拟。史莱姆图鉴、围栏设计、探索路线、赚钱技巧。",
       "similarGames": [],
       "reviewScore": 9,
       "reviewDesc": "Overwhelmingly Positive",
@@ -7565,7 +7663,8 @@
           "written_during_early_access": false,
           "primarily_steam_deck": false,
           "app_release_date": "1501603265",
-          "reactions": []
+          "reactions": [],
+          "zh_review": "游戏超赞，史莱姆太可爱了。小时候玩盗版，终于买了正版。在困难时刻帮助分散注意力，非常有趣。"
         },
         {
           "recommendationid": "225685607",
@@ -7605,7 +7704,7 @@
       "slug": "solarpunk",
       "steamAppId": 1805110,
       "title": "Solarpunk™",
-      "zhTitle": "太阳朋克",
+      "zhTitle": "太阳朋克：浮岛家园",
       "shortDescription": "Solarpunk is a survival game in a technically advanced world of floating islands. Alone or together with your friends, you can construct buildings, grow food, craft gadgets and hop on your airship to explore distant islands in the sky.",
       "zhShortDescription": "漂浮岛屿上的太阳能朋克生存——建造飞艇农场、自动化生产。",
       "description": "Solarpunk is a survival game in a technically advanced world of floating islands. Alone or together with your friends, you can construct buildings, grow food, craft gadgets and explore distant islands with your own airship. Use sunlight, wind and water to create an energy system and automate your processes like gathering resources and watering your plants. 🏠 Build freely Design your dream home base with a wide range of materials and decorations. You’re free to build cozy spaces, add tiny details, and make your island feel just like home. These buildings were crafted by our amazing community in the demo! ⚡ Energy system Generate electricity using wind and solar energy. Weather conditions affect how much energy you produce, so you’ll need to plan ahead. Store energy in batteries and use wir",
@@ -7659,8 +7758,8 @@
       "negativeReviews": 0,
       "featured": false,
       "guideCount": 0,
-      "metaDescriptionEn": "Solarpunk is a survival game in a technically advanced world of floating islands. Alone or together with your friends, you can construct buildings, grow food, craft gadgets and hop on your airship to explore distant islands in the sky.",
-      "metaDescriptionZh": "《太阳朋克》天空生存攻略 — 飞艇建造、太阳能管理、自动化农场设计。",
+      "metaDescriptionEn": "Solarpunk review — sky-island survival game. Airship building, solar power management, automated farming.",
+      "metaDescriptionZh": "《太阳朋克：浮岛家园》Steam 评测与介绍 — 天空岛屿生存游戏。飞艇建造、太阳能管理、自动化农场。",
       "similarGames": [],
       "source": "steam_api",
       "fetchedAt": "2026-06-08T07:18:50.204Z",
@@ -7672,7 +7771,7 @@
       "slug": "song-of-syx",
       "steamAppId": 1162750,
       "title": "Songs of Syx",
-      "zhTitle": "塞克斯之歌",
+      "zhTitle": "希克斯之歌",
       "shortDescription": "Songs of Syx is a fantasy city-builder with vast battles simulating thousands of citizens and soldiers. Start off as a small village and build, scheme, and fight your way towards a mighty empire. The mechanics are deep and true to life, where tiny events can spiral into the collapse of kingdoms. ",
       "zhShortDescription": "史诗级城市建造与大规模战斗——从几十人到数万人。",
       "description": "Songs of Syx is in Early Access. We recommend reading the EA clause carefully and playing the demo before purchasing. Songs of Syx is a low fantasy city-builder with vast real-time battles simulating tens of thousands of citizens and soldiers. Start off as an insignificant village and build, scheme, and fight your way towards a mighty city state and empire. The mechanics are deep and true to life, where small events can spiral into the collapse of kingdoms. Full of different races, cultures, old and new gods and strange creatures - everything in Songs of Syx is connected. Night turns to day, climate and weather change, and migrations of animals and people flow. Droughts and pestilence, raiders, traders and bandits, and new discoveries will ensure kingdoms and empires come and go with or wi",
@@ -7731,8 +7830,8 @@
       "negativeReviews": 276,
       "featured": false,
       "guideCount": 0,
-      "metaDescriptionEn": "Songs of Syx is a fantasy city-builder with vast battles simulating thousands of citizens and soldiers. Start off as a small village and build, scheme, and fight your way towards a mighty empire. The mechanics are deep and true to life, where tiny events can spiral into the collapse of kingdoms. ",
-      "metaDescriptionZh": "《塞克斯之歌》帝国攻略 — 经济管理、军事策略、人口增长、城市建设。",
+      "metaDescriptionEn": "Songs of Syx review — grand-scale city-builder and empire sim. Economy, military, population, city design.",
+      "metaDescriptionZh": "《希克斯之歌》Steam 评测与介绍 — 大规模帝国模拟。经济管理、军事策略、人口增长、城市建设。",
       "similarGames": [],
       "source": "steam_api",
       "fetchedAt": "2026-06-08T07:21:51.392Z",
@@ -7806,7 +7905,8 @@
               "reaction_type": 26,
               "count": 1
             }
-          ]
+          ],
+          "zh_review": "毫无疑问是我玩过的最伟大的城市建造/殖民模拟游戏。一开始看起来难但搞清楚后非常有成就感。有所有其他同类游戏缺乏的细节水平。还有全战风格战斗简直是额外福利。有史以来最喜欢的游戏之一。"
         },
         {
           "recommendationid": "226405846",
@@ -7838,7 +7938,8 @@
           "written_during_early_access": true,
           "primarily_steam_deck": false,
           "app_release_date": "1600704159",
-          "reactions": []
+          "reactions": [],
+          "zh_review": "这款游戏是真家伙。比最远的边陲更复杂，比矮人要塞更易上手，比边缘世界更不繁琐。轻松10/10。"
         },
         {
           "recommendationid": "226730440",
@@ -7870,7 +7971,8 @@
           "written_during_early_access": true,
           "primarily_steam_deck": false,
           "app_release_date": "1600704159",
-          "reactions": []
+          "reactions": [],
+          "zh_review": "在建筑完工前能配置设置之前评价保持差评。这是非常基础的功能缺失。我的仓库经常空好几年就因为没盯着它盖好去设存储内容。浪费了所有皮革因为不能在裁缝铺建完之前设定配方。"
         },
         {
           "recommendationid": "225930692",
@@ -7902,7 +8004,8 @@
           "written_during_early_access": true,
           "primarily_steam_deck": false,
           "app_release_date": "1600704159",
-          "reactions": []
+          "reactions": [],
+          "zh_review": "改成让掠夺者可以用投石机炸穿实心山体？防御工事强度减半？所以在这个关于建造防御城市的游戏里防御工事不再重要了？从8/10掉到0/10。完全无法理解这种疯狂。"
         }
       ]
     },
@@ -7910,7 +8013,7 @@
       "slug": "space-haven",
       "steamAppId": 979110,
       "title": "Space Haven",
-      "zhTitle": "太空避难所",
+      "zhTitle": "Space Haven",
       "shortDescription": "Embark on a space voyage with your ragtag crew of civilians in search of a new home. Build spaceships tile by tile, create optimal gas conditions, manage the needs and moods of their crew, encounter other space-faring groups, and explore the universe in this spaceship colony simulation.",
       "zhShortDescription": "设计并管理你的星际飞船——在宇宙中探索、交易、生存。",
       "description": "Embark on a space voyage with your ragtag crew of civilians in search of a new home. Build spaceships tile by tile, create optimal gas conditions, manage the needs and moods of their crew, encounter other space-faring groups, and explore the universe in this spaceship colony sim. Customize - Complete freedom to build a spaceship or station of your own desire. Place every piece of ship hull, wall, door and facility wherever you want. Functional - All facilities serve a purpose. Crew members will sleep in beds, use toilets, be disturbed by a noisy room and praise you for an arcade machine. A functional spaceship can be built tile-by tile , giving you the opportunity to shape a spaceship of your own desire . It can be symmetric and streamlined, or an asymmetrical whimsical looking thing. It d",
@@ -7964,8 +8067,8 @@
       "metacriticScore": 85,
       "featured": false,
       "guideCount": 0,
-      "metaDescriptionEn": "Embark on a space voyage with your ragtag crew of civilians in search of a new home. Build spaceships tile by tile, create optimal gas conditions, manage the needs and moods of their crew, encounter other space-faring groups, and explore the universe in this spaceship colony simulation.",
-      "metaDescriptionZh": "《太空避难所》飞船攻略 — 船舱布局、船员管理、资源循环、太空探索。",
+      "metaDescriptionEn": "Space Haven review — spaceship colony sim. Ship layout, crew management, resource loops, space exploration.",
+      "metaDescriptionZh": "《Space Haven》Steam 评测与介绍 — 太空飞船殖民模拟。船舱布局、船员管理、资源循环、太空探索。",
       "similarGames": [],
       "source": "steam_api",
       "fetchedAt": "2026-06-08T07:21:44.715Z",
@@ -8035,7 +8138,8 @@
               "reaction_type": 28,
               "count": 1
             }
-          ]
+          ],
+          "zh_review": "这就是我等了三年的正式版吗？2023年EA玩过。从那时起到现在游戏一丁点都没变。最大的区别是撤离舰队——有趣的转折但任务很快变得千篇一律。"
         },
         {
           "recommendationid": "225549165",
@@ -8133,7 +8237,8 @@
               "reaction_type": 27,
               "count": 1
             }
-          ]
+          ],
+          "zh_review": "我跟这游戏很久了感情复杂。爱造飞船，系统引人入胜。但过段时间发现为满足需求飞船得做成盒子形。想做成传统形状就装不下所有东西。"
         },
         {
           "recommendationid": "225662878",
@@ -8194,7 +8299,8 @@
               "reaction_type": 31,
               "count": 1
             }
-          ]
+          ],
+          "zh_review": "第一局：慢慢学机制→建飞船→欣赏布局→意识到忽略了电力和食物→出去找资源→找到一些但不够→飞船解体没材料修→意识到这局可能完了→友好民用船进星系→他们让我登船因为我帮过他们→他们有食物和电力棒→他们在卖食物和电力棒→我没有钱→开始紧急种菜→菜还没熟→船炸了→10/10。"
         },
         {
           "recommendationid": "225433798",
@@ -8235,7 +8341,8 @@
               "reaction_type": 35,
               "count": 1
             }
-          ]
+          ],
+          "zh_review": "宝藏游戏。每一分钱都值。在太空里管理空间。'我就小玩一会，只移动这三块墙板一格…'然后一眨眼4小时过去了。"
         },
         {
           "recommendationid": "225517990",
@@ -8284,7 +8391,8 @@
               "reaction_type": 29,
               "count": 1
             }
-          ]
+          ],
+          "zh_review": "伟大的殖民地飞船游戏。如果你喜欢边缘世界或任何自闭症殖民地模拟游戏，你会喜欢的。"
         }
       ]
     },
@@ -8349,8 +8457,8 @@
       "metacriticScore": 89,
       "featured": false,
       "guideCount": 0,
-      "metaDescriptionEn": "You've inherited your grandfather's old farm plot in Stardew Valley. Armed with hand-me-down tools and a few coins, you set out to begin your new life. Can you learn to live off the land and turn these overgrown fields into a thriving home?",
-      "metaDescriptionZh": "《星露谷物语》全方位攻略 — 农耕布局、NPC好感度、矿洞探索、社区中心收集包。",
+      "metaDescriptionEn": "Stardew Valley review — the farming sim that defined a genre. Farm layout, NPCs, mines, Community Center bundles.",
+      "metaDescriptionZh": "《星露谷物语》Steam 评测与介绍 — 定义了整个类型的农场模拟。农耕布局、NPC 好感度、矿洞探索、社区中心。",
       "similarGames": [],
       "source": "steam_api",
       "fetchedAt": "2026-06-08T07:13:45.477Z",
@@ -8514,7 +8622,8 @@
               "reaction_type": 25,
               "count": 2
             }
-          ]
+          ],
+          "zh_review": "这个游戏治愈了我的内心，让我摆脱了焦虑，拥抱了我——没有任何游戏或人做到过。这是Steam上最好的游戏，也是我人生中最好的游戏。"
         },
         {
           "recommendationid": "225800240",
@@ -8567,7 +8676,8 @@
               "reaction_type": 29,
               "count": 1
             }
-          ]
+          ],
+          "zh_review": "随便买的星露谷，结果凌晨4点还在跟人讨论土豆收成。一开始想'农场而已'，然后：睡眠时间像拖拉机司机、对草莓收成产生情感依赖、花40分钟选墙纸、真心为虚拟母鸡下了大蛋而高兴。10/10。"
         },
         {
           "recommendationid": "225135497",
@@ -8671,8 +8781,8 @@
       "metacriticScore": 78,
       "featured": false,
       "guideCount": 0,
-      "metaDescriptionEn": "Explore a galaxy full of wonders in this sci-fi grand strategy game from Paradox Development Studios. Interact with diverse alien races, discover strange new worlds with unexpected events and expand the reach of your empire. Each new adventure holds almost limitless possibilities.",
-      "metaDescriptionZh": "《群星》帝国攻略 — 种族特性搭配、科技路线、舰队配置、外交策略。",
+      "metaDescriptionEn": "Stellaris review — grand space strategy game. Empire traits, tech paths, fleet design, diplomacy, crises.",
+      "metaDescriptionZh": "《群星》Steam 评测与介绍 — 太空大战略游戏。帝国特性搭配、科技路线、舰队配置、外交策略。",
       "similarGames": [],
       "source": "steam_api",
       "fetchedAt": "2026-06-08T07:22:04.923Z",
@@ -8722,7 +8832,8 @@
               "reaction_type": 32,
               "count": 1
             }
-          ]
+          ],
+          "zh_review": "我曾经爱这款游戏，度过了无数本该学习却跟朋友统治星系的夜晚。但我厌倦了每次休息回来都得重新学游戏——大概每个月就重做一次机制。很少改动真的改进了游戏。DLC太疯狂了，大部分应该免费整合进本体。用户数据收集和卖给第三方实在不齿。"
         },
         {
           "recommendationid": "225151641",
@@ -8789,7 +8900,8 @@
               "reaction_type": 35,
               "count": 1
             }
-          ]
+          ],
+          "zh_review": "游戏目前全部评价非常好评，近期褒贬不一。游戏好→更新→造成大量卡顿和bug→粉丝合理不满→褒贬不一。不过他们一直在解决问题。群星刚过10周年，有持续免费更新。虽然制作组并非无可批评，但游戏质量仍然非常高。"
         },
         {
           "recommendationid": "225477477",
@@ -8838,7 +8950,8 @@
               "reaction_type": 32,
               "count": 1
             }
-          ]
+          ],
+          "zh_review": "像所有P社游戏一样，这是卖DLC的骗局。本体是空心壳。付了1个月全DLC订阅，可以告诉你没有一个值得你的钱。每个DLC几乎什么都没卖。只是10年臃肿开发中看起来内容很多。"
         },
         {
           "recommendationid": "225315649",
@@ -8936,7 +9049,7 @@
       "slug": "sun-haven",
       "steamAppId": 1432860,
       "title": "Sun Haven",
-      "zhTitle": "太阳天堂",
+      "zhTitle": "Sun Haven",
       "shortDescription": "Build your farm and relationships with townsfolk, or forge ahead on a quest of magic, monsters, and dragons. Level up through a skill tree in 8 person multiplayer, or adventure solo!",
       "zhShortDescription": "幻想RPG农场模拟——三座城市、多种种族、魔法耕作。",
       "description": "A fantasy farming sim with an RPG twist like you’ve never experienced! Immerse yourself in over 30,000 lines of dialogue, romance any (or all…) 23 characters, embark on side quests, interact with hundreds of unique NPCs, solve riddles, and discover secrets all around you in this lore-rich, story-driven world. Your actions may shape your journey, but your choices will determine your legacy. Where will your adventure take you? Sun Haven, a farming sim with no stamina bar! Every Sun Haven playthrough is fully customizable with tons of in-game settings. Adjust the length of each day to be faster or shorter, make yourself invincible to damage, turn off seasonal pests that eat your crops, toggle weather effects on and off, or just enjoy the vanilla game with default settings! Transform your run-",
@@ -9005,8 +9118,8 @@
       "negativeReviews": 2085,
       "featured": false,
       "guideCount": 0,
-      "metaDescriptionEn": "Build your farm and relationships with townsfolk, or forge ahead on a quest of magic, monsters, and dragons. Level up through a skill tree in 8 person multiplayer, or adventure solo!",
-      "metaDescriptionZh": "《太阳天堂》全种族农场攻略 — 三城市开荒、魔法技能、战斗技巧、NPC好感度。",
+      "metaDescriptionEn": "Sun Haven review — fantasy farming sim with RPG elements. Three cities, magic skills, combat, NPC romance.",
+      "metaDescriptionZh": "《Sun Haven》Steam 评测与介绍 — 奇幻农场 RPG。三城市开荒、魔法技能、战斗、NPC 恋爱。",
       "similarGames": [],
       "source": "steam_api",
       "fetchedAt": "2026-06-08T07:17:50.010Z",
@@ -9052,7 +9165,8 @@
               "reaction_type": 29,
               "count": 2
             }
-          ]
+          ],
+          "zh_review": "我想爱这个游戏……Bug Haven不值得你的钱。公司被告是有原因的。联机有50%几率连上。最常见bug：角色永久冻结、存档消失、农场随机删除、动物消失、持续崩溃和断开。好几年了都这样，开发者无视联机bug反馈。单人好一点但bug也够多了。"
         },
         {
           "recommendationid": "225079193",
@@ -9084,7 +9198,8 @@
           "written_during_early_access": false,
           "primarily_steam_deck": false,
           "app_release_date": "1624656273",
-          "reactions": []
+          "reactions": [],
+          "zh_review": "不知道开发者的情况，据其他评价说他们不给美术署名还低薪——太可惜了因为游戏很棒美术也很好！像星露谷但简单得多，取消了体力系统。有种族和职业系统非常酷！我推荐这款游戏。"
         }
       ]
     },
@@ -9092,7 +9207,7 @@
       "slug": "the-wandering-village",
       "steamAppId": 1121640,
       "title": "The Wandering Village",
-      "zhTitle": "流浪村庄",
+      "zhTitle": "漂泊牧歌",
       "shortDescription": "The Wandering Village is a city-building simulation game on the back of a giant, wandering creature. Build your settlement and form a symbiotic relationship with the colossus. Will you survive together in this hostile, yet beautiful post-apocalyptic world, contaminated by poisonous plants?",
       "zhShortDescription": "建造在巨兽背上的村庄——管理资源、与巨兽共生。",
       "description": "In a world where mysterious plants are spreading all over the earth, emitting toxic spores as they grow, a small group of survivors seeks shelter on the back of a giant, wandering creature they call 'Onbu'. Become their leader, build their settlement and form a symbiotic relationship with Onbu to survive together in this hostile, yet beautiful post-apocalyptic world. Build your village A functioning village is the basis of your survival. Build your settlement and expand it over Onbu’s back. Plan production chains and optimise them to utilise the limited space as efficiently as possible. Create a society that can overcome any challenge. Live on the creature’s back Living on the back of another organism comes with its own set of challenges. Will you live in symbiosis, bond with Onbu and surv",
@@ -9141,8 +9256,8 @@
       "negativeReviews": 295,
       "featured": false,
       "guideCount": 0,
-      "metaDescriptionEn": "The Wandering Village is a city-building simulation game on the back of a giant, wandering creature. Build your settlement and form a symbiotic relationship with the colossus. Will you survive together in this hostile, yet beautiful post-apocalyptic world, contaminated by poisonous plants?",
-      "metaDescriptionZh": "《流浪村庄》巨兽背上建造攻略 — 资源管理、翁布共生系统、生物群落策略。",
+      "metaDescriptionEn": "The Wandering Village review — city-builder on a giant creature. Resource management, Onbu symbiosis, biome strategy.",
+      "metaDescriptionZh": "《漂泊牧歌》Steam 评测与介绍 — 巨兽背上建造城市。资源管理、翁布共生系统、生物群落策略。",
       "similarGames": [],
       "source": "steam_api",
       "fetchedAt": "2026-06-08T07:20:57.837Z",
@@ -9184,7 +9299,8 @@
               "reaction_type": 26,
               "count": 6
             }
-          ]
+          ],
+          "zh_review": "✅ 非常有创意的理念 ✅ 出色的配乐。❌ 亲翁布的选择没有意义 ❌ 不能旋转建筑（开发者拒绝了因为'工作量太大'）❌ 打完一周目17小时后不想再玩了。"
         }
       ]
     },
@@ -9192,7 +9308,7 @@
       "slug": "timberborn",
       "steamAppId": 1062090,
       "title": "Timberborn",
-      "zhTitle": "海狸建造者",
+      "zhTitle": "海狸浮生记",
       "shortDescription": "Humans are long gone. In a world struck by droughts and toxic waste, will your lumberpunk beavers do any better? A sandbox city-building game featuring ingenious animals, vertical architecture, water physics, and terraforming. Contains high amounts of wood.",
       "zhShortDescription": "人类灭绝后由海狸重建文明——建造水坝、管理水源。",
       "description": "Mankind turned Earth into a dry wasteland and perished, but some species adapted and evolved. Pick one of the beaver factions and see how long your colony can last. Beaver societies Control one of two beaver factions: the nature-friendly Folktails or the industrious Iron Teeth. Each faction has unique buildings, technology, and gameplay traits. Choose what fits your playstyle! Wet, dry, and toxic seasons Prepare your settlement for recurring droughts and waves of toxic waste. Stockpile food and keep fields and forests alive even after rivers dry up. Rely on both natural water sources and artificial irrigation to keep the land arable and your beavers safe. Water physics and terraforming Beavers’ engineering skills are legendary. With Timberborn’s 3D water physics and terraforming, so can be",
@@ -9248,8 +9364,8 @@
       "metacriticScore": 85,
       "featured": false,
       "guideCount": 0,
-      "metaDescriptionEn": "Humans are long gone. In a world struck by droughts and toxic waste, will your lumberpunk beavers do any better? A sandbox city-building game featuring ingenious animals, vertical architecture, water physics, and terraforming. Contains high amounts of wood.",
-      "metaDescriptionZh": "《海狸建造者》水利工程攻略 — 水坝设计、旱季生存、垂直城市、两派系差异。",
+      "metaDescriptionEn": "Timberborn review — beaver city-builder with water physics. Dam design, drought survival, vertical cities, two factions.",
+      "metaDescriptionZh": "《海狸浮生记》Steam 评测与介绍 — 海狸城市建造与水利工程。水坝设计、旱季生存、垂直城市、两派系差异。",
       "similarGames": [],
       "source": "steam_api",
       "fetchedAt": "2026-06-08T07:17:36.580Z",
@@ -9377,8 +9493,8 @@
       "negativeReviews": 350,
       "featured": false,
       "guideCount": 0,
-      "metaDescriptionEn": "Tiny Glade is a small diorama builder where you doodle whimsical castles, cozy cottages &amp; romantic ruins. Explore gridless building chemistry as the game adorns your glades with procedural detail. No management, combat or goals: just kick back and turn forgotten meadows into lovable dioramas.",
-      "metaDescriptionZh": "《微光幽谷》建造创意指南 — 城堡设计、路径规划、景观美化技巧。",
+      "metaDescriptionEn": "Tiny Glade review — relaxing diorama builder. No goals, no stress — just build beautiful castles and cottages.",
+      "metaDescriptionZh": "《Tiny Glade》Steam 评测与介绍 — 治愈系微缩景观建造。无目标无压力——纯粹的城堡与村舍建造。",
       "similarGames": [],
       "source": "steam_api",
       "fetchedAt": "2026-06-08T07:19:37.031Z",
@@ -9415,7 +9531,8 @@
           "written_during_early_access": false,
           "primarily_steam_deck": false,
           "app_release_date": "1727106693",
-          "reactions": []
+          "reactions": [],
+          "zh_review": "几乎是我理想的休闲游戏。唯一能让它完美的是更多变种：超过两种花、自定义建筑形状和材料、水和凸起地形结合造瀑布。操作不够直观还在适应。但这是我找了好几年的一款游戏，强烈推荐。"
         },
         {
           "recommendationid": "226263246",
@@ -9452,7 +9569,8 @@
               "reaction_type": 31,
               "count": 1
             }
-          ]
+          ],
+          "zh_review": "第一款不紧张、美术风格非常吸引人的游戏。自动保存，崩溃也不丢东西。无限创造和放松。唯一烦的是游戏区域大小还行但能选择扩展就好了。还想要霍比特人房子——请加隧道/洞穴、全木房子、水井、茅草屋顶。"
         },
         {
           "recommendationid": "225217285",
@@ -9513,7 +9631,7 @@
       "slug": "travellers-rest",
       "steamAppId": 1139980,
       "title": "Travellers Rest",
-      "zhTitle": "旅者驿站",
+      "zhTitle": "旅者之憩",
       "shortDescription": "Craft, farm, build and cook! In Travellers Rest you will have to use all the available tools to become the best tavern keeper in the realm. Create unique dishes and drinks to please your customers as you discover the world and its colorful characters.",
       "zhShortDescription": "经营中世纪酒馆——酿造啤酒、烹饪美食、招待旅人。",
       "description": "Craft, farm, build and cook! In Travellers Rest you will have to use all the available tools to become the best tavern keeper in the realm. Create unique dishes and drinks to please your customers as you discover the world and its colorful characters. Take your establishment to the top in this exciting new adventure! Your tavern, your rules Expand and manage your own fantasy tavern. Customize it with furniture and other decorative elements to improve your reputation. Do not stop until you have the tavern of your dreams! Tend to your customers Hundreds of customers are waiting to be tended to – serve them a nice mug of beer or kick them out if they start to bother the others! Earn mountains of gold and become the best tavern keeper in the land. Create your own style Discover new recipes and",
@@ -9575,8 +9693,8 @@
       "negativeReviews": 868,
       "featured": false,
       "guideCount": 0,
-      "metaDescriptionEn": "Craft, farm, build and cook! In Travellers Rest you will have to use all the available tools to become the best tavern keeper in the realm. Create unique dishes and drinks to please your customers as you discover the world and its colorful characters.",
-      "metaDescriptionZh": "《旅者驿站》酒馆攻略 — 酿造配方、酒馆设计、员工管理、赚钱技巧。",
+      "metaDescriptionEn": "Travellers Rest review — tavern management sim. Brewing recipes, tavern design, staff management, profit tips.",
+      "metaDescriptionZh": "《旅者之憩》Steam 评测与介绍 — 酒馆经营模拟。酿造配方、酒馆设计、员工管理、赚钱技巧。",
       "similarGames": [],
       "source": "steam_api",
       "fetchedAt": "2026-06-08T07:18:03.365Z",
@@ -9618,7 +9736,8 @@
               "reaction_type": 26,
               "count": 2
             }
-          ]
+          ],
+          "zh_review": "2024年左右玩过，那时明显是早期开发阶段。2年后回来玩联机（很高兴加了这个）。但最终非常失望。很多东西变了但有时bug多到玩不了。睡一觉第二天没法用工作台、角色眼睛消失、矿洞里被石头卡住。"
         },
         {
           "recommendationid": "225761258",
@@ -9682,7 +9801,8 @@
           "written_during_early_access": true,
           "primarily_steam_deck": false,
           "app_release_date": "1595951905",
-          "reactions": []
+          "reactions": [],
+          "zh_review": "更新的时候请不要再为了拉长游戏时间故意绕路或者要求一天内收集太多限量材料了。老玩家做几小时重复劳动就结束了，但新手重复这种不合理的路线N次会有多无聊。辛苦更新的内容30分钟就消费完了，但玩家分得清这到底是30分钟内容被强行拉成3小时还是真的有3小时内容。别让游戏体验变得不愉快，爽快地以舒适体验公开内容吧。"
         },
         {
           "recommendationid": "226266854",
@@ -9723,7 +9843,8 @@
               "reaction_type": 27,
               "count": 1
             }
-          ]
+          ],
+          "zh_review": "我完整通关并完成了所有成就，因为我太喜欢了。游戏氛围无比舒适，能感受到星露谷或牧场物语的灵感但有自己的新鲜感——尤其因为酒馆经营。如果你喜欢放松的农场游戏，旅者之憩是一个很好的节奏转变。"
         },
         {
           "recommendationid": "225220612",
@@ -9760,7 +9881,8 @@
               "reaction_type": 26,
               "count": 1
             }
-          ]
+          ],
+          "zh_review": "一款关于我的服务员、酒保、保安和管家组织工会然后罢工的游戏。十万桶麦芽酒/10"
         }
       ]
     },
@@ -9829,8 +9951,8 @@
       "negativeReviews": 13678,
       "featured": false,
       "guideCount": 0,
-      "metaDescriptionEn": "A brutal exploration and survival game for 1-10 players, set in a procedurally-generated purgatory inspired by viking culture. Battle, build, and conquer your way to a saga worthy of Odin’s patronage!",
-      "metaDescriptionZh": "《英灵神殿》全 BOSS 攻略 — 建造技巧、资源采集路线、生物群落生存指南。",
+      "metaDescriptionEn": "Valheim review — Viking survival game. Building mechanics, boss fights, biome progression, resource routes.",
+      "metaDescriptionZh": "《英灵神殿》Steam 评测与介绍 — 维京生存游戏。建造技巧、BOSS 战斗、生物群落探索、资源路线。",
       "similarGames": [],
       "source": "steam_api",
       "fetchedAt": "2026-06-08T07:22:18.363Z",
@@ -9930,7 +10052,8 @@
               "reaction_type": 34,
               "count": 1
             }
-          ]
+          ],
+          "zh_review": "英灵神殿有巨量肝度。这类游戏就是这样但这里的肝特别枯燥——除了肝本身还有一堆让情况更复杂的限制。开始前最好用调节器自定义世界（至少允许传送门运矿），否则很快燃尽弃游。强烈建议和朋友一起玩。"
         },
         {
           "recommendationid": "225345712",
@@ -9979,7 +10102,8 @@
               "reaction_type": 26,
               "count": 1
             }
-          ]
+          ],
+          "zh_review": "核心玩法有趣但一旦意识到几乎每个机制都是为了拖慢你、膨胀游戏时间而设计的，游戏就迅速崩盘。联机还行但重玩和单人时特别明显。EA多年后还在优先扩展终局内容，而航海、地下城探索几乎没有机制深度。"
         },
         {
           "recommendationid": "225111732",
@@ -10028,7 +10152,8 @@
               "reaction_type": 32,
               "count": 1
             }
-          ]
+          ],
+          "zh_review": "有趣的生存游戏，有着游戏中最好的建造机制之一"
         },
         {
           "recommendationid": "225300357",
@@ -10090,7 +10215,8 @@
               "reaction_type": 32,
               "count": 1
             }
-          ]
+          ],
+          "zh_review": "英灵神殿真的让我惊讶。我不是开放世界生存建造的粉丝，唯一例外是泰拉瑞亚。现在英灵神殿可以加入了。游戏节奏很慢但不是消极的慢。23小时才刚刚开始做青铜装备。目前只能在草原和黑森林活下来，正准备第一次进入沼泽。期待后续冒险。"
         }
       ]
     },
@@ -10098,7 +10224,7 @@
       "slug": "x4-foundations",
       "steamAppId": 392160,
       "title": "X4: Foundations",
-      "zhTitle": "X4 基石",
+      "zhTitle": "X4：基石",
       "shortDescription": "Your journey to building a vast space empire begins behind the controls of a single ship. Explore, trade, fight, and build as you rise to command fleets, stations, and entire economies in a living, fully simulated universe that reacts to every decision.",
       "zhShortDescription": "终极太空帝国模拟——开飞船、建工厂、组舰队。",
       "description": "Start Small. Command Everything. Your journey begins with a single ship - but what you become is up to you. Trade, fight, explore, and build your way to power as you grow from a lone pilot into the leader of a vast space empire. Command fleets, manage resources, and shape the future of the galaxy through your decisions. A Living, Simulated Universe The universe of X4 is fully simulated and constantly evolving. Factions trade, build, and wage war independently, reacting dynamically to both your actions and each other. Every station, ship, and economy is part of a living system that continues to grow - with or without your influence. Build Your Empire Construct space stations, establish trade networks, and control entire production chains. Design and expand your infrastructure using a modula",
@@ -10155,8 +10281,8 @@
       "negativeReviews": 2811,
       "featured": false,
       "guideCount": 0,
-      "metaDescriptionEn": "Your journey to building a vast space empire begins behind the controls of a single ship. Explore, trade, fight, and build as you rise to command fleets, stations, and entire economies in a living, fully simulated universe that reacts to every decision.",
-      "metaDescriptionZh": "《X4 基石》太空帝国攻略 — 贸易路线、工厂布局、舰队配置指南。",
+      "metaDescriptionEn": "X4: Foundations review — deep space empire sim. Trade routes, station building, fleet command, economic simulation.",
+      "metaDescriptionZh": "《X4：基石》Steam 评测与介绍 — 深度太空帝国模拟。贸易路线、工厂布局、舰队配置、经济系统。",
       "similarGames": [],
       "source": "steam_api",
       "fetchedAt": "2026-06-08T07:20:17.228Z",
@@ -10218,7 +10344,8 @@
               "reaction_type": 34,
               "count": 1
             }
-          ]
+          ],
+          "zh_review": "我真的想喜欢X4：基石，因为理论上这正是我应该热爱的游戏：从一艘船开始建立贸易网络、拥有空间站、指挥舰队、成为宇宙中的真正力量。概念很棒，但游戏经常感觉是在主动对抗玩家。早期体验尤其糟糕——混乱的目标、糟糕的引导和不知所云的任务。"
         },
         {
           "recommendationid": "225170703",
@@ -10250,7 +10377,8 @@
           "written_during_early_access": false,
           "primarily_steam_deck": false,
           "app_release_date": "1543590000",
-          "reactions": []
+          "reactions": [],
+          "zh_review": "很早就发现飞船没有维护费，游戏看起来硬核但其实很休闲没有紧迫感。是UI笨重和交互设计糟糕把人拒之门外。优点：好的单人游戏、太空模拟、帝国模拟、管理模拟、轻RTS、大量mod、可投入数千小时。缺点：需要开YouTube学怎么玩，老玩家也不直观，没有可访问的行星。"
         },
         {
           "recommendationid": "226653555",
@@ -10314,7 +10442,8 @@
           "written_during_early_access": false,
           "primarily_steam_deck": false,
           "app_release_date": "1543590000",
-          "reactions": []
+          "reactions": [],
+          "zh_review": "这游戏太惊人了。周三开始玩了一小时做了教程。2020年就买了DLC都是打折时入的。从2003年自由枪骑兵以来一直在等这样的游戏。周三没太投入，周四又试还是没上瘾。算了……周五早上：玩什么好呢？脑子里蹦出X4想多学一点。然后……周六凌晨3点了。对，就是这种游戏。"
         },
         {
           "recommendationid": "225837279",
@@ -10346,7 +10475,8 @@
           "written_during_early_access": false,
           "primarily_steam_deck": false,
           "app_release_date": "1543590000",
-          "reactions": []
+          "reactions": [],
+          "zh_review": "你喜欢星际公民吗？群星？钢铁雄心？或任何有垂直学习曲线的策略游戏？这游戏就是我所想要的一切，害怕了好多年不敢花时间入坑。它比想象简单多了——只需做基础教程30分钟和地图教程。或者随时按H做任何你好奇的教程，完成后直接回到游戏。玩就完了。"
         }
       ]
     }

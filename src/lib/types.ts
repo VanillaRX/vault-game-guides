@@ -1,23 +1,4 @@
-/** Legacy game type for guide pages. Keep backward-compatible. */
-export interface Game {
-  slug: string;
-  title: string;
-  zhTitle: string;
-  steamAppId: number;
-  shortDescription: string;
-  zhShortDescription: string;
-  description: string;
-  zhDescription: string;
-  genres: string[];
-  coverImage: string;
-  headerImage: string;
-  releaseDate: string;
-  developer: string;
-  guideCount: number;
-  featured: boolean;
-}
-
-/** New game type for discovery platform, backed by Steam API data. */
+/** Game type for discovery platform, backed by Steam API data. */
 export interface GameEntry {
   slug: string;
   steamAppId: number;
@@ -49,6 +30,7 @@ export interface GameEntry {
   topReviews?: Array<{
     recommendationid: string;
     review: string;
+    zh_review?: string;
     voted_up: boolean;
     votes_up: number;
     votes_funny: number;
@@ -59,21 +41,6 @@ export interface GameEntry {
   metaDescriptionEn: string;
   metaDescriptionZh: string;
   similarGames: string[];
-}
-
-export interface Guide {
-  slug: string;
-  gameSlug: string;
-  title: string;
-  zhTitle: string;
-  description: string;
-  zhDescription: string;
-  category: "beginner" | "advanced" | "achievement" | "build" | "walkthrough" | "tips";
-  difficulty: "easy" | "medium" | "hard";
-  tags: string[];
-  wordCount: number;
-  estimatedReadTime: number;
-  publishDate: string;
 }
 
 /** "Games Like" entry for one game */

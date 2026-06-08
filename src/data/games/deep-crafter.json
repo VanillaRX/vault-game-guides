@@ -56,8 +56,8 @@
   "negativeReviews": 0,
   "featured": false,
   "guideCount": 0,
-  "metaDescriptionEn": "Build a self-sustaining industrial empire in the deep sea of an ocean-covered alien world. Explore procedurally generated waters, automate resource production, and turn alien life into renewable industrial output through advanced bio-cultivation systems.",
-  "metaDescriptionZh": "《深海工厂》自动化生产线攻略 — 海底采矿、传送带布局、科技树指南。",
+  "metaDescriptionEn": "Deep Crafter review — underwater factory automation game. Seabed mining, conveyor layouts, tech tree.",
+  "metaDescriptionZh": "《深海工厂》Steam 评测与介绍 — 海底自动化工厂建造。深海采矿、传送带布局、科技树解锁。",
   "similarGames": [],
   "source": "steam_api",
   "fetchedAt": "2026-06-08T07:19:16.906Z",
@@ -117,7 +117,8 @@
         "screen_height": null,
         "precise_frame_rate": null
       },
-      "reactions": []
+      "reactions": [],
+      "zh_review": "操作太难受了，还不如学幸福工厂做成第一人称。而且我这个配置都特别卡，开局就这么卡后期还能玩吗？"
     }
   ]
 }

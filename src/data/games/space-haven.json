@@ -2,7 +2,7 @@
   "slug": "space-haven",
   "steamAppId": 979110,
   "title": "Space Haven",
-  "zhTitle": "太空避难所",
+  "zhTitle": "Space Haven",
   "shortDescription": "Embark on a space voyage with your ragtag crew of civilians in search of a new home. Build spaceships tile by tile, create optimal gas conditions, manage the needs and moods of their crew, encounter other space-faring groups, and explore the universe in this spaceship colony simulation.",
   "zhShortDescription": "设计并管理你的星际飞船——在宇宙中探索、交易、生存。",
   "description": "Embark on a space voyage with your ragtag crew of civilians in search of a new home. Build spaceships tile by tile, create optimal gas conditions, manage the needs and moods of their crew, encounter other space-faring groups, and explore the universe in this spaceship colony sim. Customize - Complete freedom to build a spaceship or station of your own desire. Place every piece of ship hull, wall, door and facility wherever you want. Functional - All facilities serve a purpose. Crew members will sleep in beds, use toilets, be disturbed by a noisy room and praise you for an arcade machine. A functional spaceship can be built tile-by tile , giving you the opportunity to shape a spaceship of your own desire . It can be symmetric and streamlined, or an asymmetrical whimsical looking thing. It d",
@@ -56,8 +56,8 @@
   "metacriticScore": 85,
   "featured": false,
   "guideCount": 0,
-  "metaDescriptionEn": "Embark on a space voyage with your ragtag crew of civilians in search of a new home. Build spaceships tile by tile, create optimal gas conditions, manage the needs and moods of their crew, encounter other space-faring groups, and explore the universe in this spaceship colony simulation.",
-  "metaDescriptionZh": "《太空避难所》飞船攻略 — 船舱布局、船员管理、资源循环、太空探索。",
+  "metaDescriptionEn": "Space Haven review — spaceship colony sim. Ship layout, crew management, resource loops, space exploration.",
+  "metaDescriptionZh": "《Space Haven》Steam 评测与介绍 — 太空飞船殖民模拟。船舱布局、船员管理、资源循环、太空探索。",
   "similarGames": [],
   "source": "steam_api",
   "fetchedAt": "2026-06-08T07:21:44.715Z",
@@ -127,7 +127,8 @@
           "reaction_type": 28,
           "count": 1
         }
-      ]
+      ],
+      "zh_review": "这就是我等了三年的正式版吗？2023年EA玩过。从那时起到现在游戏一丁点都没变。最大的区别是撤离舰队——有趣的转折但任务很快变得千篇一律。"
     },
     {
       "recommendationid": "225549165",
@@ -225,7 +226,8 @@
           "reaction_type": 27,
           "count": 1
         }
-      ]
+      ],
+      "zh_review": "我跟这游戏很久了感情复杂。爱造飞船，系统引人入胜。但过段时间发现为满足需求飞船得做成盒子形。想做成传统形状就装不下所有东西。"
     },
     {
       "recommendationid": "225662878",
@@ -286,7 +288,8 @@
           "reaction_type": 31,
           "count": 1
         }
-      ]
+      ],
+      "zh_review": "第一局：慢慢学机制→建飞船→欣赏布局→意识到忽略了电力和食物→出去找资源→找到一些但不够→飞船解体没材料修→意识到这局可能完了→友好民用船进星系→他们让我登船因为我帮过他们→他们有食物和电力棒→他们在卖食物和电力棒→我没有钱→开始紧急种菜→菜还没熟→船炸了→10/10。"
     },
     {
       "recommendationid": "225433798",
@@ -327,7 +330,8 @@
           "reaction_type": 35,
           "count": 1
         }
-      ]
+      ],
+      "zh_review": "宝藏游戏。每一分钱都值。在太空里管理空间。'我就小玩一会，只移动这三块墙板一格…'然后一眨眼4小时过去了。"
     },
     {
       "recommendationid": "225517990",
@@ -376,7 +380,8 @@
           "reaction_type": 29,
           "count": 1
         }
-      ]
+      ],
+      "zh_review": "伟大的殖民地飞船游戏。如果你喜欢边缘世界或任何自闭症殖民地模拟游戏，你会喜欢的。"
     }
   ]
 }

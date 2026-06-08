@@ -60,8 +60,8 @@
   "metacriticScore": 91,
   "featured": false,
   "guideCount": 0,
-  "metaDescriptionEn": "Satisfactory is a first-person open-world factory building game with a dash of exploration and combat. Play alone or with friends, explore an alien planet, create multi-story factories, and enter conveyor belt heaven!",
-  "metaDescriptionZh": "《幸福工厂》工厂布局攻略 — 传送带设计、生产线规划、资源节点地图。",
+  "metaDescriptionEn": "Satisfactory review — 3D factory building game. Conveyor design, production planning, resource node mapping.",
+  "metaDescriptionZh": "《幸福工厂》Steam 评测与介绍 — 3D 工厂建造游戏。传送带设计、生产线规划、资源节点地图。",
   "similarGames": [],
   "source": "steam_api",
   "fetchedAt": "2026-06-08T07:21:38.028Z",
@@ -115,7 +115,8 @@
           "reaction_type": 31,
           "count": 1
         }
-      ]
+      ],
+      "zh_review": "别玩这个游戏。它会吃掉你所有空闲时间。你离开时会想怎么扩建工厂。做梦时你梦到工厂。工厂必须增长，为了拯救所有小猫小狗。"
     },
     {
       "recommendationid": "225228067",
@@ -157,7 +158,8 @@
           "reaction_type": 35,
           "count": 2
         }
-      ]
+      ],
+      "zh_review": "我喜欢这游戏大部分时候很放松，但想高效建造还是要动5%的脑子。我花了100多小时完成所有等级和太空电梯目标。我喜欢没有真正的任务，只有制造和发现。游戏直接把你丢在星球上说'去吧！'有自由决定怎么做。非常有趣。"
     },
     {
       "recommendationid": "225894782",
@@ -202,7 +204,8 @@
           "reaction_type": 29,
           "count": 1
         }
-      ]
+      ],
+      "zh_review": "游戏还行。别在意时长。说真的我爱这个游戏是我的内疚快乐。加上Epic版从U3开始应该接近2500小时了。"
     },
     {
       "recommendationid": "225574035",
@@ -283,7 +286,8 @@
           "reaction_type": 29,
           "count": 1
         }
-      ]
+      ],
+      "zh_review": "看着不能亲的嘴唇不如意识到一运行这游戏你就会变成工程师、数学教授、腰疼患者、没有社交生活，你女朋友/老婆大概会离开你那么痛苦。"
     }
   ]
 }

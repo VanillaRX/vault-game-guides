@@ -2,7 +2,7 @@
   "slug": "life-below",
   "steamAppId": 2932150,
   "title": "Life Below",
-  "zhTitle": "深海余生",
+  "zhTitle": "Life Below",
   "shortDescription": "Life Below is a refreshing twist on the city-building genre, set beneath the waves. Shape thriving coral reefs, revive collapsing ecosystems, and grow a living seascape in a heartfelt narrative by Rhianna Pratchett. You are the ocean's final hope.",
   "zhShortDescription": "在衰亡的海洋中建立海底基地，探索深海、重建文明。",
   "description": "The ocean is dying. Coral reefs are vanishing and ecosystems are breaking down. By the power of the mysterious reef heart you must restore balance, using the ocean floor itself as the foundation to build vibrant havens for sealife. Craft lures to entice different species to your reef and use their natural abilities to overcome underwater hazards. Experience Thalassa’s journey in campaign mode, then undergo new challenges in freeplay. Advised by marine biologists and shaped with authentic underwater audio, Life below introduces realism into its world of fantasy. Gameplay reflects natural rhythms and interactions, bringing the ocean floor to life with motion, color, and possibility. In a twist on the city-building genre, resurrect entire ecosystems by strategically crafting and managing vibr",
@@ -71,8 +71,8 @@
   "negativeReviews": 14,
   "featured": false,
   "guideCount": 0,
-  "metaDescriptionEn": "Life Below is a refreshing twist on the city-building genre, set beneath the waves. Shape thriving coral reefs, revive collapsing ecosystems, and grow a living seascape in a heartfelt narrative by Rhianna Pratchett. You are the ocean's final hope.",
-  "metaDescriptionZh": "《深海余生》海底基地建造攻略 — 资源采集、基地布局、海洋探索指南。",
+  "metaDescriptionEn": "Life Below review — underwater base builder with ecosystem management. Resource gathering, reef restoration, exploration.",
+  "metaDescriptionZh": "《Life Below》Steam 评测与介绍 — 海底基地建造，生态系统管理。资源采集、珊瑚礁修复、海洋探索。",
   "similarGames": [],
   "source": "steam_api",
   "fetchedAt": "2026-06-08T07:19:10.232Z",
@@ -109,7 +109,8 @@
       "written_during_early_access": false,
       "primarily_steam_deck": false,
       "app_release_date": "1779807079",
-      "reactions": []
+      "reactions": [],
+      "zh_review": "游戏设计太棒了，我玩得很开心。那为什么不推荐呢？有严重的bug和非常糟糕的设计选择，我列出最让我恼火的两点：1）性能问题——当你到…中期吧，开始有7-8个区域后，游戏开始严重卡顿，玩起来非常挫败。2）游戏中的灾害可以毁掉你之前所有成就，因为要应对某些灾害需要特定技术，但这些技术可能需要你还没有的资源。灾害什么时候来完全随机且不可预测，根本没法提前准备。"
     },
     {
       "recommendationid": "226871336",
@@ -150,7 +151,8 @@
           "reaction_type": 31,
           "count": 1
         }
-      ]
+      ],
+      "zh_review": "那些说灾害太难的评价太搞笑了。我爸玩策略游戏的水平比我高得多，我看都看不懂。但这款游戏呢——太宁静了。只要你花时间阅读、用点脑子、有点耐心，就能搞定灾害。我不能再推荐这款游戏了。它没有那些巨作那么深入，但它绝对有自己的一席之地。玩家们应该在灾害打败没有准备的人之前给它更多机会。画面漂亮，区域规划后期很有挑战，整体非常治愈。"
     },
     {
       "recommendationid": "226741859",
@@ -189,7 +191,8 @@
           "reaction_type": 24,
           "count": 1
         }
-      ]
+      ],
+      "zh_review": "我真的很喜欢这个美术风格和概念，但开发团队需要平衡一些东西。随机事件很快就能摧毁你的珊瑚礁，游戏甚至没有清楚解释灾害是什么、怎么处理。我试过最低难度但还是一直快速死亡。我认为这是有一个坚实核心的游戏，开发者可以通过增加引导教程来让它变得更好。我还建议把灾害事件推到更后面。"
     },
     {
       "recommendationid": "226490055",
@@ -221,7 +224,8 @@
       "written_during_early_access": false,
       "primarily_steam_deck": false,
       "app_release_date": "1779807079",
-      "reactions": []
+      "reactions": [],
+      "zh_review": "城市建造类型中一个有趣、新鲜、色彩缤纷的转折。游戏性从一开始就引人入胜，深度出乎意料却又不会让人不知所措。在可访问性和技术复杂度之间取得了很好的平衡，让我这种不常玩城市建造的玩家也能享受。双倍点赞！！"
     },
     {
       "recommendationid": "226846256",
@@ -255,7 +259,8 @@
       "timestamp_dev_responded": 1780578901,
       "developer_response": "Hey!\nThank you so much for checking out our game, spending time with it and writing your thoughts. The corals being affected by the very hazard they are meant to fix, was an intentional choice we made. It is part of how we envisioned the push and pull in the game. Totally understand that's not for everyone, and appreciate that you shared your feedback on that feature. Some ways that players can expand is by:\n[spoiler]\n-Stockpiling resources so it takes less time to build the structures (or reclaiming buildings to gain back some resources).\n-Use a stable zone to build energy production with a network that expands into the zone you want to build in. That way you only need to build the parameter corals in the unstable zone. They have more life and comfort than the moon coral for instance.\n-After stockpiling resources, use buildings that have secondary effects to your benefit, building many (many) moon corals in the arctic zone will both boost your energy production, and warm the zone. If you have enough resources and water sprites available, it's possible to do with some zones from the start.\n[/spoiler]\nFor the random event hazards that has definitely been on our radar post launch. We released a patch yesterday that we hope will make the experience better. We've changed when some hazards can be experienced, and the severity of them.\n\nWe'll continue to do our best based on the feedback we get here, in the discussion forums and our discord server. I hope you want to try the game again with this rebalance, but either way really appreciate your thoughts and your time.\n-Lise\"",
       "app_release_date": "1779807079",
-      "reactions": []
+      "reactions": [],
+      "zh_review": "目前来说我不会推荐买这个游戏，除非有平衡性改动。它比有趣更让人烦躁。概念真的很酷，可以轻松吸引你玩上几个小时，但之后就是一个接一个的恶心事。灾害对游戏没有任何有趣的添加——它们是随机出现的繁琐恶心路障，让人头疼。主要问题是：用于修复环境不平衡的建筑本身不对同样环境效果免疫。这是真的烂设计。"
     }
   ]
 }

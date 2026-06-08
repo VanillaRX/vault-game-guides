@@ -48,8 +48,8 @@
   "negativeReviews": 2090,
   "featured": false,
   "guideCount": 0,
-  "metaDescriptionEn": "Farming Simulator 25 invites you to join the rewarding farm life, single-handedly or cooperatively in multiplayer. This Farm is Your Farm!",
-  "metaDescriptionZh": "《模拟农场25》新手指南 — 新作物、新机械、GPS辅助驾驶技巧。",
+  "metaDescriptionEn": "Farming Simulator 25 review — latest entry in the farm sim series. New biomes, crops, and mechanics.",
+  "metaDescriptionZh": "《模拟农场25》Steam 评测与介绍 — 系列最新作。全新地图、作物与机制。",
   "similarGames": [],
   "source": "steam_api",
   "fetchedAt": "2026-06-08T07:19:30.379Z",
@@ -103,7 +103,8 @@
           "reaction_type": 34,
           "count": 1
         }
-      ]
+      ],
+      "zh_review": "和其他GIANTS Software作品差别不大，《模拟农场25》确实带来了一些新意——三个新地图和不同的耕作方式。推荐给想亲手沾泥巴的人，以及寻找安静游戏体验的玩家。"
     },
     {
       "recommendationid": "225923797",
@@ -173,7 +174,8 @@
           "reaction_type": 31,
           "count": 1
         }
-      ]
+      ],
+      "zh_review": "这游戏的引擎是不知道多核CPU为何物的黑猩猩写的。我的GPU占用64%，CPU占用33%，仅仅因为开两个AI工人收割，游戏就跑54fps、1%low掉到30fps！更糟的是他们加密代码，mod作者都没法帮他们修引擎！气疯了……我还爱这个系列，但他们好像非要让我恨它。我们这社区都是瘾君子，GIANTS心知肚明，所以他们继续雇黑猩猩写代码。"
     },
     {
       "recommendationid": "225281667",
@@ -205,7 +207,8 @@
       "written_during_early_access": false,
       "primarily_steam_deck": false,
       "app_release_date": "1731414840",
-      "reactions": []
+      "reactions": [],
+      "zh_review": "玩过很多模拟农场系列。优点：整体来说每代画质都有提升，可种植作物、动物种类越来越多。缺点：开发者每次卖的几乎是同一款游戏，改动极小。物理引擎至今没做好——树、灌木、围栏全是硬的，开着拖拉机撞上去像撞500吨混凝土墙，2026年了这不严肃。建议：让我能揍那些鸣笛的过路司机。"
     }
   ]
 }

@@ -2,7 +2,7 @@
   "slug": "x4-foundations",
   "steamAppId": 392160,
   "title": "X4: Foundations",
-  "zhTitle": "X4 基石",
+  "zhTitle": "X4：基石",
   "shortDescription": "Your journey to building a vast space empire begins behind the controls of a single ship. Explore, trade, fight, and build as you rise to command fleets, stations, and entire economies in a living, fully simulated universe that reacts to every decision.",
   "zhShortDescription": "终极太空帝国模拟——开飞船、建工厂、组舰队。",
   "description": "Start Small. Command Everything. Your journey begins with a single ship - but what you become is up to you. Trade, fight, explore, and build your way to power as you grow from a lone pilot into the leader of a vast space empire. Command fleets, manage resources, and shape the future of the galaxy through your decisions. A Living, Simulated Universe The universe of X4 is fully simulated and constantly evolving. Factions trade, build, and wage war independently, reacting dynamically to both your actions and each other. Every station, ship, and economy is part of a living system that continues to grow - with or without your influence. Build Your Empire Construct space stations, establish trade networks, and control entire production chains. Design and expand your infrastructure using a modula",
@@ -59,8 +59,8 @@
   "negativeReviews": 2811,
   "featured": false,
   "guideCount": 0,
-  "metaDescriptionEn": "Your journey to building a vast space empire begins behind the controls of a single ship. Explore, trade, fight, and build as you rise to command fleets, stations, and entire economies in a living, fully simulated universe that reacts to every decision.",
-  "metaDescriptionZh": "《X4 基石》太空帝国攻略 — 贸易路线、工厂布局、舰队配置指南。",
+  "metaDescriptionEn": "X4: Foundations review — deep space empire sim. Trade routes, station building, fleet command, economic simulation.",
+  "metaDescriptionZh": "《X4：基石》Steam 评测与介绍 — 深度太空帝国模拟。贸易路线、工厂布局、舰队配置、经济系统。",
   "similarGames": [],
   "source": "steam_api",
   "fetchedAt": "2026-06-08T07:20:17.228Z",
@@ -122,7 +122,8 @@
           "reaction_type": 34,
           "count": 1
         }
-      ]
+      ],
+      "zh_review": "我真的想喜欢X4：基石，因为理论上这正是我应该热爱的游戏：从一艘船开始建立贸易网络、拥有空间站、指挥舰队、成为宇宙中的真正力量。概念很棒，但游戏经常感觉是在主动对抗玩家。早期体验尤其糟糕——混乱的目标、糟糕的引导和不知所云的任务。"
     },
     {
       "recommendationid": "225170703",
@@ -154,7 +155,8 @@
       "written_during_early_access": false,
       "primarily_steam_deck": false,
       "app_release_date": "1543590000",
-      "reactions": []
+      "reactions": [],
+      "zh_review": "很早就发现飞船没有维护费，游戏看起来硬核但其实很休闲没有紧迫感。是UI笨重和交互设计糟糕把人拒之门外。优点：好的单人游戏、太空模拟、帝国模拟、管理模拟、轻RTS、大量mod、可投入数千小时。缺点：需要开YouTube学怎么玩，老玩家也不直观，没有可访问的行星。"
     },
     {
       "recommendationid": "226653555",
@@ -218,7 +220,8 @@
       "written_during_early_access": false,
       "primarily_steam_deck": false,
       "app_release_date": "1543590000",
-      "reactions": []
+      "reactions": [],
+      "zh_review": "这游戏太惊人了。周三开始玩了一小时做了教程。2020年就买了DLC都是打折时入的。从2003年自由枪骑兵以来一直在等这样的游戏。周三没太投入，周四又试还是没上瘾。算了……周五早上：玩什么好呢？脑子里蹦出X4想多学一点。然后……周六凌晨3点了。对，就是这种游戏。"
     },
     {
       "recommendationid": "225837279",
@@ -250,7 +253,8 @@
       "written_during_early_access": false,
       "primarily_steam_deck": false,
       "app_release_date": "1543590000",
-      "reactions": []
+      "reactions": [],
+      "zh_review": "你喜欢星际公民吗？群星？钢铁雄心？或任何有垂直学习曲线的策略游戏？这游戏就是我所想要的一切，害怕了好多年不敢花时间入坑。它比想象简单多了——只需做基础教程30分钟和地图教程。或者随时按H做任何你好奇的教程，完成后直接回到游戏。玩就完了。"
     }
   ]
 }

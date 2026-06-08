@@ -2,7 +2,7 @@
   "slug": "northgard",
   "steamAppId": 466560,
   "title": "Northgard: Definitive Edition",
-  "zhTitle": "北境守护",
+  "zhTitle": "北加尔",
   "shortDescription": "Northgard: Definitive Edition is a critically acclaimed real-time strategy game based on Norse mythology. Lead your clan, uncover the secrets of a mysterious newfound continent and defeat your enemies to conquer the Throne!",
   "zhShortDescription": "北欧神话策略游戏，选择氏族、扩张领地、征服北境。",
   "description": "After years of tireless exploration, brave Vikings have discovered a new land filled with mystery, danger and riches: Northgard. The boldest Northmen have set sail to explore and conquer these new shores, bring fame to their Clan and write history through conquest, trading, or devotion to the Gods. Build your settlement on the newly discovered continent of Northgard! Assign your Vikings to various jobs and manage your resources carefully to survive harsh winters and ferocious foes. Expand your clan strategically by chasing conquest, fame, lore or trade victory. Survive and conquer the unforgiving wilderness of Northgard by mastering the unique attributes of the many different clans that inhabit the continent! Each clan has its own unique specificities, bonuses and features, introducing new",
@@ -55,8 +55,8 @@
   "metacriticScore": 81,
   "featured": false,
   "guideCount": 0,
-  "metaDescriptionEn": "Northgard: Definitive Edition is a critically acclaimed real-time strategy game based on Norse mythology. Lead your clan, uncover the secrets of a mysterious newfound continent and defeat your enemies to conquer the Throne!",
-  "metaDescriptionZh": "《北境守护》氏族攻略 — 各氏族玩法差异、资源管理、科技路线。",
+  "metaDescriptionEn": "Northgard review — Norse-themed strategy game. Clan differences, resource management, tech paths, conquest.",
+  "metaDescriptionZh": "《北加尔》Steam 评测与介绍 — 北欧主题策略游戏。各氏族玩法差异、资源管理、科技路线。",
   "similarGames": [],
   "source": "steam_api",
   "fetchedAt": "2026-06-08T07:20:44.350Z",
@@ -98,7 +98,8 @@
           "reaction_type": 26,
           "count": 2
         }
-      ]
+      ],
+      "zh_review": "我和朋友多年前买了这款当非传统RTS玩。某些方面很有趣，另一些很令人沮丧。联机问题没修，新种族平衡问题不断，核心机制保持不变——必须搞经济否则失败。你可以叫它RTS但那会误解这游戏有多慢。一局可能数小时，这让联机问题更糟。"
     },
     {
       "recommendationid": "225631032",
@@ -130,7 +131,8 @@
       "written_during_early_access": false,
       "primarily_steam_deck": false,
       "app_release_date": "1487786162",
-      "reactions": []
+      "reactions": [],
+      "zh_review": "终极版引入了导致崩溃的bug！难以置信！"
     },
     {
       "recommendationid": "226436849",
@@ -171,7 +173,8 @@
           "reaction_type": 29,
           "count": 1
         }
-      ]
+      ],
+      "zh_review": "我玩了100多小时。很明显他们几年前就停止开发了，只是不断出DLC。连存档退出选项都没有。功能极其匮乏，bug一堆。可悲的迷失工作室。"
     }
   ]
 }

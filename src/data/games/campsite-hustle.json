@@ -2,7 +2,7 @@
   "slug": "campsite-hustle",
   "steamAppId": 3708070,
   "title": "Campsite Hustle! - Management Simulator",
-  "zhTitle": "营地经营模拟器",
+  "zhTitle": "Campsite Hustle!",
   "shortDescription": "Build your own Outdoor Store and Camping Business in the heart of Red Shore Valley! Arrange your shelves, manage your stock, construct facilities on your campsite, and take care of every guest. Grow from humble beginnings into a thriving business surrounded by nature!",
   "zhShortDescription": "经营你的露营地，布置帐篷、管理资源、吸引游客。",
   "description": "• Sell campsite tickets, unlock new camping areas, and build essential facilities like showers and restrooms as you grow your business. Creating an organized, functional, and attractive campsite is up to you. • Fill your shelves with products, handle sales at the register, and create a tidy shopping space where customers can browse comfortably. A well-managed store looks better and helps bring in more sales. • Assign tasks to your workers, organize daily operations, clean messy areas, and repair damaged structures. Keeping your business running smoothly means staying on top of things every day. • Remove trespassers, deal with raccoons, and protect your business from disruptive saboteurs. Sometimes keeping order means stepping in and handling the chaos yourself. • Design your own signs and ",
@@ -64,8 +64,8 @@
   "negativeReviews": 12,
   "featured": false,
   "guideCount": 0,
-  "metaDescriptionEn": "Build your own Outdoor Store and Camping Business in the heart of Red Shore Valley! Arrange your shelves, manage your stock, construct facilities on your campsite, and take care of every guest. Grow from humble beginnings into a thriving business surrounded by nature!",
-  "metaDescriptionZh": "《Campsite Hustle》露营地经营攻略 — 帐篷布局、资源管理、游客满意度。",
+  "metaDescriptionEn": "Campsite Hustle review — cozy campground management sim. Tent layouts, resource management, visitor happiness.",
+  "metaDescriptionZh": "《Campsite Hustle》Steam 评测与介绍 — 治愈系露营地经营模拟。帐篷布局、资源管理、游客满意度。",
   "similarGames": [],
   "source": "steam_api",
   "fetchedAt": "2026-06-08T07:19:03.538Z",
@@ -119,7 +119,8 @@
           "reaction_type": 34,
           "count": 1
         }
-      ]
+      ],
+      "zh_review": "我玩《营地经营模拟器》时预期会遇到混乱、bug和可疑的物理效果——老实说这三样我都碰上了。但我也得到了一个意外让人放松的管理循环，让我比预期玩了更久。优点：商店循环简单但满足；后期户外区域会变得热闹；学会正确使用员工后管理轻松很多；教程后进程加速，更有成就感。更重要的是：开发团队热情真诚，活跃且倾听反馈，已经在做平衡和改进。你知道开发者在乎，这很加分。"
     },
     {
       "recommendationid": "227032501",
@@ -185,7 +186,8 @@
           "reaction_type": 26,
           "count": 1
         }
-      ]
+      ],
+      "zh_review": "100%推荐。Demo时试过，后来参与测试，现在买了。游戏很美，让你的创造力尽情发挥。团队修bug速度快到离谱——有Discord和反馈区。那个说光标消失的差评……其实是按了F1进入飞行/拍照模式了。用户操作失误，不是bug。期待后续更新和扩展。🙌 10/10推荐。"
     },
     {
       "recommendationid": "227029241",
@@ -230,7 +232,8 @@
           "reaction_type": 31,
           "count": 1
         }
-      ]
+      ],
+      "zh_review": "🏕️ 休闲建造游戏爱好者的小珍珠。透明声明：我作为内容创作者在EA前通过Keymailer免费获得了Key。以下评价基于我个人游戏体验和诚实意见。Campsite Hustle出乎意料地让我惊喜。乍看是又一个模拟器，但玩了几小时后你会发现这里有很多系统相互交织。值得一试。"
     }
   ]
 }

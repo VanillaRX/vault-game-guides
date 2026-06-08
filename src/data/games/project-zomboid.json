@@ -53,8 +53,8 @@
   "negativeReviews": 8933,
   "featured": false,
   "guideCount": 0,
-  "metaDescriptionEn": "Project Zomboid is the ultimate in zombie survival. Alone or in MP: you loot, build, craft, fight, farm and fish in a struggle to survive. A hardcore RPG skillset, a vast map, massively customisable sandbox and a cute tutorial raccoon await the unwary. So how will you die? All it takes is a bite..",
-  "metaDescriptionZh": "《僵尸毁灭工程》生存攻略 — 基地选址、技能加点、战斗技巧、长期策略。",
+  "metaDescriptionEn": "Project Zomboid review — hardcore zombie survival. Base location, skill progression, combat tactics, long-term strategy.",
+  "metaDescriptionZh": "《僵尸毁灭工程》Steam 评测与介绍 — 硬核僵尸生存模拟。基地选址、技能加点、战斗技巧、长期策略。",
   "similarGames": [],
   "source": "steam_api",
   "fetchedAt": "2026-06-08T07:22:25.078Z",
@@ -112,7 +112,8 @@
           "reaction_type": 34,
           "count": 1
         }
-      ]
+      ],
+      "zh_review": "第一次玩→随机出生→杀了几个僵尸→找到一把带3发子弹的枪→杀附近僵尸→3秒内被奔跑僵尸包围→惨死→恼火关游戏10分钟→重新开局→重复类似情况→再次死亡。推荐吗？绝对推荐。"
     },
     {
       "recommendationid": "225446581",
@@ -157,7 +158,8 @@
           "reaction_type": 35,
           "count": 1
         }
-      ]
+      ],
+      "zh_review": "玩3天建个抽烟角色→找不到烟开始焦虑→不知道不抽烟也不会死→凌晨跑到妓院找烟→找到烟→40只僵尸破窗而入把你生吞。神作。"
     },
     {
       "recommendationid": "225212625",
@@ -194,7 +196,8 @@
           "reaction_type": 24,
           "count": 2
         }
-      ]
+      ],
+      "zh_review": "男人的模拟人生，就算在沙盒设置里关掉僵尸也很有趣。"
     },
     {
       "recommendationid": "225269695",
@@ -239,7 +242,8 @@
           "reaction_type": 30,
           "count": 1
         }
-      ]
+      ],
+      "zh_review": "这款游戏可能是一个人唯一能逃离的地方。与一切隔绝、完全独处的世界。我正在经历人生最艰难的时期，这个游戏是我唯一能独处的空间。打开喜欢的音乐、建基地、升级、出去搜刮物资、做长远规划、看着进展获得满足感。偶尔狩猎钓鱼做手工。有太多事可以做。"
     },
     {
       "recommendationid": "225952432",
@@ -296,7 +300,8 @@
           "reaction_type": 32,
           "count": 1
         }
-      ]
+      ],
+      "zh_review": "醒来，看了本漫画，做了健身，看电视，喝醉了，揍了一个老太太，然后我玩了僵尸毁灭工程——太棒了"
     }
   ]
 }

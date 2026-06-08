@@ -78,8 +78,8 @@
   "metacriticScore": 90,
   "featured": false,
   "guideCount": 0,
-  "metaDescriptionEn": "Factorio is a game about building and creating automated factories to produce items of increasing complexity, within an infinite 2D world. Use your imagination to design your factory, combine simple elements into ingenious structures, and finally protect it from the creatures who don't really like you.",
-  "metaDescriptionZh": "《异星工厂》生产线布局攻略 — 传送带设计、火车信号、核电站建造指南。",
+  "metaDescriptionEn": "Factorio review — the ultimate factory automation game. Belt design, train signals, nuclear power, Space Age DLC.",
+  "metaDescriptionZh": "《异星工厂》Steam 评测与介绍 — 终极工厂自动化游戏。传送带设计、火车信号、核电站、太空时代 DLC。",
   "similarGames": [],
   "source": "steam_api",
   "fetchedAt": "2026-06-08T07:21:31.351Z",
@@ -129,7 +129,8 @@
           "reaction_type": 30,
           "count": 1
         }
-      ]
+      ],
+      "zh_review": "这游戏毁了我的人生。所以我自然要拉别人下水。"
     },
     {
       "recommendationid": "225479429",
@@ -204,7 +205,8 @@
           "reaction_type": 35,
           "count": 1
         }
-      ]
+      ],
+      "zh_review": "让你孩子玩这个游戏。孩子永远不会碰毒品——因为这游戏就是数字毒品。孩子最终会成为某种工程师。可选：偶尔来问一句'工程师了吗？'（亚洲家长必修）。稳赚。"
     },
     {
       "recommendationid": "225205271",
@@ -261,7 +263,8 @@
           "reaction_type": 31,
           "count": 1
         }
-      ]
+      ],
+      "zh_review": "轻松跻身史上最佳游戏，无限重玩性，对自闭症友好。唯一抱怨是没必要的涩涩场景太多了。"
     },
     {
       "recommendationid": "226520868",
@@ -311,7 +314,8 @@
           "reaction_type": 35,
           "count": 1
         }
-      ]
+      ],
+      "zh_review": "启动异星工厂→跳过教程→觉得太简单于是调设置，不小心把科技成本×10、敌袭群×10→20分钟内死亡→弃游几个月→重玩4遍幸福工厂并看了DoshDoshington好几个异星工厂视频后决定再试→跳过教程开默认模式→硬啃石油加工建核反应堆→弃游几个月→太空时代DLC发售→想起建工厂的乐趣→再次从头被虫子啃→循环往复。永远在玩，永远没通关，永远快乐。"
     },
     {
       "recommendationid": "225364381",
@@ -381,7 +385,8 @@
           "reaction_type": 34,
           "count": 1
         }
-      ]
+      ],
+      "zh_review": "挺好玩的，期待有朝一日能第一次通关。我电脑跑得动。"
     }
   ]
 }

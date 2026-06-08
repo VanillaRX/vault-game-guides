@@ -2,7 +2,7 @@
   "slug": "timberborn",
   "steamAppId": 1062090,
   "title": "Timberborn",
-  "zhTitle": "海狸建造者",
+  "zhTitle": "海狸浮生记",
   "shortDescription": "Humans are long gone. In a world struck by droughts and toxic waste, will your lumberpunk beavers do any better? A sandbox city-building game featuring ingenious animals, vertical architecture, water physics, and terraforming. Contains high amounts of wood.",
   "zhShortDescription": "人类灭绝后由海狸重建文明——建造水坝、管理水源。",
   "description": "Mankind turned Earth into a dry wasteland and perished, but some species adapted and evolved. Pick one of the beaver factions and see how long your colony can last. Beaver societies Control one of two beaver factions: the nature-friendly Folktails or the industrious Iron Teeth. Each faction has unique buildings, technology, and gameplay traits. Choose what fits your playstyle! Wet, dry, and toxic seasons Prepare your settlement for recurring droughts and waves of toxic waste. Stockpile food and keep fields and forests alive even after rivers dry up. Rely on both natural water sources and artificial irrigation to keep the land arable and your beavers safe. Water physics and terraforming Beavers’ engineering skills are legendary. With Timberborn’s 3D water physics and terraforming, so can be",
@@ -58,8 +58,8 @@
   "metacriticScore": 85,
   "featured": false,
   "guideCount": 0,
-  "metaDescriptionEn": "Humans are long gone. In a world struck by droughts and toxic waste, will your lumberpunk beavers do any better? A sandbox city-building game featuring ingenious animals, vertical architecture, water physics, and terraforming. Contains high amounts of wood.",
-  "metaDescriptionZh": "《海狸建造者》水利工程攻略 — 水坝设计、旱季生存、垂直城市、两派系差异。",
+  "metaDescriptionEn": "Timberborn review — beaver city-builder with water physics. Dam design, drought survival, vertical cities, two factions.",
+  "metaDescriptionZh": "《海狸浮生记》Steam 评测与介绍 — 海狸城市建造与水利工程。水坝设计、旱季生存、垂直城市、两派系差异。",
   "similarGames": [],
   "source": "steam_api",
   "fetchedAt": "2026-06-08T07:17:36.580Z",
@@ -133,7 +133,8 @@
           "reaction_type": 31,
           "count": 1
         }
-      ]
+      ],
+      "zh_review": "教学关造水泵时一个男的过来觉得他更懂我的海狸需要什么——结果所有海狸都死了。10处伤/10，不放心把猫交给他。"
     }
   ]
 }

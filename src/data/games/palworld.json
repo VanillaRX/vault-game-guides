@@ -74,8 +74,8 @@
   "negativeReviews": 6909,
   "featured": false,
   "guideCount": 0,
-  "metaDescriptionEn": "Fight, farm, build and work alongside mysterious creatures called &quot;Pals&quot; in this completely new multiplayer, open world survival and crafting game!",
-  "metaDescriptionZh": "《幻兽帕鲁》全帕鲁图鉴 — 帕鲁捕捉、基地建造、繁殖配方完全指南。",
+  "metaDescriptionEn": "Palworld review — monster-taming survival game. Pal collecting, base building, combat, multiplayer mayhem.",
+  "metaDescriptionZh": "《幻兽帕鲁》Steam 评测与介绍 — 怪物收集生存游戏。帕鲁收集、基地建造、战斗、多人联机。",
   "similarGames": [],
   "source": "steam_api",
   "fetchedAt": "2026-06-08T07:22:11.650Z",
@@ -137,7 +137,8 @@
           "reaction_type": 24,
           "count": 1
         }
-      ]
+      ],
+      "zh_review": "我和女儿跨平台联机（PC+Xbox），太好玩了。作为家长有些跟她玩的游戏对我不有趣，但这款不是——超好玩。家庭联机游戏第一推荐！"
     },
     {
       "recommendationid": "226299141",
@@ -199,7 +200,8 @@
           "reaction_type": 32,
           "count": 1
         }
-      ]
+      ],
+      "zh_review": "和朋友联机玩了幻兽帕鲁之后，终于知道我的世界的伟大之处了。帕鲁既能战斗又能工作，游戏一致性很高。地图设计上犄角旮旯总有奖励。配种也是一种工作，夜行性词条让帕鲁晚上不睡觉继续配种。商人居然也可以抓了带回家。联机进度共享很棒。超级好玩。"
     },
     {
       "recommendationid": "226571648",
@@ -231,7 +233,8 @@
       "written_during_early_access": true,
       "primarily_steam_deck": false,
       "app_release_date": "1705651175",
-      "reactions": []
+      "reactions": [],
+      "zh_review": "我攻击了一只鸟，然后游戏变成了黑暗之魂，10/10宝可梦"
     },
     {
       "recommendationid": "226237475",
@@ -272,7 +275,8 @@
           "reaction_type": 28,
           "count": 1
         }
-      ]
+      ],
+      "zh_review": "第一次看到帕鲁时为之着迷。但真正上手后发现没那么强。几年后再给一次机会——帕鲁成熟了，更稳定更有内容。现在终于可以推荐帕鲁了。"
     },
     {
       "recommendationid": "225141349",
@@ -317,7 +321,8 @@
           "reaction_type": 24,
           "count": 1
         }
-      ]
+      ],
+      "zh_review": "我盗版玩了这个游戏，在自己的世界里独处很久。游戏确实很棒，一个人玩也很享受。非常新手友好。我一定会用这游戏教女朋友入坑……如果我有的话。买正版保护开发者免受任天堂迫害。"
     }
   ]
 }

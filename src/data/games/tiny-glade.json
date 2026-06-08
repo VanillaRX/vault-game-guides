@@ -48,8 +48,8 @@
   "negativeReviews": 350,
   "featured": false,
   "guideCount": 0,
-  "metaDescriptionEn": "Tiny Glade is a small diorama builder where you doodle whimsical castles, cozy cottages &amp; romantic ruins. Explore gridless building chemistry as the game adorns your glades with procedural detail. No management, combat or goals: just kick back and turn forgotten meadows into lovable dioramas.",
-  "metaDescriptionZh": "《微光幽谷》建造创意指南 — 城堡设计、路径规划、景观美化技巧。",
+  "metaDescriptionEn": "Tiny Glade review — relaxing diorama builder. No goals, no stress — just build beautiful castles and cottages.",
+  "metaDescriptionZh": "《Tiny Glade》Steam 评测与介绍 — 治愈系微缩景观建造。无目标无压力——纯粹的城堡与村舍建造。",
   "similarGames": [],
   "source": "steam_api",
   "fetchedAt": "2026-06-08T07:19:37.031Z",
@@ -86,7 +86,8 @@
       "written_during_early_access": false,
       "primarily_steam_deck": false,
       "app_release_date": "1727106693",
-      "reactions": []
+      "reactions": [],
+      "zh_review": "几乎是我理想的休闲游戏。唯一能让它完美的是更多变种：超过两种花、自定义建筑形状和材料、水和凸起地形结合造瀑布。操作不够直观还在适应。但这是我找了好几年的一款游戏，强烈推荐。"
     },
     {
       "recommendationid": "226263246",
@@ -123,7 +124,8 @@
           "reaction_type": 31,
           "count": 1
         }
-      ]
+      ],
+      "zh_review": "第一款不紧张、美术风格非常吸引人的游戏。自动保存，崩溃也不丢东西。无限创造和放松。唯一烦的是游戏区域大小还行但能选择扩展就好了。还想要霍比特人房子——请加隧道/洞穴、全木房子、水井、茅草屋顶。"
     },
     {
       "recommendationid": "225217285",

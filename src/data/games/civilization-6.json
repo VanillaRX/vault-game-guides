@@ -45,8 +45,8 @@
   "metacriticScore": 88,
   "featured": false,
   "guideCount": 0,
-  "metaDescriptionEn": "Expand your empire, advance your culture and go head-to-head against history’s greatest leaders. Will your civilization stand the test of time?",
-  "metaDescriptionZh": "《文明VI》区域相邻加成完全攻略 — 学院区、工业区、剧院广场最优摆放。",
+  "metaDescriptionEn": "Civilization VI review — the 4X strategy king. District adjacency, leader strategies, victory paths.",
+  "metaDescriptionZh": "《文明VI》Steam 评测与介绍 — 4X 策略游戏之王。区域相邻加成、领袖策略、胜利路线。",
   "similarGames": [],
   "source": "steam_api",
   "fetchedAt": "2026-06-08T07:21:58.151Z",
@@ -112,7 +112,8 @@
           "reaction_type": 35,
           "count": 1
         }
-      ]
+      ],
+      "zh_review": "太好玩了捏，自从玩了文明6，管也不导了，批也不扣了，唱也不漂了"
     },
     {
       "recommendationid": "225300730",
@@ -149,7 +150,8 @@
           "reaction_type": 29,
           "count": 1
         }
-      ]
+      ],
+      "zh_review": "《文明VI》就是那种你告诉自己只玩一小时，然后一抬头发现凌晨3点的游戏。每个文明都独特、好玩，没有两次体验是相同的。重玩性真的离谱，尤其加了DLC。绝对是我玩过最让人上瘾的策略游戏之一。"
     },
     {
       "recommendationid": "226631337",
@@ -181,7 +183,8 @@
       "written_during_early_access": false,
       "primarily_steam_deck": false,
       "app_release_date": "1477022400",
-      "reactions": []
+      "reactions": [],
+      "zh_review": "💿 游戏名：Sid Meier's Civilization VI | 📅 发售日：2016年10月21日 | 🏢 工作室：Firaxis Games | ⌛️ 通关时间：约50+小时（无限重玩性） | 🎭 类型：历史/策略。优点：深度策略、不同文明差异化体验、历史沉浸感强。超好玩，每次玩都有新发现。"
     },
     {
       "recommendationid": "225991788",
@@ -234,7 +237,8 @@
         "screen_height": null,
         "precise_frame_rate": null
       },
-      "reactions": []
+      "reactions": [],
+      "zh_review": "个人评分：非常好评（90%）。今天玩了一整个上午和下午。我以前很讨厌六边形格子设计，觉得看起来很蠢。但今天不知为什么又给了一次机会……结果我真的很喜欢。游戏性介于老AoH2和HoI4之间，简直完美——有挑战但不复杂。时间过得飞快，真的好玩。不知道会不会入Civ 7或DLC。"
     }
   ]
 }

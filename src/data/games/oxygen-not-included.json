@@ -47,8 +47,8 @@
   "metacriticScore": 85,
   "featured": false,
   "guideCount": 0,
-  "metaDescriptionEn": "Oxygen Not Included is a space-colony simulation game. Deep inside an alien space rock your industrious crew will need to master science, overcome strange new lifeforms, and harness incredible space tech to survive, and possibly, thrive.",
-  "metaDescriptionZh": "《缺氧》殖民基地攻略 — 氧气循环、温度控制、电力系统、自动化设计。",
+  "metaDescriptionEn": "Oxygen Not Included review — deep colony survival sim. Oxygen loops, temperature control, power grids, automation.",
+  "metaDescriptionZh": "《缺氧》Steam 评测与介绍 — 深度殖民生存模拟。氧气循环、温度控制、电力系统、自动化设计。",
   "similarGames": [],
   "source": "steam_api",
   "fetchedAt": "2026-06-08T07:21:24.678Z",
@@ -90,7 +90,8 @@
           "reaction_type": 28,
           "count": 1
         }
-      ]
+      ],
+      "zh_review": "哥们考研上岸了，备考时间才不到800个小时，这破游戏我玩了1800个小时"
     },
     {
       "recommendationid": "225573070",
@@ -164,7 +165,8 @@
           "reaction_type": 35,
           "count": 1
         }
-      ]
+      ],
+      "zh_review": "表面可爱放松的卡通画风，实际暗藏热力学博士学位要求。《缺氧》是现代游戏中最伟大的特洛伊木马——表面是可爱殖民模拟，本质是热传导、流体力学和废物管理的博士项目。"
     }
   ]
 }

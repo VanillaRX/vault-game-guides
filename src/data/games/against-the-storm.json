@@ -49,8 +49,8 @@
   "metacriticScore": 91,
   "featured": false,
   "guideCount": 0,
-  "metaDescriptionEn": "A dark fantasy city builder where you must rebuild civilization in the face of apocalyptic rains. As the Queen’s Viceroy, lead humans, beavers, lizards, foxes, and harpies to reclaim the wilderness and secure a future for civilization's last survivors.",
-  "metaDescriptionZh": "《风暴之城》Steam 攻略与评测 — 黑暗幻想城市建造 Roguelite，随机蓝图与资源管理。",
+  "metaDescriptionEn": "Against the Storm review — dark fantasy city-builder roguelite. Real Steam reviews, screenshots, and similar game picks.",
+  "metaDescriptionZh": "《风暴之城》Steam 评测与介绍 — 黑暗幻想城市建造 Roguelite，随机蓝图与资源管理。真实玩家评价与截图。",
   "similarGames": [],
   "source": "steam_api",
   "fetchedAt": "2026-06-08T07:19:50.388Z",
@@ -104,7 +104,8 @@
           "reaction_type": 34,
           "count": 1
         }
-      ]
+      ],
+      "zh_review": "大多数游戏都有保质期——玩了、通关了（或玩腻了），然后卸载为下一款大作腾空间。《风暴之城》是罕见的例外。这是我SSD上少数几个永驻的游戏之一，我已经玩了200多小时。不管玩了多少炫酷新作，风暴之城总能把我拉回来。它是我大脑的终极'舒适游戏'。为什么戒不掉：完美的循环——因为是肉鸽城市建造，我不需要记得50小时战役停在哪。三个月没玩也能直接跳进去，15分钟就能回到状态。"
     },
     {
       "recommendationid": "225226640",
@@ -136,7 +137,8 @@
       "written_during_early_access": false,
       "primarily_steam_deck": false,
       "app_release_date": "1667293057",
-      "reactions": []
+      "reactions": [],
+      "zh_review": "非常有趣，适合喜欢城市建造但时间不多的玩家。难度可调节，游戏可以分成小段享受。建筑选择丰富，同时保持足够的挑战性——有时候你不得不在缺少心仪建筑的条件下运营。总的来说非常有意思的游戏。"
     }
   ]
 }

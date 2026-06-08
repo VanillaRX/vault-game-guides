@@ -5,6 +5,7 @@ import type { Lang } from "@/lib/i18n";
 import type { GameEntry } from "@/lib/types";
 import { LocalLink as Link } from "@/components/layout/local-link";
 import { SteamReviewFeed } from "@/components/discovery/steam-review-feed";
+import { ScreenshotLightbox } from "@/components/discovery/screenshot-lightbox";
 
 interface Props { params: Promise<{ lang: string; slug: string }>; }
 
@@ -164,11 +165,7 @@ export default async function GameDetailPage({ params }: Props) {
           <h2 className="mb-4 font-display text-lg font-bold tracking-tight text-[var(--neon)]">
             {isZh ? "游戏截图" : "Screenshots"}
           </h2>
-          <div className="grid gap-3 sm:grid-cols-2">
-            {screenshots.slice(0, 4).map((url, i) => (
-              <img key={i} src={url} alt={`${title} ${i + 1}`} className="rounded-xl border border-[var(--border)] object-cover w-full" loading="lazy" />
-            ))}
-          </div>
+          <ScreenshotLightbox screenshots={screenshots} title={title} />
         </section>
       )}
 

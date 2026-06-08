@@ -55,8 +55,8 @@
   "metacriticScore": 76,
   "featured": false,
   "guideCount": 0,
-  "metaDescriptionEn": "Build and manage your own castle settlement in a land reclaimed by wilderness. With detailed management, survival strategy, and a moddable sandbox world, Going Medieval challenges you to build the mightiest colony this side of the apocalypse.",
-  "metaDescriptionZh": "《前往中世纪》城堡建造攻略 — 多层建筑设计、居民心情管理、冬季生存策略。",
+  "metaDescriptionEn": "Going Medieval review — multi-level castle builder. Z-level design, settler mood, winter survival, defense.",
+  "metaDescriptionZh": "《前往中世纪》Steam 评测与介绍 — 多层城堡建造模拟。Z 轴建筑设计、居民心情管理、冬季生存。",
   "similarGames": [],
   "source": "steam_api",
   "fetchedAt": "2026-06-08T07:20:10.530Z",
@@ -115,7 +115,8 @@
           "reaction_type": 29,
           "count": 1
         }
-      ]
+      ],
+      "zh_review": "急需家族系统。这是一个巨大的根本性缺陷。'中世纪'社会的整个概念建立在血统、王朝和家庭单元的基石上。当你想到中世纪定居点，你想到的是为家族建造家园、父女传承铁匠手艺、缔结联盟。去掉这些不仅是缺失功能——它直接掏空了整个时代的角色扮演和沉浸感。相反，《前往中世纪》把你困在一个奇怪的、冷漠的循环中，你的殖民地基本上只是一个高级公社。"
     },
     {
       "recommendationid": "225292589",
@@ -147,7 +148,8 @@
       "written_during_early_access": false,
       "primarily_steam_deck": false,
       "app_release_date": "1622559561",
-      "reactions": []
+      "reactions": [],
+      "zh_review": "非常好的游戏，但请加入生育小孩的设定。"
     }
   ]
 }

@@ -49,8 +49,8 @@
   "metacriticScore": 94,
   "featured": false,
   "guideCount": 0,
-  "metaDescriptionEn": "THE CRITICALLY ACCLAIMED FANTASY ACTION RPG. Rise, Tarnished, and be guided by grace to brandish the power of the Elden Ring and become an Elden Lord in the Lands Between.",
-  "metaDescriptionZh": "《艾尔登法环》BOSS 攻略与配装指南 — 全BOSS打法、武器推荐、魔法流派。",
+  "metaDescriptionEn": "Elden Ring review — FromSoftware open-world masterpiece. Boss fights, builds, weapon picks, DLC content.",
+  "metaDescriptionZh": "《艾尔登法环》Steam 评测与介绍 — FromSoftware 开放世界神作。BOSS 打法、配装流派、DLC 内容。",
   "similarGames": [],
   "source": "steam_api",
   "fetchedAt": "2026-06-08T07:22:58.822Z",
@@ -112,7 +112,8 @@
           "reaction_type": 35,
           "count": 1
         }
-      ]
+      ],
+      "zh_review": "大家都知道宫崎英高小时候被他爸用皮带抽——但皮带出手有延迟，好让他躲不开。但很少有人知道这伟大故事的后续。宫崎英高后来适应了，记住了皮带的所有帧数，不再受到伤害。但他父亲没慌，花了2年时间再次给心爱的儿子惊喜——现在伤害提高10倍，满屋子乱跳，快慢刀组合让宫崎英高的眼睛根本追不上。但父亲知道他终将再次适应，所以在带子上涂毒（猩红腐败）。这就是——艾尔登法环。"
     },
     {
       "recommendationid": "225981378",
@@ -186,7 +187,8 @@
           "reaction_type": 33,
           "count": 1
         }
-      ]
+      ],
+      "zh_review": "终极游戏体验！说实话，写评测反而觉得多余，因为文字根本不足以表达。很久没买收藏版了，但这次发售前我就知道一定得入艾尔登法环的CE。完美之作，属于'死之前一定要玩'的级别。非要挑毛病的话，重复利用的敌人是最大缺陷。但玩法、探索和Boss战都是大师级！"
     },
     {
       "recommendationid": "225804474",
@@ -223,7 +225,8 @@
           "reaction_type": 24,
           "count": 3
         }
-      ]
+      ],
+      "zh_review": "是个好游戏，但快两千小时后也就剩十来套build能试了，他们应该再加点内容。"
     },
     {
       "recommendationid": "225995258",
@@ -268,7 +271,8 @@
           "reaction_type": 32,
           "count": 1
         }
-      ]
+      ],
+      "zh_review": "说实在的，我完全不懂，为什么法环里面这些NPC也依旧是没有善终的。你要是说黑魂系列，火要灭了，大家都得完蛋。这种末世背景下大家都很惨那很正常。但是交界地说白了就是玛丽卡一家打内战，可以说是乱世但完全不到灭世的地步。这样的世界观下居然NPC也基本没有好的结局……柯林疯了，D和他孪生兄弟死了，菲雅死了，罗杰尔死了，铁匠修古也要死了。罗德莉卡好不容易走上调灵师之路，居然要留在圆桌和修谷一起赴死。连最支持我们的解指婆婆恩雅也随着死亡卢恩的释放死去了。整个大赐福几乎死光了……也许三指真的是对的。"
     },
     {
       "recommendationid": "225971727",
@@ -305,7 +309,8 @@
           "reaction_type": 35,
           "count": 4
         }
-      ]
+      ],
+      "zh_review": "这游戏太上瘾了，体量巨大！我花了275小时通关，现在刚开始DLC。50年游戏生涯中玩过最棒的游戏之一。"
     }
   ]
 }

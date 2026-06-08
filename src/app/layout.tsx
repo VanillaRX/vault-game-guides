@@ -1,4 +1,5 @@
 import type { Metadata } from "next";
+import Script from "next/script";
 import { Orbitron, Manrope, JetBrains_Mono } from "next/font/google";
 import "./globals.css";
 
@@ -24,16 +25,16 @@ export const metadata: Metadata = {
     google: "6xrjY2M3T1Q-1KVtiMvSmCS3HVsLZR51fCGKDw7C6Uw",
   },
   title: {
-    default: "Vault Guides — Strategy & Management Game Walkthroughs",
+    default: "Vault Guides — Discover Your Next Game",
     template: "%s | Vault Guides",
   },
   description:
-    "In-depth production layouts, district adjacency guides, defense strategies, and optimization walkthroughs for strategy, city-builder, and colony sim games.",
+    "Discover strategy, simulation, and management games worth your time. Real Steam reviews, honest recommendations, and smart picks.",
   metadataBase: new URL("https://vault-game-guides.com"),
   openGraph: {
-    title: "Vault Guides — Strategy & Management Game Guides",
+    title: "Vault Guides — Game Discovery Platform",
     description:
-      "Production chains, district layouts, killbox designs, and colony sim strategies. Anno 1800, Civ 6, RimWorld, and more.",
+      "Browse 50+ curated strategy and sim games. Real player reviews, screenshots, and smart recommendations.",
     type: "website",
     siteName: "Vault Guides",
   },
@@ -49,26 +50,34 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
       suppressHydrationWarning
     >
       <head>
-        {/* Theme init — runs before paint, uses style.setProperty to avoid React hydration conflict */}
+        {/* Theme init — runs before paint */}
         <script
           dangerouslySetInnerHTML={{
             __html: `(function(){try{var t=localStorage.getItem("vault-theme");if(t==="cozy"){var r=document.documentElement.style;r.setProperty("--bg","#faf7f2");r.setProperty("--fg","#3d2e28");r.setProperty("--accent","#e8785a");r.setProperty("--neon","#5ba675");r.setProperty("--amber","#d4a853");r.setProperty("--card","#ffffff");r.setProperty("--border","#e8ddd0");r.setProperty("--muted","#9b8c80")}}catch(e){}})()`,
           }}
         />
-        <script async src="https://www.googletagmanager.com/gtag/js?id=G-7FKTX7NCSB" />
-        <script
+      </head>
+      <body className="flex min-h-screen flex-col" suppressHydrationWarning>
+        {children}
+        {/* GA4 */}
+        <Script
+          strategy="afterInteractive"
+          src="https://www.googletagmanager.com/gtag/js?id=G-7FKTX7NCSB"
+        />
+        <Script
+          id="gtag-init"
+          strategy="afterInteractive"
           dangerouslySetInnerHTML={{
             __html: `window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments)}gtag('js',new Date());gtag('config','G-7FKTX7NCSB');`,
           }}
         />
-        <script
-          async
+        {/* AdSense */}
+        <Script
+          id="adsense-init"
+          strategy="afterInteractive"
           src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2426573212924333"
           crossOrigin="anonymous"
         />
-      </head>
-      <body className="flex min-h-screen flex-col">
-        {children}
       </body>
     </html>
   );

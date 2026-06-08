@@ -3,6 +3,7 @@ import type { Lang } from "@/lib/i18n";
 interface SteamReviewItem {
   recommendationid: string;
   review: string;
+  zh_review?: string;
   voted_up: boolean;
   votes_up: number;
   votes_funny: number;
@@ -37,7 +38,7 @@ export function SteamReviewFeed({ reviews, lang }: Props) {
               </span>
             </div>
             <p className="text-xs leading-relaxed text-[var(--fg)]/80 line-clamp-6">
-              {r.review}
+              {isZh && r.zh_review ? r.zh_review : r.review}
             </p>
           </div>
         ))}

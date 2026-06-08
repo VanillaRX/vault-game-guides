@@ -2,7 +2,7 @@
   "slug": "travellers-rest",
   "steamAppId": 1139980,
   "title": "Travellers Rest",
-  "zhTitle": "旅者驿站",
+  "zhTitle": "旅者之憩",
   "shortDescription": "Craft, farm, build and cook! In Travellers Rest you will have to use all the available tools to become the best tavern keeper in the realm. Create unique dishes and drinks to please your customers as you discover the world and its colorful characters.",
   "zhShortDescription": "经营中世纪酒馆——酿造啤酒、烹饪美食、招待旅人。",
   "description": "Craft, farm, build and cook! In Travellers Rest you will have to use all the available tools to become the best tavern keeper in the realm. Create unique dishes and drinks to please your customers as you discover the world and its colorful characters. Take your establishment to the top in this exciting new adventure! Your tavern, your rules Expand and manage your own fantasy tavern. Customize it with furniture and other decorative elements to improve your reputation. Do not stop until you have the tavern of your dreams! Tend to your customers Hundreds of customers are waiting to be tended to – serve them a nice mug of beer or kick them out if they start to bother the others! Earn mountains of gold and become the best tavern keeper in the land. Create your own style Discover new recipes and",
@@ -64,8 +64,8 @@
   "negativeReviews": 868,
   "featured": false,
   "guideCount": 0,
-  "metaDescriptionEn": "Craft, farm, build and cook! In Travellers Rest you will have to use all the available tools to become the best tavern keeper in the realm. Create unique dishes and drinks to please your customers as you discover the world and its colorful characters.",
-  "metaDescriptionZh": "《旅者驿站》酒馆攻略 — 酿造配方、酒馆设计、员工管理、赚钱技巧。",
+  "metaDescriptionEn": "Travellers Rest review — tavern management sim. Brewing recipes, tavern design, staff management, profit tips.",
+  "metaDescriptionZh": "《旅者之憩》Steam 评测与介绍 — 酒馆经营模拟。酿造配方、酒馆设计、员工管理、赚钱技巧。",
   "similarGames": [],
   "source": "steam_api",
   "fetchedAt": "2026-06-08T07:18:03.365Z",
@@ -107,7 +107,8 @@
           "reaction_type": 26,
           "count": 2
         }
-      ]
+      ],
+      "zh_review": "2024年左右玩过，那时明显是早期开发阶段。2年后回来玩联机（很高兴加了这个）。但最终非常失望。很多东西变了但有时bug多到玩不了。睡一觉第二天没法用工作台、角色眼睛消失、矿洞里被石头卡住。"
     },
     {
       "recommendationid": "225761258",
@@ -171,7 +172,8 @@
       "written_during_early_access": true,
       "primarily_steam_deck": false,
       "app_release_date": "1595951905",
-      "reactions": []
+      "reactions": [],
+      "zh_review": "更新的时候请不要再为了拉长游戏时间故意绕路或者要求一天内收集太多限量材料了。老玩家做几小时重复劳动就结束了，但新手重复这种不合理的路线N次会有多无聊。辛苦更新的内容30分钟就消费完了，但玩家分得清这到底是30分钟内容被强行拉成3小时还是真的有3小时内容。别让游戏体验变得不愉快，爽快地以舒适体验公开内容吧。"
     },
     {
       "recommendationid": "226266854",
@@ -212,7 +214,8 @@
           "reaction_type": 27,
           "count": 1
         }
-      ]
+      ],
+      "zh_review": "我完整通关并完成了所有成就，因为我太喜欢了。游戏氛围无比舒适，能感受到星露谷或牧场物语的灵感但有自己的新鲜感——尤其因为酒馆经营。如果你喜欢放松的农场游戏，旅者之憩是一个很好的节奏转变。"
     },
     {
       "recommendationid": "225220612",
@@ -249,7 +252,8 @@
           "reaction_type": 26,
           "count": 1
         }
-      ]
+      ],
+      "zh_review": "一款关于我的服务员、酒保、保安和管家组织工会然后罢工的游戏。十万桶麦芽酒/10"
     }
   ]
 }

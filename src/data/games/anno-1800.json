@@ -58,8 +58,8 @@
   "metacriticScore": 81,
   "featured": false,
   "guideCount": 0,
-  "metaDescriptionEn": "Anno 1800™ – Lead the Industrial Revolution! Welcome to the dawn of the Industrial Age. The path you choose will define your world. Are you an innovator or an exploiter? A conqueror or a liberator? How the world remembers your name is up to you.",
-  "metaDescriptionZh": "《纪元1800》产业链布局攻略 — 仓库摆放、工会优化、跨区域供应链完全指南。",
+  "metaDescriptionEn": "Anno 1800 review — the definitive industrial-age city builder. Production chains, trade routes, and New World exploration.",
+  "metaDescriptionZh": "《纪元1800》Steam 评测与介绍 — 工业时代城市建造巅峰之作。产业链、贸易路线、新世界探索。",
   "similarGames": [],
   "source": "steam_api",
   "fetchedAt": "2026-06-08T07:20:23.980Z",
@@ -99,7 +99,8 @@
       "timestamp_dev_responded": 1778769776,
       "developer_response": "Hi there Didi. I'm sorry to hear you are having an issue creating an account.\n\nIf you've only tried using the Ubisoft Connect launcher, let's instead try creating your account via the Ubisoft website. Once you're there, click on the grey person icon in the top right corner, then choose \"Create an Account.\" From there, please follow these [url=www.ubisoft.com/help/article/000078663] dedicated steps on Ubisoft account creation [/url].\n\nIf you continue encountering issues with account creation such as the website remaining blank/constantly loading trying your credentials, or 404 errors, try all the steps in our [url=www.ubisoft.com/help/article/000062631] browser troubleshooting guide [/url]. These will cross off common causes for websites not working properly.\n\nIf you are still having issues after this, please do not hesitate to contact our support teams so that we can assist you further. To do that open a [url=https://www.ubisoft.com/en-us/help/contact] new support case [/url] and choose the following options:\n\nAccount Management and Security > Other Account Queries > Type a full detailed description and include any error messages you've seen as well as mentioning all specific troubleshooting you've already tried.\n\nAttach a screenshot of any error messages or in general what you're seeing when trying to create an account and someone will get back to you.\n",
       "app_release_date": "1555430400",
-      "reactions": []
+      "reactions": [],
+      "zh_review": "下载游戏20分钟了，还是注册不了他们网站的账号？？？"
     },
     {
       "recommendationid": "225454959",
@@ -131,7 +132,8 @@
       "written_during_early_access": false,
       "primarily_steam_deck": false,
       "app_release_date": "1555430400",
-      "reactions": []
+      "reactions": [],
+      "zh_review": "育碧登录系统炸了，我连自己本地托管的单人游戏都进不去。太棒了。"
     }
   ]
 }

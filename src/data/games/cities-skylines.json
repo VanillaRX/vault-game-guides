@@ -48,8 +48,8 @@
   "metacriticScore": 85,
   "featured": false,
   "guideCount": 0,
-  "metaDescriptionEn": "Cities: Skylines is a modern take on the classic city simulation. The game introduces new game play elements to realize the thrill and hardships of creating and maintaining a real city whilst expanding on some well-established tropes of the city building experience.",
-  "metaDescriptionZh": "《城市天际线》交通规划与城市布局攻略 — 道路设计、公共交通、区域划分完全指南。",
+  "metaDescriptionEn": "Cities: Skylines review — the ultimate modern city builder. Traffic design, transit systems, zoning strategies.",
+  "metaDescriptionZh": "《城市天际线》Steam 评测与介绍 — 现代城市建造标杆之作。交通规划、公共交通、区域划分。",
   "similarGames": [],
   "source": "steam_api",
   "fetchedAt": "2026-06-08T07:20:30.958Z",
@@ -111,7 +111,8 @@
           "reaction_type": 33,
           "count": 1
         }
-      ]
+      ],
+      "zh_review": "尽管这款游戏广受好评，但我最近想重新入坑时遇到了可能是游戏市场最恶劣的消费陷阱。自从我转主机后，我花了4-5周在PS4上把DLC全买了。要知道Paradox的模式就是以DLC为中心！他们的游戏光DLC就要100-400美元！几乎所有游戏都有DLC订阅！社区竟然容忍这种无底洞般的变现方式——无论他们的游戏多好，我都不想支持这种模式了。"
     },
     {
       "recommendationid": "226061115",
@@ -148,7 +149,8 @@
           "reaction_type": 35,
           "count": 1
         }
-      ]
+      ],
+      "zh_review": "堵车、建设、污染。你扮演市长，从一块空地和一笔钱开始。任务是建造一座人们可以生活、工作和永远抱怨的城市。游戏提供广泛的可能性：从铺设道路和交通系统到管理预算、税收和公用事业。基础设施规划工具丰富，可自定义程度高。细节处理出色：比如可以控制污染水平、提供水电、管理垃圾处理。城市会像真实城市一样有机发展。"
     },
     {
       "recommendationid": "226751889",
@@ -180,7 +182,8 @@
       "written_during_early_access": false,
       "primarily_steam_deck": false,
       "app_release_date": "1426003200",
-      "reactions": []
+      "reactions": [],
+      "zh_review": "不推荐玩，一打开一上午没了，再一打开一下午没了，又一打开一晚上没了"
     }
   ]
 }

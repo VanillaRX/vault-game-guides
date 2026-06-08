@@ -55,8 +55,8 @@
   "metacriticScore": 76,
   "featured": false,
   "guideCount": 0,
-  "metaDescriptionEn": "Build and customise thrilling roller coasters and incredible water slides, manage the ultimate theme park experience, and share your epic creations. Are you ready to ride the wave? ",
-  "metaDescriptionZh": "《过山车之星2》公园攻略 — 轨道建造技巧、游客满意度、盈利优化。",
+  "metaDescriptionEn": "Planet Coaster 2 review — ultimate theme park builder. Coaster design, guest satisfaction, profit optimization.",
+  "metaDescriptionZh": "《过山车之星2》Steam 评测与介绍 — 终极主题公园建造。轨道设计、游客满意度、盈利优化。",
   "similarGames": [],
   "source": "steam_api",
   "fetchedAt": "2026-06-08T07:22:38.512Z",
@@ -114,7 +114,8 @@
           "reaction_type": 27,
           "count": 1
         }
-      ]
+      ],
+      "zh_review": "作为过山车之星的轻度玩家，我玩得不久。我都70多岁了，孙子给我配了台能跑所有过山车游戏的新电脑。从过山车大亨年代一路玩到现在，已经上瘾了。虽然我玩得不太好但一直坚持。强烈推荐给喜欢这类游戏的人——有趣又上瘾。"
     },
     {
       "recommendationid": "225120050",
@@ -155,7 +156,8 @@
           "reaction_type": 34,
           "count": 1
         }
-      ]
+      ],
+      "zh_review": "玩了18个月后可以写评价了。游戏本身是顶级建造游戏——你甚至不需要做主题公园，可以建造任何想象的东西。相比一代，能调整大小、把物品附着到过山车上，是改变游戏规则的功能。游泳池和滑水道的加入是另一个加分项。UI有时让人头疼但整体很棒。"
     },
     {
       "recommendationid": "225636296",
@@ -196,7 +198,8 @@
           "reaction_type": 28,
           "count": 1
         }
-      ]
+      ],
+      "zh_review": "我真的希望这游戏能好，一直等到能写好评……但我做不到。每次更新都破坏之前能用的功能。然后几天后发个热修复修4-5个问题。之后2-3个月静默。等DLC准备好榨钱时才宣布旧bug的'修复'。首发日bug至今没修。"
     },
     {
       "recommendationid": "225852714",
@@ -254,7 +257,8 @@
           "reaction_type": 24,
           "count": 1
         }
-      ]
+      ],
+      "zh_review": "关于过山车之星2我必须老实说：我不太明白为什么非要出第二代。画面确实提升了，不能否认。但对我来说真正的游戏乐趣几乎没有。整个电力、水过滤等管理系统太繁琐了。"
     },
     {
       "recommendationid": "226757970",
@@ -286,7 +290,8 @@
       "written_during_early_access": false,
       "primarily_steam_deck": false,
       "app_release_date": "1730905185",
-      "reactions": []
+      "reactions": [],
+      "zh_review": "我真的很不喜欢每个主题没有内置结构建筑——感觉特别懒，好像他们期望你要么自己从头建，要么花好几小时翻工坊。我只想建个大主题公园，不想花几个小时建结构。"
     }
   ]
 }

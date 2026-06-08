@@ -52,8 +52,8 @@
   "metacriticScore": 87,
   "featured": false,
   "guideCount": 0,
-  "metaDescriptionEn": "A sci-fi colony sim driven by an intelligent AI storyteller. Generates stories by simulating psychology, ecology, gunplay, melee combat, climate, biomes, diplomacy, interpersonal relationships, art, medicine, trade, and more.",
-  "metaDescriptionZh": "《边缘世界》殖民管理攻略 — 杀阵设计、心情优化、殖民地布局指南。",
+  "metaDescriptionEn": "RimWorld review — story-generating colony sim. Colony layout, mood optimization, defense design, modding.",
+  "metaDescriptionZh": "《边缘世界》Steam 评测与介绍 — 故事生成器殖民模拟。殖民地布局、心情优化、防御设计、海量 MOD。",
   "similarGames": [],
   "source": "steam_api",
   "fetchedAt": "2026-06-08T07:21:18.010Z",
@@ -210,7 +210,8 @@
           "reaction_type": 35,
           "count": 1
         }
-      ]
+      ],
+      "zh_review": "17000+小时的游戏时长说明一切。惊人的游戏设计。无限重玩性和无尽的mod，这是我史上最爱的游戏。"
     },
     {
       "recommendationid": "226552283",
@@ -316,7 +317,8 @@
           "reaction_type": 27,
           "count": 1
         }
-      ]
+      ],
+      "zh_review": "决定开一个正常和平档。1小时后我在向商队倒卖器官。11/10"
     }
   ]
 }

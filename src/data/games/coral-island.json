@@ -67,8 +67,8 @@
   "negativeReviews": 1422,
   "featured": false,
   "guideCount": 0,
-  "metaDescriptionEn": "Coral Island is a vibrant, laid-back farm sim reimagined with multiplayer! Experience enchanting island life at your own pace: farm with friends, nurture animals, build relationships, hang out with a diverse cast of characters, and dive into the magical Merfolk Kingdom.",
-  "metaDescriptionZh": "《珊瑚岛》新手攻略 — 农耕指南、NPC好感度、潜水探索、珊瑚礁修复。",
+  "metaDescriptionEn": "Coral Island review — tropical farming sim with diving and coral restoration. NPCs, romance, exploration.",
+  "metaDescriptionZh": "《珊瑚岛》Steam 评测与介绍 — 热带农场模拟，潜水探索与珊瑚修复。NPC 好感度、恋爱系统、海底世界。",
   "similarGames": [],
   "source": "steam_api",
   "fetchedAt": "2026-06-08T07:17:09.527Z",
@@ -110,7 +110,8 @@
           "reaction_type": 29,
           "count": 1
         }
-      ]
+      ],
+      "zh_review": "作为一个对农场模拟现状失望、反复纠结珊瑚岛值不值得试的人，希望这条评价能帮到你。我知道每个农场模拟都会被拿来和星露谷比，玩家和开发者都烦了。但我不比较游戏本身，我比较的是玩的感觉。这是第一款让我找到第一次玩星露谷时那种感觉的农场模拟——那种感觉极难复制，因为太多农场游戏只是机械缝合。珊瑚岛不是。"
     },
     {
       "recommendationid": "225930476",
@@ -161,7 +162,8 @@
           "reaction_type": 35,
           "count": 1
         }
-      ]
+      ],
+      "zh_review": "我真的很喜欢这个游戏，但在我600小时的一个存档上，他们出了个更新直接把600小时进度毁了——因为存档在版本间不兼容。对于一个'正式版'游戏来说这根本不该发生。这直接浇灭了我的热情，放弃了。花了那么多心血后不想从头再来。看到现在还有巨大的路线图更是劝退——因为我的存档还会被毁。如果修好这个问题，这会是一款超棒的游戏。"
     },
     {
       "recommendationid": "225225575",
@@ -214,7 +216,8 @@
         "screen_height": null,
         "precise_frame_rate": null
       },
-      "reactions": []
+      "reactions": [],
+      "zh_review": "很棒的农场经营游戏，非常可爱，和星露谷有很多不同的东西，我非常喜欢，有太多事情可以做和发现。看起来未来还会有更多令人期待的内容更新。好游戏。"
     }
   ]
 }

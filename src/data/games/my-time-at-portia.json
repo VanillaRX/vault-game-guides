@@ -57,8 +57,8 @@
   "metacriticScore": 73,
   "featured": false,
   "guideCount": 0,
-  "metaDescriptionEn": "Start a new life in the enchanting town of Portia! Restore your Pa's neglected workshop to its former glory by fulfilling commissions, growing crops, raising animals, and befriending the quirky inhabitants of this charming post-apocalyptic land!",
-  "metaDescriptionZh": "《波西亚时光》工坊经营攻略 — 材料收集、物品制作、NPC好感度、遗迹探索。",
+  "metaDescriptionEn": "My Time at Portia review — charming workshop sim. Material gathering, crafting, NPC relationships, ruin diving.",
+  "metaDescriptionZh": "《波西亚时光》Steam 评测与介绍 — 治愈系工坊经营。材料收集、物品制作、NPC 好感度、遗迹探索。",
   "similarGames": [],
   "source": "steam_api",
   "fetchedAt": "2026-06-08T07:17:23.173Z",
@@ -95,7 +95,8 @@
       "written_during_early_access": false,
       "primarily_steam_deck": false,
       "app_release_date": "1516723620",
-      "reactions": []
+      "reactions": [],
+      "zh_review": "《波西亚时光》是一款还不错、挺漂亮的游戏，但它患有严重的'姐姐综合症'——它走路了，好让续作能冲刺。如果你是硬核休闲游戏狂热爱好者，需要把每个制造模拟器直接注入血管，买吧，你会玩得开心。但如果你是个正常人今天才玩，整个体验会感觉明显……不对劲。现在玩波西亚感觉就像戴烤箱手套组装宜家家具。操作是纯粹的、未经过滤的生硬，资源肝度不是'放松周末爱好'而是'第二份全职工作'。"
     }
   ]
 }

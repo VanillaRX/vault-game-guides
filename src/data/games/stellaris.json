@@ -45,8 +45,8 @@
   "metacriticScore": 78,
   "featured": false,
   "guideCount": 0,
-  "metaDescriptionEn": "Explore a galaxy full of wonders in this sci-fi grand strategy game from Paradox Development Studios. Interact with diverse alien races, discover strange new worlds with unexpected events and expand the reach of your empire. Each new adventure holds almost limitless possibilities.",
-  "metaDescriptionZh": "《群星》帝国攻略 — 种族特性搭配、科技路线、舰队配置、外交策略。",
+  "metaDescriptionEn": "Stellaris review — grand space strategy game. Empire traits, tech paths, fleet design, diplomacy, crises.",
+  "metaDescriptionZh": "《群星》Steam 评测与介绍 — 太空大战略游戏。帝国特性搭配、科技路线、舰队配置、外交策略。",
   "similarGames": [],
   "source": "steam_api",
   "fetchedAt": "2026-06-08T07:22:04.923Z",
@@ -96,7 +96,8 @@
           "reaction_type": 32,
           "count": 1
         }
-      ]
+      ],
+      "zh_review": "我曾经爱这款游戏，度过了无数本该学习却跟朋友统治星系的夜晚。但我厌倦了每次休息回来都得重新学游戏——大概每个月就重做一次机制。很少改动真的改进了游戏。DLC太疯狂了，大部分应该免费整合进本体。用户数据收集和卖给第三方实在不齿。"
     },
     {
       "recommendationid": "225151641",
@@ -163,7 +164,8 @@
           "reaction_type": 35,
           "count": 1
         }
-      ]
+      ],
+      "zh_review": "游戏目前全部评价非常好评，近期褒贬不一。游戏好→更新→造成大量卡顿和bug→粉丝合理不满→褒贬不一。不过他们一直在解决问题。群星刚过10周年，有持续免费更新。虽然制作组并非无可批评，但游戏质量仍然非常高。"
     },
     {
       "recommendationid": "225477477",
@@ -212,7 +214,8 @@
           "reaction_type": 32,
           "count": 1
         }
-      ]
+      ],
+      "zh_review": "像所有P社游戏一样，这是卖DLC的骗局。本体是空心壳。付了1个月全DLC订阅，可以告诉你没有一个值得你的钱。每个DLC几乎什么都没卖。只是10年臃肿开发中看起来内容很多。"
     },
     {
       "recommendationid": "225315649",

@@ -57,8 +57,8 @@
   "negativeReviews": 1355,
   "featured": false,
   "guideCount": 0,
-  "metaDescriptionEn": "Continue the adventures of Beatrix LeBeau as she journeys across the Slime Sea to Rainbow Island, a land brimming with ancient mysteries, and bursting with wiggly, new slimes to wrangle in this sequel to the smash-hit, Slime Rancher.",
-  "metaDescriptionZh": "《史莱姆牧场2》新手指南 — 彩虹岛探索、新史莱姆图鉴、牧场扩建攻略。",
+  "metaDescriptionEn": "Slime Rancher 2 review — Rainbow Island slime farming. New slimes, ranch expansion, exploration.",
+  "metaDescriptionZh": "《史莱姆牧场2》Steam 评测与介绍 — 彩虹岛史莱姆农场。新史莱姆图鉴、牧场扩建、岛屿探索。",
   "similarGames": [],
   "source": "steam_api",
   "fetchedAt": "2026-06-08T07:18:43.529Z",
@@ -104,7 +104,8 @@
           "reaction_type": 32,
           "count": 2
         }
-      ]
+      ],
+      "zh_review": "更大但不是更好。我讨厌写差评但跟一代比太令人失望了。一代是探索和建造，二代变成枯燥刷资源。探索在拿到几个升级前都很痛苦。牧场扩张太多导致管理变成苦差事。前三个区域画面漂亮但千篇一律。"
     },
     {
       "recommendationid": "226125722",
@@ -169,7 +170,8 @@
       "written_during_early_access": false,
       "primarily_steam_deck": true,
       "app_release_date": "1663866009",
-      "reactions": []
+      "reactions": [],
+      "zh_review": "终于100%完成了。总体体验非常正面，我爱这个系列。画面绝对惊艳，第一次探索每个区域都充满乐趣。天气是很好的新功能。但终局内容需要更多打磨。有些QoL问题拖了后腿。"
     }
   ]
 }

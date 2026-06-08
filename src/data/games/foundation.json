@@ -52,8 +52,8 @@
   "metacriticScore": 84,
   "featured": false,
   "guideCount": 0,
-  "metaDescriptionEn": "Foundation is a grid-less, laidback medieval city-building game with a focus on organic development, monument construction and resource management.",
-  "metaDescriptionZh": "《Foundation》有机城市布局攻略 — 区域规划、供应链、纪念碑建造指南。",
+  "metaDescriptionEn": "Foundation review — gridless organic medieval city-builder. Zone planning, supply chains, monument construction.",
+  "metaDescriptionZh": "《Foundation》Steam 评测与介绍 — 无网格有机城市建造。区域规划、供应链、纪念碑建造。",
   "similarGames": [],
   "aliases": [],
   "reviewScore": 8,
@@ -110,7 +110,8 @@
         "screen_height": 1080,
         "precise_frame_rate": null
       },
-      "reactions": []
+      "reactions": [],
+      "zh_review": "即使有4支军队在两块小住宅区永久巡逻、轻度防御、带乡村瞭望塔，也只有4栋房子升到中密度。我无法进一步发展因为居民一直因缺乏住房而离开。市场摊位也有些问题但主要是烦人。如果没bug的话应该挺好玩。希望开发者修好。"
     }
   ]
 }

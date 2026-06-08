@@ -2,7 +2,7 @@
   "slug": "fabledom",
   "steamAppId": 1651560,
   "title": "Fabledom",
-  "zhTitle": "童话王国",
+  "zhTitle": "寓言之地",
   "shortDescription": "Set in a wholesome fairytale world, Fabledom is a laid-back City builder. Enjoy the growth of your settlement, interact with your neighbors and defend your kingdom from magical creatures. All to find true love and live happily ever after!",
   "zhShortDescription": "温馨童话风格的城市建造游戏，建造王国、发展外交。",
   "description": "Welcome, your Highness! A vast land awaits your settlers and is ready to be colonized. Fabledom offers an accessible and intuitive way of playing City builders, the game is easy to pick up and play for anyone but can still offer a challenge for more experienced players thanks to its difficulty settings. Set in a strange world where Fairytales become reality, you will witness the growth of your village; follow your citizens’ lives and watch the rise and fall of your relationships with the neighboring kingdoms. From a small village to a bustling Fairy tale Kingdom Find the promised land, settle, and flourish! You will need every resource available to you to expand and thrive. Build and shape a city worthy of your citizens! Meet & interact with magical creatures Experience a fairytale world f",
@@ -57,8 +57,8 @@
   "metacriticScore": 77,
   "featured": false,
   "guideCount": 0,
-  "metaDescriptionEn": "Set in a wholesome fairytale world, Fabledom is a laid-back City builder. Enjoy the growth of your settlement, interact with your neighbors and defend your kingdom from magical creatures. All to find true love and live happily ever after!",
-  "metaDescriptionZh": "《Fabledom》童话城市建造攻略 — 资源管理、外交策略、王国发展指南。",
+  "metaDescriptionEn": "Fabledom review — fairy-tale city builder with diplomacy. Resource management, kingdom growth, romance.",
+  "metaDescriptionZh": "《寓言之地》Steam 评测与介绍 — 童话风城市建造游戏。资源管理、外交策略、王国发展。",
   "similarGames": [],
   "source": "steam_api",
   "fetchedAt": "2026-06-08T07:19:57.107Z",
@@ -121,7 +121,8 @@
           "reaction_type": 33,
           "count": 1
         }
-      ]
+      ],
+      "zh_review": "我不太确定能管它叫'轻松休闲'。画面很美，但内容挺浅的，后期还特别繁琐。资源采集/产出严重失衡——玩了几个小时后我两个铁矿就有近2000铁却没处用，同时6个炭窑全天运转、库存永远0或1，居民一直抱怨冬天没取暖。我什么都没在造，根本不知道所有资源去哪了。"
     },
     {
       "recommendationid": "226977063",
@@ -153,7 +154,8 @@
       "written_during_early_access": false,
       "primarily_steam_deck": false,
       "app_release_date": "1681393757",
-      "reactions": []
+      "reactions": [],
+      "zh_review": "我喜欢这游戏的奇幻可爱风格，但不到12小时就通关了。确实有几小时的乐趣，但终局不够深入，后期就是重复。打折$6.29时买来玩几小时还行，但不值$20.99。2.5/5。"
     }
   ]
 }

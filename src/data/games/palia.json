@@ -58,8 +58,8 @@
   "negativeReviews": 2,
   "featured": false,
   "guideCount": 0,
-  "metaDescriptionEn": "Discover a welcoming world in Palia, a free-to-play fantasy life sim adventure where you can craft, explore, and create the life and home of your dreams. With nearly endless ways to make Palia your home, you’ll find relaxation and joy in every corner of this vibrant, heartwarming world.",
-  "metaDescriptionZh": "《帕里亚》新手指南 — 家园建造、技能升级、社区活动参与攻略。",
+  "metaDescriptionEn": "Palia review — cozy free-to-play MMO. Home building, skill progression, community events.",
+  "metaDescriptionZh": "《帕里亚》Steam 评测与介绍 — 治愈系免费 MMO。家园建造、技能升级、社区活动。",
   "similarGames": [],
   "source": "steam_api",
   "fetchedAt": "2026-06-08T07:18:23.459Z",
@@ -133,7 +133,8 @@
           "reaction_type": 34,
           "count": 1
         }
-      ]
+      ],
+      "zh_review": "想象一下：肝完所有任务终于获得稀有黑马奖励……然后开发者说'马不错，想骑再交25欧元？'外观商城是一回事，但把玩家通过游戏获得的奖励锁在离谱付费墙后面简直侮辱人。编辑：开发者好像听进去了。"
     },
     {
       "recommendationid": "225443667",
@@ -165,7 +166,8 @@
       "written_during_early_access": false,
       "primarily_steam_deck": false,
       "app_release_date": "1711391760",
-      "reactions": []
+      "reactions": [],
+      "zh_review": "感觉复杂。从alpha时期开始玩，最近回来了。魅力十足的美学和呈现，画面简洁，音乐很棒。太多事情可做。很多任务和有趣剧情。但大量信息/任务引导不够，很多事情不清楚。"
     },
     {
       "recommendationid": "225395160",
@@ -210,7 +212,8 @@
           "reaction_type": 35,
           "count": 1
         }
-      ]
+      ],
+      "zh_review": "花了很多时间、拉朋友一起玩、参与各种活动——然后地区限制连不上去了。对于一款大谈可能性、耐心、教人交流的游戏，这种决定太虚伪了。极度谴责。"
     },
     {
       "recommendationid": "226093319",
@@ -247,7 +250,8 @@
           "reaction_type": 29,
           "count": 3
         }
-      ]
+      ],
+      "zh_review": "对Palia感情复杂。从封闭beta就开始玩了，远超这500小时。曾期待一个休闲MMO能从魔兽世界喘口气。近3年花了大量时间在社区和商城。但内容更新太慢，bug永远修不完。"
     },
     {
       "recommendationid": "225403210",
@@ -288,7 +292,8 @@
           "reaction_type": 26,
           "count": 1
         }
-      ]
+      ],
+      "zh_review": "我宁愿他们定个价然后取消微交易。一开始很好玩，但现在每次登录看到可以花钱买的东西就翻白眼。"
     }
   ]
 }

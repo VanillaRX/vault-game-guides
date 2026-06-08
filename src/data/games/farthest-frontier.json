@@ -69,8 +69,8 @@
   "metacriticScore": 83,
   "featured": false,
   "guideCount": 0,
-  "metaDescriptionEn": "Protect and guide your people as you forge a town from untamed wilderness at the edge of the known world. Harvest raw materials, hunt, fish and farm to survive. Produce crafted items to trade, consume, equip and fight with as you battle for your survival against the elements and outside threats.",
-  "metaDescriptionZh": "《最远的边陲》城镇建造攻略 — 农耕轮作、城墙设计、冬季生存、疾病控制。",
+  "metaDescriptionEn": "Farthest Frontier review — medieval survival city-builder. Crop rotation, wall design, winter survival, disease control.",
+  "metaDescriptionZh": "《最远的边陲》Steam 评测与介绍 — 中世纪生存城市建造。农耕轮作、城墙设计、冬季生存、疾病控制。",
   "similarGames": [],
   "source": "steam_api",
   "fetchedAt": "2026-06-08T07:20:03.804Z",
@@ -108,7 +108,8 @@
       "written_during_early_access": false,
       "primarily_steam_deck": false,
       "app_release_date": "1660053745",
-      "reactions": []
+      "reactions": [],
+      "zh_review": "这不是最远的边陲，这是最远的公厕。什么中世纪城镇发展管理都是虚的，核心玩法就只是居民拉屎，然后运屎，然后把屎变肥料，然后拿肥料浇菜，然后吃屎浇出来的菜，然后再次循环。"
     },
     {
       "recommendationid": "226328241",
@@ -149,7 +150,8 @@
           "reaction_type": 31,
           "count": 1
         }
-      ]
+      ],
+      "zh_review": "说实话，Crate Entertainment是我最想不到会做如此激进类型转变的工作室。他们放弃了ARPG，决定做经典生存城市建造游戏……还给自己加了难度。如果你看看现在的城市建造游戏会发现一个规律——每款都想做点与众不同的东西。而最远的边陲做到了：深度农耕系统、真实疾病模型、四季分明、每个居民都有名字和故事。虽然有bug但核心极其扎实。"
     },
     {
       "recommendationid": "226657622",
@@ -190,7 +192,8 @@
           "reaction_type": 26,
           "count": 1
         }
-      ]
+      ],
+      "zh_review": "玩了10个游戏年后，如果定居点附近有强盗营地，一个居民跑过时被杀——之后工人和附近居民会不断尝试把尸体运到墓地，然后反复被同一个营地杀死。这时候游戏基本等于结束了，因为这个bug已经8年没修，开发者甚至没加一个取消搬运指定尸体的选项。"
     },
     {
       "recommendationid": "226960211",
@@ -222,7 +225,8 @@
       "written_during_early_access": false,
       "primarily_steam_deck": false,
       "app_release_date": "1660053745",
-      "reactions": []
+      "reactions": [],
+      "zh_review": "这些人走了多久才走出一段足够远的距离——远离贪婪的男爵和难忍的饥荒。他们睡得差、吃得差、活在恐惧中、不相信任何未来。合同签订、战争打响、王朝更替、历史添上新篇、旗帜变换、风俗更迭、建筑革新——而对农民来说什么都没变。他们只想活下去。这款游戏抓住了这种生存的苦难和坚韧。"
     },
     {
       "recommendationid": "225891054",
@@ -254,7 +258,8 @@
       "written_during_early_access": false,
       "primarily_steam_deck": false,
       "app_release_date": "1660053745",
-      "reactions": []
+      "reactions": [],
+      "zh_review": "这个游戏玩起来心很累。所有的突发事件全是负回馈——每年不是天灾就是人祸。人民生病、谷物枯竭、极端天气、房屋失火、食物腐烂、人民吃不饱、被侵略……游戏中没有任何谷物丰收、产能加倍、风调雨顺的正向事件。最重要的是被侵略打赢战争没有任何好处——就是赢了而已，没有奖励（战争的目的是为了消耗你的资源）。整个游戏就是在维持平衡，维持得很累。玩了快100小时，窗口跳的全是负面事件……再更新，又玩了30小时，人口到1200。纯新手没装MOD，只想体验完。这游戏充满种种恶意，所有负面事件总是同时发生。战争（同时面对4个方向）、疾病、移民、种田是地狱！我和AI讨论了5个小时、试了各种轮耕方案、这30小时全在种田！作物会得各种病并随风交叉传染，一旦得病就要改轮作或休耕。"
     }
   ]
 }

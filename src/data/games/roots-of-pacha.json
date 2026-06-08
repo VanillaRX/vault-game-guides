@@ -2,7 +2,7 @@
   "slug": "roots-of-pacha",
   "steamAppId": 1245560,
   "title": "Roots of Pacha",
-  "zhTitle": "帕查之根",
+  "zhTitle": "Roots of Pacha",
   "shortDescription": "The charming and relaxing stone-age farming sim where you live in a thriving community exploring the wonderful world of Pacha. Discover &quot;ideas,&quot; domesticate crops, befriend animals, and help your village grow. Play co-op with friends or explore the early days of civilization in single-player.",
   "zhShortDescription": "石器时代农场模拟——驯化第一批作物、发明第一批工具。",
   "description": "Fall in love with Roots of Pacha, where every moment is a pleasant surprise! Roots of Pacha offers a relaxed and fresh take on the classic farming sim genre. Set in an ancient era, you’ll gather, farm, and explore the enchanting world of Pacha. Befriend animals, craft tools, and customize your character, home, and farm. Expand your village while forging deep community bonds. Thrive and evolve together with your clan through the seasons, and shape your own story at a calm and peaceful pace. Meet your Clan, delve into the biomes, and discover charming surprises wherever you go. From new flora and fauna to mini-games and cave mysteries. Unearth a long-forgotten world. ‎‎‎‏‏‎ Manage crops, gather resources, fish, and discover ways to process and preserve food. Domesticate and breed animals eit",
@@ -66,8 +66,8 @@
   "negativeReviews": 129,
   "featured": false,
   "guideCount": 0,
-  "metaDescriptionEn": "The charming and relaxing stone-age farming sim where you live in a thriving community exploring the wonderful world of Pacha. Discover &quot;ideas,&quot; domesticate crops, befriend animals, and help your village grow. Play co-op with friends or explore the early days of civilization in single-player.",
-  "metaDescriptionZh": "《帕查之根》石器农场攻略 — 作物驯化、工具发明、部落发展指南。",
+  "metaDescriptionEn": "Roots of Pacha review — Stone Age farming sim. Crop domestication, tool invention, clan development.",
+  "metaDescriptionZh": "《Roots of Pacha》Steam 评测与介绍 — 石器时代农场模拟。作物驯化、工具发明、部落发展。",
   "similarGames": [],
   "source": "steam_api",
   "fetchedAt": "2026-06-08T07:17:43.239Z",
@@ -141,7 +141,8 @@
           "reaction_type": 26,
           "count": 1
         }
-      ]
+      ],
+      "zh_review": "简而言之：裹着石器时代外衣的普通农场模拟，后期犯了中年危机。因为这个概念入手——旧石器幻想一直让我着迷。你必须自己摸索驯化动物、种植作物、水车、工具制作，往往有一个漫长到令人沮丧的过程，我很喜欢。但对结局的处理不如开头那么令人满意。"
     },
     {
       "recommendationid": "225682588",
@@ -182,7 +183,8 @@
           "reaction_type": 31,
           "count": 1
         }
-      ]
+      ],
+      "zh_review": "这可能是我玩过的唯一有作物驯化系统的农场模拟！有很多独特功能我很喜欢，比如坐骑系统。小抱怨：深肤色角色肤色太灰白/不饱和，请加点颜色！深肤色NPC几乎总是直发，希望能看到更多非洲纹理发型。"
     }
   ]
 }

@@ -2,7 +2,7 @@
   "slug": "field-of-mistria",
   "steamAppId": 2142790,
   "title": "Fields of Mistria",
-  "zhTitle": "雾原田野",
+  "zhTitle": "Fields of Mistria",
   "shortDescription": "Start your new life! Build the farm of your dreams as you discover a world brimming with possibilities. Magic, romance, and adventure all await you in this nostalgic farming / life sim RPG!",
   "zhShortDescription": "90年代动画风格的农场 RPG，耕种、魔法、冒险。",
   "description": "Get ready to begin a brand-new life in a world that's brimming with possibilities! Mistria, an idyllic village tucked between forest and sea, has offered you an overgrown but full-of-potential homestead in exchange for your assistance. Restore the town to its former glory after an earthquake wreaks havoc and strange magic begins to flow through the land. In this spiritual successor to the Farm-Sim RPGs of the late 90s & onward, build the farm of your dreams as you discover magic, romance, and adventure! Customize your character , home and farm to suit your style! Farm, Fish, Mine & Craft your way to a revitalized town Find your ideal match with one of 12 marriage candidates Note: Heart progression past 8 hearts and Marriage itself will be added via future updates. Raise adorable animals & ",
@@ -71,8 +71,8 @@
   "negativeReviews": 423,
   "featured": false,
   "guideCount": 0,
-  "metaDescriptionEn": "Start your new life! Build the farm of your dreams as you discover a world brimming with possibilities. Magic, romance, and adventure all await you in this nostalgic farming / life sim RPG!",
-  "metaDescriptionZh": "《雾原田野》新手攻略 — 农耕指南、魔法系统、NPC好感度、地下城探索。",
+  "metaDescriptionEn": "Fields of Mistria review — magical farming sim with 90s anime aesthetics. Farming, magic, NPCs, dungeon crawling.",
+  "metaDescriptionZh": "《Fields of Mistria》Steam 评测与介绍 — 90 年代动漫风魔法农场模拟。农耕、魔法系统、地下城探索。",
   "similarGames": [],
   "source": "steam_api",
   "fetchedAt": "2026-06-08T07:17:56.686Z",
@@ -109,7 +109,8 @@
       "written_during_early_access": true,
       "primarily_steam_deck": false,
       "app_release_date": "1722876530",
-      "reactions": []
+      "reactions": [],
+      "zh_review": "好游戏。给新玩家：请务必注意——1. 每种昆虫、鱼、采集品和矿石至少收集保存一个，别卖别捐博物馆除非有多的。2. 重要：给Eiland和Juniper送礼物保持好感，即使你对他们不感兴趣。尽量搞到8心。等你自己想通为什么的时候会感谢我的。"
     },
     {
       "recommendationid": "225603816",
@@ -146,7 +147,8 @@
           "reaction_type": 29,
           "count": 1
         }
-      ]
+      ],
+      "zh_review": "我很少写评价，这是第二条，但必须为这颗宝石写。从游戏时长就能看出我多爱这个游戏。我有700小时星露谷，但我总告诉别人如果你喜欢星露谷，你会更喜欢这个（可惜大部分朋友用Mac玩不了）。我玩了这个游戏后，虽然还是很爱星露谷，但Mistria的QoL特性多到让人回不去——能跳！能游泳！跑得好快！更重要的是Mistria感觉更有生命力。角色有灵魂，对话从不重复，每一点都充满爱。"
     },
     {
       "recommendationid": "225496872",
@@ -183,7 +185,8 @@
           "reaction_type": 31,
           "count": 1
         }
-      ]
+      ],
+      "zh_review": "这个游戏唯一的问题是太健全了——或者说，太宽容了。无论何种个性，都在爱中生长，这太不现实了。所以要一直玩。我会记得过生日时众人即使仓促也掏出礼物，在旅馆学烹饪即使只煮了锅汤也被夸奖，臭屁如马奇大家也都会为他说话。地球online从未如此宽待过我，而我们一生追求的只是这样简单的东西。其实我并不向往田园生活，仅仅是自由和创作在当代还算好实现。自然的一切也从不吝啬。然而我们难以唤醒的是人，是一个社会无可撼动的正确性。这就是逃跑的牧歌永垂不朽的原因。制作东西不用带材料好评，紫色小球买技能好评，角色话特别多好评，战斗好难。"
     }
   ]
 }

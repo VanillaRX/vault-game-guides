@@ -59,8 +59,8 @@
   "metacriticScore": 89,
   "featured": false,
   "guideCount": 0,
-  "metaDescriptionEn": "You've inherited your grandfather's old farm plot in Stardew Valley. Armed with hand-me-down tools and a few coins, you set out to begin your new life. Can you learn to live off the land and turn these overgrown fields into a thriving home?",
-  "metaDescriptionZh": "《星露谷物语》全方位攻略 — 农耕布局、NPC好感度、矿洞探索、社区中心收集包。",
+  "metaDescriptionEn": "Stardew Valley review — the farming sim that defined a genre. Farm layout, NPCs, mines, Community Center bundles.",
+  "metaDescriptionZh": "《星露谷物语》Steam 评测与介绍 — 定义了整个类型的农场模拟。农耕布局、NPC 好感度、矿洞探索、社区中心。",
   "similarGames": [],
   "source": "steam_api",
   "fetchedAt": "2026-06-08T07:13:45.477Z",
@@ -224,7 +224,8 @@
           "reaction_type": 25,
           "count": 2
         }
-      ]
+      ],
+      "zh_review": "这个游戏治愈了我的内心，让我摆脱了焦虑，拥抱了我——没有任何游戏或人做到过。这是Steam上最好的游戏，也是我人生中最好的游戏。"
     },
     {
       "recommendationid": "225800240",
@@ -277,7 +278,8 @@
           "reaction_type": 29,
           "count": 1
         }
-      ]
+      ],
+      "zh_review": "随便买的星露谷，结果凌晨4点还在跟人讨论土豆收成。一开始想'农场而已'，然后：睡眠时间像拖拉机司机、对草莓收成产生情感依赖、花40分钟选墙纸、真心为虚拟母鸡下了大蛋而高兴。10/10。"
     },
     {
       "recommendationid": "225135497",
