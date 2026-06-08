@@ -5,7 +5,7 @@
   "zhTitle": "风暴之城",
   "shortDescription": "A dark fantasy city builder where you must rebuild civilization in the face of apocalyptic rains. As the Queen’s Viceroy, lead humans, beavers, lizards, foxes, and harpies to reclaim the wilderness and secure a future for civilization's last survivors.",
   "zhShortDescription": "黑暗幻想风格的城市建造 Roguelite，在永不停息的暴雨中建立并管理定居点。",
-  "description": "You are the Viceroy – a leader charged by the Scorched Queen to reclaim the wilderness and discover lost riches for the Smoldering City, civilization's last bastion against the Blightstorm that destroyed the old world. Unlike most survival city builders where your focus is on a single city, in Against the Storm you must build a vast, prosperous network of settlements populated by diverse fantasy races, each with their own specializations and needs. The wilderness holds many hidden dangers, and never-ending storms will batter your population into submission. If your settlements should fall, then the expedition may end – but not the game. Against the Storm is a roguelite city builder, meaning you will carry forward the resources, upgrades, and experience of your past expeditions each time you set off for a new journey into the wild. Foxes, beavers, and lizards stand alongside humans and harpies in the struggle to survive. Utilize each group's strengths as you balance their varying needs, from housing and culinary preferences to taste in luxuries and recreation. Will you manufacture raincoats, brew ale, and bake pies to boost morale in the face of the oppressive hostility of the forest, or will you prioritize the needs of one species over another to operate more swiftly for the Scorched Queen? Experience core city builder gameplay enhanced by roguelite replayability. Build and manage multiple settlements spread out across a large world map, all while collecting valuable meta-progression resources to upgrade the Smoldering City. Feel the pressure of an expectant monarch as the Scorched Queen demands constant progress while recurring Blightstorms pose an inevitable threat to your settlements. Manage your reputation to secure your success at any one settlement before moving on to establish another, constantly seeking new opportunities for growth, taking on unique challenges across multiple biomes, and bracing for the inevitable destruction of everything but the Smoldering City itself. How will you maximize each cycle to not just ensure the best fate for the Smoldering City, but for your career as Viceroy as well? With hundreds of gameplay modifiers and 6 distinct biomes, every city location presents unique challenges for even the most resourceful Viceroy. Adjust your strategy to changing weather conditions and experiment with rosters of building blueprints and perks that can help your society thrive or bring it to ruin. Will you take on and complete additional objectives and delve deeper into the dangerous forest for potential boons, or will you approach with caution to ensure you operate within your capabilities? All the while, you never know what wares the Trader will bring next year, and the forest holds treasures and resources, but also ancient threats. Laying the foundations for a new city is one of the most exciting moments in a city-building game. In Against the Storm, you'll have the opportunity to repeatedly experience this by creating new settlements, while still interacting with your network of previously established cities in a growing world.",
+  "description": "You are the Viceroy – a leader charged by the Scorched Queen to reclaim the wilderness and discover lost riches for the Smoldering City, civilization's last bastion against the Blightstorm that destroyed the old world. Unlike most survival city builders where your focus is on a single city, in Against the Storm you must build a vast, prosperous network of settlements populated by diverse fantasy races, each with their own specializations and needs. The wilderness holds many hidden dangers, and never-ending storms will batter your population into submission. If your settlements should fall, then the expedition may end – but not the game. Against the Storm is a roguelite city builder, meaning you will carry forward the resources, upgrades, and experience of your past expeditions each time yo",
   "zhDescription": "《风暴之城》是一款黑暗幻想风格的城市建造 Roguelite 游戏。作为总督，你需要在永不停息的暴雨中建立定居点，满足女王的指令。每局游戏随机生成不同的建筑蓝图、资源和挑战，迫使你不断调整策略。融合了城市建造的资源管理和 Roguelike 的随机性与重玩性。",
   "genres": [
     "Simulation",
@@ -44,8 +44,8 @@
   "supportsCoop": false,
   "supportsController": false,
   "steamDeckVerified": false,
-  "positiveReviews": 32237,
-  "negativeReviews": 0,
+  "positiveReviews": 17544,
+  "negativeReviews": 887,
   "metacriticScore": 91,
   "featured": false,
   "guideCount": 0,
@@ -53,5 +53,90 @@
   "metaDescriptionZh": "《风暴之城》Steam 攻略与评测 — 黑暗幻想城市建造 Roguelite，随机蓝图与资源管理。",
   "similarGames": [],
   "source": "steam_api",
-  "fetchedAt": "2026-06-08T07:19:50.388Z"
+  "fetchedAt": "2026-06-08T07:19:50.388Z",
+  "reviewScore": 9,
+  "reviewDesc": "Overwhelmingly Positive",
+  "topReviews": [
+    {
+      "recommendationid": "225391997",
+      "author": {
+        "steamid": "76561198052558211",
+        "personaname": "Cotschie",
+        "persona_status": "offline",
+        "profile_url": "https://steamcommunity.com/id/cotschie/",
+        "num_games_owned": 0,
+        "num_reviews": 1,
+        "playtime_forever": 13406,
+        "playtime_last_two_weeks": 0,
+        "playtime_at_review": 13055,
+        "last_played": 1779646050,
+        "avatar": "826efc4cc2878c28cc72e48b2bd096fe9e53d970"
+      },
+      "language": "english",
+      "review": "Most games have a shelf life. \nYou play them, you finish them (or get bored), and you uninstall them to make room for the next big release. Against the Storm is the rare exception. It is one of the very few titles that has earned a permanent spot on my SSD. And i have over 200 hours of nplaytime xD\n\nNo matter how many flashy new games I play, Against the Storm always pulls me back. It is the ultimate \"comfort game\" for my brain\n\nWhy it Sticks:\nThe Perfect Loop: Because it’s a roguelite city builder, I don't need to remember where I left off in a 50-hour campaign. I can jump in after a three-mo…",
+      "timestamp_created": 1778660872,
+      "timestamp_updated": 1778660872,
+      "voted_up": true,
+      "votes_up": 56,
+      "votes_funny": 2,
+      "weighted_vote_score": "0.713259100914001465",
+      "comment_count": 0,
+      "steam_purchase": false,
+      "received_for_free": false,
+      "refunded": false,
+      "written_during_early_access": false,
+      "primarily_steam_deck": false,
+      "app_release_date": "1667293057",
+      "reactions": [
+        {
+          "reaction_type": 24,
+          "count": 1
+        },
+        {
+          "reaction_type": 29,
+          "count": 1
+        },
+        {
+          "reaction_type": 33,
+          "count": 1
+        },
+        {
+          "reaction_type": 34,
+          "count": 1
+        }
+      ]
+    },
+    {
+      "recommendationid": "225226640",
+      "author": {
+        "steamid": "76561198007647874",
+        "personaname": "Fenra369",
+        "persona_status": "online",
+        "profile_url": "https://steamcommunity.com/id/Fenrah/",
+        "num_games_owned": 0,
+        "num_reviews": 12,
+        "playtime_forever": 4409,
+        "playtime_last_two_weeks": 0,
+        "playtime_at_review": 4409,
+        "last_played": 1767850454,
+        "avatar": "6e8ac20b34d8bbd5a3fcafbf5ef83c86d771817d"
+      },
+      "language": "english",
+      "review": "A lot of fun, great for people who like city builders but also feel like they don't have a lot of time for gaming. The difficulties scale and the game can be played in small bites in order to enjoy each game quite a bit. Offers great variety of building options in the game while keeping it spicy enough that you might have to work without all the things you want. Overall a very interesting game",
+      "timestamp_created": 1778443164,
+      "timestamp_updated": 1778443164,
+      "voted_up": true,
+      "votes_up": 12,
+      "votes_funny": 0,
+      "weighted_vote_score": "0.618017494678497314",
+      "comment_count": 0,
+      "steam_purchase": true,
+      "received_for_free": false,
+      "refunded": false,
+      "written_during_early_access": false,
+      "primarily_steam_deck": false,
+      "app_release_date": "1667293057",
+      "reactions": []
+    }
+  ]
 }

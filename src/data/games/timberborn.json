@@ -5,7 +5,7 @@
   "zhTitle": "海狸建造者",
   "shortDescription": "Humans are long gone. In a world struck by droughts and toxic waste, will your lumberpunk beavers do any better? A sandbox city-building game featuring ingenious animals, vertical architecture, water physics, and terraforming. Contains high amounts of wood.",
   "zhShortDescription": "人类灭绝后由海狸重建文明——建造水坝、管理水源。",
-  "description": "Mankind turned Earth into a dry wasteland and perished, but some species adapted and evolved. Pick one of the beaver factions and see how long your colony can last. Beaver societies Control one of two beaver factions: the nature-friendly Folktails or the industrious Iron Teeth. Each faction has unique buildings, technology, and gameplay traits. Choose what fits your playstyle! Wet, dry, and toxic seasons Prepare your settlement for recurring droughts and waves of toxic waste. Stockpile food and keep fields and forests alive even after rivers dry up. Rely on both natural water sources and artificial irrigation to keep the land arable and your beavers safe. Water physics and terraforming Beavers’ engineering skills are legendary. With Timberborn’s 3D water physics and terraforming, so can be yours. Put up dams and floodgates, erect massive aqueducts, dig canals and tunnels with explosives, and reshape the terrain to your liking. Vertical architecture Harness the game’s unique vertical architecture system. Space is limited, so stack lodges and workshops on top of each other. Construct platforms and bridges, set up an elaborate power grid, and let your beavers speed around on ziplines or through tubeways. Lumberpunk Turn timber into sophisticated machinery – from water wheels and lumber mills to engines and mechanized pumps. Wood is the core resource in Timberborn, but the most advanced structures require metal. To find it, send your scavengers to the ruins of the old world. Automation Automate tasks across your settlement by creating an intricate system of sensors, relays, counters, and other tools for advanced engineers. Self-controlling dams and factories are just the beginning. Bots Supercharge your colony with mechanized beavers. Power them up, maintain them, and you'll get extra-efficient workers for almost any job. They operate 24/7, and you can send them to the most hazardous areas. Well-being Build a sprawling city with efficient production chains and follow the lives of its inhabitants day and night. As the population grows, satisfy your evolved rodents with a balanced diet, entertainment, decorations, and end-game monuments that help restore the Earth. Map editor and mods Play on one of the included maps or create your own and share it with the community. On top of the built-in map editor, Timberborn features official mod support. Tons of extra player-made content and quality-of-life additions are available, with more coming each day.",
+  "description": "Mankind turned Earth into a dry wasteland and perished, but some species adapted and evolved. Pick one of the beaver factions and see how long your colony can last. Beaver societies Control one of two beaver factions: the nature-friendly Folktails or the industrious Iron Teeth. Each faction has unique buildings, technology, and gameplay traits. Choose what fits your playstyle! Wet, dry, and toxic seasons Prepare your settlement for recurring droughts and waves of toxic waste. Stockpile food and keep fields and forests alive even after rivers dry up. Rely on both natural water sources and artificial irrigation to keep the land arable and your beavers safe. Water physics and terraforming Beavers’ engineering skills are legendary. With Timberborn’s 3D water physics and terraforming, so can be",
   "zhDescription": "《Timberborn》设定在人类灭绝后由进化海狸重建文明。水利工程是独特核心——建造水坝、水库和灌溉系统。垂直建筑系统让海狸城市向高处发展，形成壮观立体景观。两个派系各有不同玩法。",
   "genres": [
     "Indie",
@@ -53,8 +53,8 @@
   "supportsCoop": false,
   "supportsController": false,
   "steamDeckVerified": false,
-  "positiveReviews": 37035,
-  "negativeReviews": 0,
+  "positiveReviews": 22095,
+  "negativeReviews": 909,
   "metacriticScore": 85,
   "featured": false,
   "guideCount": 0,
@@ -62,5 +62,78 @@
   "metaDescriptionZh": "《海狸建造者》水利工程攻略 — 水坝设计、旱季生存、垂直城市、两派系差异。",
   "similarGames": [],
   "source": "steam_api",
-  "fetchedAt": "2026-06-08T07:17:36.580Z"
+  "fetchedAt": "2026-06-08T07:17:36.580Z",
+  "reviewScore": 9,
+  "reviewDesc": "Overwhelmingly Positive",
+  "topReviews": [
+    {
+      "recommendationid": "225351072",
+      "author": {
+        "steamid": "76561199449878113",
+        "personaname": "留下4个人死，我走",
+        "persona_status": "offline",
+        "profile_url": "https://steamcommunity.com/profiles/76561199449878113/",
+        "num_games_owned": 0,
+        "num_reviews": 2,
+        "playtime_forever": 30228,
+        "playtime_last_two_weeks": 0,
+        "playtime_at_review": 30228,
+        "last_played": 1774409901,
+        "avatar": "fef49e7fa7e1997310d705b2a6158ff8dc1cdfeb"
+      },
+      "language": "schinese",
+      "review": "我来写个小测评吧，试玩版的时候就在玩了，反而正式版后没玩进去。正式版加了一些东西进去，不过总的来说玩法没怎么改变。在我看来，2个种族都是围绕着水&食物-房屋&繁殖-干涸&恶水这条主线来游玩的，游戏类型像是低难度的资源管理游戏，附带种田、自动化、造景等细分（真的细吗）玩家的爽点。对于休闲玩家来说，是个十分好的游戏。正式版后没玩进去，估计是个人原因，试玩版的时候失业在家待着，需要一些治愈画风、杀时间的、修整类的游戏来渡过煎熬的日子，这个游戏刚好满足了这个需求。正式版后刚好有班上，各种压力或者说是时间因素导致没办法沉下心来玩，真的很遗憾。顺带一提我31现在，我觉得这个游戏适合26-30岁的人玩，希望这段年龄的玩家朋友珍惜爱玩游戏的心",
+      "timestamp_created": 1778604882,
+      "timestamp_updated": 1778604882,
+      "voted_up": true,
+      "votes_up": 11,
+      "votes_funny": 2,
+      "weighted_vote_score": "0.672001242637634277",
+      "comment_count": 0,
+      "steam_purchase": true,
+      "received_for_free": false,
+      "refunded": false,
+      "written_during_early_access": false,
+      "primarily_steam_deck": false,
+      "app_release_date": "1631718000",
+      "reactions": []
+    },
+    {
+      "recommendationid": "225989439",
+      "author": {
+        "steamid": "76561199004632594",
+        "personaname": "Luis_Richter",
+        "persona_status": "offline",
+        "profile_url": "https://steamcommunity.com/profiles/76561199004632594/",
+        "num_games_owned": 81,
+        "num_reviews": 1,
+        "playtime_forever": 811,
+        "playtime_last_two_weeks": 55,
+        "playtime_at_review": 17,
+        "last_played": 1779715796,
+        "avatar": "54ebdf3f6e6889c229b5a0f8cd307e392294e2ee"
+      },
+      "language": "russian",
+      "review": "Проходила обучение на моменте постройки насоса, пришел парень решил что лучше знает что нужно моим бобрикам, в итоге все бобры сдохли...10 травм из 10, не доверю ему своего кота...",
+      "timestamp_created": 1779280858,
+      "timestamp_updated": 1779280858,
+      "voted_up": true,
+      "votes_up": 11,
+      "votes_funny": 8,
+      "weighted_vote_score": "0.643564343452453613",
+      "comment_count": 0,
+      "steam_purchase": true,
+      "received_for_free": false,
+      "refunded": false,
+      "written_during_early_access": false,
+      "primarily_steam_deck": false,
+      "app_release_date": "1631718000",
+      "reactions": [
+        {
+          "reaction_type": 31,
+          "count": 1
+        }
+      ]
+    }
+  ]
 }

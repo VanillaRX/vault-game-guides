@@ -5,7 +5,7 @@
   "zhTitle": "异星工厂",
   "shortDescription": "Factorio is a game about building and creating automated factories to produce items of increasing complexity, within an infinite 2D world. Use your imagination to design your factory, combine simple elements into ingenious structures, and finally protect it from the creatures who don't really like you.",
   "zhShortDescription": "终极自动化模拟游戏，建造巨型工厂、优化生产线。",
-  "description": "Factorio is a game in which you build and maintain factories. You will be mining resources, researching technologies, building infrastructure, automating production and fighting enemies. In the beginning you will find yourself chopping trees, mining ores and crafting mechanical arms and transport belts by hand, but in short time you can become an industrial powerhouse, with huge solar fields, oil refining and cracking, manufacture and deployment of construction and logistic robots, all for your resource needs. However this heavy exploitation of the planet's resources does not sit nicely with the locals, so you will have to be prepared to defend yourself and your machine empire. Join forces with other players in cooperative Multiplayer , create huge factories, collaborate and delegate tasks between you and your friends. Add mods to increase your enjoyment, from small tweak and helper mods to complete game overhauls, Factorio's ground-up Modding support has allowed content creators from around the world to design interesting and innovative features. While the core gameplay is in the form of the freeplay scenario, there are a range of interesting challenges in the form of Scenarios . If you don't find any maps or scenarios you enjoy, you can create your own with the in-game Map Editor , place down entities, enemies, and terrain in any way you like, and even add your own custom script to make for interesting gameplay. Discount Disclaimer: We don't have any plans to take part in a sale or to reduce the price for the foreseeable future. What people say about Factorio No other game in the history of gaming handles the logistics side of management simulator so perfectly. - Reddit I see conveyor belts when I close my eyes. I may have been binging Factorio lately. - Notch, Mojang Factorio is a super duper awesome game where we use conveyor belts to shoot aliens. - Zisteau, Youtube",
+  "description": "Factorio is a game in which you build and maintain factories. You will be mining resources, researching technologies, building infrastructure, automating production and fighting enemies. In the beginning you will find yourself chopping trees, mining ores and crafting mechanical arms and transport belts by hand, but in short time you can become an industrial powerhouse, with huge solar fields, oil refining and cracking, manufacture and deployment of construction and logistic robots, all for your resource needs. However this heavy exploitation of the planet's resources does not sit nicely with the locals, so you will have to be prepared to defend yourself and your machine empire. Join forces with other players in cooperative Multiplayer , create huge factories, collaborate and delegate tasks",
   "zhDescription": "《异星工厂》是自动化模拟游戏的巅峰之作。从手动采矿开始，逐步建造越来越复杂的自动化生产线——传送带、机械臂、火车、物流机器人。'工厂必须增长'是玩家社区的口头禅。",
   "genres": [
     "Casual",
@@ -73,8 +73,8 @@
   "supportsCoop": true,
   "supportsController": true,
   "steamDeckVerified": false,
-  "positiveReviews": 191752,
-  "negativeReviews": 0,
+  "positiveReviews": 113553,
+  "negativeReviews": 1996,
   "metacriticScore": 90,
   "featured": false,
   "guideCount": 0,
@@ -82,5 +82,306 @@
   "metaDescriptionZh": "《异星工厂》生产线布局攻略 — 传送带设计、火车信号、核电站建造指南。",
   "similarGames": [],
   "source": "steam_api",
-  "fetchedAt": "2026-06-08T07:21:31.351Z"
+  "fetchedAt": "2026-06-08T07:21:31.351Z",
+  "reviewScore": 9,
+  "reviewDesc": "Overwhelmingly Positive",
+  "topReviews": [
+    {
+      "recommendationid": "226475159",
+      "author": {
+        "steamid": "76561197970752975",
+        "personaname": "wyiplash",
+        "persona_status": "offline",
+        "profile_url": "https://steamcommunity.com/profiles/76561197970752975/",
+        "num_games_owned": 0,
+        "num_reviews": 1,
+        "playtime_forever": 299354,
+        "playtime_last_two_weeks": 6666,
+        "playtime_at_review": 293280,
+        "last_played": 1780892807,
+        "avatar": "fef49e7fa7e1997310d705b2a6158ff8dc1cdfeb"
+      },
+      "language": "english",
+      "review": "This game ruined my life. Naturally I seek to spread my misfortune to others",
+      "timestamp_created": 1779812230,
+      "timestamp_updated": 1779812230,
+      "voted_up": true,
+      "votes_up": 99,
+      "votes_funny": 52,
+      "weighted_vote_score": "0.902655661106109619",
+      "comment_count": 2,
+      "steam_purchase": true,
+      "received_for_free": false,
+      "refunded": false,
+      "written_during_early_access": false,
+      "primarily_steam_deck": false,
+      "app_release_date": "1456426831",
+      "reactions": [
+        {
+          "reaction_type": 34,
+          "count": 3
+        },
+        {
+          "reaction_type": 27,
+          "count": 2
+        },
+        {
+          "reaction_type": 30,
+          "count": 1
+        }
+      ]
+    },
+    {
+      "recommendationid": "225479429",
+      "author": {
+        "steamid": "76561198063574822",
+        "personaname": "BIG IRON",
+        "persona_status": "offline",
+        "profile_url": "https://steamcommunity.com/id/Decriston/",
+        "num_games_owned": 0,
+        "num_reviews": 10,
+        "playtime_forever": 7770,
+        "playtime_last_two_weeks": 5349,
+        "playtime_at_review": 1458,
+        "deck_playtime_at_review": 3,
+        "last_played": 1780866509,
+        "avatar": "620220d2d36c891fcaf729ef27a4a03f12a6deeb"
+      },
+      "language": "english",
+      "review": "Introduce your kid to this game.\n\nKid will never touch drugs — the game is digital crack.\n\nKid eventually becomes some kind of engineer.\n\nOptional: occasionally check in and ask, “Engineer yet?”\n(Mandatory if Asian.)\n\nProfit.",
+      "timestamp_created": 1778773174,
+      "timestamp_updated": 1778773349,
+      "voted_up": true,
+      "votes_up": 156,
+      "votes_funny": 107,
+      "weighted_vote_score": "0.875002562999725342",
+      "comment_count": 1,
+      "steam_purchase": true,
+      "received_for_free": false,
+      "refunded": false,
+      "written_during_early_access": false,
+      "primarily_steam_deck": false,
+      "app_release_date": "1456426831",
+      "hardware": {
+        "manufacturer": "Micro-Star International Co., Ltd.",
+        "model": "MS-7C91",
+        "dx_video_card": "NVIDIA GeForce RTX 5070 Ti",
+        "dx_vendorid": 4318,
+        "dx_deviceid": 11269,
+        "num_gpu": 1,
+        "system_ram": "32693",
+        "os": "Windows 11",
+        "cpu_vendor": "AuthenticAMD",
+        "cpu_name": "AMD Ryzen 7 5700X 8-Core Processor             ",
+        "gaming_device_type": 1,
+        "dx_driver_version": "32.0.15.9186",
+        "adapter_description": "NVIDIA GeForce RTX 5070 Ti",
+        "driver_version": "32.0.15.9186",
+        "driver_date": "2026-1-20",
+        "vram_size": 15995,
+        "screen_width": null,
+        "screen_height": null,
+        "precise_frame_rate": null
+      },
+      "reactions": [
+        {
+          "reaction_type": 28,
+          "count": 15
+        },
+        {
+          "reaction_type": 34,
+          "count": 5
+        },
+        {
+          "reaction_type": 24,
+          "count": 3
+        },
+        {
+          "reaction_type": 29,
+          "count": 1
+        },
+        {
+          "reaction_type": 35,
+          "count": 1
+        }
+      ]
+    },
+    {
+      "recommendationid": "225205271",
+      "author": {
+        "steamid": "76561198054089744",
+        "personaname": "としろ『Toshi』",
+        "persona_status": "offline",
+        "profile_url": "https://steamcommunity.com/id/ShigureToshi/",
+        "num_games_owned": 1374,
+        "num_reviews": 22,
+        "playtime_forever": 9861,
+        "playtime_last_two_weeks": 0,
+        "playtime_at_review": 9861,
+        "last_played": 1761442407,
+        "avatar": "b7066fb6ff81e0241bea7620e0bda9e06b669c13"
+      },
+      "language": "english",
+      "review": "Easily one of the best games ever, infinite replayability and is great for people with autism, my only complain would be that there's way too many unnecessary sex scenes.",
+      "timestamp_created": 1778425957,
+      "timestamp_updated": 1778425957,
+      "voted_up": true,
+      "votes_up": 130,
+      "votes_funny": 166,
+      "weighted_vote_score": "0.830881893634796143",
+      "comment_count": 4,
+      "steam_purchase": true,
+      "received_for_free": false,
+      "refunded": false,
+      "written_during_early_access": false,
+      "primarily_steam_deck": false,
+      "app_release_date": "1456426831",
+      "reactions": [
+        {
+          "reaction_type": 28,
+          "count": 10
+        },
+        {
+          "reaction_type": 25,
+          "count": 2
+        },
+        {
+          "reaction_type": 26,
+          "count": 2
+        },
+        {
+          "reaction_type": 34,
+          "count": 2
+        },
+        {
+          "reaction_type": 24,
+          "count": 1
+        },
+        {
+          "reaction_type": 31,
+          "count": 1
+        }
+      ]
+    },
+    {
+      "recommendationid": "226520868",
+      "author": {
+        "steamid": "76561198805610968",
+        "personaname": "Padodo",
+        "persona_status": "offline",
+        "profile_url": "https://steamcommunity.com/profiles/76561198805610968/",
+        "num_games_owned": 318,
+        "num_reviews": 2,
+        "playtime_forever": 178450,
+        "playtime_last_two_weeks": 9342,
+        "playtime_at_review": 170666,
+        "deck_playtime_at_review": 11,
+        "last_played": 1780867282,
+        "avatar": "d5de16e4ed70abdd6c81315368e2cf2dbe2e3d66"
+      },
+      "language": "english",
+      "review": "- Start Factorio\r\n- Skip Tutorial\r\n- Think the game is too easy and mess with the settings, accidentally 10x technology costs and 10x enemy attack groups\r\n- Die within 20 minutes\r\n- Drop the game for a few months\r\n- After replaying Satisfactory for the 4th time and seeing multiple Factorio Videos from DoshDoshington deciding to give Factorio another go\r\n- Skip the Tutorial again and launch into default Freeplay\r\n- Pushing through Oil Processing and building a Nuclear Reactor take a break from Factorio\r\n- a few months pass and Space Age DLC releases\r\n- Remember the fun of building the Factory a…",
+      "timestamp_created": 1779848489,
+      "timestamp_updated": 1779848489,
+      "voted_up": true,
+      "votes_up": 51,
+      "votes_funny": 12,
+      "weighted_vote_score": "0.792097389698028564",
+      "comment_count": 1,
+      "steam_purchase": true,
+      "received_for_free": false,
+      "refunded": false,
+      "written_during_early_access": false,
+      "primarily_steam_deck": false,
+      "app_release_date": "1456426831",
+      "reactions": [
+        {
+          "reaction_type": 27,
+          "count": 1
+        },
+        {
+          "reaction_type": 31,
+          "count": 1
+        },
+        {
+          "reaction_type": 32,
+          "count": 1
+        },
+        {
+          "reaction_type": 35,
+          "count": 1
+        }
+      ]
+    },
+    {
+      "recommendationid": "225364381",
+      "author": {
+        "steamid": "76561198173358478",
+        "personaname": "MaTrIx HYPES",
+        "persona_status": "offline",
+        "profile_url": "https://steamcommunity.com/profiles/76561198173358478/",
+        "num_games_owned": 0,
+        "num_reviews": 2,
+        "playtime_forever": 68890,
+        "playtime_last_two_weeks": 79,
+        "playtime_at_review": 68810,
+        "last_played": 1780048975,
+        "avatar": "a68470504674aaba993e8ad830216c21928e3ecc"
+      },
+      "language": "english",
+      "review": "Fun game so far, can't wait to beat the game for the first time one day. Runs good on my pc.",
+      "timestamp_created": 1778618342,
+      "timestamp_updated": 1778618342,
+      "voted_up": true,
+      "votes_up": 29,
+      "votes_funny": 49,
+      "weighted_vote_score": "0.750012636184692383",
+      "comment_count": 2,
+      "steam_purchase": true,
+      "received_for_free": false,
+      "refunded": false,
+      "written_during_early_access": false,
+      "primarily_steam_deck": false,
+      "app_release_date": "1456426831",
+      "hardware": {
+        "manufacturer": "Micro-Star International Co., Ltd.",
+        "model": "MS-7E07",
+        "dx_video_card": "NVIDIA GeForce RTX 4090",
+        "dx_vendorid": 4318,
+        "dx_deviceid": 9860,
+        "num_gpu": 1,
+        "system_ram": "65249",
+        "os": "Windows 11",
+        "cpu_vendor": "GenuineIntel",
+        "cpu_name": "13th Gen Intel(R) Core(TM) i9-13900K",
+        "gaming_device_type": 1,
+        "dx_driver_version": "32.0.15.9636",
+        "adapter_description": "NVIDIA GeForce RTX 4090",
+        "driver_version": "32.0.15.9636",
+        "driver_date": "2026-4-23",
+        "vram_size": 24138,
+        "screen_width": 1920,
+        "screen_height": 1080,
+        "precise_frame_rate": null
+      },
+      "reactions": [
+        {
+          "reaction_type": 28,
+          "count": 2
+        },
+        {
+          "reaction_type": 24,
+          "count": 1
+        },
+        {
+          "reaction_type": 29,
+          "count": 1
+        },
+        {
+          "reaction_type": 34,
+          "count": 1
+        }
+      ]
+    }
+  ]
 }

@@ -5,7 +5,7 @@
   "zhTitle": "庄园领主",
   "shortDescription": "Manor Lords is a medieval strategy game featuring in-depth city building, large-scale tactical battles, and complex economic and social simulations. Rule your lands as a medieval lord – the seasons pass, the weather changes, and cities rise and fall.",
   "zhShortDescription": "中世纪城市建设与大战场 RTS 的完美融合。",
-  "description": "Manor Lords is a strategy game that allows you to experience the life of a medieval lord. Grow your starting village into a bustling city, manage resources and production chains, and expand your lands through conquest. Inspired by the art and architecture of late 14th century Franconia, Manor Lords prioritizes historical accuracy wherever possible, using it to inform gameplay mechanics and visuals alike. Common medieval tropes are avoided in favor of historical accuracy in order to make the world feel more authentic, colorful, and believable. Manor Lords provides a gridless city-building experience with full freedom of placement and rotation. Building mechanics are inspired by the growth of real medieval towns and villages, where major trade routes and the landscape influenced how settlements formed and developed. Spreading outward from a central marketplace, build your residential, commercial, and industrial districts following the natural lay of the land. Establish farms based on soil fertility, position hunting grounds according to animal populations, and ensure access to adequate resource deposits and forests to provide the raw materials needed for growth. Assign areas for housing and watch your residents build their homes in accordance with the historical burgage plot system. Each area will be subdivided based on your roads and the allotted space, and homes will scale accordingly. Build extensions behind larger homes to generate resources that would not otherwise be available. Homeowners don't just pay taxes – they grow vegetables, raise chickens and goats, and otherwise supply themselves and other townsfolk with essential needs beyond what your managed farms, pastures, and industries can provide. Guide your settlements through the unique demands and opportunities of each season, enjoying the bounty brought by spring rains and preparing for the harsh snows of winter. From boots to barley and hides to honey, Manor Lords features a great variety of goods fitting of the era. Materials need to be transported and processed into finished products through production chains, and you must balance the basic needs of your people against the desire to produce luxury items to ensure happiness, manufacture trade goods for export, or forge arms and armor to aid in your conquests. Resources are littered across the map, encouraging you to expand and establish multiple specialized settlements. Extract valuable ores from your mining colonies, while villages devoted to agriculture, herding, or hunting supply the grains and meats needed to feed your growing populations. Will you spend your hard-earned influence to first acquire a rich source of iron for your smiths, or will you prioritize regions with fertile soil to serve as your breadbasket? Unchecked expansion will have a direct effect on the environment. Herds of deer will migrate away from encroaching civilization, lack of crop rotation will worsen soil fertility, and cutting down too many trees will result in deforestation. Establish trade routes and sell surplus goods to traveling merchants to enrich your population. Manufacturing and exporting a variety of goods will provide wealth with which to upgrade your peoples’ homes, import goods you can’t produce yourself, and through taxes on said wealth, fill your own coffers. Yours is but a small parcel of land in a vast territory, and the competing ambitions between you and rival lords will inevitably lead to conflict. Lead your people into battle, not as expendable units to be easily replenished, but as your beloved loyal subjects where every death is a cost worth considering. Neighboring lords will build their own towns and grow their holdings to compete with yours, at times forcing you into action. Build castles and protect your domain from harm as you seek out opportunities to strike at these rival lords with warriors of your own. Train a retinue of skilled warriors to fight battles alongside the levies you raise from the town militia. At times these soldiers will be needed to suppress banditry, and at other times you will lead your men into battle to conquer or defend territory. When needed, mercenaries are a costly option to bolster your ranks. Will you raise the militia at the first sign of trouble, bringing your economy to a stand-still as your peasants pick up arms and rush to form ranks, or will you spend your personal wealth to hire bands of sellswords instead? Command real-time tactical battles, taking into consideration fatigue, weather conditions, and equipment. Position your troops wisely – a smaller force can defeat a larger enemy, if commanded well. Feel the cost of battle, even in victory, as each fallen soldier represents a lost person from your city. This game is a passion project started by a solo developer, grown through player support into a full team of passionate individuals ranging from programmers and 2D artists to Game and Map Designers. You can reach out to us and share your opinions, ideas, and criticisms – we listen to your feedback.",
+  "description": "Manor Lords is a strategy game that allows you to experience the life of a medieval lord. Grow your starting village into a bustling city, manage resources and production chains, and expand your lands through conquest. Inspired by the art and architecture of late 14th century Franconia, Manor Lords prioritizes historical accuracy wherever possible, using it to inform gameplay mechanics and visuals alike. Common medieval tropes are avoided in favor of historical accuracy in order to make the world feel more authentic, colorful, and believable. Manor Lords provides a gridless city-building experience with full freedom of placement and rotation. Building mechanics are inspired by the growth of real medieval towns and villages, where major trade routes and the landscape influenced how settleme",
   "zhDescription": "《Manor Lords》将中世纪城市建造与大战场即时战略完美融合。精细管理城镇的每条街道，同时指挥军队在战场上交锋。追求历史真实性，基于真实中世纪研究。",
   "genres": [
     "Simulation",
@@ -45,13 +45,288 @@
   "supportsCoop": false,
   "supportsController": false,
   "steamDeckVerified": false,
-  "positiveReviews": 73463,
-  "negativeReviews": 0,
+  "positiveReviews": 33715,
+  "negativeReviews": 4959,
   "featured": false,
   "guideCount": 0,
   "metaDescriptionEn": "Manor Lords is a medieval strategy game featuring in-depth city building, large-scale tactical battles, and complex economic and social simulations. Rule your lands as a medieval lord – the seasons pass, the weather changes, and cities rise and fall.",
   "metaDescriptionZh": "《庄园领主》城市建造与战争攻略 — 农田布局、城市扩张、军团指挥指南。",
   "similarGames": [],
   "source": "steam_api",
-  "fetchedAt": "2026-06-08T07:19:43.731Z"
+  "fetchedAt": "2026-06-08T07:19:43.731Z",
+  "reviewScore": 8,
+  "reviewDesc": "Very Positive",
+  "topReviews": [
+    {
+      "recommendationid": "226428143",
+      "author": {
+        "steamid": "76561198088021547",
+        "personaname": "qwryzu",
+        "persona_status": "offline",
+        "profile_url": "https://steamcommunity.com/profiles/76561198088021547/",
+        "num_games_owned": 0,
+        "num_reviews": 5,
+        "playtime_forever": 4531,
+        "playtime_last_two_weeks": 1,
+        "playtime_at_review": 4530,
+        "last_played": 1779803597,
+        "avatar": "92c59dbfb4b8cbce4c8e8f6eaf0f395c12f1bba2"
+      },
+      "language": "english",
+      "review": "The game was incredibly promising two years ago at release and the bones are still there. It has a foundation that no other medieval city (village) building game has, and I really hope for a future where I can change this review. However, for the past two years we've gotten very little content (basically just stone castles that are frankly, not all that interesting) and just rebalance after rebalance that haven't actually changed how the game feels. Every \"major\" update has me saying cool while reading patchnotes, and quitting again after an hour because the \"improved balance\" doesn't improve …",
+      "timestamp_created": 1779752579,
+      "timestamp_updated": 1779752579,
+      "voted_up": false,
+      "votes_up": 127,
+      "votes_funny": 2,
+      "weighted_vote_score": "0.893799304962158203",
+      "comment_count": 5,
+      "steam_purchase": true,
+      "received_for_free": false,
+      "refunded": false,
+      "written_during_early_access": true,
+      "primarily_steam_deck": false,
+      "app_release_date": "1714136367",
+      "reactions": [
+        {
+          "reaction_type": 29,
+          "count": 17
+        },
+        {
+          "reaction_type": 32,
+          "count": 3
+        },
+        {
+          "reaction_type": 26,
+          "count": 2
+        },
+        {
+          "reaction_type": 27,
+          "count": 2
+        },
+        {
+          "reaction_type": 31,
+          "count": 1
+        }
+      ]
+    },
+    {
+      "recommendationid": "225162159",
+      "author": {
+        "steamid": "76561198026936961",
+        "personaname": "LMDz",
+        "persona_status": "offline",
+        "profile_url": "https://steamcommunity.com/id/leodezordi/",
+        "num_games_owned": 41,
+        "num_reviews": 8,
+        "playtime_forever": 5687,
+        "playtime_last_two_weeks": 0,
+        "playtime_at_review": 5687,
+        "last_played": 1778297420,
+        "avatar": "ebffe010a282d2735e7c06bcb9d8d1085283313a"
+      },
+      "language": "brazilian",
+      "review": "Tu e outras 10 mil pessoas compraram o jogo. Dai o desenvolvedor solo não contrata um time decente pra dar andamento no projeto. Ele ficou milionário com um jogo 25% pronto. E tu aí esperando os updates que saem a cada 60 dias com meia dúzia de melhorias insignificantes. Tinha um grande potencial de ser um grande jogo, mas é bem provável que alguém apareça com algo melhor até sair do Early Access em 2035.",
+      "timestamp_created": 1778378860,
+      "timestamp_updated": 1778378860,
+      "voted_up": false,
+      "votes_up": 62,
+      "votes_funny": 6,
+      "weighted_vote_score": "0.852701961994171143",
+      "comment_count": 1,
+      "steam_purchase": true,
+      "received_for_free": false,
+      "refunded": false,
+      "written_during_early_access": true,
+      "primarily_steam_deck": false,
+      "app_release_date": "1714136367",
+      "hardware": {
+        "manufacturer": "System manufacturer",
+        "model": "System Product Name",
+        "dx_video_card": "NVIDIA GeForce RTX 3080",
+        "dx_vendorid": 4318,
+        "dx_deviceid": 8710,
+        "num_gpu": 1,
+        "system_ram": "16296",
+        "os": "Windows 10",
+        "cpu_vendor": "AuthenticAMD",
+        "cpu_name": "AMD Ryzen 5 3600 6-Core Processor              ",
+        "gaming_device_type": 1,
+        "dx_driver_version": "32.0.15.7216",
+        "adapter_description": "NVIDIA GeForce RTX 3080",
+        "driver_version": "32.0.15.7216",
+        "driver_date": "2025-1-26",
+        "vram_size": 10053,
+        "screen_width": 3840,
+        "screen_height": 2160,
+        "precise_frame_rate": null
+      },
+      "reactions": [
+        {
+          "reaction_type": 24,
+          "count": 2
+        },
+        {
+          "reaction_type": 26,
+          "count": 1
+        },
+        {
+          "reaction_type": 30,
+          "count": 1
+        }
+      ]
+    },
+    {
+      "recommendationid": "225257623",
+      "author": {
+        "steamid": "76561198046999269",
+        "personaname": "Seizure_PD",
+        "persona_status": "offline",
+        "profile_url": "https://steamcommunity.com/profiles/76561198046999269/",
+        "num_games_owned": 141,
+        "num_reviews": 9,
+        "playtime_forever": 461,
+        "playtime_last_two_weeks": 0,
+        "playtime_at_review": 461,
+        "last_played": 1778451922,
+        "avatar": "bda68823f29351dfb33f08bb2b1479b217b44857"
+      },
+      "language": "russian",
+      "review": "За два года изменилось не многое, заложено много идей, а реализованы они лишь поверхностно. Не запускал с релиза, думал вроде хорошее начало. Поднаберут денег и смогут допилить, но увы. Что 2 года назад, что сейчас ощущение, словно ничего не изменилось. А то что было добавлено на общем фоне выглядит очень незначительно.",
+      "timestamp_created": 1778484640,
+      "timestamp_updated": 1778484640,
+      "voted_up": false,
+      "votes_up": 67,
+      "votes_funny": 0,
+      "weighted_vote_score": "0.816581845283508301",
+      "comment_count": 0,
+      "steam_purchase": true,
+      "received_for_free": false,
+      "refunded": false,
+      "written_during_early_access": true,
+      "primarily_steam_deck": false,
+      "app_release_date": "1714136367",
+      "reactions": [
+        {
+          "reaction_type": 26,
+          "count": 1
+        },
+        {
+          "reaction_type": 31,
+          "count": 1
+        }
+      ]
+    },
+    {
+      "recommendationid": "225658469",
+      "author": {
+        "steamid": "76561199067133763",
+        "personaname": "Ps16849",
+        "persona_status": "offline",
+        "profile_url": "https://steamcommunity.com/profiles/76561199067133763/",
+        "num_games_owned": 0,
+        "num_reviews": 4,
+        "playtime_forever": 1167,
+        "playtime_last_two_weeks": 0,
+        "playtime_at_review": 1167,
+        "last_played": 1760884602,
+        "avatar": "0db5a1753618379d3505db7b2aea7beefaf935ba"
+      },
+      "language": "koreana",
+      "review": "앞으로 앞서 해보기 게임은 절대 안산다 쓰레기같은 사기꾼 새끼들 초반에 좀 해보고 묵혀둔지도 몇년째 인데  발전이없네.  여러분 이겜 사려고 고민중이면 절대 사지마세요.",
+      "timestamp_created": 1778934502,
+      "timestamp_updated": 1778934502,
+      "voted_up": false,
+      "votes_up": 25,
+      "votes_funny": 0,
+      "weighted_vote_score": "0.754497051239013672",
+      "comment_count": 0,
+      "steam_purchase": false,
+      "received_for_free": false,
+      "refunded": false,
+      "written_during_early_access": true,
+      "primarily_steam_deck": false,
+      "app_release_date": "1714136367",
+      "reactions": [
+        {
+          "reaction_type": 29,
+          "count": 1
+        }
+      ]
+    },
+    {
+      "recommendationid": "226587161",
+      "author": {
+        "steamid": "76561198854956202",
+        "personaname": "hakou",
+        "persona_status": "offline",
+        "profile_url": "https://steamcommunity.com/profiles/76561198854956202/",
+        "num_games_owned": 498,
+        "num_reviews": 21,
+        "playtime_forever": 2737,
+        "playtime_last_two_weeks": 940,
+        "playtime_at_review": 2262,
+        "last_played": 1780784731,
+        "avatar": "94433efc4ef780d5264b6e499810ad84efc21aaf"
+      },
+      "language": "french",
+      "review": "Je commence sérieusement à saturer des jeux en accès anticipé. Malheureusement, aujourd’hui, les productions les plus originales et intéressantes sont souvent des jeux indépendants… et donc presque systématiquement en early access. Sur le papier, l’idée de soutenir un projet prometteur peut sembler séduisante. Mais dans les faits, servir de bêta-testeur gratuit finit par devenir épuisant.\n\nEntre les bugs, les mécaniques inachevées et les systèmes qui fonctionnent à moitié, l’expérience devient vite frustrante. \n\nLe problème, c’est que l’accès anticipé est désormais devenu une norme dans l’indu…",
+      "timestamp_created": 1779925250,
+      "timestamp_updated": 1779925250,
+      "voted_up": false,
+      "votes_up": 23,
+      "votes_funny": 0,
+      "weighted_vote_score": "0.74995267391204834",
+      "comment_count": 0,
+      "steam_purchase": false,
+      "received_for_free": false,
+      "refunded": false,
+      "written_during_early_access": true,
+      "primarily_steam_deck": false,
+      "app_release_date": "1714136367",
+      "hardware": {
+        "manufacturer": "ASUS",
+        "model": "System Product Name",
+        "dx_video_card": "NVIDIA GeForce RTX 5070",
+        "dx_vendorid": 4318,
+        "dx_deviceid": 12036,
+        "num_gpu": 1,
+        "system_ram": "32144",
+        "os": "Windows 11",
+        "cpu_vendor": "GenuineIntel",
+        "cpu_name": "Intel(R) Core(TM) Ultra 7 265K",
+        "gaming_device_type": 1,
+        "dx_driver_version": "32.0.15.9597",
+        "adapter_description": "NVIDIA GeForce RTX 5070",
+        "driver_version": "32.0.15.9597",
+        "driver_date": "2026-3-17",
+        "vram_size": 11943,
+        "screen_width": 3840,
+        "screen_height": 2160,
+        "precise_frame_rate": null
+      },
+      "reactions": [
+        {
+          "reaction_type": 31,
+          "count": 4
+        },
+        {
+          "reaction_type": 24,
+          "count": 2
+        },
+        {
+          "reaction_type": 26,
+          "count": 1
+        },
+        {
+          "reaction_type": 29,
+          "count": 1
+        },
+        {
+          "reaction_type": 33,
+          "count": 1
+        }
+      ]
+    }
+  ]
 }

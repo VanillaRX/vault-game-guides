@@ -5,7 +5,7 @@
   "zhTitle": "营地经营模拟器",
   "shortDescription": "Build your own Outdoor Store and Camping Business in the heart of Red Shore Valley! Arrange your shelves, manage your stock, construct facilities on your campsite, and take care of every guest. Grow from humble beginnings into a thriving business surrounded by nature!",
   "zhShortDescription": "经营你的露营地，布置帐篷、管理资源、吸引游客。",
-  "description": "• Sell campsite tickets, unlock new camping areas, and build essential facilities like showers and restrooms as you grow your business. Creating an organized, functional, and attractive campsite is up to you. • Fill your shelves with products, handle sales at the register, and create a tidy shopping space where customers can browse comfortably. A well-managed store looks better and helps bring in more sales. • Assign tasks to your workers, organize daily operations, clean messy areas, and repair damaged structures. Keeping your business running smoothly means staying on top of things every day. • Remove trespassers, deal with raccoons, and protect your business from disruptive saboteurs. Sometimes keeping order means stepping in and handling the chaos yourself. • Design your own signs and give your business a memorable look. With the right touches, you can make your campsite feel more unique and full of character.",
+  "description": "• Sell campsite tickets, unlock new camping areas, and build essential facilities like showers and restrooms as you grow your business. Creating an organized, functional, and attractive campsite is up to you. • Fill your shelves with products, handle sales at the register, and create a tidy shopping space where customers can browse comfortably. A well-managed store looks better and helps bring in more sales. • Assign tasks to your workers, organize daily operations, clean messy areas, and repair damaged structures. Keeping your business running smoothly means staying on top of things every day. • Remove trespassers, deal with raccoons, and protect your business from disruptive saboteurs. Sometimes keeping order means stepping in and handling the chaos yourself. • Design your own signs and ",
   "zhDescription": "《Campsite Hustle》是一款轻松愉快的露营地经营管理游戏。搭建帐篷、布置篝火区、管理物资库存，吸引游客前来度假。游戏节奏舒适，画面温馨。",
   "genres": [
     "Indie",
@@ -60,13 +60,177 @@
   "supportsCoop": false,
   "supportsController": false,
   "steamDeckVerified": false,
-  "positiveReviews": 142,
-  "negativeReviews": 0,
+  "positiveReviews": 49,
+  "negativeReviews": 12,
   "featured": false,
   "guideCount": 0,
   "metaDescriptionEn": "Build your own Outdoor Store and Camping Business in the heart of Red Shore Valley! Arrange your shelves, manage your stock, construct facilities on your campsite, and take care of every guest. Grow from humble beginnings into a thriving business surrounded by nature!",
   "metaDescriptionZh": "《Campsite Hustle》露营地经营攻略 — 帐篷布局、资源管理、游客满意度。",
   "similarGames": [],
   "source": "steam_api",
-  "fetchedAt": "2026-06-08T07:19:03.538Z"
+  "fetchedAt": "2026-06-08T07:19:03.538Z",
+  "reviewScore": 8,
+  "reviewDesc": "Very Positive",
+  "topReviews": [
+    {
+      "recommendationid": "227035134",
+      "author": {
+        "steamid": "76561198010555479",
+        "personaname": "sillymunchie",
+        "persona_status": "online",
+        "profile_url": "https://steamcommunity.com/profiles/76561198010555479/",
+        "num_games_owned": 61,
+        "num_reviews": 1,
+        "playtime_forever": 2437,
+        "playtime_last_two_weeks": 1947,
+        "playtime_at_review": 1543,
+        "last_played": 1780856618,
+        "avatar": "fef49e7fa7e1997310d705b2a6158ff8dc1cdfeb"
+      },
+      "language": "english",
+      "review": "I went into Campsite Hustle expecting chaos, bugs, and questionable physics — and to be fair, I got all three. But I also got a surprisingly chill management loop that kept me playing longer than I expected.\n\nThe Good:\nThe shop loop is simple but satisfying\nThe outdoors area actually becomes busy later on\nStaff make life easier once you start using them properly\nProgression speeds up after the tutorial and feels more rewarding\n\nMore importantly:  \nThe dev team are genuinely passionate about their game. They’re active, listening to feedback, and already working on balancing and improvements. Yo…",
+      "timestamp_created": 1780427038,
+      "timestamp_updated": 1780427038,
+      "voted_up": true,
+      "votes_up": 14,
+      "votes_funny": 2,
+      "weighted_vote_score": "0.609531164169311523",
+      "comment_count": 4,
+      "steam_purchase": false,
+      "received_for_free": true,
+      "refunded": false,
+      "written_during_early_access": true,
+      "primarily_steam_deck": false,
+      "app_release_date": "1780419639",
+      "reactions": [
+        {
+          "reaction_type": 24,
+          "count": 1
+        },
+        {
+          "reaction_type": 29,
+          "count": 1
+        },
+        {
+          "reaction_type": 32,
+          "count": 1
+        },
+        {
+          "reaction_type": 34,
+          "count": 1
+        }
+      ]
+    },
+    {
+      "recommendationid": "227032501",
+      "author": {
+        "steamid": "76561198028551781",
+        "personaname": "*TWL* SniperChic",
+        "persona_status": "offline",
+        "profile_url": "https://steamcommunity.com/profiles/76561198028551781/",
+        "num_games_owned": 160,
+        "num_reviews": 17,
+        "playtime_forever": 2770,
+        "playtime_last_two_weeks": 1180,
+        "playtime_at_review": 2538,
+        "last_played": 1780796317,
+        "avatar": "367cf52bd24a116cc99a5e5824ef32245f91cc0c"
+      },
+      "language": "english",
+      "review": "100% would recommend. I tried it when it was on demo, got into the testing and have now bought it. Game is beautiful, let's your creativity go wild.  The team is also lightning fast on fixing bugs. They have a discord and a spot to post them so they get fixed or to get help. \n  The negative review about loosing his cursor.... yeh they clicked F1 and went into fly/photo mode. Lol  user error not a bug. \nCant wait to see all the updates and expansions they have coming for this game. 🙌  10/10 would recommend.",
+      "timestamp_created": 1780424745,
+      "timestamp_updated": 1780424745,
+      "voted_up": true,
+      "votes_up": 15,
+      "votes_funny": 0,
+      "weighted_vote_score": "0.548248887062072754",
+      "comment_count": 0,
+      "steam_purchase": true,
+      "received_for_free": false,
+      "refunded": false,
+      "written_during_early_access": true,
+      "primarily_steam_deck": false,
+      "app_release_date": "1780419639",
+      "hardware": {
+        "manufacturer": "Notebook",
+        "model": "X170KM-G",
+        "dx_video_card": "NVIDIA GeForce RTX 3070 Laptop GPU",
+        "dx_vendorid": 4318,
+        "dx_deviceid": 9437,
+        "num_gpu": 1,
+        "system_ram": "65403",
+        "os": "Windows 11",
+        "cpu_vendor": "GenuineIntel",
+        "cpu_name": "Intel(R) Core(TM) i9-10850K CPU @ 3.60GHz",
+        "gaming_device_type": 1,
+        "dx_driver_version": "32.0.15.9649",
+        "adapter_description": "NVIDIA GeForce RTX 3070 Laptop GPU",
+        "driver_version": "32.0.15.9649",
+        "driver_date": "2026-5-5",
+        "vram_size": 8018,
+        "screen_width": 1920,
+        "screen_height": 1080,
+        "precise_frame_rate": null
+      },
+      "reactions": [
+        {
+          "reaction_type": 25,
+          "count": 2
+        },
+        {
+          "reaction_type": 29,
+          "count": 2
+        },
+        {
+          "reaction_type": 26,
+          "count": 1
+        }
+      ]
+    },
+    {
+      "recommendationid": "227029241",
+      "author": {
+        "steamid": "76561198017546315",
+        "personaname": "sohozockt",
+        "persona_status": "offline",
+        "profile_url": "https://steamcommunity.com/id/soho76/",
+        "num_games_owned": 200,
+        "num_reviews": 5,
+        "playtime_forever": 8138,
+        "playtime_last_two_weeks": 7042,
+        "playtime_at_review": 5241,
+        "last_played": 1780827621,
+        "avatar": "158b675cc5b6c106e157b3edf7e8531539dd9f6d"
+      },
+      "language": "german",
+      "review": "[h1]🏕️ Eine kleine Perle für Fans von Cozy-Aufbauspielen[/h1]\n\n[i]Transparenzhinweis:[/i]\n\n[i]Ich durfte Campsite Hustle bereits vor dem Early-Access-Start testen. Den Key habe ich als Content Creator kostenfrei über Keymailer erhalten. Die folgende Bewertung basiert auf meiner persönlichen Spielerfahrung und meiner ehrlichen Meinung zum aktuellen Stand des Spiels.[/i]\n\n[hr][/hr]\n\nCampsite Hustle hat mich ehrlich gesagt ziemlich überrascht.\n\nAuf den ersten Blick wirkt es wie ein weiterer Simulator, aber nach ein paar Stunden merkt man schnell, wie viele Systeme hier ineinandergreifen und wie …",
+      "timestamp_created": 1780422001,
+      "timestamp_updated": 1780422001,
+      "voted_up": true,
+      "votes_up": 21,
+      "votes_funny": 1,
+      "weighted_vote_score": "0.643639147281646729",
+      "comment_count": 1,
+      "steam_purchase": false,
+      "received_for_free": true,
+      "refunded": false,
+      "written_during_early_access": true,
+      "primarily_steam_deck": false,
+      "app_release_date": "1780419639",
+      "reactions": [
+        {
+          "reaction_type": 26,
+          "count": 2
+        },
+        {
+          "reaction_type": 25,
+          "count": 1
+        },
+        {
+          "reaction_type": 31,
+          "count": 1
+        }
+      ]
+    }
+  ]
 }

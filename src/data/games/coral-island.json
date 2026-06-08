@@ -5,7 +5,7 @@
   "zhTitle": "珊瑚岛",
   "shortDescription": "Coral Island is a vibrant, laid-back farm sim reimagined with multiplayer! Experience enchanting island life at your own pace: farm with friends, nurture animals, build relationships, hang out with a diverse cast of characters, and dive into the magical Merfolk Kingdom.",
   "zhShortDescription": "热带海岛农场模拟，耕种、潜水、恋爱、修复珊瑚礁。",
-  "description": "It’s time to leave big-city life in Pokyo behind and start a new chapter of your life on Coral Island! Be who you want and create the idyllic farm of your dreams, where you’ll tend crops, nurture animals, and build a bond with the natural world around you. Help revitalize the nearby town and its surrounding coral reefs, and forge relationships with a vibrant community of more than 70 fellow people who call Coral Island home. Farm. Decorate. Craft. Explore. Relax. Your future—and the future of Coral Island—is what you make of it. Build Your Dream Farm Transform your overrun land on Coral Island into a lush and lively dreamscape—you decide what to build, what crops to grow, and which animals you’d like to tend. Write your own story : The story changes with each season, but life goes with the flow. Spend your days exploring, or build a life with someone special. Save the seas, brave the caves, or focus on your farm. It’s up to you! Multiplayer Farming : Team up with up to 3 friends (4 farmers total) to build the farm of your dreams! Grow crops, share resources, and uncover local mysteries together. Whether you're farming, fishing, or exploring—life’s better with friends! Be yourself : Choose from a wide variety of outfits, accessories, and physiques—you’ll find plenty of options to express yourself, find your style, and be whoever you want to be. Befriend a diverse cast of islanders : Get to know the 70+ characters from all walks of life who live on Coral Island. Converse with them, find out more about their interests, and try to impress them with just the right gift. Find that special someone : Meet 25 singles who are ready to mingle! Build relationships, sweep them off their feet, and find the one—and when you’re ready, embark on a new chapter of your story together at the farm. Restore an island once paradise : Make Coral Island a better place for everyone! Take part in community projects to liven up the town, expand the local museum, and discover how to restore heritage sites. Increase the town's rank and your community will thrive! Catch of the day : Island living has a lot of perks, including being just a stone's throw away from fun activities like hunting for insects and catching fish. Dive the ocean &amp; mine the caverns : Go diving to restore the coral reef, or mine precious gemstones in the cavern. Whatever you decide to do, you’ll find loot to hone your tools and upgrade the quality of your livestock and crops.",
+  "description": "It’s time to leave big-city life in Pokyo behind and start a new chapter of your life on Coral Island! Be who you want and create the idyllic farm of your dreams, where you’ll tend crops, nurture animals, and build a bond with the natural world around you. Help revitalize the nearby town and its surrounding coral reefs, and forge relationships with a vibrant community of more than 70 fellow people who call Coral Island home. Farm. Decorate. Craft. Explore. Relax. Your future—and the future of Coral Island—is what you make of it. Build Your Dream Farm Transform your overrun land on Coral Island into a lush and lively dreamscape—you decide what to build, what crops to grow, and which animals you’d like to tend. Write your own story : The story changes with each season, but life goes with the",
   "zhDescription": "《珊瑚岛》是一款热带海岛风格的农场模拟游戏。继承荒废农场后，在岛上耕种作物、饲养动物、与村民建立关系。独特之处在于海洋生态——潜水探索珊瑚礁、清理海洋垃圾。3D画面精美，是星露谷玩家不可错过的选择。",
   "genres": [
     "Adventure",
@@ -63,13 +63,158 @@
   "supportsCoop": true,
   "supportsController": true,
   "steamDeckVerified": false,
-  "positiveReviews": 20999,
-  "negativeReviews": 0,
+  "positiveReviews": 12184,
+  "negativeReviews": 1422,
   "featured": false,
   "guideCount": 0,
   "metaDescriptionEn": "Coral Island is a vibrant, laid-back farm sim reimagined with multiplayer! Experience enchanting island life at your own pace: farm with friends, nurture animals, build relationships, hang out with a diverse cast of characters, and dive into the magical Merfolk Kingdom.",
   "metaDescriptionZh": "《珊瑚岛》新手攻略 — 农耕指南、NPC好感度、潜水探索、珊瑚礁修复。",
   "similarGames": [],
   "source": "steam_api",
-  "fetchedAt": "2026-06-08T07:17:09.527Z"
+  "fetchedAt": "2026-06-08T07:17:09.527Z",
+  "reviewScore": 8,
+  "reviewDesc": "Very Positive",
+  "topReviews": [
+    {
+      "recommendationid": "225225915",
+      "author": {
+        "steamid": "76561199045717520",
+        "personaname": "Teyamora",
+        "persona_status": "offline",
+        "profile_url": "https://steamcommunity.com/id/teyamora/",
+        "num_games_owned": 62,
+        "num_reviews": 11,
+        "playtime_forever": 2668,
+        "playtime_last_two_weeks": 0,
+        "playtime_at_review": 1494,
+        "last_played": 1779557218,
+        "avatar": "2f162ba3fd40d8818ce5a044ca89418a3036fdef"
+      },
+      "language": "english",
+      "review": "As someone who was really disappointed with the state of farming sims and was going back and forth for debating whether Coral Island is worth a try, I hope this review will help you to give this game a try.\n\nAnd yes, I know that every farming sim gets compared to Stardew and players (and developers) are tired of this comparison. However, I’m not comparing the games themselves, I’m comparing the feeling of playing it. \nThis is the first farming sim that made me feel the way I felt during my first SDV playthrough. A feeling that is incredibly hard to replicate given that a lot of farming sims I …",
+      "timestamp_created": 1778442562,
+      "timestamp_updated": 1778442562,
+      "voted_up": true,
+      "votes_up": 42,
+      "votes_funny": 0,
+      "weighted_vote_score": "0.826910853385925293",
+      "comment_count": 0,
+      "steam_purchase": false,
+      "received_for_free": false,
+      "refunded": false,
+      "written_during_early_access": false,
+      "primarily_steam_deck": false,
+      "app_release_date": "1665500400",
+      "reactions": [
+        {
+          "reaction_type": 29,
+          "count": 1
+        }
+      ]
+    },
+    {
+      "recommendationid": "225930476",
+      "author": {
+        "steamid": "76561199095858862",
+        "personaname": "Shayne",
+        "persona_status": "online",
+        "profile_url": "https://steamcommunity.com/id/conscienceking/",
+        "num_games_owned": 282,
+        "num_reviews": 21,
+        "playtime_forever": 37479,
+        "playtime_last_two_weeks": 0,
+        "playtime_at_review": 37479,
+        "last_played": 1767089137,
+        "avatar": "c293c28982636383df5d1a086ad95c20011158ac"
+      },
+      "language": "english",
+      "review": "I really like this game, but after putting 600 hours into one save, they released an update that destroyed 600 hours of progress because saves don't work from one update to the next. \n\nFor a game out of Early Access (supposedly) where you simply wouldn't anticipate that, this killed my desire to play. I just gave up. I don't want to start all over again after putting in so much effort, ykwim. \n\nJust seeing that there's now a huge additional roadmap further removes incentives to play, because I'll just wind up losing my save during those updates as well. If they fixed this, it would be a fantas…",
+      "timestamp_created": 1779208514,
+      "timestamp_updated": 1779952908,
+      "voted_up": false,
+      "votes_up": 66,
+      "votes_funny": 6,
+      "weighted_vote_score": "0.708841145038604736",
+      "comment_count": 1,
+      "steam_purchase": false,
+      "received_for_free": true,
+      "refunded": false,
+      "written_during_early_access": false,
+      "primarily_steam_deck": false,
+      "timestamp_dev_responded": 1779948644,
+      "developer_response": "Hello Shayne,\nWe’re truly sorry to hear this, especially after 600 hours of progress. We completely understand how devastating that must feel.\n\nWe previously had a public beta testing branch, and unfortunately, a hotfix released there affected some saves on the live branch as well. Did you happen to switch to the beta testing branch at any point? If so, your save may not actually be lost, and there may still be a way to restore it.\n\nHere is how to restore your save file:\n\n1. Open %localappdata%\\ProjectCoral\\Saved\\SaveGames\\LegacySaves in Windows Explorer\n2. Copy all the files from that folder into the SaveGames folder (one level up)\n3. In the SaveGames folder, delete the World_[number] folder and SaveManifest.sav\n4. Launch the game - your save should now appear in the live build\n\nIf you run into any difficulties or your save does not appear, please do not hesitate to reach out to us at support@stairwaygames.com, and we will do our best to help.\n\nWe are truly sorry for the frustration this has caused.",
+      "app_release_date": "1665500400",
+      "reactions": [
+        {
+          "reaction_type": 29,
+          "count": 2
+        },
+        {
+          "reaction_type": 27,
+          "count": 1
+        },
+        {
+          "reaction_type": 31,
+          "count": 1
+        },
+        {
+          "reaction_type": 35,
+          "count": 1
+        }
+      ]
+    },
+    {
+      "recommendationid": "225225575",
+      "author": {
+        "steamid": "76561199700704878",
+        "personaname": "💕♡フリーレン♡💕",
+        "persona_status": "offline",
+        "profile_url": "https://steamcommunity.com/profiles/76561199700704878/",
+        "num_games_owned": 208,
+        "num_reviews": 274,
+        "playtime_forever": 3017,
+        "playtime_last_two_weeks": 1095,
+        "playtime_at_review": 627,
+        "last_played": 1780777365,
+        "avatar": "5349772af5a603f4b8d8773962f12a49f21d7a8f"
+      },
+      "language": "brazilian",
+      "review": "Otimo jogo de cuidar de uma fazenda, muito bonitinho e tem muitas coisas diferente de stardew valley, estou gostando muito, tem muita coisa para fazer e descobrir,  parece que ainda vai ter muita coisa incrivel em novos updates. otimo jogo",
+      "timestamp_created": 1778442272,
+      "timestamp_updated": 1778442272,
+      "voted_up": true,
+      "votes_up": 12,
+      "votes_funny": 0,
+      "weighted_vote_score": "0.683301329612731934",
+      "comment_count": 1,
+      "steam_purchase": false,
+      "received_for_free": true,
+      "refunded": false,
+      "written_during_early_access": false,
+      "primarily_steam_deck": false,
+      "app_release_date": "1665500400",
+      "hardware": {
+        "manufacturer": "INTEL",
+        "model": " ",
+        "dx_video_card": "NVIDIA GeForce RTX 2060",
+        "dx_vendorid": 4318,
+        "dx_deviceid": 7944,
+        "num_gpu": 1,
+        "system_ram": "16299",
+        "os": "Windows 10",
+        "cpu_vendor": "GenuineIntel",
+        "cpu_name": "Intel(R) Xeon(R) CPU E5-2650 v4 @ 2.20GHz",
+        "gaming_device_type": 1,
+        "dx_driver_version": "32.0.15.9186",
+        "adapter_description": "NVIDIA GeForce RTX 2060",
+        "driver_version": "32.0.15.9186",
+        "driver_date": "2026-1-20",
+        "vram_size": 6143,
+        "screen_width": null,
+        "screen_height": null,
+        "precise_frame_rate": null
+      },
+      "reactions": []
+    }
+  ]
 }

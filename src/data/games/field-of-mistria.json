@@ -5,7 +5,7 @@
   "zhTitle": "雾原田野",
   "shortDescription": "Start your new life! Build the farm of your dreams as you discover a world brimming with possibilities. Magic, romance, and adventure all await you in this nostalgic farming / life sim RPG!",
   "zhShortDescription": "90年代动画风格的农场 RPG，耕种、魔法、冒险。",
-  "description": "Get ready to begin a brand-new life in a world that's brimming with possibilities! Mistria, an idyllic village tucked between forest and sea, has offered you an overgrown but full-of-potential homestead in exchange for your assistance. Restore the town to its former glory after an earthquake wreaks havoc and strange magic begins to flow through the land. In this spiritual successor to the Farm-Sim RPGs of the late 90s &amp; onward, build the farm of your dreams as you discover magic, romance, and adventure! Customize your character , home and farm to suit your style! Farm, Fish, Mine &amp; Craft your way to a revitalized town Find your ideal match with one of 12 marriage candidates Note: Heart progression past 8 hearts and Marriage itself will be added via future updates. Raise adorable animals &amp; breed rare color variants Unlock magic that will aid you during farming &amp; adventuring Enjoy the changing seasons with new quests, festivals, and even villager outfits! Get to know 30+ villagers and follow their stories Battle foes and discover treasures as you explore ancient ruins And so much more!",
+  "description": "Get ready to begin a brand-new life in a world that's brimming with possibilities! Mistria, an idyllic village tucked between forest and sea, has offered you an overgrown but full-of-potential homestead in exchange for your assistance. Restore the town to its former glory after an earthquake wreaks havoc and strange magic begins to flow through the land. In this spiritual successor to the Farm-Sim RPGs of the late 90s & onward, build the farm of your dreams as you discover magic, romance, and adventure! Customize your character , home and farm to suit your style! Farm, Fish, Mine & Craft your way to a revitalized town Find your ideal match with one of 12 marriage candidates Note: Heart progression past 8 hearts and Marriage itself will be added via future updates. Raise adorable animals & ",
   "zhDescription": "《Fields of Mistria》受90年代日本动画启发的农场模拟 RPG。在迷人的雾原小镇耕种、钓鱼、采矿、战斗。发现镇上隐藏的古老魔法秘密。像素美术精美绝伦。",
   "genres": [
     "Indie",
@@ -67,13 +67,123 @@
   "supportsCoop": false,
   "supportsController": true,
   "steamDeckVerified": false,
-  "positiveReviews": 25507,
-  "negativeReviews": 0,
+  "positiveReviews": 20070,
+  "negativeReviews": 423,
   "featured": false,
   "guideCount": 0,
   "metaDescriptionEn": "Start your new life! Build the farm of your dreams as you discover a world brimming with possibilities. Magic, romance, and adventure all await you in this nostalgic farming / life sim RPG!",
   "metaDescriptionZh": "《雾原田野》新手攻略 — 农耕指南、魔法系统、NPC好感度、地下城探索。",
   "similarGames": [],
   "source": "steam_api",
-  "fetchedAt": "2026-06-08T07:17:56.686Z"
+  "fetchedAt": "2026-06-08T07:17:56.686Z",
+  "reviewScore": 9,
+  "reviewDesc": "Overwhelmingly Positive",
+  "topReviews": [
+    {
+      "recommendationid": "225442353",
+      "author": {
+        "steamid": "76561198212312663",
+        "personaname": "Deepthroat",
+        "persona_status": "offline",
+        "profile_url": "https://steamcommunity.com/id/aoneundermoon/",
+        "num_games_owned": 23,
+        "num_reviews": 5,
+        "playtime_forever": 4539,
+        "playtime_last_two_weeks": 0,
+        "playtime_at_review": 4142,
+        "last_played": 1778930176,
+        "avatar": "130878ac540e1db5b44fc1f05d8a47740f44da99"
+      },
+      "language": "english",
+      "review": "Good game. For newcomers, of this version please, please consider:\n1. Collect and save at least 1 of each insects, fishes, forageable items and mineable items you find in the mines. Do not sell them or put in the museum unless you have an extra of each.\n2. IMPORTANT: Give Eiland and Juniper your attention even if you're not interested in them. Make sure to at least talk to them regularly and give them a present. Try your best to put them as close to 8 hearts if possible while playing the game.\n\nYou'll thank me once the gears in your head spin and understand WHY I'm telling you this.\nI'm not go…",
+      "timestamp_created": 1778721603,
+      "timestamp_updated": 1778721603,
+      "voted_up": true,
+      "votes_up": 71,
+      "votes_funny": 1,
+      "weighted_vote_score": "0.839564263820648193",
+      "comment_count": 0,
+      "steam_purchase": true,
+      "received_for_free": false,
+      "refunded": false,
+      "written_during_early_access": true,
+      "primarily_steam_deck": false,
+      "app_release_date": "1722876530",
+      "reactions": []
+    },
+    {
+      "recommendationid": "225603816",
+      "author": {
+        "steamid": "76561198442686250",
+        "personaname": "SalTheMander",
+        "persona_status": "offline",
+        "profile_url": "https://steamcommunity.com/profiles/76561198442686250/",
+        "num_games_owned": 0,
+        "num_reviews": 3,
+        "playtime_forever": 25815,
+        "playtime_last_two_weeks": 0,
+        "playtime_at_review": 25815,
+        "last_played": 1777049813,
+        "avatar": "ab1a827e2157192266669d17b1f4eaf112d52b09"
+      },
+      "language": "english",
+      "review": "I don't write many reviews, in fact this is my second one ever, but I have to write a review for this gem of a game. As you can tell by my playtime, I love this game. I have 700 hours in Stardew, and I always tell people that if they like Stardew, they'll like this game even more (unfortunately most of my friends have Macs, which can't run this game yet). I played this game and as much as I love Stardew, the amount of QoL features in Mistria make it hard to go back (you can jump and swim! and you are so speedy!). Even beyond that, Mistria just feels so much more alive. There is heart and soul …",
+      "timestamp_created": 1778879321,
+      "timestamp_updated": 1778879321,
+      "voted_up": true,
+      "votes_up": 23,
+      "votes_funny": 0,
+      "weighted_vote_score": "0.692245900630950928",
+      "comment_count": 1,
+      "steam_purchase": true,
+      "received_for_free": false,
+      "refunded": false,
+      "written_during_early_access": true,
+      "primarily_steam_deck": false,
+      "app_release_date": "1722876530",
+      "reactions": [
+        {
+          "reaction_type": 29,
+          "count": 1
+        }
+      ]
+    },
+    {
+      "recommendationid": "225496872",
+      "author": {
+        "steamid": "76561198844026722",
+        "personaname": "AZAD",
+        "persona_status": "in-game",
+        "profile_url": "https://steamcommunity.com/profiles/76561198844026722/",
+        "num_games_owned": 155,
+        "num_reviews": 51,
+        "playtime_forever": 1505,
+        "playtime_last_two_weeks": 0,
+        "playtime_at_review": 1499,
+        "last_played": 1779035046,
+        "avatar": "3f727c7eb586c248be8fc085c4409599592a61ca"
+      },
+      "language": "schinese",
+      "review": "这个游戏唯一的问题是太健全了\n或者说，太宽容了。无论何种个性，都在爱中生长，这太不现实了。\n所以要一直玩（\n我会记得过生日的时候众人即使仓促也掏出礼物\n在旅馆学习烹饪即使只是煮了锅汤也被夸奖\n臭屁如马奇大家也都会出面为他说话\n地球online从未如此宽待过我\n而我们一生追求的只是这样简单的东西\n\n其实我并不向往田园生活，仅仅是自由和创作在当代还算好实现。自然的一切也从不吝啬。空气，阳光，食物和水，无论在何地只要有心就可以感受。然而我们难以唤醒的是人。是一个社会无可撼动的正确性。这就是逃跑的牧歌永垂不朽的原因。\n————————\n制作东西可以不用把材料带在身上好评\n可以拿紫色小球买技能好评\n角色话特别多好评\n战斗好难",
+      "timestamp_created": 1778785699,
+      "timestamp_updated": 1778995917,
+      "voted_up": true,
+      "votes_up": 11,
+      "votes_funny": 1,
+      "weighted_vote_score": "0.643162548542022705",
+      "comment_count": 0,
+      "steam_purchase": true,
+      "received_for_free": false,
+      "refunded": false,
+      "written_during_early_access": true,
+      "primarily_steam_deck": false,
+      "app_release_date": "1722876530",
+      "reactions": [
+        {
+          "reaction_type": 31,
+          "count": 1
+        }
+      ]
+    }
+  ]
 }

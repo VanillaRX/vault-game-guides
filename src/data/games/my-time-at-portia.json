@@ -5,7 +5,7 @@
   "zhTitle": "波西亚时光",
   "shortDescription": "Start a new life in the enchanting town of Portia! Restore your Pa's neglected workshop to its former glory by fulfilling commissions, growing crops, raising animals, and befriending the quirky inhabitants of this charming post-apocalyptic land!",
   "zhShortDescription": "继承工坊、建造奇迹、恋爱交友——3D工坊经营与生活模拟。",
-  "description": "Start a new life in the enchanting town of Portia! Restore your Pa's neglected workshop to its former glory by fulfilling commissions, growing crops, raising animals, and befriending the quirky inhabitants of this charming post-apocalyptic land! Armed with your Pa's old handbook and workbench, you must gather, mine and craft your way to being crowned the number one workshop in Portia. Help the locals rebuild the town and uncover the secrets locked deep away beneath it. Be prepared though…it won't be easy! The town of Portia is full of friendly new faces for you to meet. Make friends, complete requests, exchange gifts, go on dates and let romance blossom! Inspired by the magic of Studio Ghibli, My Time at Portia whisks you away to a world of wonder that you won't forget. How will you spend your time at Portia? Key Features: BUILD YOUR WORKSHOP: Build your Pa's derelict workshop into the best in Portia! Gather resources and craft your way into the hearts of the local community, as you work through daily commissions and villager requests. RUN YOUR OWN FARM: Grow and nurture your own crops, raise animals and convert the empty woodland surrounding your workshop into a quaint little farm! My Time at Portia offers an innovative approach to farming, allowing you to take advantage of planter boxes and semi-automatic irrigation systems. You can even take your horse or llama out for a ride around the town! GET CREATIVE: Make your house a home! Apply your personal touch with an exciting range of craftable furniture, decorations and workshop upgrades. Not only will it look great, but each piece will add stat boosts to your character! JOIN THE COMMUNITY: Become a part of Portia's extraordinary community! Filled with a vibrant cast of unforgettable faces all with energetic personalities, daily routines and exciting stories to share. They go to work, have dinner in restaurants, exercise and interact with each other in lots of interesting ways - make sure you take the time to get to know them all! Who knows, maybe romance could be in the air? EXPLORE AND BATTLE: Delve deep into the ancient ruins and dungeons of Portia. Grab your pickaxe and Relic Scanner and mine for resources and treasures from the past. Make sure that you equip a weapon, there’s hordes of fearsome monsters and deadly bosses that stand between you and that precious loot! SKILL UP: Level up your character with a variety of skills to aid you in your adventures. Decide on whether to boost your crafting, combat or social skills depending on your play style. AND THERE’S MORE: My Time at Portia has something for everyone! Find and explore new lands, take part in regular in-game festivals and many other activities it’s up to you how you spend your time. Why not hone your culinary skills and cook up some tasty food? Take on one of the many mini-games? Or perhaps just kick back and spend the afternoon fishing? The choice is yours!",
+  "description": "Start a new life in the enchanting town of Portia! Restore your Pa's neglected workshop to its former glory by fulfilling commissions, growing crops, raising animals, and befriending the quirky inhabitants of this charming post-apocalyptic land! Armed with your Pa's old handbook and workbench, you must gather, mine and craft your way to being crowned the number one workshop in Portia. Help the locals rebuild the town and uncover the secrets locked deep away beneath it. Be prepared though…it won't be easy! The town of Portia is full of friendly new faces for you to meet. Make friends, complete requests, exchange gifts, go on dates and let romance blossom! Inspired by the magic of Studio Ghibli, My Time at Portia whisks you away to a world of wonder that you won't forget. How will you spend ",
   "zhDescription": "《波西亚时光》是迷人的3D工坊经营与生活模拟游戏。接取订单、收集材料、打造物品、完成委托。核心是工坊制作——开采矿石、熔炼金属、组装复杂机械。",
   "genres": [
     "Adventure",
@@ -52,8 +52,8 @@
   "supportsCoop": false,
   "supportsController": true,
   "steamDeckVerified": false,
-  "positiveReviews": 34691,
-  "negativeReviews": 0,
+  "positiveReviews": 11067,
+  "negativeReviews": 983,
   "metacriticScore": 73,
   "featured": false,
   "guideCount": 0,
@@ -61,5 +61,41 @@
   "metaDescriptionZh": "《波西亚时光》工坊经营攻略 — 材料收集、物品制作、NPC好感度、遗迹探索。",
   "similarGames": [],
   "source": "steam_api",
-  "fetchedAt": "2026-06-08T07:17:23.173Z"
+  "fetchedAt": "2026-06-08T07:17:23.173Z",
+  "reviewScore": 8,
+  "reviewDesc": "Very Positive",
+  "topReviews": [
+    {
+      "recommendationid": "226755608",
+      "author": {
+        "steamid": "76561198164159555",
+        "personaname": "Mandrake",
+        "persona_status": "offline",
+        "profile_url": "https://steamcommunity.com/profiles/76561198164159555/",
+        "num_games_owned": 0,
+        "num_reviews": 22,
+        "playtime_forever": 5239,
+        "playtime_last_two_weeks": 0,
+        "playtime_at_review": 5239,
+        "last_played": 1779316967,
+        "avatar": "7baa13c671732fd13a61ec13f2c4741e1e6ce9b4"
+      },
+      "language": "english",
+      "review": "Look, My Time at Portia is a perfectly nice, pretty game, but it suffers from a severe case of \"Older Sibling Syndrome.\" It walked so its sequel could sprint.\n\nIf you are a die-hard cozy game fanatic who needs to inject every single crafting simulator directly into your veins, buy it. You’ll have a lovely time. But if you’re a regular human playing this today, the entire experience is going to feel distinctly... off.\n\nPlaying Portia now feels like trying to build Ikea furniture while wearing oven mitts. Controls are pure, unfiltered jank, and the resource grind is less \"relaxing weekend hobby\"…",
+      "timestamp_created": 1780122839,
+      "timestamp_updated": 1780122839,
+      "voted_up": true,
+      "votes_up": 12,
+      "votes_funny": 0,
+      "weighted_vote_score": "0.657425999641418457",
+      "comment_count": 0,
+      "steam_purchase": true,
+      "received_for_free": false,
+      "refunded": false,
+      "written_during_early_access": false,
+      "primarily_steam_deck": false,
+      "app_release_date": "1516723620",
+      "reactions": []
+    }
+  ]
 }

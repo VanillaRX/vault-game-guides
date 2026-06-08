@@ -49,8 +49,8 @@
   "supportsCoop": true,
   "supportsController": false,
   "steamDeckVerified": false,
-  "positiveReviews": 3417,
-  "negativeReviews": 0,
+  "positiveReviews": 1041,
+  "negativeReviews": 529,
   "metacriticScore": 67,
   "featured": false,
   "guideCount": 0,
@@ -58,5 +58,8 @@
   "metaDescriptionZh": "《冰霜之地》维京城镇建造攻略 — 资源管理、部队编制、部落战争策略。",
   "similarGames": [],
   "source": "steam_api",
-  "fetchedAt": "2026-06-08T07:20:37.633Z"
+  "fetchedAt": "2026-06-08T07:20:37.633Z",
+  "reviewScore": 5,
+  "reviewDesc": "Mixed",
+  "topReviews": []
 }

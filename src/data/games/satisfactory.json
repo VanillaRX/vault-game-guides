@@ -5,7 +5,7 @@
   "zhTitle": "幸福工厂",
   "shortDescription": "Satisfactory is a first-person open-world factory building game with a dash of exploration and combat. Play alone or with friends, explore an alien planet, create multi-story factories, and enter conveyor belt heaven!",
   "zhShortDescription": "3D 第一人称工厂建造，探索外星世界，建造巨型自动化生产线。",
-  "description": "Satisfactory is a first-person open-world factory building game with a dash of exploration and combat. Play alone or with friends, explore an alien planet, create multi-story factories, and enter conveyor belt heaven! Construct Conquer nature by building massive factories across the land. Expand wherever and however you want. The planet is filled with valuable natural resources just waiting to be utilized. As an employee of FICSIT it’s your duty to make sure they come to good use. Automate Construct your factories with gracious perfection or build intricate webs of conveyor belts to supply all your needs. Automate trucks and trains to reach your faraway outposts and be sure to handle liquids properly by transporting them in pipes. It’s all about minimizing manual labour! Explore &amp; Exploit Venture on expeditions to search for new materials and be sure to put everything to good use. Nature is yours to harvest! You have vehicles, jetpacks, jump pads and more at your disposal to make the exploration easier. Equip the proper safety gear as well, just in case you run into the local wildlife. FEATURES • Open World: Explore the huge (30km2) alien planet that is Massage-2(AB)b with its unique fauna and creatures. • Co-Op: Build a factory yourself or share the joy with your friends. Up to you! • Factory Building: Experience building a huge factory from a first-person perspective. Automate and optimize it to perfection for your personal satisfaction. • Customization: Customize your factory to your own liking. Build at high altitudes or over wide plains, there is almost no limits in the making of your tailor-made factory. • Vehicles: Travel the world with class. Use jump pads, factory carts, jetpacks, hypertubes, trucks or trains. The choice is yours!",
+  "description": "Satisfactory is a first-person open-world factory building game with a dash of exploration and combat. Play alone or with friends, explore an alien planet, create multi-story factories, and enter conveyor belt heaven! Construct Conquer nature by building massive factories across the land. Expand wherever and however you want. The planet is filled with valuable natural resources just waiting to be utilized. As an employee of FICSIT it’s your duty to make sure they come to good use. Automate Construct your factories with gracious perfection or build intricate webs of conveyor belts to supply all your needs. Automate trucks and trains to reach your faraway outposts and be sure to handle liquids properly by transporting them in pipes. It’s all about minimizing manual labour! Explore & Exploit ",
   "zhDescription": "《Satisfactory》将自动化逻辑带到3D外星世界。第一人称探索、寻找矿脉、建造工厂、铺设传送带。从俯视自己建造的巨型工厂时，成就感无可替代。",
   "genres": [
     "Adventure",
@@ -55,8 +55,8 @@
   "supportsCoop": true,
   "supportsController": true,
   "steamDeckVerified": false,
-  "positiveReviews": 228839,
-  "negativeReviews": 0,
+  "positiveReviews": 130427,
+  "negativeReviews": 3283,
   "metacriticScore": 91,
   "featured": false,
   "guideCount": 0,
@@ -64,5 +64,226 @@
   "metaDescriptionZh": "《幸福工厂》工厂布局攻略 — 传送带设计、生产线规划、资源节点地图。",
   "similarGames": [],
   "source": "steam_api",
-  "fetchedAt": "2026-06-08T07:21:38.028Z"
+  "fetchedAt": "2026-06-08T07:21:38.028Z",
+  "reviewScore": 9,
+  "reviewDesc": "Overwhelmingly Positive",
+  "topReviews": [
+    {
+      "recommendationid": "225133186",
+      "author": {
+        "steamid": "76561198039544906",
+        "personaname": "camwyn256",
+        "persona_status": "online",
+        "profile_url": "https://steamcommunity.com/profiles/76561198039544906/",
+        "num_games_owned": 0,
+        "num_reviews": 1,
+        "playtime_forever": 43561,
+        "playtime_last_two_weeks": 8787,
+        "playtime_at_review": 24934,
+        "last_played": 1780890029,
+        "avatar": "fef49e7fa7e1997310d705b2a6158ff8dc1cdfeb"
+      },
+      "language": "english",
+      "review": "Don't play this game. It will eat all your free time. When you're away, you'll think how to grow the factory. When you dream, you dream of the factory.\r\nThe factory must grow to save all the puppies and kittens.",
+      "timestamp_created": 1778350293,
+      "timestamp_updated": 1778350293,
+      "voted_up": true,
+      "votes_up": 163,
+      "votes_funny": 70,
+      "weighted_vote_score": "0.919222116470336914",
+      "comment_count": 0,
+      "steam_purchase": true,
+      "received_for_free": false,
+      "refunded": false,
+      "written_during_early_access": false,
+      "primarily_steam_deck": false,
+      "app_release_date": "1725980394",
+      "reactions": [
+        {
+          "reaction_type": 28,
+          "count": 9
+        },
+        {
+          "reaction_type": 34,
+          "count": 4
+        },
+        {
+          "reaction_type": 25,
+          "count": 1
+        },
+        {
+          "reaction_type": 31,
+          "count": 1
+        }
+      ]
+    },
+    {
+      "recommendationid": "225228067",
+      "author": {
+        "steamid": "76561198871833476",
+        "personaname": "ʟǟֆȶ",
+        "persona_status": "offline",
+        "profile_url": "https://steamcommunity.com/profiles/76561198871833476/",
+        "num_games_owned": 0,
+        "num_reviews": 137,
+        "playtime_forever": 7115,
+        "playtime_last_two_weeks": 218,
+        "playtime_at_review": 6449,
+        "deck_playtime_at_review": 6449,
+        "last_played": 1780517525,
+        "avatar": "f1828607eac4054560a02da9ba83e4310053661a"
+      },
+      "language": "english",
+      "review": "I like how this game is mostly chill but still requires you to use like 5% of your brain if you want to build things efficiently. You can sink a lot of time into this game depending on how you play it. It took me over 100 hours to complete the tiers and space elevator requests. \r\n\r\nI also like how there are really no missions besides making stuff and finding stuff. The game just throws you down on the planet and says \"get to it!\" You have the freedom to decide how you want to do it and with the way the tiers are set up its pretty easy to figure out how to progress even if you've never watched …",
+      "timestamp_created": 1778444377,
+      "timestamp_updated": 1778444377,
+      "voted_up": true,
+      "votes_up": 116,
+      "votes_funny": 7,
+      "weighted_vote_score": "0.872274458408355713",
+      "comment_count": 0,
+      "steam_purchase": true,
+      "received_for_free": false,
+      "refunded": false,
+      "written_during_early_access": false,
+      "primarily_steam_deck": true,
+      "app_release_date": "1725980394",
+      "reactions": [
+        {
+          "reaction_type": 25,
+          "count": 2
+        },
+        {
+          "reaction_type": 35,
+          "count": 2
+        }
+      ]
+    },
+    {
+      "recommendationid": "225894782",
+      "author": {
+        "steamid": "76561198046939439",
+        "personaname": "Cryodes",
+        "persona_status": "offline",
+        "profile_url": "https://steamcommunity.com/profiles/76561198046939439/",
+        "num_games_owned": 633,
+        "num_reviews": 8,
+        "playtime_forever": 67109,
+        "playtime_last_two_weeks": 0,
+        "playtime_at_review": 67109,
+        "last_played": 1774370647,
+        "avatar": "59a7bbe16115086b5a1c758b9ed778e61bf6888e"
+      },
+      "language": "english",
+      "review": "Game is ok.\n\nPay no attention to the play time.\n\nSeriously though, I love this game its a guilty pleasure of mine. I always come back. Between this and the Epic version back from U3 I have probably close to 2500 hours in this game.",
+      "timestamp_created": 1779168727,
+      "timestamp_updated": 1779168727,
+      "voted_up": true,
+      "votes_up": 44,
+      "votes_funny": 26,
+      "weighted_vote_score": "0.774320721626281738",
+      "comment_count": 0,
+      "steam_purchase": true,
+      "received_for_free": false,
+      "refunded": false,
+      "written_during_early_access": false,
+      "primarily_steam_deck": false,
+      "app_release_date": "1725980394",
+      "reactions": [
+        {
+          "reaction_type": 24,
+          "count": 1
+        },
+        {
+          "reaction_type": 27,
+          "count": 1
+        },
+        {
+          "reaction_type": 29,
+          "count": 1
+        }
+      ]
+    },
+    {
+      "recommendationid": "225574035",
+      "author": {
+        "steamid": "76561199170163554",
+        "personaname": "帕レム~帕レム~",
+        "persona_status": "offline",
+        "profile_url": "https://steamcommunity.com/profiles/76561199170163554/",
+        "num_games_owned": 9,
+        "num_reviews": 2,
+        "playtime_forever": 3404,
+        "playtime_last_two_weeks": 401,
+        "playtime_at_review": 1311,
+        "last_played": 1780660040,
+        "avatar": "945ed4730425f14f8f6ecbfc1ec9ee2c976e72c2"
+      },
+      "language": "schinese",
+      "review": "上完班之后再在游戏里面上班真是一种惬意啊",
+      "timestamp_created": 1778858031,
+      "timestamp_updated": 1778858031,
+      "voted_up": true,
+      "votes_up": 22,
+      "votes_funny": 16,
+      "weighted_vote_score": "0.738833844661712646",
+      "comment_count": 0,
+      "steam_purchase": true,
+      "received_for_free": false,
+      "refunded": false,
+      "written_during_early_access": false,
+      "primarily_steam_deck": false,
+      "app_release_date": "1725980394",
+      "reactions": []
+    },
+    {
+      "recommendationid": "225284027",
+      "author": {
+        "steamid": "76561198772115148",
+        "personaname": "󠀡",
+        "persona_status": "offline",
+        "profile_url": "https://steamcommunity.com/id/healingursoul/",
+        "num_games_owned": 0,
+        "num_reviews": 2,
+        "playtime_forever": 4622,
+        "playtime_last_two_weeks": 1727,
+        "playtime_at_review": 2894,
+        "last_played": 1780669819,
+        "avatar": "5fbd3b826c69002346831dfe9d92dc71de814262"
+      },
+      "language": "english",
+      "review": "Looking at lips you can’t kiss isn’t as painful as realising that as soon as you run this game, you become an engineer, a maths professor, and a person with back pain with no social life, and your girlfriend / wife will probably leave you.",
+      "timestamp_created": 1778517301,
+      "timestamp_updated": 1779711002,
+      "voted_up": true,
+      "votes_up": 31,
+      "votes_funny": 19,
+      "weighted_vote_score": "0.697968661785125732",
+      "comment_count": 0,
+      "steam_purchase": true,
+      "received_for_free": false,
+      "refunded": false,
+      "written_during_early_access": false,
+      "primarily_steam_deck": false,
+      "app_release_date": "1725980394",
+      "reactions": [
+        {
+          "reaction_type": 28,
+          "count": 3
+        },
+        {
+          "reaction_type": 25,
+          "count": 1
+        },
+        {
+          "reaction_type": 27,
+          "count": 1
+        },
+        {
+          "reaction_type": 29,
+          "count": 1
+        }
+      ]
+    }
+  ]
 }

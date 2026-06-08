@@ -46,8 +46,15 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
     <html
       lang="en"
       className={`${orbitron.variable} ${manrope.variable} ${jetbrainsMono.variable} scroll-smooth`}
+      suppressHydrationWarning
     >
       <head>
+        {/* Theme init — runs before paint, uses style.setProperty to avoid React hydration conflict */}
+        <script
+          dangerouslySetInnerHTML={{
+            __html: `(function(){try{var t=localStorage.getItem("vault-theme");if(t==="cozy"){var r=document.documentElement.style;r.setProperty("--bg","#faf7f2");r.setProperty("--fg","#3d2e28");r.setProperty("--accent","#e8785a");r.setProperty("--neon","#5ba675");r.setProperty("--amber","#d4a853");r.setProperty("--card","#ffffff");r.setProperty("--border","#e8ddd0");r.setProperty("--muted","#9b8c80")}}catch(e){}})()`,
+          }}
+        />
         <script async src="https://www.googletagmanager.com/gtag/js?id=G-7FKTX7NCSB" />
         <script
           dangerouslySetInnerHTML={{

@@ -5,7 +5,7 @@
   "zhTitle": "星露谷物语",
   "shortDescription": "You've inherited your grandfather's old farm plot in Stardew Valley. Armed with hand-me-down tools and a few coins, you set out to begin your new life. Can you learn to live off the land and turn these overgrown fields into a thriving home?",
   "zhShortDescription": "像素农场 RPG 终极标杆——种田、恋爱、挖矿、钓鱼。",
-  "description": "Stardew Valley is an open-ended country-life RPG! You've inherited your grandfather's old farm plot in Stardew Valley. Armed with hand-me-down tools and a few coins, you set out to begin your new life. Can you learn to live off the land and turn these overgrown fields into a thriving home? It won't be easy. Ever since Joja Corporation came to town, the old ways of life have all but disappeared. The community center, once the town's most vibrant hub of activity, now lies in shambles. But the valley seems full of opportunity. With a little dedication, you might just be the one to restore Stardew Valley to greatness! Features Turn your overgrown field into a lively farm! Raise animals, grow crops, start an orchard, craft useful machines, and more! You'll have plenty of space to create the farm of your dreams. 8 Player Farming! Invite 1-7 players to join you in the valley online! Players can work together to build a thriving farm, share resources, and improve the local community. As more hands are better than one, players have the option to scale profit margin on produce sold for a more challenging experience. Improve your skills over time. As you make your way from a struggling greenhorn to a master farmer, you'll level up in 5 different areas: farming, mining, combat, fishing, and foraging. As you progress, you'll learn new cooking and crafting recipes, unlock new areas to explore, and customize your skills by choosing from a variety of professions. Become part of the local community. With over 30 unique characters living in Stardew Valley, you won't have a problem finding new friends! Each person has their own daily schedule, birthday, unique mini-cutscenes, and new things to say throughout the week and year. As you make friends with them, they will open up to you, ask you for help with their personal troubles, or tell you their secrets! Take part in seasonal festivals such as the luau, haunted maze, and feast of the winter star. Explore a vast, mysterious cave. As you travel deeper underground, you'll encounter new and dangerous monsters, powerful weapons, new environments, valuable gemstones, raw materials for crafting and upgrading tools, and mysteries to be uncovered. Breathe new life into the valley. Since JojaMart opened, the old way of life in Stardew Valley has changed. Much of the town's infrastructure has fallen into disrepair. Help restore Stardew Valley to it's former glory by repairing the old community center, or take the alternate route and join forces with Joja Corporation. Court and marry a partner to share your life on the farm with. There are 12 available bachelors and bachelorettes to woo, each with unique character progression cutscenes. Once married, your partner will live on the farm with you. Who knows, maybe you'll have kids and start a family? Spend a relaxing afternoon at one of the local fishing spots. The waters are teeming with seasonal varieties of delicious fish. Craft bait, bobbers, and crab pots to help you in your journey toward catching every fish and becoming a local legend! Donate artifacts and minerals to the local museum. Cook delicious meals and craft useful items to help you out. With over 100 cooking and crafting recipes, you'll have a wide variety of items to create. Some dishes you cook will even give you temporary boosts to skills, running speed, or combat prowess. Craft useful objects like scarecrows, oil makers, furnaces, or even the rare and expensive crystalarium. Customize the appearance of your character and house. With hundreds of decorative items to choose from, you'll have no trouble creating the home of your dreams! Xbox controller support (with rumble)! (Keyboard still required for text input) Over two hours of original music.",
+  "description": "Stardew Valley is an open-ended country-life RPG! You've inherited your grandfather's old farm plot in Stardew Valley. Armed with hand-me-down tools and a few coins, you set out to begin your new life. Can you learn to live off the land and turn these overgrown fields into a thriving home? It won't be easy. Ever since Joja Corporation came to town, the old ways of life have all but disappeared. The community center, once the town's most vibrant hub of activity, now lies in shambles. But the valley seems full of opportunity. With a little dedication, you might just be the one to restore Stardew Valley to greatness! Features Turn your overgrown field into a lively farm! Raise animals, grow crops, start an orchard, craft useful machines, and more! You'll have plenty of space to create the far",
   "zhDescription": "《星露谷物语》重新定义了农场模拟游戏。继承祖父的旧农场从头开始。内容远超农耕——挖矿探索地下洞穴、在节日上与村民互动、修复社区中心、与12位角色恋爱。发售近十年仍在免费更新。",
   "genres": [
     "Indie",
@@ -54,8 +54,8 @@
   "supportsCoop": true,
   "supportsController": true,
   "steamDeckVerified": false,
-  "positiveReviews": 869507,
-  "negativeReviews": 0,
+  "positiveReviews": 382728,
+  "negativeReviews": 4315,
   "metacriticScore": 89,
   "featured": false,
   "guideCount": 0,
@@ -63,5 +63,274 @@
   "metaDescriptionZh": "《星露谷物语》全方位攻略 — 农耕布局、NPC好感度、矿洞探索、社区中心收集包。",
   "similarGames": [],
   "source": "steam_api",
-  "fetchedAt": "2026-06-08T07:13:45.477Z"
+  "fetchedAt": "2026-06-08T07:13:45.477Z",
+  "reviewScore": 9,
+  "reviewDesc": "Overwhelmingly Positive",
+  "topReviews": [
+    {
+      "recommendationid": "225398164",
+      "author": {
+        "steamid": "76561198414746833",
+        "personaname": "是山豆君呀丶~",
+        "persona_status": "offline",
+        "profile_url": "https://steamcommunity.com/id/Aimerrhythm__/",
+        "num_games_owned": 249,
+        "num_reviews": 20,
+        "playtime_forever": 60489,
+        "playtime_last_two_weeks": 559,
+        "playtime_at_review": 58683,
+        "last_played": 1780292520,
+        "avatar": "71901004b276026f74ee7f559e048f8793c9c655"
+      },
+      "language": "schinese",
+      "review": "妈妈，人生要是星露谷就好了，没有无奈与绝望，种子种在地上就会成熟，钓鱼永远不会空军，想要什么就自己去争取，每一份努力都会有收获。\n妈妈，人生要是星露谷就好了，没有自卑和内耗，你喜欢的人最后也会喜欢你，浪漫和梦想相互交织，你要对抗的只有时间。\n妈妈，人生要是星露谷就好了，我可以拥有很多朋友，还有关心我的长辈，永远没有焦虑和煎熬，活在农场的每一秒都是自我价值的实现，就算只是砍树那也是充实的一天。\n可是妈妈，我把农场打理的井井有条，和所有人都成为了好朋友，取到了我心爱的妻子，打穿了地下的矿井，学会了祝尼魔的语言，甚至通关了草原之王和祝尼魔赛车，为什么做到这种地步，到头来我也只能一直在一个小房间里打转呢，人生要是星露谷就好了。",
+      "timestamp_created": 1778671006,
+      "timestamp_updated": 1778671006,
+      "voted_up": true,
+      "votes_up": 1370,
+      "votes_funny": 79,
+      "weighted_vote_score": "0.975715696811676025",
+      "comment_count": 12,
+      "steam_purchase": true,
+      "received_for_free": false,
+      "refunded": false,
+      "written_during_early_access": false,
+      "primarily_steam_deck": false,
+      "app_release_date": "1456509578",
+      "reactions": [
+        {
+          "reaction_type": 25,
+          "count": 83
+        },
+        {
+          "reaction_type": 26,
+          "count": 10
+        },
+        {
+          "reaction_type": 32,
+          "count": 8
+        },
+        {
+          "reaction_type": 35,
+          "count": 8
+        },
+        {
+          "reaction_type": 24,
+          "count": 7
+        },
+        {
+          "reaction_type": 29,
+          "count": 5
+        },
+        {
+          "reaction_type": 31,
+          "count": 5
+        },
+        {
+          "reaction_type": 34,
+          "count": 4
+        },
+        {
+          "reaction_type": 28,
+          "count": 1
+        },
+        {
+          "reaction_type": 33,
+          "count": 1
+        }
+      ]
+    },
+    {
+      "recommendationid": "225894283",
+      "author": {
+        "steamid": "76561199771394040",
+        "personaname": "莫里i",
+        "persona_status": "offline",
+        "profile_url": "https://steamcommunity.com/profiles/76561199771394040/",
+        "num_games_owned": 24,
+        "num_reviews": 2,
+        "playtime_forever": 12254,
+        "playtime_last_two_weeks": 1114,
+        "playtime_at_review": 10337,
+        "last_played": 1780847992,
+        "avatar": "9c62ec4e7fdfcb666f175253984e308630502eec"
+      },
+      "language": "schinese",
+      "review": "人生要是星露谷就好了。\r\n送出礼物就能得到友谊，失败了可以回档，永远有重来的机会，种下去就一定能长出来的菜，付出努力就一定会有回报，下雨了去海滩钓一整天的鱼也没关系。\r\n就算在床上躺三年什么也不干，评定等级的时候爷爷也只会想着咱能够开开心心享受生活，远离世俗。\r\n人生要真是星露谷就好了。",
+      "timestamp_created": 1779167901,
+      "timestamp_updated": 1779167901,
+      "voted_up": true,
+      "votes_up": 141,
+      "votes_funny": 13,
+      "weighted_vote_score": "0.897543370723724365",
+      "comment_count": 6,
+      "steam_purchase": true,
+      "received_for_free": false,
+      "refunded": false,
+      "written_during_early_access": false,
+      "primarily_steam_deck": false,
+      "app_release_date": "1456509578",
+      "reactions": [
+        {
+          "reaction_type": 29,
+          "count": 2
+        },
+        {
+          "reaction_type": 25,
+          "count": 1
+        },
+        {
+          "reaction_type": 31,
+          "count": 1
+        },
+        {
+          "reaction_type": 32,
+          "count": 1
+        }
+      ]
+    },
+    {
+      "recommendationid": "225301456",
+      "author": {
+        "steamid": "76561199794534486",
+        "personaname": "raio",
+        "persona_status": "offline",
+        "profile_url": "https://steamcommunity.com/profiles/76561199794534486/",
+        "num_games_owned": 15,
+        "num_reviews": 2,
+        "playtime_forever": 11203,
+        "playtime_last_two_weeks": 0,
+        "playtime_at_review": 9427,
+        "last_played": 1779227186,
+        "avatar": "98751d8d24fba893fdafe08b21867669bb1dd9ac"
+      },
+      "language": "brazilian",
+      "review": "Esse jogo curou o meu interior,me livrou da ansiedade,me abraçou como nenhum jogo ou pessoa ja fez, esse é o melhor jogo da steam e da minha vida.",
+      "timestamp_created": 1778534536,
+      "timestamp_updated": 1778534536,
+      "voted_up": true,
+      "votes_up": 78,
+      "votes_funny": 1,
+      "weighted_vote_score": "0.888282656669616699",
+      "comment_count": 0,
+      "steam_purchase": true,
+      "received_for_free": false,
+      "refunded": false,
+      "written_during_early_access": false,
+      "primarily_steam_deck": false,
+      "app_release_date": "1456509578",
+      "reactions": [
+        {
+          "reaction_type": 25,
+          "count": 2
+        }
+      ]
+    },
+    {
+      "recommendationid": "225800240",
+      "author": {
+        "steamid": "76561198134301703",
+        "personaname": "Adeptus Abdulius",
+        "persona_status": "offline",
+        "profile_url": "https://steamcommunity.com/profiles/76561198134301703/",
+        "num_games_owned": 217,
+        "num_reviews": 7,
+        "playtime_forever": 1922,
+        "playtime_last_two_weeks": 794,
+        "playtime_at_review": 797,
+        "last_played": 1780666494,
+        "avatar": "28c86ac757249555d23a08d8b40723b5b1f487f6"
+      },
+      "language": "russian",
+      "review": "Купил Stardew Valley по приколу, в итоге в 4 утра обсуждаю с человеком урожай картошки и бегу спасать кур от депрессии.  \nЖаль, что далеко не все поймут глубину этой игры)))) действительно тонко)))) не так уж много сейчас людей, которые осознают, что настоящий endgame — это поливать пастернак и молча рыбачить под ночной эмбиент.\n\nСначала думаешь:\n“ну ферма и ферма”\n\nА потом:\n— у тебя расписание сна как у тракториста;  \n— ты эмоционально зависим от урожая клубники;  \n— ты 40 минут выбираешь обои в дом;  \n— и искренне радуешься, что виртуальная курица снесла большое яйцо.\n\n10/10  \nигра, после ко…",
+      "timestamp_created": 1779054925,
+      "timestamp_updated": 1779054925,
+      "voted_up": true,
+      "votes_up": 82,
+      "votes_funny": 13,
+      "weighted_vote_score": "0.874942958354949951",
+      "comment_count": 2,
+      "steam_purchase": false,
+      "received_for_free": false,
+      "refunded": false,
+      "written_during_early_access": false,
+      "primarily_steam_deck": false,
+      "app_release_date": "1456509578",
+      "reactions": [
+        {
+          "reaction_type": 35,
+          "count": 3
+        },
+        {
+          "reaction_type": 33,
+          "count": 2
+        },
+        {
+          "reaction_type": 24,
+          "count": 1
+        },
+        {
+          "reaction_type": 27,
+          "count": 1
+        },
+        {
+          "reaction_type": 29,
+          "count": 1
+        }
+      ]
+    },
+    {
+      "recommendationid": "225135497",
+      "author": {
+        "steamid": "76561198333936021",
+        "personaname": "Evil Curry",
+        "persona_status": "online",
+        "profile_url": "https://steamcommunity.com/profiles/76561198333936021/",
+        "num_games_owned": 0,
+        "num_reviews": 6,
+        "playtime_forever": 4351,
+        "playtime_last_two_weeks": 0,
+        "playtime_at_review": 1108,
+        "last_played": 1778841751,
+        "avatar": "f8e1fcf3aa49b2e076221201d16925d83da3fef4"
+      },
+      "language": "tchinese",
+      "review": "非常好遊戲，精神時光屋。\n但我玩這款遊戲還有另一個原因。以下是我的故事：\n\n我與一位朋友相識於 2020 年。\n我們是在某個網頁遊戲裡下棋認識的，後來交換了遊戲外的聯絡方式，斷斷續續聊了很多莫名其妙卻又有趣的話題。\n之所以說「斷斷續續」是因為我經常搞消失，訊息愛回不回的。他不一樣，他總是認真回覆我的每一則訊息。\n他是個很特別的人。\n\n我們最後一次聊天是在 2024 年。\n那時他即將大學畢業，準備迎接人生的下一階段，而我已經工作一段時間了。\n他跟我說，他打算刪除現在這個聊天帳號，在那之前，他向我推薦了這款遊戲——《星露谷物語》。\n他說，這是一款評價非常好的遊戲，想以此治治我無聊乏味的社畜生活。\n但當時的我忙於工作，既沒有心思玩遊戲，也不曾嘗試這種風格，最後便不了了之。\n後來，他換了聯絡方式，我們也就此斷了聯繫。\n\n直到最近，2026 年，\n我辭職了，突然間閒了下來，百般無聊地逛著 Steam 想找點新遊戲來玩，\n無意間，我看見了 Stardew Valley 這個名字。\n我想起了他。\n我很好奇，當時他口中的星露谷究竟是什麼樣的，於是，我購買了這款遊戲。\n\n我連續玩了一整個下午，甚至一整天。\n老實說，這款遊戲比我想像中要好玩得多，這也是我第一次玩這種農場開荒類型的遊戲。\n只是玩著玩著，眼淚卻突然掉了下來。\n也許是因為遊戲太好玩了，又或者是因為想起了過往的點點滴滴。\n說真的，我對他感到抱…",
+      "timestamp_created": 1778352225,
+      "timestamp_updated": 1778352225,
+      "voted_up": true,
+      "votes_up": 129,
+      "votes_funny": 3,
+      "weighted_vote_score": "0.922062039375305176",
+      "comment_count": 0,
+      "steam_purchase": true,
+      "received_for_free": false,
+      "refunded": false,
+      "written_during_early_access": false,
+      "primarily_steam_deck": false,
+      "app_release_date": "1456509578",
+      "reactions": [
+        {
+          "reaction_type": 35,
+          "count": 11
+        },
+        {
+          "reaction_type": 25,
+          "count": 6
+        },
+        {
+          "reaction_type": 26,
+          "count": 1
+        },
+        {
+          "reaction_type": 31,
+          "count": 1
+        },
+        {
+          "reaction_type": 34,
+          "count": 1
+        }
+      ]
+    }
+  ]
 }

@@ -5,7 +5,7 @@
   "zhTitle": "龙之庇护所",
   "shortDescription": "Dragon Shelter is a farming sim set in a fantasy world. Become a hero who'll reignite the long-lost friendship between humans and dragons. Care for wondrous creatures, explore the magical world, and cook enchanted dishes together!",
   "zhShortDescription": "经营一座龙族庇护所，照顾受伤的龙、修复栖息地。",
-  "description": "Join a heartfelt adventure where friendship, care, and hard work restore harmony to a forgotten world. Rebuild the lost bond between humans and dragons as you transform abandoned lands into a place filled with warmth and joy. Grow crops, gather resources, raise adorable dragons, and help townsfolk rediscover their happiness. Befriend cheerful dragons, each with unique traits and special powers that assist you on the farm and beyond. Care for them with love and playtime, and they’ll become loyal companions who sense people’s needs and lend their magic wherever it’s needed. Rebuild your grandpa’s abandoned farm into a thriving sanctuary. Grow crops, harvest resources, and craft valuable goods while your dragon helpers support every step. Watch the land come back to life as your care turns a forgotten place into a haven of joy. Cooking is the heart of crafting in Dragon Shelter. Meals strengthen bonds with neighbors, lift spirits, and unlock new opportunities. Every harvest can be used in cooking, crafting, alchemy, or trade – making each recipe meaningful and rewarding. A nearby town has fallen into gloom, but hope remains. With the help of your dragons, reconnect with the townsfolk, uncover their stories, and rekindle their sense of joy and community. Venture into a vibrant fantasy world filled with magical biomes, curious creatures, and hidden secrets. Every journey offers delightful surprises and the chance to restore life to forgotten lands.",
+  "description": "Join a heartfelt adventure where friendship, care, and hard work restore harmony to a forgotten world. Rebuild the lost bond between humans and dragons as you transform abandoned lands into a place filled with warmth and joy. Grow crops, gather resources, raise adorable dragons, and help townsfolk rediscover their happiness. Befriend cheerful dragons, each with unique traits and special powers that assist you on the farm and beyond. Care for them with love and playtime, and they’ll become loyal companions who sense people’s needs and lend their magic wherever it’s needed. Rebuild your grandpa’s abandoned farm into a thriving sanctuary. Grow crops, harvest resources, and craft valuable goods while your dragon helpers support every step. Watch the land come back to life as your care turns a ",
   "zhDescription": "《Dragon Shelter》是一款温馨的龙族庇护所经营游戏。照顾一群受伤的龙——喂食、治疗、建造栖息地。修复污染的土地、恢复魔法生态。适合喜欢星露谷和史莱姆牧场的玩家。",
   "genres": [
     "Casual",
@@ -62,5 +62,8 @@
   "metaDescriptionZh": "《Dragon Shelter》庇护所经营攻略 — 龙类饲养、栖息地建造、资源管理指南。",
   "similarGames": [],
   "source": "steam_api",
-  "fetchedAt": "2026-06-08T07:18:56.854Z"
+  "fetchedAt": "2026-06-08T07:18:56.854Z",
+  "reviewScore": 0,
+  "reviewDesc": "No user reviews",
+  "topReviews": []
 }

@@ -5,7 +5,7 @@
   "zhTitle": "边缘世界",
   "shortDescription": "A sci-fi colony sim driven by an intelligent AI storyteller. Generates stories by simulating psychology, ecology, gunplay, melee combat, climate, biomes, diplomacy, interpersonal relationships, art, medicine, trade, and more.",
   "zhShortDescription": "AI 叙事者驱动的科幻殖民模拟，每局都是独特故事。",
-  "description": "RimWorld is a sci-fi colony sim driven by an intelligent AI storyteller. Inspired by Dwarf Fortress, Firefly, and Dune. You begin with three survivors of a shipwreck on a distant world. Manage colonists' moods, needs, wounds, illnesses and addictions. Build in the forest, desert, jungle, tundra, and more. Watch colonists develop and break relationships with family members, lovers, and spouses. Replace wounded limbs and organs with prosthetics, bionics, or biological parts harvested from others. Fight pirates, tribes, mad animals, giant insects and ancient killing machines. Craft structures, weapons, and apparel from metal, wood, stone, cloth, and futuristic materials. Tame and train cute pets, productive farm animals, and deadly attack beasts. Trade with passing ships and caravans. Form caravans to complete quests, trade, attack other factions, or migrate your whole colony. Dig through snow, weather storms, and fight fires. Capture refugees or prisoners and turn them to your side or sell them into slavery. Discover a new generated world each time you play. Explore hundreds of wild and interesting mods on the Steam Workshop. Learn to play easily with the help of an intelligent and unobtrusive AI tutor. RimWorld is a story generator. It’s designed to co-author tragic, twisted, and triumphant stories about imprisoned pirates, desperate colonists, starvation and survival. It works by controlling the “random” events that the world throws at you. Every thunderstorm, pirate raid, and traveling salesman is a card dealt into your story by the AI storyteller . There are several storytellers to choose from. Randy Random does crazy stuff, Cassandra Classic goes for rising tension, and Phoebe Chillax likes to relax. Your colonists are not professional settlers – they’re crash-landed survivors from a passenger liner destroyed in orbit. You can end up with a nobleman, an accountant, and a housewife. You’ll acquire more colonists by capturing them in combat and turning them to your side, buying them from slave traders, or taking in refugees. So your colony will always be a motley crew. Each person’s background is tracked and affects how they play. A nobleman will be great at social skills (recruiting prisoners, negotiating trade prices), but refuse to do physical work. A farm oaf knows how to grow food by long experience, but cannot do research. A nerdy scientist is great at research, but cannot do social tasks at all. A genetically engineered assassin can do nothing but kill – but he does that very well. Colonists develop - and destroy - relationships. Each has an opinion of the others, which determines whether they'll become lovers, marry, cheat, or fight. Perhaps your two best colonists are happily married - until one of them falls for the dashing surgeon who saved her from a gunshot wound. The game generates a whole planet from pole to equator. You choose whether to land your crash pods in a cold northern tundra, a parched desert flat, a temperate forest, or a steaming equatorial jungle. Different areas have different animals, plants, diseases, temperatures, rainfall, mineral resources, and terrain. These challenges of surviving in a disease-infested, choking jungle are very different from those in a parched desert wasteland or a frozen tundra with a two-month growing season. Travel across the planet. You're not stuck in one place. You can form a caravan of people, animals, and prisoners. Rescue kidnapped former allies from pirate outposts, attend peace talks, trade with other factions, attack enemy colonies, and complete other quests. You can even pack up your entire colony and move to a new place. You can use rocket-powered transport pods to travel faster. You can tame and train animals. Lovable pets will cheer up sad colonists. Farm animals can be worked, milked, and sheared. Attack beasts can be released upon your enemies. There are many animals - cats, labrador retrievers, grizzly bears, camels, cougars, chinchillas, chickens, and exotic alien-like lifeforms. People in RimWorld constantly observe their situation and surroundings in order to decide how to feel at any given moment. They respond to hunger and fatigue, witnessing death, disrespectfully unburied corpses, being wounded, being left in darkness, getting packed into cramped environments, sleeping outside or in the same room as others, and many other situations. If they're too stressed, they might lash out or break down. Wounds, infections, prosthetics, and chronic conditions are tracked on each body part and affect characters' capacities. Eye injuries make it hard to shoot or do surgery. Wounded legs slow people down. Hands, brain, mouth, heart, liver, kidneys, stomach, feet, fingers, toes, and more can all be wounded, diseased, or missing, and all have logical in-game effects. And other species have their own body layouts - take off a deer's leg, and it can still hobble on the other three. Take off a rhino's horn, and it's much less dangerous. You can repair body parts with prosthetics ranging from primitive to transcendent. A peg leg will get Joe Colonist walking after an unfortunate incident with a rhinoceros, but he'll still be quite slow. Buy an expensive bionic leg from a trader the next year, and Joe becomes a superhuman runner. You can even extract, sell, buy, and transplant internal organs. And there's much more than that! The game is easy to mod and has an active modding community on the Steam Workshop.",
+  "description": "RimWorld is a sci-fi colony sim driven by an intelligent AI storyteller. Inspired by Dwarf Fortress, Firefly, and Dune. You begin with three survivors of a shipwreck on a distant world. Manage colonists' moods, needs, wounds, illnesses and addictions. Build in the forest, desert, jungle, tundra, and more. Watch colonists develop and break relationships with family members, lovers, and spouses. Replace wounded limbs and organs with prosthetics, bionics, or biological parts harvested from others. Fight pirates, tribes, mad animals, giant insects and ancient killing machines. Craft structures, weapons, and apparel from metal, wood, stone, cloth, and futuristic materials. Tame and train cute pets, productive farm animals, and deadly attack beasts. Trade with passing ships and caravans. Form ca",
   "zhDescription": "《RimWorld》是独一无二的科幻殖民模拟。由 AI 叙事者驱动，每局生成全新故事。管理殖民者心情、需求、伤口和疾病。从温度系统到社交关系，每个系统相互关联。",
   "genres": [
     "Indie",
@@ -47,8 +47,8 @@
   "supportsCoop": false,
   "supportsController": true,
   "steamDeckVerified": false,
-  "positiveReviews": 203684,
-  "negativeReviews": 0,
+  "positiveReviews": 114560,
+  "negativeReviews": 2424,
   "metacriticScore": 87,
   "featured": false,
   "guideCount": 0,
@@ -57,5 +57,266 @@
   "similarGames": [],
   "source": "steam_api",
   "fetchedAt": "2026-06-08T07:21:18.010Z",
-  "aliases": []
+  "aliases": [],
+  "reviewScore": 9,
+  "reviewDesc": "Overwhelmingly Positive",
+  "topReviews": [
+    {
+      "recommendationid": "225832266",
+      "author": {
+        "steamid": "76561198031727478",
+        "personaname": "Moonarian",
+        "persona_status": "offline",
+        "profile_url": "https://steamcommunity.com/id/moonarian/",
+        "num_games_owned": 803,
+        "num_reviews": 55,
+        "playtime_forever": 248448,
+        "playtime_last_two_weeks": 2795,
+        "playtime_at_review": 243390,
+        "last_played": 1780847299,
+        "avatar": "b065052744c2fee95b33ca27ba0885336c4bd8e6"
+      },
+      "language": "schinese",
+      "review": "4000多个小时了，想想还没有好好写过评价。\n\n“故事生成器”应该就是对这款游戏最好的评价了，有时候刚完结一个存档时没什么感觉，过了些日子，不经意间这些小人的故事慢慢浮上心，才能有些实际的感受。\n\n我最忘不了的一个故事，是一对年轻的新婚夫妇。\n在漫长冬日、偶然出现的晴天他们结为夫妻，参加婚礼的是双方父母和亲友。那是我还允许泰南给小人乱塞亲戚。\n\n下一个记忆点是他们在翻新自己的房子，面积整整扩大了一倍，整整持续三天的大工程。下午时分我发现两人都没工作，找了一圈才发现两人躺在山边看云彩。我并没有打断他们，哪怕那张双人床还剩2%的工作量。\n\n过了几天，之前帮助过的难民寄来感谢信，附带了啤酒，结果被猫喝了……\n\n我原以为这个存档会以生一堆孩子一起上天结束，但故事总有转折和意外。\n最后的结局，很合理也很现实。石头城墙挡不住重炮，坚固的大门被机械要塞砸开，殖民地的广场上，一人倒在地上，双腿被炸断，流血不止还有2小时生命；另一人跑过来试图营救她的最爱，但是被机炮射杀在爱人眼前。\n躺在地上的小人弹出了哭丧的表情，很简洁以至于不需要更多的描述，两个小时很快就结束了。\n\n最后的画面是巨大的机械要塞，深红色涂装倒映着燃烧的农田，和两人的尸体形成一个正三角形关系，\n大火的烟雾冲上云霄，开始下雨了……\n\n大家都已经死去或离开。这个故事结束了。也许这片废墟能对别人有所帮助。",
+      "timestamp_created": 1779099238,
+      "timestamp_updated": 1779099238,
+      "voted_up": true,
+      "votes_up": 177,
+      "votes_funny": 3,
+      "weighted_vote_score": "0.942132055759429932",
+      "comment_count": 0,
+      "steam_purchase": true,
+      "received_for_free": false,
+      "refunded": false,
+      "written_during_early_access": false,
+      "primarily_steam_deck": false,
+      "app_release_date": "1468620000",
+      "reactions": [
+        {
+          "reaction_type": 24,
+          "count": 6
+        },
+        {
+          "reaction_type": 31,
+          "count": 2
+        },
+        {
+          "reaction_type": 32,
+          "count": 2
+        },
+        {
+          "reaction_type": 34,
+          "count": 2
+        },
+        {
+          "reaction_type": 29,
+          "count": 1
+        },
+        {
+          "reaction_type": 35,
+          "count": 1
+        }
+      ]
+    },
+    {
+      "recommendationid": "225605366",
+      "author": {
+        "steamid": "76561198289236787",
+        "personaname": "hschorn",
+        "persona_status": "offline",
+        "profile_url": "https://steamcommunity.com/profiles/76561198289236787/",
+        "num_games_owned": 0,
+        "num_reviews": 1,
+        "playtime_forever": 1058163,
+        "playtime_last_two_weeks": 0,
+        "playtime_at_review": 1057931,
+        "last_played": 1778892803,
+        "avatar": "fef49e7fa7e1997310d705b2a6158ff8dc1cdfeb"
+      },
+      "language": "english",
+      "review": "My playtime of 17k+ hours speak for themself. Amazing game design. Endless replayability and endless mods make this my favorite game of all times.",
+      "timestamp_created": 1778880445,
+      "timestamp_updated": 1778880445,
+      "voted_up": true,
+      "votes_up": 134,
+      "votes_funny": 11,
+      "weighted_vote_score": "0.883921563625335693",
+      "comment_count": 18,
+      "steam_purchase": true,
+      "received_for_free": false,
+      "refunded": false,
+      "written_during_early_access": false,
+      "primarily_steam_deck": false,
+      "app_release_date": "1468620000",
+      "hardware": {
+        "manufacturer": "Micro-Star International Co., Ltd.",
+        "model": "MS-7C91",
+        "dx_video_card": "NVIDIA GeForce RTX 3090",
+        "dx_vendorid": 4318,
+        "dx_deviceid": 8708,
+        "num_gpu": 1,
+        "system_ram": "65462",
+        "os": "Windows 11",
+        "cpu_vendor": "AuthenticAMD",
+        "cpu_name": "AMD Ryzen 7 5800X3D 8-Core Processor           ",
+        "gaming_device_type": 1,
+        "dx_driver_version": "32.0.15.9597",
+        "adapter_description": "NVIDIA GeForce RTX 3090",
+        "driver_version": "32.0.15.9597",
+        "driver_date": "2026-3-17",
+        "vram_size": 24322,
+        "screen_width": 5120,
+        "screen_height": 1440,
+        "precise_frame_rate": null
+      },
+      "reactions": [
+        {
+          "reaction_type": 24,
+          "count": 11
+        },
+        {
+          "reaction_type": 34,
+          "count": 7
+        },
+        {
+          "reaction_type": 29,
+          "count": 3
+        },
+        {
+          "reaction_type": 32,
+          "count": 2
+        },
+        {
+          "reaction_type": 25,
+          "count": 1
+        },
+        {
+          "reaction_type": 26,
+          "count": 1
+        },
+        {
+          "reaction_type": 27,
+          "count": 1
+        },
+        {
+          "reaction_type": 30,
+          "count": 1
+        },
+        {
+          "reaction_type": 31,
+          "count": 1
+        },
+        {
+          "reaction_type": 35,
+          "count": 1
+        }
+      ]
+    },
+    {
+      "recommendationid": "226552283",
+      "author": {
+        "steamid": "76561198365743077",
+        "personaname": "mya萌羊",
+        "persona_status": "online",
+        "profile_url": "https://steamcommunity.com/profiles/76561198365743077/",
+        "num_games_owned": 256,
+        "num_reviews": 15,
+        "playtime_forever": 126634,
+        "playtime_last_two_weeks": 2869,
+        "playtime_at_review": 124694,
+        "last_played": 1780555250,
+        "avatar": "e05514f6925d7775daaa2254ac32a952eaf86c22"
+      },
+      "language": "schinese",
+      "review": "如果放弃一些人性，你会过得很舒服，如果放弃所有人性，什么也难不倒你",
+      "timestamp_created": 1779891735,
+      "timestamp_updated": 1779891735,
+      "voted_up": true,
+      "votes_up": 27,
+      "votes_funny": 17,
+      "weighted_vote_score": "0.754490077495574951",
+      "comment_count": 9,
+      "steam_purchase": true,
+      "received_for_free": false,
+      "refunded": false,
+      "written_during_early_access": false,
+      "primarily_steam_deck": false,
+      "app_release_date": "1468620000",
+      "reactions": [
+        {
+          "reaction_type": 29,
+          "count": 1
+        }
+      ]
+    },
+    {
+      "recommendationid": "225512662",
+      "author": {
+        "steamid": "76561198402411075",
+        "personaname": "Aegis_725",
+        "persona_status": "online",
+        "profile_url": "https://steamcommunity.com/profiles/76561198402411075/",
+        "num_games_owned": 741,
+        "num_reviews": 202,
+        "playtime_forever": 8606,
+        "playtime_last_two_weeks": 0,
+        "playtime_at_review": 8606,
+        "last_played": 1760027290,
+        "avatar": "5c4bcf269252cc74e3c844d50f982c23b21f0761"
+      },
+      "language": "schinese",
+      "review": "旧游补评10 游玩时期：2018~25\n库里有一款工坊订阅过百，启动报错一页，但依旧畅玩的沙盒游戏。\nDLC个人排行：\nBiotech＞Royalty≈Anomaly＞Ideology（Odyssey还没玩明白)\nmod推荐：\nHouse Maid Nukos 猫女仆\nNewRatkinPlus 鼠族基础\nRatkin Faction: Oberonia aurea 鼠族派系:金鸢尾兰(Royalty)\nRatkin Gene Expand 鼠族基因扩展(Biotech)\nRatkin Hair Plus 鼠族发型扩展\nRatkinNamePlus 鼠族名称扩展\nRunAndGun 走A，传奇正义模组\n其他功能mod看个人喜好，我订的[url=https://steamcommunity.com/sharedfiles/filedetails/?id=3725524782]合集[/url]。\n",
+      "timestamp_created": 1778797089,
+      "timestamp_updated": 1778798007,
+      "voted_up": true,
+      "votes_up": 27,
+      "votes_funny": 4,
+      "weighted_vote_score": "0.750201702117919922",
+      "comment_count": 0,
+      "steam_purchase": false,
+      "received_for_free": false,
+      "refunded": false,
+      "written_during_early_access": false,
+      "primarily_steam_deck": false,
+      "app_release_date": "1468620000",
+      "reactions": []
+    },
+    {
+      "recommendationid": "226313624",
+      "author": {
+        "steamid": "76561199252108950",
+        "personaname": "Otto_Fox",
+        "persona_status": "offline",
+        "profile_url": "https://steamcommunity.com/profiles/76561199252108950/",
+        "num_games_owned": 96,
+        "num_reviews": 3,
+        "playtime_forever": 7387,
+        "playtime_last_two_weeks": 2096,
+        "playtime_at_review": 5290,
+        "last_played": 1780831169,
+        "avatar": "14f1a9927382fa8dea134a0f3ca6f17e6938e131"
+      },
+      "language": "english",
+      "review": "Decided to start a normal, peaceful game. 1 hour later I was selling organs to caravans.\n11/10",
+      "timestamp_created": 1779635137,
+      "timestamp_updated": 1779635462,
+      "voted_up": true,
+      "votes_up": 15,
+      "votes_funny": 11,
+      "weighted_vote_score": "0.693486571311950684",
+      "comment_count": 0,
+      "steam_purchase": true,
+      "received_for_free": false,
+      "refunded": false,
+      "written_during_early_access": false,
+      "primarily_steam_deck": false,
+      "app_release_date": "1468620000",
+      "reactions": [
+        {
+          "reaction_type": 27,
+          "count": 1
+        }
+      ]
+    }
+  ]
 }

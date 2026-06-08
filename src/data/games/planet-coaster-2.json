@@ -5,7 +5,7 @@
   "zhTitle": "过山车之星2",
   "shortDescription": "Build and customise thrilling roller coasters and incredible water slides, manage the ultimate theme park experience, and share your epic creations. Are you ready to ride the wave? ",
   "zhShortDescription": "终极主题公园模拟器续作，建造水上乐园、设计过山车。",
-  "description": "Create a splash with Planet Coaster 2 - sequel to the world’s best coaster park simulator! Reach new heights of creativity, management, and sharing as you construct the theme parks of your dreams combining epic water rides and coasters to delight and thrill your park guests. Dive in now! Expand your imagination: Enhanced and improved building and pathing tools let you create spectacular, true-to-life theme parks, complete with sprawling plazas. Make your mark on the world as you shape terrain and populate your park with stunning swimming pools and thrilling rides. It’s never been easier to bring your dream park to life. Create the ultimate theme park: Dive into a world of creativity with nine distinct themes, from returning classics like Pirate and Western, to exciting new additions in Viking and Mythology. With thousands of themed customisable pieces at your fingertips, every creation will be truly unique. Next-level customisation: Embark on the coaster park experience of a lifetime as you push the boundaries of creativity like never before! Unleash your imagination as you build the most awe-inspiring themed creations with unparalleled customisation tools! For the first time, intuitively add scalable scenery and objects to every ride to elevate your park and give your guests a day to remember. Combine epic water and coaster rides: Create the ultimate experience for your thrill-seeking guests using piece-by-piece construction. Build a vibrant array of exhilarating rollercoasters and jaw-dropping thrill rides. Design a seamlessly interconnected park paradise with glistening swimming pools and twisting water flumes. Create unforgettable experiences: Surprise and amaze as you bring the dramatic flair of real-world theme parks to your guests with the brand-new event sequencer tool, while sophisticated global illumination lighting brings the theme park experience to your home with stunning visuals and striking authenticity. Find the secret to success: Balance thrilling your guests with managing your budget - populate your park with amazing efficiently powered attractions and the right amenities to boost your rating and become a theme park master. Take care: Provide for your guests’ health, well-being, and happiness so your park can thrive. With all-new waterparks comes the need for shade, sunscreen, lifeguards, changing rooms, and more to ensure everyone has their best day both in and out of the pool. Satisfaction guaranteed: Understanding the wants and needs of your guests has never been easier! The new ‘heat maps’ feature lets you understand the wider park’s needs at a glance before diving deeper into the details -simply select any guest to see how they and their immediate group are enjoying your theme park. Create together: Unleash your collective creativity in Sandbox Mode. Take turns to work on building a park with players around the world using a shared cross-platform save! Play together: For the first time ever, collaborate with friends in Franchise Mode to create the best theme park empire and compete with others to reach the top of worldwide leaderboards! Visit together: Soak up the fun and get up close and personal, as you experience other players theme park creations first hand - explore their worlds in first person as a park guest! Share creations: Share anything and everything! Upload coasters, rides, or even full theme parks for other players, and download and delight in other’s creations. All are easily accessible from the cross-platform Frontier Workshop both in-game and online.",
+  "description": "Create a splash with Planet Coaster 2 - sequel to the world’s best coaster park simulator! Reach new heights of creativity, management, and sharing as you construct the theme parks of your dreams combining epic water rides and coasters to delight and thrill your park guests. Dive in now! Expand your imagination: Enhanced and improved building and pathing tools let you create spectacular, true-to-life theme parks, complete with sprawling plazas. Make your mark on the world as you shape terrain and populate your park with stunning swimming pools and thrilling rides. It’s never been easier to bring your dream park to life. Create the ultimate theme park: Dive into a world of creativity with nine distinct themes, from returning classics like Pirate and Western, to exciting new additions in Vik",
   "zhDescription": "《过山车之星2》是 Frontier 的终极主题公园模拟器续作。新增水上乐园元素——水上滑梯、造浪池、漂流河。建造系统极为自由，手动调整轨道每个节点。",
   "genres": [
     "Simulation",
@@ -50,8 +50,8 @@
   "supportsCoop": false,
   "supportsController": true,
   "steamDeckVerified": false,
-  "positiveReviews": 11940,
-  "negativeReviews": 0,
+  "positiveReviews": 5759,
+  "negativeReviews": 2156,
   "metacriticScore": 76,
   "featured": false,
   "guideCount": 0,
@@ -59,5 +59,234 @@
   "metaDescriptionZh": "《过山车之星2》公园攻略 — 轨道建造技巧、游客满意度、盈利优化。",
   "similarGames": [],
   "source": "steam_api",
-  "fetchedAt": "2026-06-08T07:22:38.512Z"
+  "fetchedAt": "2026-06-08T07:22:38.512Z",
+  "reviewScore": 6,
+  "reviewDesc": "Mostly Positive",
+  "topReviews": [
+    {
+      "recommendationid": "226067398",
+      "author": {
+        "steamid": "76561199574564797",
+        "personaname": "El Diablo",
+        "persona_status": "offline",
+        "profile_url": "https://steamcommunity.com/profiles/76561199574564797/",
+        "num_games_owned": 0,
+        "num_reviews": 2,
+        "playtime_forever": 958,
+        "playtime_last_two_weeks": 534,
+        "playtime_at_review": 282,
+        "last_played": 1780899940,
+        "avatar": "cdfa4197c60513a432f1dc8125595235a5a3b262"
+      },
+      "language": "english",
+      "review": "As a minor player on Planet Coaster, I have not been playing very long although I've had the game awhile now I'm in my early 70's, My grandson built a new computer for me one that will play all the coaster games, I started off with Roller Coaster Tycoon years ago and got quite addicted I've progressed to Planet Coaster 2, I enjoy playing the game although I'm not very good and I persevere with it, I would highly recommend to anyone that like's platform games to think about buying it's fun and as I said very addictive",
+      "timestamp_created": 1779371954,
+      "timestamp_updated": 1779371954,
+      "voted_up": true,
+      "votes_up": 59,
+      "votes_funny": 2,
+      "weighted_vote_score": "0.837064921855926514",
+      "comment_count": 1,
+      "steam_purchase": true,
+      "received_for_free": false,
+      "refunded": false,
+      "written_during_early_access": false,
+      "primarily_steam_deck": false,
+      "app_release_date": "1730905185",
+      "reactions": [
+        {
+          "reaction_type": 35,
+          "count": 19
+        },
+        {
+          "reaction_type": 25,
+          "count": 6
+        },
+        {
+          "reaction_type": 24,
+          "count": 4
+        },
+        {
+          "reaction_type": 34,
+          "count": 3
+        },
+        {
+          "reaction_type": 27,
+          "count": 1
+        }
+      ]
+    },
+    {
+      "recommendationid": "225120050",
+      "author": {
+        "steamid": "76561198933925569",
+        "personaname": "spawnofsatan76",
+        "persona_status": "offline",
+        "profile_url": "https://steamcommunity.com/profiles/76561198933925569/",
+        "num_games_owned": 60,
+        "num_reviews": 1,
+        "playtime_forever": 232898,
+        "playtime_last_two_weeks": 7333,
+        "playtime_at_review": 221467,
+        "last_played": 1780759742,
+        "avatar": "3d75bc5f74e601169ca97ddea6c2c7ec7b77660c"
+      },
+      "language": "english",
+      "review": "Having Played a little bit over the last 18 months or so since it launched i feel i can finally give Planet coaster 2 a review. where to start the game itself is a fantastic Builder game one of the best there is, you don't even have to build a theme park you can build pretty much anything you imagination can come up with. but coming from planet coaster 1 the change up was night an day being able to resize things an attach stuff to coasters and rides really where game changers. the addition of swimming pools and flumes was another plus. don't get me wrong the UI can be a bit of a headache at ti…",
+      "timestamp_created": 1778339739,
+      "timestamp_updated": 1778339739,
+      "voted_up": true,
+      "votes_up": 13,
+      "votes_funny": 2,
+      "weighted_vote_score": "0.671412944793701172",
+      "comment_count": 0,
+      "steam_purchase": true,
+      "received_for_free": false,
+      "refunded": false,
+      "written_during_early_access": false,
+      "primarily_steam_deck": false,
+      "app_release_date": "1730905185",
+      "reactions": [
+        {
+          "reaction_type": 24,
+          "count": 1
+        },
+        {
+          "reaction_type": 34,
+          "count": 1
+        }
+      ]
+    },
+    {
+      "recommendationid": "225636296",
+      "author": {
+        "steamid": "76561198408341547",
+        "personaname": "cracktone",
+        "persona_status": "offline",
+        "profile_url": "https://steamcommunity.com/profiles/76561198408341547/",
+        "num_games_owned": 0,
+        "num_reviews": 1,
+        "playtime_forever": 3046,
+        "playtime_last_two_weeks": 0,
+        "playtime_at_review": 3046,
+        "last_played": 1777567180,
+        "avatar": "46102646f4de7785d5bcb2eeef7a7f265d82a039"
+      },
+      "language": "english",
+      "review": "I really wanted this to be good, so i waited with my review until i hopefully could give a positiv one. I can't... This game is so broken its not even funny! They break things with every update that worked before. It's really with every update. Then they release a quick hotfix for 4 or 5 of the problems a few day's later. Then its radio silent for 2-3 Months. When they have another DLC ready to press some money out of you, then they will also anounce a \"fix\" for the old ones. But it will only contain what is deemed necessary for Frontier. We have Bugs from the launch day's, that where never fi…",
+      "timestamp_created": 1778912140,
+      "timestamp_updated": 1778912500,
+      "voted_up": false,
+      "votes_up": 31,
+      "votes_funny": 2,
+      "weighted_vote_score": "0.665303409099578857",
+      "comment_count": 0,
+      "steam_purchase": true,
+      "received_for_free": false,
+      "refunded": false,
+      "written_during_early_access": false,
+      "primarily_steam_deck": false,
+      "app_release_date": "1730905185",
+      "reactions": [
+        {
+          "reaction_type": 26,
+          "count": 1
+        },
+        {
+          "reaction_type": 28,
+          "count": 1
+        }
+      ]
+    },
+    {
+      "recommendationid": "225852714",
+      "author": {
+        "steamid": "76561198173953379",
+        "personaname": "Kaese_Hobel",
+        "persona_status": "online",
+        "profile_url": "https://steamcommunity.com/id/kaese_hobel/",
+        "num_games_owned": 85,
+        "num_reviews": 28,
+        "playtime_forever": 1057,
+        "playtime_last_two_weeks": 0,
+        "playtime_at_review": 1057,
+        "last_played": 1778079643,
+        "avatar": "ec206f5b622f3da74cac1204e54176af51d08250"
+      },
+      "language": "german",
+      "review": "Zu Planet Coaster 2 muss ich ehrlich sagen: Ich verstehe nicht ganz, warum es dafür unbedingt einen zweiten Teil gebraucht hat.\n\nKlar, es sind einige neue Fahrgeschäfte dazugekommen, und grafisch wurde an manchen Stellen definitiv nachgebessert. Teilweise sieht das Spiel wirklich besser aus als der Vorgänger, das kann man nicht abstreiten. Trotzdem kommt bei mir persönlich leider kaum richtiger Spielspaß auf.\n\nVor allem einige der neuen Spielmechaniken sagen mir überhaupt nicht zu. Das ganze System mit Strom, Wasserfiltern und ähnlichen Verwaltungsaufgaben wird für meinen Geschmack auf Dauer e…",
+      "timestamp_created": 1779121057,
+      "timestamp_updated": 1779121057,
+      "voted_up": false,
+      "votes_up": 16,
+      "votes_funny": 2,
+      "weighted_vote_score": "0.65871119499206543",
+      "comment_count": 0,
+      "steam_purchase": false,
+      "received_for_free": false,
+      "refunded": false,
+      "written_during_early_access": false,
+      "primarily_steam_deck": false,
+      "app_release_date": "1730905185",
+      "hardware": {
+        "manufacturer": "ASUS",
+        "model": "System Product Name",
+        "dx_video_card": "NVIDIA GeForce RTX 4070 Ti",
+        "dx_vendorid": 4318,
+        "dx_deviceid": 10114,
+        "num_gpu": 1,
+        "system_ram": "65273",
+        "os": "Windows 11",
+        "cpu_vendor": "GenuineIntel",
+        "cpu_name": "12th Gen Intel(R) Core(TM) i7-12700K",
+        "gaming_device_type": 1,
+        "dx_driver_version": "32.0.15.9649",
+        "adapter_description": "NVIDIA GeForce RTX 4070 Ti",
+        "driver_version": "32.0.15.9649",
+        "driver_date": "2026-5-5",
+        "vram_size": 11994,
+        "screen_width": 2560,
+        "screen_height": 1440,
+        "precise_frame_rate": null
+      },
+      "reactions": [
+        {
+          "reaction_type": 24,
+          "count": 1
+        }
+      ]
+    },
+    {
+      "recommendationid": "226757970",
+      "author": {
+        "steamid": "76561198075527937",
+        "personaname": "SwingLifeAway",
+        "persona_status": "in-game",
+        "profile_url": "https://steamcommunity.com/id/SwingLifeAwayZA/",
+        "num_games_owned": 467,
+        "num_reviews": 83,
+        "playtime_forever": 42,
+        "playtime_last_two_weeks": 42,
+        "playtime_at_review": 42,
+        "last_played": 1780125792,
+        "avatar": "f96a2b505ffc28e98421348263cebc9c2165613d"
+      },
+      "language": "english",
+      "review": "I really don't like how there aren't built-in strtuctures for every theme, it feels really lazy and like they expect you to either want to build everything yourself or spend ages trying to browse for something you like in the workshop.\n\nI just want to build a big theme park, I don't want to spend hours building structures.\n\nIt's great if you want that level of detail, but personally, I don't.",
+      "timestamp_created": 1780126011,
+      "timestamp_updated": 1780126011,
+      "voted_up": false,
+      "votes_up": 14,
+      "votes_funny": 1,
+      "weighted_vote_score": "0.610192298889160156",
+      "comment_count": 0,
+      "steam_purchase": true,
+      "received_for_free": false,
+      "refunded": false,
+      "written_during_early_access": false,
+      "primarily_steam_deck": false,
+      "app_release_date": "1730905185",
+      "reactions": []
+    }
+  ]
 }

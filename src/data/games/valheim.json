@@ -5,7 +5,7 @@
   "zhTitle": "英灵神殿",
   "shortDescription": "A brutal exploration and survival game for 1-10 players, set in a procedurally-generated purgatory inspired by viking culture. Battle, build, and conquer your way to a saga worthy of Odin’s patronage!",
   "zhShortDescription": "维京风格生存建造——探索第十神界、建造长屋。",
-  "description": "Valheim is a brutal exploration and survival game for 1-10 players set in a procedurally-generated world inspired by Norse mythology. Craft powerful weapons, construct longhouses, and slay mighty foes to prove yourself to Odin! EXPLORE THE TENTH WORLD Explore a world shrouded in mystery. Discover distinct environments with unique enemies to battle, resources to gather and secrets to uncover! Be a viking, sail the open seas in search of lands unknown, and fight bloodthirsty monsters. BUILD MIGHTY HALLS Raise viking longhouses and build bases that offer reprieve from the dangers ahead. Customise buildings, both inside and out, with a detailed building system. Progress through building tiers to upgrade, expand and defend your base. GATHER, CRAFT AND SURVIVE Struggle to survive as you gather materials and craft weapons, armor, tools, ships, and defenses. Decorate your hearths and sharpen your blades, grow crops and vegetables, prepare food, brew meads and potions, and progress as you defeat more difficult bosses and discover new recipes and blueprints. KEY FEATURES: Massive procedurally-generated world where every biome is immersive and distinct, with unique enemies, resources and crafting recipes to discover. Play alone or with up to 10 players on player-hosted dedicated servers and experience unlimited world creation and enemies that scale in difficulty. Staminabased combat that rewards preparation and skill. Utilize weapon types with unique attacks, different blocking styles, ranged combat, dodges and parries to fight your enemies. Rewarding food system where you cannot starve and are not punished for not eating, instead you gain health, stamina and regeneration buffs depending on what foods you consume. Intuitive crafting where recipes are discovered as you explore the world, and pick up new resources and ingredients. Flexible building system that takes structural integrity and ventilation into account. Build a small shelter or an entire village, make outposts or claim abandoned buildings as your own. Then customize to your liking. Sail boats and ships to reach distant lands and explore the sea that offers riches to claim and monsters to fight. Epic boss fights that will test even the best prepared vikings and offer rewards that help you on your journey. Community-translated languages: In addition to the officially supported languages, Valheim has several community-translated languages. As the name would suggest these are all translated by fans and members of the community, and is an ongoing process. We can't guarantee the quality nor completeness of any specific translation effort.",
+  "description": "Valheim is a brutal exploration and survival game for 1-10 players set in a procedurally-generated world inspired by Norse mythology. Craft powerful weapons, construct longhouses, and slay mighty foes to prove yourself to Odin! EXPLORE THE TENTH WORLD Explore a world shrouded in mystery. Discover distinct environments with unique enemies to battle, resources to gather and secrets to uncover! Be a viking, sail the open seas in search of lands unknown, and fight bloodthirsty monsters. BUILD MIGHTY HALLS Raise viking longhouses and build bases that offer reprieve from the dangers ahead. Customise buildings, both inside and out, with a detailed building system. Progress through building tiers to upgrade, expand and defend your base. GATHER, CRAFT AND SURVIVE Struggle to survive as you gather m",
   "zhDescription": "《Valheim》是维京风格的生存建造游戏，设定在北欧神话第十神界。从木屋到长屋，清晰的进度递进——每个 BOSS 击败后解锁新材料。低多边形画面配合光影创造独特视觉。",
   "genres": [
     "Action",
@@ -59,13 +59,272 @@
   "supportsCoop": true,
   "supportsController": true,
   "steamDeckVerified": false,
-  "positiveReviews": 452991,
-  "negativeReviews": 0,
+  "positiveReviews": 241831,
+  "negativeReviews": 13678,
   "featured": false,
   "guideCount": 0,
   "metaDescriptionEn": "A brutal exploration and survival game for 1-10 players, set in a procedurally-generated purgatory inspired by viking culture. Battle, build, and conquer your way to a saga worthy of Odin’s patronage!",
   "metaDescriptionZh": "《英灵神殿》全 BOSS 攻略 — 建造技巧、资源采集路线、生物群落生存指南。",
   "similarGames": [],
   "source": "steam_api",
-  "fetchedAt": "2026-06-08T07:22:18.363Z"
+  "fetchedAt": "2026-06-08T07:22:18.363Z",
+  "reviewScore": 8,
+  "reviewDesc": "Very Positive",
+  "topReviews": [
+    {
+      "recommendationid": "226768440",
+      "author": {
+        "steamid": "76561198409900429",
+        "personaname": "阿贪",
+        "persona_status": "in-game",
+        "profile_url": "https://steamcommunity.com/profiles/76561198409900429/",
+        "num_games_owned": 219,
+        "num_reviews": 14,
+        "playtime_forever": 6475,
+        "playtime_last_two_weeks": 0,
+        "playtime_at_review": 6475,
+        "last_played": 1769148382,
+        "avatar": "2f6bdf0bc218b68467f454cd2320cb1321c19cb3"
+      },
+      "language": "schinese",
+      "review": "更新他妈一万年，最后的版本都出不来，团队好像把脑子送到极北深境里面冻住了",
+      "timestamp_created": 1780138181,
+      "timestamp_updated": 1780138181,
+      "voted_up": false,
+      "votes_up": 20,
+      "votes_funny": 9,
+      "weighted_vote_score": "0.687912046909332275",
+      "comment_count": 0,
+      "steam_purchase": true,
+      "received_for_free": false,
+      "refunded": false,
+      "written_during_early_access": true,
+      "primarily_steam_deck": false,
+      "app_release_date": "1612277769",
+      "reactions": [
+        {
+          "reaction_type": 28,
+          "count": 2
+        }
+      ]
+    },
+    {
+      "recommendationid": "225254324",
+      "author": {
+        "steamid": "76561199373326631",
+        "personaname": "Ахмед",
+        "persona_status": "offline",
+        "profile_url": "https://steamcommunity.com/profiles/76561199373326631/",
+        "num_games_owned": 297,
+        "num_reviews": 13,
+        "playtime_forever": 9343,
+        "playtime_last_two_weeks": 0,
+        "playtime_at_review": 9343,
+        "last_played": 1778103863,
+        "avatar": "1038d7173828ae310e155539d594f665c1292a4f"
+      },
+      "language": "russian",
+      "review": "В Вальхейме очень много гринда. Да, он присущ играм такого жанра, но здесь он по особенному душный, так как помимо самого его наличия к нему прилагается куча осложняющих условий, поэтому перед стартом игры лучше не стройте из себя самого крутого и настройте мир под себя с помощью модификаторов (как минимум разрешите переносить руду через порталы), а иначе вы очень быстро выгорите и бросите игру. Так же настоятельно рекомендую проходить игру с друзьями — с ними я смог справиться с упомянутой выше духотой и получить больше наслаждения и веселья от прогресса, чем мог бы от одиночного прохождения.…",
+      "timestamp_created": 1778478601,
+      "timestamp_updated": 1778478601,
+      "voted_up": true,
+      "votes_up": 17,
+      "votes_funny": 1,
+      "weighted_vote_score": "0.660783350467681885",
+      "comment_count": 17,
+      "steam_purchase": false,
+      "received_for_free": false,
+      "refunded": false,
+      "written_during_early_access": true,
+      "primarily_steam_deck": false,
+      "app_release_date": "1612277769",
+      "hardware": {
+        "manufacturer": "ASUS",
+        "model": "All Series",
+        "dx_video_card": "NVIDIA GeForce GTX 1050 Ti",
+        "dx_vendorid": 4318,
+        "dx_deviceid": 7298,
+        "num_gpu": 1,
+        "system_ram": "16326",
+        "os": "Windows 10",
+        "cpu_vendor": "GenuineIntel",
+        "cpu_name": "Intel(R) Core(TM) i5-4460  CPU @ 3.20GHz",
+        "gaming_device_type": 1,
+        "dx_driver_version": "32.0.15.6094",
+        "adapter_description": "NVIDIA GeForce GTX 1050 Ti",
+        "driver_version": "32.0.15.6094",
+        "driver_date": "2024-8-14",
+        "vram_size": 4004,
+        "screen_width": null,
+        "screen_height": null,
+        "precise_frame_rate": null
+      },
+      "reactions": [
+        {
+          "reaction_type": 34,
+          "count": 1
+        }
+      ]
+    },
+    {
+      "recommendationid": "225345712",
+      "author": {
+        "steamid": "76561198322319430",
+        "personaname": "Krackermanjr",
+        "persona_status": "offline",
+        "profile_url": "https://steamcommunity.com/profiles/76561198322319430/",
+        "num_games_owned": 261,
+        "num_reviews": 1,
+        "playtime_forever": 8380,
+        "playtime_last_two_weeks": 0,
+        "playtime_at_review": 8380,
+        "last_played": 1775760774,
+        "avatar": "07457d5b8ae8b083eb29b92ee9bbe6ca00baee7e"
+      },
+      "language": "english",
+      "review": "Valheim's Core gameplay is fun but the game quickly falls apart once you realize almost every single mechanic is designed to slow you down and inflate playtime to an enormous degree, and while it's not TERRIBLE in multiplayer it's especially noticeable on repeat playthroughs and when playing solo. \n\nThat being said, This wouldn't be a bad thing if any of the mechanics or biomes had depth but...they don't, at all. after YEARS of early access they still decide that extending the end game content is the top priority when ship sailing, dungeon delving, and exploration have BARELY any mechanical de…",
+      "timestamp_created": 1778599574,
+      "timestamp_updated": 1778599895,
+      "voted_up": false,
+      "votes_up": 95,
+      "votes_funny": 4,
+      "weighted_vote_score": "0.666857779026031494",
+      "comment_count": 9,
+      "steam_purchase": true,
+      "received_for_free": false,
+      "refunded": false,
+      "written_during_early_access": true,
+      "primarily_steam_deck": false,
+      "app_release_date": "1612277769",
+      "reactions": [
+        {
+          "reaction_type": 29,
+          "count": 6
+        },
+        {
+          "reaction_type": 32,
+          "count": 3
+        },
+        {
+          "reaction_type": 28,
+          "count": 2
+        },
+        {
+          "reaction_type": 26,
+          "count": 1
+        }
+      ]
+    },
+    {
+      "recommendationid": "225111732",
+      "author": {
+        "steamid": "76561198258680178",
+        "personaname": "Dixie Normus",
+        "persona_status": "offline",
+        "profile_url": "https://steamcommunity.com/id/cpjl03/",
+        "num_games_owned": 0,
+        "num_reviews": 18,
+        "playtime_forever": 2522,
+        "playtime_last_two_weeks": 0,
+        "playtime_at_review": 2422,
+        "last_played": 1778338813,
+        "avatar": "1833ebd734810a0a9464bd43616f088ef6bba56c"
+      },
+      "language": "english",
+      "review": "Fun survival game with some of the best building mechanics a game can offer",
+      "timestamp_created": 1778332835,
+      "timestamp_updated": 1778332835,
+      "voted_up": true,
+      "votes_up": 12,
+      "votes_funny": 0,
+      "weighted_vote_score": "0.629564285278320312",
+      "comment_count": 0,
+      "steam_purchase": false,
+      "received_for_free": false,
+      "refunded": false,
+      "written_during_early_access": true,
+      "primarily_steam_deck": false,
+      "app_release_date": "1612277769",
+      "reactions": [
+        {
+          "reaction_type": 24,
+          "count": 1
+        },
+        {
+          "reaction_type": 25,
+          "count": 1
+        },
+        {
+          "reaction_type": 30,
+          "count": 1
+        },
+        {
+          "reaction_type": 32,
+          "count": 1
+        }
+      ]
+    },
+    {
+      "recommendationid": "225300357",
+      "author": {
+        "steamid": "76561199030821000",
+        "personaname": "huu",
+        "persona_status": "offline",
+        "profile_url": "https://steamcommunity.com/id/huuishuu/",
+        "num_games_owned": 161,
+        "num_reviews": 21,
+        "playtime_forever": 2199,
+        "playtime_last_two_weeks": 51,
+        "playtime_at_review": 1388,
+        "last_played": 1780415172,
+        "avatar": "ef477c53ce69ebf10525ed81fcbcf50787cec635"
+      },
+      "language": "english",
+      "review": "Valheim genuinely surprised me. I'm not a huge fan of open world survival crafting games. They're not really my thing and I don't find much enjoyment out of them, the only exception to me being Terraria. You can add Valheim to that list.\n\nThe game is very slow paced. But slow paced in a non-detrimental way I think. I'm only a mere 23 hours in and basically just now started crafting Bronze-level gear, if you want to know how truly \"early\" I am in this game. I can only realistically survive at the moment in the Meadows & Black Forest biomes, making the very, very first preparations to head into …",
+      "timestamp_created": 1778533351,
+      "timestamp_updated": 1778533351,
+      "voted_up": true,
+      "votes_up": 23,
+      "votes_funny": 0,
+      "weighted_vote_score": "0.673042953014373779",
+      "comment_count": 0,
+      "steam_purchase": true,
+      "received_for_free": false,
+      "refunded": false,
+      "written_during_early_access": true,
+      "primarily_steam_deck": false,
+      "app_release_date": "1612277769",
+      "hardware": {
+        "manufacturer": "Gigabyte Technology Co., Ltd.",
+        "model": "B550M K",
+        "dx_video_card": "",
+        "dx_vendorid": 4098,
+        "dx_deviceid": 29824,
+        "num_gpu": 1,
+        "system_ram": "32011",
+        "os": "Fedora Linux 44 (KDE Plasma Desktop Edition)",
+        "cpu_vendor": "AuthenticAMD",
+        "cpu_name": "AMD Ryzen 5 5600X 6-Core Processor             ",
+        "gaming_device_type": 1,
+        "dx_driver_version": "",
+        "adapter_description": "AMD AMD Radeon RX 7600 (radeonsi, navi33, ACO, DRM 3.64, 7.0.1-cachyos1.fc44.x86_64)",
+        "driver_version": "4.6 (Compatibility Profile) Mesa 26.0.5",
+        "driver_date": "-1--1--1",
+        "vram_size": 8192,
+        "screen_width": 2560,
+        "screen_height": 1440,
+        "precise_frame_rate": null
+      },
+      "reactions": [
+        {
+          "reaction_type": 31,
+          "count": 2
+        },
+        {
+          "reaction_type": 32,
+          "count": 1
+        }
+      ]
+    }
+  ]
 }

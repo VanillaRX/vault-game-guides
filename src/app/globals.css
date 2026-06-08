@@ -31,21 +31,6 @@
   --bg-rgb: 10,10,20;
 }
 
-/* Cozy / warm theme */
-.cozy {
-  --bg: #faf7f2;
-  --fg: #3d2e28;
-  --accent: #e8785a;
-  --neon: #5ba675;
-  --amber: #d4a853;
-  --card: #ffffff;
-  --border: #e8ddd0;
-  --muted: #9b8c80;
-  --accent-rgb: 232,120,90;
-  --neon-rgb: 91,166,117;
-  --bg-rgb: 250,247,242;
-  color-scheme: light;
-}
 
 @keyframes glow {
   from { box-shadow: 0 0 5px var(--accent), 0 0 10px var(--accent); }
@@ -79,21 +64,6 @@ body {
   overflow-x: hidden;
 }
 
-/* CRT scanline overlay */
-body::after {
-  content: "";
-  position: fixed;
-  inset: 0;
-  pointer-events: none;
-  z-index: 9999;
-  background: repeating-linear-gradient(
-    0deg,
-    transparent,
-    transparent 2px,
-    rgba(0, 0, 0, 0.03) 2px,
-    rgba(0, 0, 0, 0.03) 4px
-  );
-}
 
 ::selection {
   background: var(--accent);

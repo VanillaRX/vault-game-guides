@@ -5,7 +5,7 @@
   "zhTitle": "僵尸毁灭工程",
   "shortDescription": "Project Zomboid is the ultimate in zombie survival. Alone or in MP: you loot, build, craft, fight, farm and fish in a struggle to survive. A hardcore RPG skillset, a vast map, massively customisable sandbox and a cute tutorial raccoon await the unwary. So how will you die? All it takes is a bite..",
   "zhShortDescription": "最真实的僵尸生存模拟——你能活多久。",
-  "description": "Project Zomboid is an open-ended zombie-infested sandbox. It asks one simple question – how will you die? In the towns of Muldraugh and West Point, survivors must loot houses, build defences and do their utmost to delay their inevitable death day by day. No help is coming – their continued survival relies on their own cunning, luck and ability to evade a relentless horde. Current Features Hardcore Sandbox Zombie Survival Game with a focus on realistic survival. Online multiplayer survival with persistent player run servers. Local 4 player split-screen co-op Hundreds of zombies with swarm mechanics and in-depth visual and hearing systems. Full line of sight system and real-time lighting, sound and visibility mechanics. Hide in the shadows, keep quiet and keep the lights off at night, or at least hang sheets over the windows. Vast and growing map (loosely based on a real world location) for you to explore, loot and set up your fortress. Check out Blindcoder’s map project: Vehicles with full physics and deep and realistic gameplay mechanics. Use tools and items to craft weapons, barricade and cook. You can even build zombie proof forts by chopping trees, sawing wood and scavenging supplies. Deal with depression, boredom, hunger, thirst and illness while trying to survive. Day turns to night. The electricity falters. Hordes migrate. Winter draws in. Nature gradually starts to take over. Farming, fishing, carpentry, cooking, trapping, character customization, skills and perks that develop based on what you do in-game. Proper zombies that don’t run. (Unless you tell them to in the sandbox menu). A ton of amazing atmospheric music tracks by the prodigy that is Zach Beever. Imaginative Challenge scenarios and instant action ‘Last Stand’ mode, on top of regular Sandbox and Survival Full, open and powerful Lua modding support. Xbox Controller Gamepad support on Windows. (Other gamepads can be set up manually.) We’re a small team at the moment, but we’re also committed to providing the following: planned Features: The return of our PZ Stories mode that also serves as first ever tutorial actively trying to kill you at every turn. Kate and Baldspot return! In-depth and varied NPC encounters driven in a persistent world, powered by a metagame system that turns each play-through into your very own zombie survival movie with emergent narrative gameplay. Constant expansion of the countryside and cities around Muldraugh and West Point Full wilderness survival systems, animals and hunting for food. More items, crafting recipes, weapons and gameplay systems. Steam Workshop and Achievements support For more details on the game follow us on @theindiestone or visit",
+  "description": "Project Zomboid is an open-ended zombie-infested sandbox. It asks one simple question – how will you die? In the towns of Muldraugh and West Point, survivors must loot houses, build defences and do their utmost to delay their inevitable death day by day. No help is coming – their continued survival relies on their own cunning, luck and ability to evade a relentless horde. Current Features Hardcore Sandbox Zombie Survival Game with a focus on realistic survival. Online multiplayer survival with persistent player run servers. Local 4 player split-screen co-op Hundreds of zombies with swarm mechanics and in-depth visual and hearing systems. Full line of sight system and real-time lighting, sound and visibility mechanics. Hide in the shadows, keep quiet and keep the lights off at night, or at ",
   "zhDescription": "《僵尸毁灭工程》是史上最硬核的僵尸生存模拟。管理饥饿、口渴、疲劳、体温、情绪和伤势。世界每个角落都可互动。丧尸感染是永久性的——被咬一口，角色终究会死。",
   "genres": [
     "Indie",
@@ -49,13 +49,254 @@
   "supportsCoop": true,
   "supportsController": true,
   "steamDeckVerified": false,
-  "positiveReviews": 343588,
-  "negativeReviews": 0,
+  "positiveReviews": 140172,
+  "negativeReviews": 8933,
   "featured": false,
   "guideCount": 0,
   "metaDescriptionEn": "Project Zomboid is the ultimate in zombie survival. Alone or in MP: you loot, build, craft, fight, farm and fish in a struggle to survive. A hardcore RPG skillset, a vast map, massively customisable sandbox and a cute tutorial raccoon await the unwary. So how will you die? All it takes is a bite..",
   "metaDescriptionZh": "《僵尸毁灭工程》生存攻略 — 基地选址、技能加点、战斗技巧、长期策略。",
   "similarGames": [],
   "source": "steam_api",
-  "fetchedAt": "2026-06-08T07:22:25.078Z"
+  "fetchedAt": "2026-06-08T07:22:25.078Z",
+  "reviewScore": 8,
+  "reviewDesc": "Very Positive",
+  "topReviews": [
+    {
+      "recommendationid": "226203591",
+      "author": {
+        "steamid": "76561198052618833",
+        "personaname": "Wizzard Cow",
+        "persona_status": "offline",
+        "profile_url": "https://steamcommunity.com/profiles/76561198052618833/",
+        "num_games_owned": 0,
+        "num_reviews": 1,
+        "playtime_forever": 26337,
+        "playtime_last_two_weeks": 8241,
+        "playtime_at_review": 17174,
+        "last_played": 1780880384,
+        "avatar": "82b1bcae2bdc3ac16cd1613afef1698361d735bb"
+      },
+      "language": "english",
+      "review": "-plays first time\r\n-spawns in random neighbourhood\r\n-kills a few zomboids\r\n-Finds gun with 3 bullets\r\n-kills a nearby zomboid\r\n-gets swarmed by sprinters in 3 seconds\r\n-dies a brutal death\r\n-gets mad and closes game for 10 minutes\r\n-restarts game and map\r\n-repeat similar situation\r\n-dies again\r\n\r\n-recommend? absolutely.",
+      "timestamp_created": 1779521770,
+      "timestamp_updated": 1779521770,
+      "voted_up": true,
+      "votes_up": 127,
+      "votes_funny": 49,
+      "weighted_vote_score": "0.868196487426757812",
+      "comment_count": 1,
+      "steam_purchase": true,
+      "received_for_free": false,
+      "refunded": false,
+      "written_during_early_access": true,
+      "primarily_steam_deck": false,
+      "app_release_date": "1383930960",
+      "reactions": [
+        {
+          "reaction_type": 28,
+          "count": 4
+        },
+        {
+          "reaction_type": 25,
+          "count": 1
+        },
+        {
+          "reaction_type": 31,
+          "count": 1
+        },
+        {
+          "reaction_type": 33,
+          "count": 1
+        },
+        {
+          "reaction_type": 34,
+          "count": 1
+        }
+      ]
+    },
+    {
+      "recommendationid": "225446581",
+      "author": {
+        "steamid": "76561198188213085",
+        "personaname": "Thiagoxd11",
+        "persona_status": "offline",
+        "profile_url": "https://steamcommunity.com/profiles/76561198188213085/",
+        "num_games_owned": 0,
+        "num_reviews": 1,
+        "playtime_forever": 10124,
+        "playtime_last_two_weeks": 1127,
+        "playtime_at_review": 7352,
+        "last_played": 1780640410,
+        "avatar": "fef49e7fa7e1997310d705b2a6158ff8dc1cdfeb"
+      },
+      "language": "brazilian",
+      "review": "-jogue por 3 dias e faça um personagem fumante,\r\n- não  encontre cigarro e ele começa a ter ansiedade\r\n- não descubra que ele não vai morrer se ficar sem fumar \r\n-corra de madruga a um bordel para achar cigarro, encontre o cigarro\r\n-uma horda de 40 zumbis entram pela janela e te devoram vivo\r\n\r\nJogaço da poha",
+      "timestamp_created": 1778728033,
+      "timestamp_updated": 1778728033,
+      "voted_up": true,
+      "votes_up": 126,
+      "votes_funny": 51,
+      "weighted_vote_score": "0.912411034107208252",
+      "comment_count": 0,
+      "steam_purchase": true,
+      "received_for_free": false,
+      "refunded": false,
+      "written_during_early_access": true,
+      "primarily_steam_deck": false,
+      "app_release_date": "1383930960",
+      "reactions": [
+        {
+          "reaction_type": 31,
+          "count": 3
+        },
+        {
+          "reaction_type": 34,
+          "count": 1
+        },
+        {
+          "reaction_type": 35,
+          "count": 1
+        }
+      ]
+    },
+    {
+      "recommendationid": "225212625",
+      "author": {
+        "steamid": "76561198174411337",
+        "personaname": "VektiS",
+        "persona_status": "online",
+        "profile_url": "https://steamcommunity.com/profiles/76561198174411337/",
+        "num_games_owned": 325,
+        "num_reviews": 5,
+        "playtime_forever": 39086,
+        "playtime_last_two_weeks": 0,
+        "playtime_at_review": 39086,
+        "last_played": 1777920979,
+        "avatar": "99e65aad35345d8f512770648f22669fb019b4f4"
+      },
+      "language": "russian",
+      "review": "Мужицский симс, интересно играть даже если вырубить зомби в настройках песочницы.",
+      "timestamp_created": 1778431465,
+      "timestamp_updated": 1778431465,
+      "voted_up": true,
+      "votes_up": 103,
+      "votes_funny": 8,
+      "weighted_vote_score": "0.860857605934143066",
+      "comment_count": 0,
+      "steam_purchase": true,
+      "received_for_free": false,
+      "refunded": false,
+      "written_during_early_access": true,
+      "primarily_steam_deck": false,
+      "app_release_date": "1383930960",
+      "reactions": [
+        {
+          "reaction_type": 24,
+          "count": 2
+        }
+      ]
+    },
+    {
+      "recommendationid": "225269695",
+      "author": {
+        "steamid": "76561198249359682",
+        "personaname": "Yoruq",
+        "persona_status": "offline",
+        "profile_url": "https://steamcommunity.com/profiles/76561198249359682/",
+        "num_games_owned": 0,
+        "num_reviews": 6,
+        "playtime_forever": 19211,
+        "playtime_last_two_weeks": 565,
+        "playtime_at_review": 10722,
+        "last_played": 1780523968,
+        "avatar": "d51bd82aba3d3106acbc84b13b516df7d73ea735"
+      },
+      "language": "turkish",
+      "review": "Bu oyun gerçekten bir insanın kaçabileceği tek yer olabilir. Her şeyden izole ve kendi başına kaldığın tek dünya. Dilediğin her şeyi yapabilirsin...\r\n\r\nHayatımda yaşadığım en zor süreçten geçiyorum. Ve bu oyun benim için kendi başıma kalabildiğim tek alan...Arkaya dinlemekten keyif aldığım müzik veya podcastleri açıyorum ve hemen işe koyuluyorum. Base inşa etmek, onu geliştirmek, gerekli eşyalar için loota çıkmak...Bir süre sonrasını planlamak, gelişimi gördükçe duyulan keyif...Ara sıra sıkılıp ava çıkmak, balık tutmak, bir şeyleri craft etmek. Yapacak çok şey var nasıl oynamak isterseniz size…",
+      "timestamp_created": 1778502705,
+      "timestamp_updated": 1778502705,
+      "voted_up": true,
+      "votes_up": 53,
+      "votes_funny": 1,
+      "weighted_vote_score": "0.831225156784057617",
+      "comment_count": 0,
+      "steam_purchase": true,
+      "received_for_free": false,
+      "refunded": false,
+      "written_during_early_access": true,
+      "primarily_steam_deck": false,
+      "app_release_date": "1383930960",
+      "reactions": [
+        {
+          "reaction_type": 34,
+          "count": 2
+        },
+        {
+          "reaction_type": 26,
+          "count": 1
+        },
+        {
+          "reaction_type": 30,
+          "count": 1
+        }
+      ]
+    },
+    {
+      "recommendationid": "225952432",
+      "author": {
+        "steamid": "76561198708349023",
+        "personaname": "Bustincyder12",
+        "persona_status": "offline",
+        "profile_url": "https://steamcommunity.com/profiles/76561198708349023/",
+        "num_games_owned": 0,
+        "num_reviews": 2,
+        "playtime_forever": 3999,
+        "playtime_last_two_weeks": 1527,
+        "playtime_at_review": 1006,
+        "last_played": 1780441538,
+        "avatar": "90344a1892a3791294fae159faebada97f52a683"
+      },
+      "language": "english",
+      "review": "Woke up read a comic book, did a workout, watched tv, got drunk and beat an old lady then i played project zomboid its amazing",
+      "timestamp_created": 1779229191,
+      "timestamp_updated": 1779229191,
+      "voted_up": true,
+      "votes_up": 143,
+      "votes_funny": 113,
+      "weighted_vote_score": "0.873118877410888672",
+      "comment_count": 0,
+      "steam_purchase": false,
+      "received_for_free": false,
+      "refunded": false,
+      "written_during_early_access": true,
+      "primarily_steam_deck": false,
+      "app_release_date": "1383930960",
+      "reactions": [
+        {
+          "reaction_type": 28,
+          "count": 10
+        },
+        {
+          "reaction_type": 25,
+          "count": 5
+        },
+        {
+          "reaction_type": 34,
+          "count": 2
+        },
+        {
+          "reaction_type": 29,
+          "count": 1
+        },
+        {
+          "reaction_type": 31,
+          "count": 1
+        },
+        {
+          "reaction_type": 32,
+          "count": 1
+        }
+      ]
+    }
+  ]
 }

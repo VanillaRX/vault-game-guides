@@ -44,6 +44,15 @@ export interface GameEntry {
   steamDeckVerified: boolean;
   positiveReviews: number;
   negativeReviews: number;
+  reviewScore?: number;
+  reviewDesc?: string;
+  topReviews?: Array<{
+    recommendationid: string;
+    review: string;
+    voted_up: boolean;
+    votes_up: number;
+    votes_funny: number;
+  }>;
   metacriticScore?: number;
   featured: boolean;
   guideCount: number;

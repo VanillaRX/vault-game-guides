@@ -5,7 +5,7 @@
   "zhTitle": "舞动的欧布莱特",
   "shortDescription": "Ooblets is a relaxing and offbeat farming, town life, and creature collection game. Manage your farm, grow and train your ooblets, explore strange lands, and have dance-offs!",
   "zhShortDescription": "宝可梦+星露谷+舞蹈——收集可爱生物、经营农场。",
-  "description": "Ooblets is a relaxing yet deeply-weird farming, creature collection, town life, and dance-battle game with a lot of heart and character. It's a game for people who want something cozy, eccentric, expressive, and full of things to do. Make It Your Own Convert your rundown shack into a cozy homestead, spooky sanctuary, retro-futuristic retreat, or just keep it as a rundown shack. There’s plenty of furniture and decor to collect. For your character, there are a bunch of hairs, hats, clothes, costumes, accessories, and more throughout the game. Grow Your Friends Collect ooblet seeds and grow your own lil followbabies on your farm. Each ooblet has a couple variants to nab, including the lauded and rare GLEAMY type. You can also make non-ooblet friends by talking, gift-giving, quest-fetching, and whatnot. Get to know a bunch of offbeat townsfolk, like Mayor Tinstle, Rugnolia, Outgrid, Videon, Millew, and even Taffy. Familiar Farm Functions Grow stuff, put things in machines, cook treabies, stuff your gob, or sell your produce in town. Oh also your ooblets can help out on your farm using oobcoops that can be upgraded to expand what kind of farming they can do. Settle It On the Dance Floor Instead of combat, handle challenges and disagreements via the art of dance. Each ooblet has its own unlockable moves, so put together a team that works well together (or doesn’t and just looks cute—you don’t get anything for beating the game faster). So Many Things to Do! There are daily challenges, tasks from the mayor, dance tournaments, quests from townsfolk, lost ooblets to find, sea-dangling to dangle, as well as plenty of badges, gleamies, clothes, furniture, decor, and friendship stickers to collect. Events and Limited-time Stuff There are a few realtime events, each with their own collectables, activities, and unique ooblets. So far, we’ve added events for Springtime, Halloween, and Winter—and we’re hoping to add more in future updates. Run Your Own Lil Shop Unlock the player shop, where you can sell the stuff you’ve grown and crafted to the people of Oob. You can decorate, negotiate prices via a minigame, restock shelves, and unlock shop upgrades. Maxed-out Minigames We spent way too long making some pretty serious minigames, most of which are in arcade cabinets in Port Forward. There may even be some sneaky ways to beat the arcade games if you get stuck. Themey Regions Explore a bunch of regions, like the arcade-filled boardwalk in Port Forward, the spooky swamps of Nullwhere, the deserts of Mamoonia, and the frozen peaks of Tippytop. Also, there’s a dirigible. Maybe a mystery island, too. Is there A story? Oh Yeah! Badgetown needs your help! There’s plenty to fix up and unlock, as well as a major threat that only a series of contrived dance battles and mini-games can resolve. The overarching story/mystery will take you through all the regions of Oob where you’ll meet a lot of interesting folks, new types of ooblets, recipes, and crops to plant back at your farm. The game even has a discrete ending… but there’s always more to do in Ooblets, even after the main story is complete.",
+  "description": "Ooblets is a relaxing yet deeply-weird farming, creature collection, town life, and dance-battle game with a lot of heart and character. It's a game for people who want something cozy, eccentric, expressive, and full of things to do. Make It Your Own Convert your rundown shack into a cozy homestead, spooky sanctuary, retro-futuristic retreat, or just keep it as a rundown shack. There’s plenty of furniture and decor to collect. For your character, there are a bunch of hairs, hats, clothes, costumes, accessories, and more throughout the game. Grow Your Friends Collect ooblet seeds and grow your own lil followbabies on your farm. Each ooblet has a couple variants to nab, including the lauded and rare GLEAMY type. You can also make non-ooblet friends by talking, gift-giving, quest-fetching, an",
   "zhDescription": "《Ooblets》是古怪可爱的混合类型游戏——生物收集+农场模拟，战斗是舞蹈对决。收集奇特生物、训练它们参加舞蹈比赛，同时经营农场。幽默风趣，角色设计充满个性。",
   "genres": [
     "Adventure",
@@ -61,8 +61,8 @@
   "supportsCoop": false,
   "supportsController": true,
   "steamDeckVerified": false,
-  "positiveReviews": 1370,
-  "negativeReviews": 0,
+  "positiveReviews": 863,
+  "negativeReviews": 80,
   "metacriticScore": 62,
   "featured": false,
   "guideCount": 0,
@@ -70,5 +70,8 @@
   "metaDescriptionZh": "《Ooblets》生物收集攻略 — Ooblet图鉴、舞蹈对战策略、农场经营技巧。",
   "similarGames": [],
   "source": "steam_api",
-  "fetchedAt": "2026-06-08T07:18:30.147Z"
+  "fetchedAt": "2026-06-08T07:18:30.147Z",
+  "reviewScore": 8,
+  "reviewDesc": "Very Positive",
+  "topReviews": []
 }

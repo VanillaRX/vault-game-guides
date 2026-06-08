@@ -5,7 +5,7 @@
   "zhTitle": "北境守护",
   "shortDescription": "Northgard: Definitive Edition is a critically acclaimed real-time strategy game based on Norse mythology. Lead your clan, uncover the secrets of a mysterious newfound continent and defeat your enemies to conquer the Throne!",
   "zhShortDescription": "北欧神话策略游戏，选择氏族、扩张领地、征服北境。",
-  "description": "After years of tireless exploration, brave Vikings have discovered a new land filled with mystery, danger and riches: Northgard. The boldest Northmen have set sail to explore and conquer these new shores, bring fame to their Clan and write history through conquest, trading, or devotion to the Gods. Build your settlement on the newly discovered continent of Northgard! Assign your Vikings to various jobs and manage your resources carefully to survive harsh winters and ferocious foes. Expand your clan strategically by chasing conquest, fame, lore or trade victory. Survive and conquer the unforgiving wilderness of Northgard by mastering the unique attributes of the many different clans that inhabit the continent! Each clan has its own unique specificities, bonuses and features, introducing new ways of playing and methods to achieve victory. Conquest mode. Choose your clan and fight through a number of unique scenarios and situations! Northgard Conquest is a standalone game mode that can be played solo or co-op, with a succession of various challenges offering a gaming expansion of +100 hours. Multiplayer mode. Play in multiplayer with or against your friends in various game modes! Pick the lobby you want and face off against other players to experience a unique level of challenges. If you’re a veteran at the game, test your might in ranked lobbies to prove you’re the real king of Northgard! Story mode. The Viking High King is murdered and his Regal Horn is stolen by a man named Hagen. This event kickstarts a saga that will take Rig, his son and heir accompanied by his right-hand man Brand through the new continent of Northgard to discover the reasons behind his father’s assassination. Part II. Cross of Vidar Separated and left with no choice after Ragnarök but to abandon their land, Rig, Liv and Svarn arrive in Neustria, land of the Southern Kingdoms, where they meet new leaders and become embroiled in a series of conflicts and alliances.",
+  "description": "After years of tireless exploration, brave Vikings have discovered a new land filled with mystery, danger and riches: Northgard. The boldest Northmen have set sail to explore and conquer these new shores, bring fame to their Clan and write history through conquest, trading, or devotion to the Gods. Build your settlement on the newly discovered continent of Northgard! Assign your Vikings to various jobs and manage your resources carefully to survive harsh winters and ferocious foes. Expand your clan strategically by chasing conquest, fame, lore or trade victory. Survive and conquer the unforgiving wilderness of Northgard by mastering the unique attributes of the many different clans that inhabit the continent! Each clan has its own unique specificities, bonuses and features, introducing new",
   "zhDescription": "《Northgard》是北欧神话背景策略游戏。控制维京氏族在北境建立定居点。每个氏族有独特玩法——狼族擅长战斗、鹿族精于贸易、熊族适应寒冬。",
   "genres": [
     "Adventure",
@@ -50,8 +50,8 @@
   "supportsCoop": true,
   "supportsController": false,
   "steamDeckVerified": false,
-  "positiveReviews": 54112,
-  "negativeReviews": 0,
+  "positiveReviews": 19491,
+  "negativeReviews": 3595,
   "metacriticScore": 81,
   "featured": false,
   "guideCount": 0,
@@ -59,5 +59,119 @@
   "metaDescriptionZh": "《北境守护》氏族攻略 — 各氏族玩法差异、资源管理、科技路线。",
   "similarGames": [],
   "source": "steam_api",
-  "fetchedAt": "2026-06-08T07:20:44.350Z"
+  "fetchedAt": "2026-06-08T07:20:44.350Z",
+  "reviewScore": 8,
+  "reviewDesc": "Very Positive",
+  "topReviews": [
+    {
+      "recommendationid": "225715451",
+      "author": {
+        "steamid": "76561197972349889",
+        "personaname": "Greybishop",
+        "persona_status": "offline",
+        "profile_url": "https://steamcommunity.com/profiles/76561197972349889/",
+        "num_games_owned": 853,
+        "num_reviews": 47,
+        "playtime_forever": 5142,
+        "playtime_last_two_weeks": 0,
+        "playtime_at_review": 5142,
+        "last_played": 1708209520,
+        "avatar": "059f27b9bdf15392d8b0114d8d106bd430398cf2"
+      },
+      "language": "english",
+      "review": "A friend and I got this many years ago to play as a non-standard kind of RTS. In some ways the game was great fun and in others very frustrating. As the game picked up years and new DLC were released, issues with connectivity were not fixed, balance issues around new clans were constant, and the core mechanic around the game stayed the same, i.e. you need to econ or you will fail.\n\nYou could call this game an RTS, but that would be mistaking how slow this game can be and how clans can go without focusing on troops at all. Games can take hours and that only makes the connectivity issues worse w…",
+      "timestamp_created": 1778979082,
+      "timestamp_updated": 1778990215,
+      "voted_up": false,
+      "votes_up": 44,
+      "votes_funny": 1,
+      "weighted_vote_score": "0.754644393920898438",
+      "comment_count": 0,
+      "steam_purchase": true,
+      "received_for_free": false,
+      "refunded": false,
+      "written_during_early_access": false,
+      "primarily_steam_deck": false,
+      "app_release_date": "1487786162",
+      "reactions": [
+        {
+          "reaction_type": 26,
+          "count": 2
+        }
+      ]
+    },
+    {
+      "recommendationid": "225631032",
+      "author": {
+        "steamid": "76561198022152163",
+        "personaname": "Dizzy Ioeuy",
+        "persona_status": "offline",
+        "profile_url": "https://steamcommunity.com/profiles/76561198022152163/",
+        "num_games_owned": 0,
+        "num_reviews": 64,
+        "playtime_forever": 1680,
+        "playtime_last_two_weeks": 0,
+        "playtime_at_review": 1680,
+        "last_played": 1764995396,
+        "avatar": "02c0ff587bd5fb05c810285f2465a9f9dfdd6ebc"
+      },
+      "language": "english",
+      "review": "The definitive edition has introduced bugs that crash and destroy the game! Unbelievable!",
+      "timestamp_created": 1778906178,
+      "timestamp_updated": 1778906178,
+      "voted_up": false,
+      "votes_up": 26,
+      "votes_funny": 0,
+      "weighted_vote_score": "0.725367248058319092",
+      "comment_count": 0,
+      "steam_purchase": false,
+      "received_for_free": false,
+      "refunded": false,
+      "written_during_early_access": false,
+      "primarily_steam_deck": false,
+      "app_release_date": "1487786162",
+      "reactions": []
+    },
+    {
+      "recommendationid": "226436849",
+      "author": {
+        "steamid": "76561198001197092",
+        "personaname": "Tricks",
+        "persona_status": "offline",
+        "profile_url": "https://steamcommunity.com/id/lllllllllllllllllll1/",
+        "num_games_owned": 0,
+        "num_reviews": 15,
+        "playtime_forever": 9652,
+        "playtime_last_two_weeks": 1017,
+        "playtime_at_review": 8756,
+        "last_played": 1780288369,
+        "avatar": "07f14c60a9ca9c77f5617646cc434f9d74b0e3f6"
+      },
+      "language": "english",
+      "review": "I have over 100 hours, because I have been with this game for a long time. I always treated it as early access, that one day they will get it figured out.  It's clear they completely stopped development years ago, and instead just release DLC.  \nNot even a Save and Quit option to continue a play through later. It's insanely poorly featured and buggy.  Sad misguided studio.",
+      "timestamp_created": 1779763685,
+      "timestamp_updated": 1779763685,
+      "voted_up": false,
+      "votes_up": 12,
+      "votes_funny": 0,
+      "weighted_vote_score": "0.568437099456787109",
+      "comment_count": 0,
+      "steam_purchase": true,
+      "received_for_free": false,
+      "refunded": false,
+      "written_during_early_access": false,
+      "primarily_steam_deck": false,
+      "app_release_date": "1487786162",
+      "reactions": [
+        {
+          "reaction_type": 26,
+          "count": 1
+        },
+        {
+          "reaction_type": 29,
+          "count": 1
+        }
+      ]
+    }
+  ]
 }

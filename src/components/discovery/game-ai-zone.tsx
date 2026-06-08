@@ -37,7 +37,7 @@ export function GameAiZone({ game, lang }: Props) {
             {game.similarGames.slice(0, 6).map((slug) => (
               <Link
                 key={slug}
-                href={`/games/${slug}`}
+                href={`/game/${slug}`}
                 className="rounded-lg border border-[var(--border)] bg-[var(--bg)] px-3 py-1.5 text-xs text-[var(--fg)]/70 transition-colors hover:border-[var(--accent)] hover:text-[var(--accent)]"
               >
                 {slug.replace(/-/g, " ").replace(/\b\w/g, (c) => c.toUpperCase())}

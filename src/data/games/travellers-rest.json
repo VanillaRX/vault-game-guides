@@ -5,7 +5,7 @@
   "zhTitle": "旅者驿站",
   "shortDescription": "Craft, farm, build and cook! In Travellers Rest you will have to use all the available tools to become the best tavern keeper in the realm. Create unique dishes and drinks to please your customers as you discover the world and its colorful characters.",
   "zhShortDescription": "经营中世纪酒馆——酿造啤酒、烹饪美食、招待旅人。",
-  "description": "Craft, farm, build and cook! In Travellers Rest you will have to use all the available tools to become the best tavern keeper in the realm. Create unique dishes and drinks to please your customers as you discover the world and its colorful characters. Take your establishment to the top in this exciting new adventure! Your tavern, your rules Expand and manage your own fantasy tavern. Customize it with furniture and other decorative elements to improve your reputation. Do not stop until you have the tavern of your dreams! Tend to your customers Hundreds of customers are waiting to be tended to – serve them a nice mug of beer or kick them out if they start to bother the others! Earn mountains of gold and become the best tavern keeper in the land. Create your own style Discover new recipes and create unique dishes and drinks to please your customers. Of course, you will have to get your hands on the best products to keep them satisfied – craft hundreds of items and furniture to take your establishment to the highest level! Discover the world The realm is full of colorful characters and things to do. Take a couple of days off and explore to discover all that the realm has to offer – you are sure to find something useful for your tavern on your journeys! Play with your friends Have fun playing online in games of up to 4 players! Team up with your friends to explore the world, or set them to work at your tavern! (And you won't have to pay them any gold for it!)",
+  "description": "Craft, farm, build and cook! In Travellers Rest you will have to use all the available tools to become the best tavern keeper in the realm. Create unique dishes and drinks to please your customers as you discover the world and its colorful characters. Take your establishment to the top in this exciting new adventure! Your tavern, your rules Expand and manage your own fantasy tavern. Customize it with furniture and other decorative elements to improve your reputation. Do not stop until you have the tavern of your dreams! Tend to your customers Hundreds of customers are waiting to be tended to – serve them a nice mug of beer or kick them out if they start to bother the others! Earn mountains of gold and become the best tavern keeper in the land. Create your own style Discover new recipes and",
   "zhDescription": "《Travellers Rest》让你经营中世纪酒馆。酿造啤酒、蒸馏烈酒、烹饪美食。酒馆自由设计——吧台、桌椅、壁炉、酒桶。扩建规模、雇佣员工、解锁新配方。画风温馨。",
   "genres": [
     "Adventure",
@@ -60,13 +60,196 @@
   "supportsCoop": true,
   "supportsController": true,
   "steamDeckVerified": false,
-  "positiveReviews": 15849,
-  "negativeReviews": 0,
+  "positiveReviews": 7161,
+  "negativeReviews": 868,
   "featured": false,
   "guideCount": 0,
   "metaDescriptionEn": "Craft, farm, build and cook! In Travellers Rest you will have to use all the available tools to become the best tavern keeper in the realm. Create unique dishes and drinks to please your customers as you discover the world and its colorful characters.",
   "metaDescriptionZh": "《旅者驿站》酒馆攻略 — 酿造配方、酒馆设计、员工管理、赚钱技巧。",
   "similarGames": [],
   "source": "steam_api",
-  "fetchedAt": "2026-06-08T07:18:03.365Z"
+  "fetchedAt": "2026-06-08T07:18:03.365Z",
+  "reviewScore": 8,
+  "reviewDesc": "Very Positive",
+  "topReviews": [
+    {
+      "recommendationid": "226161292",
+      "author": {
+        "steamid": "76561198206491629",
+        "personaname": "No Longer Human",
+        "persona_status": "offline",
+        "profile_url": "https://steamcommunity.com/id/kacsozorka111/",
+        "num_games_owned": 142,
+        "num_reviews": 3,
+        "playtime_forever": 3670,
+        "playtime_last_two_weeks": 0,
+        "playtime_at_review": 3670,
+        "last_played": 1779634715,
+        "avatar": "3e7fa82d331c950cc2dffca68c4e0f723849cff0"
+      },
+      "language": "english",
+      "review": "I played this game a while back, around 2024. It was clear that it was in the very early phases of development, you had to buy items from the postbox, etc. i still enjoyed it, so i thought i would come back to it later. 2 years later, i came back playing co-op (which i was really happy that it got added)\nBut in the end, i got dissapointed very greatly. Many things chaneged, sure, but sometimes the whole game is so buggy its unplayable. I sleep one time, the next day i cannot use the workbench, i cant clean teablesm the characters eyes dissapear, i get stuck in stones in the mine (which is very…",
+      "timestamp_created": 1779475040,
+      "timestamp_updated": 1779635094,
+      "voted_up": false,
+      "votes_up": 61,
+      "votes_funny": 3,
+      "weighted_vote_score": "0.751223742961883545",
+      "comment_count": 0,
+      "steam_purchase": true,
+      "received_for_free": false,
+      "refunded": false,
+      "written_during_early_access": true,
+      "primarily_steam_deck": false,
+      "app_release_date": "1595951905",
+      "reactions": [
+        {
+          "reaction_type": 26,
+          "count": 2
+        }
+      ]
+    },
+    {
+      "recommendationid": "225761258",
+      "author": {
+        "steamid": "76561198103560092",
+        "personaname": "Vega",
+        "persona_status": "in-game",
+        "profile_url": "https://steamcommunity.com/id/LionVega/",
+        "num_games_owned": 88,
+        "num_reviews": 8,
+        "playtime_forever": 2491,
+        "playtime_last_two_weeks": 0,
+        "playtime_at_review": 2491,
+        "last_played": 1778867301,
+        "avatar": "9cb134136da24c5fa038a3e5c7adbb7b7aa6fa98"
+      },
+      "language": "schinese",
+      "review": "游戏内容严重不足，开发者开了一堆坑，填坑的进度却十分缓慢，解锁雇员后游戏内容一眼望到头，每天就是在做重复的事情，如果这是个刚发售不久的游戏我倒是还能理解并支持一下，结果一看游戏发售居然已经六年了才这点点内容，实在是难以推荐别人入坑游玩……",
+      "timestamp_created": 1779025941,
+      "timestamp_updated": 1779025941,
+      "voted_up": false,
+      "votes_up": 21,
+      "votes_funny": 0,
+      "weighted_vote_score": "0.725586891174316406",
+      "comment_count": 0,
+      "steam_purchase": true,
+      "received_for_free": false,
+      "refunded": false,
+      "written_during_early_access": true,
+      "primarily_steam_deck": false,
+      "app_release_date": "1595951905",
+      "reactions": []
+    },
+    {
+      "recommendationid": "226642497",
+      "author": {
+        "steamid": "76561198079970551",
+        "personaname": "철",
+        "persona_status": "offline",
+        "profile_url": "https://steamcommunity.com/id/dicechaser/",
+        "num_games_owned": 0,
+        "num_reviews": 4,
+        "playtime_forever": 8308,
+        "playtime_last_two_weeks": 77,
+        "playtime_at_review": 8308,
+        "last_played": 1779992789,
+        "avatar": "1c1e377a18d369b2fd53713739691394425b5fc0"
+      },
+      "language": "koreana",
+      "review": "업데이트할 때 괜히 플레이타임 늘리려고 동선 꼬아놓거나 하루에 한정되게 모을 수 있는 재화를 너무 많이 요구하는 걸 그만하시길 바랍니다... 업뎃 때 돌아온 유저는 오랜만에 노가다 두어시간 하면 끝이지만 이 게임을 처음하는 사람이 이런 말도안되는 동선을 n번씩 반복한다고 생각해보세요. 얼마나 지루하겠습니까. \n고생해서 업데이트 한 컨텐츠가 30분만에 소비되는 거 개발자 입장에도 아쉽겠죠 하지만 유저도 이게 30분만에 끝날 컨텐츠인데 억지로 3시간 분량으로 늘려놓은 것인지, 정말 3시간짜리 컨텐츠인지는 구분할줄 압니다...\n괜히 플레이 경험을 불쾌하게 하지말고 쌈뽕하게 컨텐츠를 쾌적한 경험으로 공개하세요. 그게 30분만에 끝날 분량이어도요.",
+      "timestamp_created": 1779993287,
+      "timestamp_updated": 1779993287,
+      "voted_up": true,
+      "votes_up": 15,
+      "votes_funny": 0,
+      "weighted_vote_score": "0.713541626930236816",
+      "comment_count": 0,
+      "steam_purchase": true,
+      "received_for_free": false,
+      "refunded": false,
+      "written_during_early_access": true,
+      "primarily_steam_deck": false,
+      "app_release_date": "1595951905",
+      "reactions": []
+    },
+    {
+      "recommendationid": "226266854",
+      "author": {
+        "steamid": "76561198339928150",
+        "personaname": "MaKrele",
+        "persona_status": "online",
+        "profile_url": "https://steamcommunity.com/id/Einfach_Malte/",
+        "num_games_owned": 180,
+        "num_reviews": 1,
+        "playtime_forever": 6169,
+        "playtime_last_two_weeks": 0,
+        "playtime_at_review": 6169,
+        "last_played": 1779580829,
+        "avatar": "ec8b133c76fac5c571f2738cb295b8895c1f09ce"
+      },
+      "language": "english",
+      "review": "I’ve fully played through the game and completed all achievements because I enjoyed it that much.\n\nI want to split this review into three parts:\n1 My experience with the game\n2 Suggestions & improvements (⚠️ spoilers ahead)\n3 Tips & tricks I wish I knew earlier (⚠️ spoilers ahead)\n\nMy Experience With The Game\nFirst of all: the game has an incredibly cozy atmosphere. You can feel inspirations from Stardew Valley or Harvest Moon, but it feels like its own fresh take on the genre, especially due to the tavern management.\n\nIf you enjoy relaxing farming games, Travelers Rest is a nice change of pac…",
+      "timestamp_created": 1779582440,
+      "timestamp_updated": 1779582440,
+      "voted_up": true,
+      "votes_up": 15,
+      "votes_funny": 0,
+      "weighted_vote_score": "0.694760382175445557",
+      "comment_count": 0,
+      "steam_purchase": true,
+      "received_for_free": false,
+      "refunded": false,
+      "written_during_early_access": true,
+      "primarily_steam_deck": false,
+      "app_release_date": "1595951905",
+      "reactions": [
+        {
+          "reaction_type": 26,
+          "count": 1
+        },
+        {
+          "reaction_type": 27,
+          "count": 1
+        }
+      ]
+    },
+    {
+      "recommendationid": "225220612",
+      "author": {
+        "steamid": "76561198135201695",
+        "personaname": "Amadey07",
+        "persona_status": "offline",
+        "profile_url": "https://steamcommunity.com/id/AmadeyGuckInDieLuft/",
+        "num_games_owned": 0,
+        "num_reviews": 20,
+        "playtime_forever": 3664,
+        "playtime_last_two_weeks": 0,
+        "playtime_at_review": 2232,
+        "last_played": 1778961184,
+        "avatar": "bf5c9316b47d8f5fbf5d1f69ed30696935e1209d"
+      },
+      "language": "russian",
+      "review": "Игра про то, как мои официант, бармен, вышибала и домработник организовали профсоюз и перестали выходить на работу.\r\n100000 эля из 10",
+      "timestamp_created": 1778438167,
+      "timestamp_updated": 1778438167,
+      "voted_up": true,
+      "votes_up": 11,
+      "votes_funny": 3,
+      "weighted_vote_score": "0.671067774295806885",
+      "comment_count": 0,
+      "steam_purchase": true,
+      "received_for_free": false,
+      "refunded": false,
+      "written_during_early_access": true,
+      "primarily_steam_deck": false,
+      "app_release_date": "1595951905",
+      "reactions": [
+        {
+          "reaction_type": 26,
+          "count": 1
+        }
+      ]
+    }
+  ]
 }

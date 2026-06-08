@@ -5,7 +5,7 @@
   "zhTitle": "城市天际线",
   "shortDescription": "Cities: Skylines is a modern take on the classic city simulation. The game introduces new game play elements to realize the thrill and hardships of creating and maintaining a real city whilst expanding on some well-established tropes of the city building experience.",
   "zhShortDescription": "现代经典城市建造模拟器，规划交通、管理经济、打造大都市。",
-  "description": "Cities: Skylines is a modern take on the classic city simulation. The game introduces new game play elements to realize the thrill and hardships of creating and maintaining a real city whilst expanding on some well-established tropes of the city building experience. You’re only limited by your imagination, so take control and reach for the sky! Multi-tiered and challenging simulation Constructing your city from the ground up is easy to learn, but hard to master. Playing as the mayor of your city you’ll be faced with balancing essential requirements such as education, water electricity, police, fire fighting, healthcare and much more along with your citys real economy system. Citizens within your city react fluidly, with gravitas and with an air of authenticity to a multitude of game play scenarios. Extensive local traffic simulation Colossal Order's extensive experience developing the Cities in Motion series is fully utilized in a fully fleshed out and well-crafted local traffic simulation. Districts and Policies Be more than just an administrator from city hall. Designating parts of your city as a district results in the application of policies which results in you rising to the status of Mayor for your own city. Utilize the Day and Night Cycle The city changes during the hours of the day and affects citizen schedules. Traffic is visibly slower at night and some zoned areas do not work with full efficiency. Cities: Skylines will put you in control of managing the different aspects of the day and night cycles. Extensive modding support Build or improve on existing maps and structures. You can then import your creations into the game, share them as well as download the creations of other city builders on the Steam workshop.",
+  "description": "Cities: Skylines is a modern take on the classic city simulation. The game introduces new game play elements to realize the thrill and hardships of creating and maintaining a real city whilst expanding on some well-established tropes of the city building experience. You’re only limited by your imagination, so take control and reach for the sky! Multi-tiered and challenging simulation Constructing your city from the ground up is easy to learn, but hard to master. Playing as the mayor of your city you’ll be faced with balancing essential requirements such as education, water electricity, police, fire fighting, healthcare and much more along with your citys real economy system. Citizens within your city react fluidly, with gravitas and with an air of authenticity to a multitude of game play s",
   "zhDescription": "《城市天际线》是现代城市建造模拟的标杆之作。从道路规划到公共交通，从水电供应到垃圾处理，交通流优化和经济平衡是核心玩法。海量 MOD 社区让可能性无限延伸。",
   "genres": [
     "Simulation",
@@ -43,8 +43,8 @@
   "supportsCoop": false,
   "supportsController": false,
   "steamDeckVerified": false,
-  "positiveReviews": 217672,
-  "negativeReviews": 0,
+  "positiveReviews": 92511,
+  "negativeReviews": 7144,
   "metacriticScore": 85,
   "featured": false,
   "guideCount": 0,
@@ -52,5 +52,135 @@
   "metaDescriptionZh": "《城市天际线》交通规划与城市布局攻略 — 道路设计、公共交通、区域划分完全指南。",
   "similarGames": [],
   "source": "steam_api",
-  "fetchedAt": "2026-06-08T07:20:30.958Z"
+  "fetchedAt": "2026-06-08T07:20:30.958Z",
+  "reviewScore": 8,
+  "reviewDesc": "Very Positive",
+  "topReviews": [
+    {
+      "recommendationid": "225804235",
+      "author": {
+        "steamid": "76561198279398261",
+        "personaname": "o0o_GreenGiant_o0o",
+        "persona_status": "online",
+        "profile_url": "https://steamcommunity.com/id/o0oGreenGianto0o/",
+        "num_games_owned": 0,
+        "num_reviews": 6,
+        "playtime_forever": 4085,
+        "playtime_last_two_weeks": 27,
+        "playtime_at_review": 3639,
+        "last_played": 1779755593,
+        "avatar": "06ed652ec60add37ee2086ed4fab0f325b85ab7d"
+      },
+      "language": "english",
+      "review": "As community-friendly and accredited as this game is, I recently came across quite possibly the worst consumer scam in the video game market when I was trying to get back into Cities Skylines. \r\n\r\nAs a preface, I switched to console gaming a long time ago. So when I stopped using my computer, I downloaded Cities Skylines on my PS4. Over a period of about 4-5 ish weeks, I put money aside to buy DLC until I had it all. \r\nMind you, Paradox's model is literally DLC centered! Nearly all of their games cost 100-400 dollars in just DLC! They literally have a SUBSCRIPTION for DLC on nearly ALL OF THEI…",
+      "timestamp_created": 1779059088,
+      "timestamp_updated": 1779059088,
+      "voted_up": false,
+      "votes_up": 113,
+      "votes_funny": 10,
+      "weighted_vote_score": "0.873948395252227783",
+      "comment_count": 0,
+      "steam_purchase": true,
+      "received_for_free": false,
+      "refunded": false,
+      "written_during_early_access": false,
+      "primarily_steam_deck": false,
+      "app_release_date": "1426003200",
+      "reactions": [
+        {
+          "reaction_type": 30,
+          "count": 5
+        },
+        {
+          "reaction_type": 25,
+          "count": 2
+        },
+        {
+          "reaction_type": 34,
+          "count": 2
+        },
+        {
+          "reaction_type": 26,
+          "count": 1
+        },
+        {
+          "reaction_type": 29,
+          "count": 1
+        },
+        {
+          "reaction_type": 33,
+          "count": 1
+        }
+      ]
+    },
+    {
+      "recommendationid": "226061115",
+      "author": {
+        "steamid": "76561198060224772",
+        "personaname": "𝕄𝕚𝕜𝕖",
+        "persona_status": "offline",
+        "profile_url": "https://steamcommunity.com/profiles/76561198060224772/",
+        "num_games_owned": 634,
+        "num_reviews": 71,
+        "playtime_forever": 1706,
+        "playtime_last_two_weeks": 0,
+        "playtime_at_review": 1706,
+        "last_played": 1719808534,
+        "avatar": "921831785ebe864e7a552a74972e496c0e97b0aa"
+      },
+      "language": "russian",
+      "review": "[h1] Пробки, стройка, грязь. [/h1]\n\nВы выступаете в роли мэра и начинаете с пустого клочка земли и кучки денег. Ваша задача — построить город, где люди будут жить, работать и вечно жаловаться. Игра предлагает широкий спектр возможностей: от прокладывания дорог и организации транспортных систем до управления бюджетом, налогами и коммунальными службами. Имеются разнообразные инструменты для планирования инфраструктуры и множество возможностей для настройки. Особое внимание уделено деталям: например, можно контролировать уровень загрязнения, обеспечивать жителей водой и электричеством, а также за…",
+      "timestamp_created": 1779365259,
+      "timestamp_updated": 1779365300,
+      "voted_up": true,
+      "votes_up": 34,
+      "votes_funny": 2,
+      "weighted_vote_score": "0.791906416416168213",
+      "comment_count": 17,
+      "steam_purchase": true,
+      "received_for_free": false,
+      "refunded": false,
+      "written_during_early_access": false,
+      "primarily_steam_deck": false,
+      "app_release_date": "1426003200",
+      "reactions": [
+        {
+          "reaction_type": 35,
+          "count": 1
+        }
+      ]
+    },
+    {
+      "recommendationid": "226751889",
+      "author": {
+        "steamid": "76561198983684157",
+        "personaname": "伽伽伽伽伽利略",
+        "persona_status": "offline",
+        "profile_url": "https://steamcommunity.com/id/911957280/",
+        "num_games_owned": 225,
+        "num_reviews": 28,
+        "playtime_forever": 7430,
+        "playtime_last_two_weeks": 571,
+        "playtime_at_review": 7321,
+        "last_played": 1780284631,
+        "avatar": "4b6206e956efcce7c5897eed6b90ce6d44279ca2"
+      },
+      "language": "schinese",
+      "review": "不推荐玩，一打开一上午没了，再一打开一下午没了，又一打开一晚上没了",
+      "timestamp_created": 1780117768,
+      "timestamp_updated": 1780117768,
+      "voted_up": true,
+      "votes_up": 13,
+      "votes_funny": 2,
+      "weighted_vote_score": "0.656953215599060059",
+      "comment_count": 0,
+      "steam_purchase": true,
+      "received_for_free": false,
+      "refunded": false,
+      "written_during_early_access": false,
+      "primarily_steam_deck": false,
+      "app_release_date": "1426003200",
+      "reactions": []
+    }
+  ]
 }

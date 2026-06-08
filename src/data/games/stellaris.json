@@ -5,7 +5,7 @@
   "zhTitle": "群星",
   "shortDescription": "Explore a galaxy full of wonders in this sci-fi grand strategy game from Paradox Development Studios. Interact with diverse alien races, discover strange new worlds with unexpected events and expand the reach of your empire. Each new adventure holds almost limitless possibilities.",
   "zhShortDescription": "Paradox 太空 4X 策略巨作——探索银河、建立帝国。",
-  "description": "Get ready to explore, discover and interact with a multitude of species as you journey among the stars. Forge a galactic empire by sending out science ships to survey and explore, while construction ships build stations around newly discovered planets. Discover buried treasures and galactic wonders as you spin a direction for your society, creating limitations and evolutions for your explorers. Alliances will form and wars will be declared. Like all our Grand Strategy games, the adventure evolves with time. Because free updates are a part of any active Paradox game, you can continue to grow and expand your empire with new technologies and capabilities. What will you find beyond the stars? Only you can answer that. Stellaris now includes the base game, three expansion packs, and a collection of digital goods. Stellaris: Chart a vast, procedurally generated galaxy where every star system holds a new mystery to uncover or an alien civilization to encounter. Forge a unique empire: from your first warp jump to galactic domination, you decide whether the universe remembers you as a benevolent pioneer or a relentless conqueror. Utopia: Unlock the full potential of your empire with this expansion focused on the evolution of society. Whether you're building mega-structures or ascending to a higher plane of existence, Utopia helps you create a future that’s as bright as the stars themselves. Synthetic Dawn Story Pack: Take command of a Machine Empire and reshape the galaxy in your own image. Will you lead your mechanical creations to peaceful coexistence, or will the rise of synthetic life spell the end for organics? Humanoids Species Pack: the most-played phenotype now gains more variety with unique civics and a new origin. Along with their own unique ship class, new portraits, and more, there’s never been a better time to explore the future of humanity. And on top of this, the Digital Collector’s Book , a Signed Wallpaper , a Unique Forum Avatar and Icon ! DEEP AND VARIED EXPLORATION Every game begins with a civilization that has just discovered the means to travel between stars and is ready to explore the galaxy. Have your science ships survey and explore anomalies, leading you into a myriad of quests, introducing strange worlds with even stranger stories and discoveries that may completely change your outcome. STUNNING SPACE VISUALS With characteristically complex unique planets and celestial bodies, you will enter a whirlwind of spectacles in a highly detailed universe. INFINITE VARIATION OF SPECIES AND ADVANCED DIPLOMACY Through customization and procedural generation, you will encounter infinitely varied races. Choose positive or negative traits, specific ideologies, limitations, evolutions or anything you can imagine. Interact with others through the advanced diplomacy system. Diplomacy is key in a proper grand strategy adventure. Adjust your strategy to your situation through negotiation and skill. INTERSTELLAR WARFARE An eternal cycle of war, diplomacy, suspicions and alliances await you. Defend or attack with fully customizable war fleets, where adaptation is the key to victory. Choose from an array of complex technologies when designing and customizing your ships with the complex ship designer. You have a multitude of capabilities to choose from to meet the unknown quests that await. ENORMOUS PROCEDURAL GALAXIES Grow and expand your empire with thousands of randomly generated planet types, galaxies, quests and monsters lurking in space. PLAY THE WAY YOU WANT Customize your Empire! The characters you choose, be it a murderous mushroom society or an engineering reptile race, can be customized with traits like ethics, type of technology, form of preferred space travel, type of habitat, philosophies and more. The direction of the game is based on your choices. FREE UPDATE HISTORY",
+  "description": "Get ready to explore, discover and interact with a multitude of species as you journey among the stars. Forge a galactic empire by sending out science ships to survey and explore, while construction ships build stations around newly discovered planets. Discover buried treasures and galactic wonders as you spin a direction for your society, creating limitations and evolutions for your explorers. Alliances will form and wars will be declared. Like all our Grand Strategy games, the adventure evolves with time. Because free updates are a part of any active Paradox game, you can continue to grow and expand your empire with new technologies and capabilities. What will you find beyond the stars? Only you can answer that. Stellaris now includes the base game, three expansion packs, and a collectio",
   "zhDescription": "《群星》是 Paradox 的太空 4X 策略游戏。设计独特的星际文明，探索随机生成的银河系。事件系统生成丰富的叙事，每局都是独一无二的太空史诗。",
   "genres": [
     "Simulation",
@@ -40,8 +40,8 @@
   "supportsCoop": false,
   "supportsController": false,
   "steamDeckVerified": false,
-  "positiveReviews": 140875,
-  "negativeReviews": 0,
+  "positiveReviews": 65391,
+  "negativeReviews": 10282,
   "metacriticScore": 78,
   "featured": false,
   "guideCount": 0,
@@ -49,5 +49,260 @@
   "metaDescriptionZh": "《群星》帝国攻略 — 种族特性搭配、科技路线、舰队配置、外交策略。",
   "similarGames": [],
   "source": "steam_api",
-  "fetchedAt": "2026-06-08T07:22:04.923Z"
+  "fetchedAt": "2026-06-08T07:22:04.923Z",
+  "reviewScore": 8,
+  "reviewDesc": "Very Positive",
+  "topReviews": [
+    {
+      "recommendationid": "226010285",
+      "author": {
+        "steamid": "76561198379334858",
+        "personaname": "Fae~",
+        "persona_status": "offline",
+        "profile_url": "https://steamcommunity.com/profiles/76561198379334858/",
+        "num_games_owned": 175,
+        "num_reviews": 15,
+        "playtime_forever": 61561,
+        "playtime_last_two_weeks": 0,
+        "playtime_at_review": 61561,
+        "last_played": 1750893324,
+        "avatar": "e190fb850b8910f0599d0472f012d9aa2cd94faa"
+      },
+      "language": "english",
+      "review": "I used to love this game and have spent countless nights where I should have been studying, ruling the star systems with friends. However I am so tired of taking a break, coming back and having to relearn the game because they rework how the game runs and functions every month or so. Very few times have these changes actually improved the game, many break it. \n\nI understand it's paradox, but the DLC are insane, I have most of them and can that most of them should have been built into the main game for free. \n\nLast but not least.. The User data collection and selling of such data to third parti…",
+      "timestamp_created": 1779300866,
+      "timestamp_updated": 1779300866,
+      "voted_up": false,
+      "votes_up": 92,
+      "votes_funny": 1,
+      "weighted_vote_score": "0.849068939685821533",
+      "comment_count": 0,
+      "steam_purchase": true,
+      "received_for_free": false,
+      "refunded": false,
+      "written_during_early_access": false,
+      "primarily_steam_deck": false,
+      "app_release_date": "1462809420",
+      "reactions": [
+        {
+          "reaction_type": 26,
+          "count": 3
+        },
+        {
+          "reaction_type": 29,
+          "count": 3
+        },
+        {
+          "reaction_type": 32,
+          "count": 1
+        }
+      ]
+    },
+    {
+      "recommendationid": "225151641",
+      "author": {
+        "steamid": "76561198280508181",
+        "personaname": "Dashan9301",
+        "persona_status": "offline",
+        "profile_url": "https://steamcommunity.com/profiles/76561198280508181/",
+        "num_games_owned": 108,
+        "num_reviews": 14,
+        "playtime_forever": 4233,
+        "playtime_last_two_weeks": 0,
+        "playtime_at_review": 4132,
+        "deck_playtime_at_review": 4092,
+        "last_played": 1778430037,
+        "avatar": "cbd39ccff9b8987c462177ad452c22d53963cb61"
+      },
+      "language": "english",
+      "review": "The game is currently rated very positive for all time reviews, and mixed for recent reviews. Let me explain what's happening.\n\nGame good. Game get update. Update causes loads of lag and very bug-ridden. Fanbase justifiably upset. Mixed reviews.\n\nThat being said, they have been working on addressing these issues since and the game runs better now. Stellaris has recently hit its 10-year anniversary and with this game getting constant free updates and new content since I think that while I agree the production team isn't without criticism the game is still really, really high quality.",
+      "timestamp_created": 1778366735,
+      "timestamp_updated": 1778366735,
+      "voted_up": true,
+      "votes_up": 83,
+      "votes_funny": 2,
+      "weighted_vote_score": "0.805508971214294434",
+      "comment_count": 3,
+      "steam_purchase": true,
+      "received_for_free": false,
+      "refunded": false,
+      "written_during_early_access": false,
+      "primarily_steam_deck": true,
+      "app_release_date": "1462809420",
+      "hardware": {
+        "manufacturer": "ASUSTeK COMPUTER INC.",
+        "model": "ROG STRIX B550-F GAMING WIFI II",
+        "dx_video_card": "",
+        "dx_vendorid": 4098,
+        "dx_deviceid": 30032,
+        "num_gpu": 1,
+        "system_ram": "64208",
+        "os": "Linux Mint 22.2",
+        "cpu_vendor": "AuthenticAMD",
+        "cpu_name": "AMD Ryzen 9 5950X 16-Core Processor            ",
+        "gaming_device_type": 1,
+        "dx_driver_version": "",
+        "adapter_description": "AMD AMD Radeon RX 9070 (radeonsi, gfx1201, LLVM 20.1.2, DRM 3.64, 6.17.0-19-generic)",
+        "driver_version": "4.6 (Compatibility Profile) Mesa 25.2.8-0ubuntu0.24.04.1",
+        "driver_date": "-1--1--1",
+        "vram_size": 16384,
+        "screen_width": null,
+        "screen_height": null,
+        "precise_frame_rate": null
+      },
+      "reactions": [
+        {
+          "reaction_type": 26,
+          "count": 6
+        },
+        {
+          "reaction_type": 24,
+          "count": 1
+        },
+        {
+          "reaction_type": 35,
+          "count": 1
+        }
+      ]
+    },
+    {
+      "recommendationid": "225477477",
+      "author": {
+        "steamid": "76561198040780483",
+        "personaname": "NED STARK",
+        "persona_status": "offline",
+        "profile_url": "https://steamcommunity.com/profiles/76561198040780483/",
+        "num_games_owned": 0,
+        "num_reviews": 1,
+        "playtime_forever": 20503,
+        "playtime_last_two_weeks": 0,
+        "playtime_at_review": 19656,
+        "last_played": 1779070094,
+        "avatar": "06fe92ca98ae12e5b67648aa5e08823764d6c018"
+      },
+      "language": "english",
+      "review": "Like all paradox games, this is a scam meant to sell you DLC. The base game is a hollow shell. I paid for 1 month subscription to all the DLC and I can tell you that none of it is worth your cold hard cash. They sell you almost nothing in each DLC. It only looks like a lot of content spread out over 10 years of bloated development. They still demand retail prices for new DLC and season passes. The next DLC they promise ships that function like planets. Sounds cool but not worth paying money for it. If Paradox was a good company, they would have stopped developing this game and made Stellaris 2…",
+      "timestamp_created": 1778771798,
+      "timestamp_updated": 1778771798,
+      "voted_up": false,
+      "votes_up": 30,
+      "votes_funny": 7,
+      "weighted_vote_score": "0.725742459297180176",
+      "comment_count": 2,
+      "steam_purchase": true,
+      "received_for_free": false,
+      "refunded": false,
+      "written_during_early_access": false,
+      "primarily_steam_deck": false,
+      "app_release_date": "1462809420",
+      "reactions": [
+        {
+          "reaction_type": 28,
+          "count": 3
+        },
+        {
+          "reaction_type": 30,
+          "count": 1
+        },
+        {
+          "reaction_type": 31,
+          "count": 1
+        },
+        {
+          "reaction_type": 32,
+          "count": 1
+        }
+      ]
+    },
+    {
+      "recommendationid": "225315649",
+      "author": {
+        "steamid": "76561199398053901",
+        "personaname": "All in",
+        "persona_status": "offline",
+        "profile_url": "https://steamcommunity.com/profiles/76561199398053901/",
+        "num_games_owned": 41,
+        "num_reviews": 3,
+        "playtime_forever": 7860,
+        "playtime_last_two_weeks": 0,
+        "playtime_at_review": 7860,
+        "last_played": 1777954099,
+        "avatar": "1df3535a6f4c9bcf76d310fff46700d18b98412c"
+      },
+      "language": "schinese",
+      "review": "我没能等到人类驶向深空，但群星让我提前赴了这场约。\n\n在我眼里，银河从不是用来征服的，是用来填补遗憾的。探索、飞升、天灾、外交——每一局都像在另一条时间线上，亲手为文明点亮一片星海。生得太早，触不到真正的星辰。\n\n但至少在这里，我决定过它们如何闪耀。",
+      "timestamp_created": 1778554702,
+      "timestamp_updated": 1778737319,
+      "voted_up": true,
+      "votes_up": 26,
+      "votes_funny": 0,
+      "weighted_vote_score": "0.716044366359710693",
+      "comment_count": 0,
+      "steam_purchase": false,
+      "received_for_free": false,
+      "refunded": false,
+      "written_during_early_access": false,
+      "primarily_steam_deck": false,
+      "app_release_date": "1462809420",
+      "reactions": [
+        {
+          "reaction_type": 29,
+          "count": 2
+        }
+      ]
+    },
+    {
+      "recommendationid": "225186811",
+      "author": {
+        "steamid": "76561198867422465",
+        "personaname": "光",
+        "persona_status": "offline",
+        "profile_url": "https://steamcommunity.com/profiles/76561198867422465/",
+        "num_games_owned": 0,
+        "num_reviews": 7,
+        "playtime_forever": 12773,
+        "playtime_last_two_weeks": 4,
+        "playtime_at_review": 12767,
+        "last_played": 1780039671,
+        "avatar": "a3cc4dcfec401519b7746a7960deee51099ce108"
+      },
+      "language": "schinese",
+      "review": "群星是本人入坑p社的第一款游戏（虽然现在玩钢丝多），可以说和文明6一样是我的大战略启蒙作，不可否认是一款十分优秀的游戏。\r\n只是p社的逆天更新毁了这游戏，每次大版本都好像在玩全新的游戏一样，重新学习成本很高，然后这样也就算了，你们为什么要每次和更新都把游戏的数值向更狗屎的方向推动？？？\r\n我喜欢这款游戏，所以我决定给它一个差评，希望p社能在以后不要再端上来像是4.3这种傻逼更新了，还有不要每个大版本大改玩法了!",
+      "timestamp_created": 1778409019,
+      "timestamp_updated": 1778409019,
+      "voted_up": false,
+      "votes_up": 18,
+      "votes_funny": 0,
+      "weighted_vote_score": "0.703984081745147705",
+      "comment_count": 3,
+      "steam_purchase": true,
+      "received_for_free": false,
+      "refunded": false,
+      "written_during_early_access": false,
+      "primarily_steam_deck": false,
+      "app_release_date": "1462809420",
+      "hardware": {
+        "manufacturer": "ASUSTeK COMPUTER INC.",
+        "model": "TX Gaming FX608LP_FX608LP",
+        "dx_video_card": "NVIDIA GeForce RTX 5070 Laptop GPU",
+        "dx_vendorid": 4318,
+        "dx_deviceid": 11608,
+        "num_gpu": 1,
+        "system_ram": "32116",
+        "os": "Windows 11",
+        "cpu_vendor": "GenuineIntel",
+        "cpu_name": "Intel(R) Core(TM) Ultra 9 275HX",
+        "gaming_device_type": 1,
+        "dx_driver_version": "32.0.15.9597",
+        "adapter_description": "NVIDIA GeForce RTX 5070 Laptop GPU",
+        "driver_version": "32.0.15.9597",
+        "driver_date": "2026-3-17",
+        "vram_size": 7891,
+        "screen_width": 2560,
+        "screen_height": 1600,
+        "precise_frame_rate": null
+      },
+      "reactions": []
+    }
+  ]
 }

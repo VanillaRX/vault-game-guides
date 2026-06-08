@@ -5,7 +5,7 @@
   "zhTitle": "定居点崛起",
   "shortDescription": "Settlements Rising is a medieval city building and colony management game. It offers a lively colony experience with simulated villagers, dozens of professions and resources, natural disasters, and raids, while providing full control over the colony through trade, production chains and datas.",
   "zhShortDescription": "中世纪城市建造与殖民模拟，管理供应链、发展贸易。",
-  "description": "Settlements Rising is a city-building and colony management simulation game set in medieval times. The game offers extensive depth with dozens of professions and resources available to the player. Each profession features villagers with their own animations and work cycles, creating a living colony experience in the game. It allows for micromanagement through trade, limited resources, production chains, and production data. Villagers have their own life cycles. They can work in over 35 different professions. Each villager has needs for hunger, energy, health, and warmth. When they're hungry, they eat, and when their inventory runs out of food, they purchase more. When their energy depletes while working or during cold weather, they return home to rest. They are born, grow, receive education, and eventually age and pass away. They gain experience in their jobs. They acquire character traits either from birth or later in life. At specific intervals, you will be presented with a set of random cards from which you can choose the one that best suits your needs. You can use these enhancement cards according to your requirements. These cards are for single use, but you can choose to save them for future games. In each new game, you can start with a few of the cards you've saved. In the game, you can earn gold by mining, trading, and conducting raids. Traders visit your village at regular intervals. They buy some resources and sell others. The prices vary from one trader to another, allowing you to buy low and sell high. Additionally, build trading ships and manage your resources by trading with neighboring villages based on the resources they import and export. Construct exploration ships for exploration missions and send them out. Depending on the mission's risk, you can earn various rewards. These rewards can be gold, resources, or enhancement cards. As the resources of your village increase, raiders will periodically attack, attempting to plunder your resources. To defend against raiders, build towers and walls. Train villagers as archers or swordsmen, hiring them as military units for a certain salary.",
+  "description": "Settlements Rising is a city-building and colony management simulation game set in medieval times. The game offers extensive depth with dozens of professions and resources available to the player. Each profession features villagers with their own animations and work cycles, creating a living colony experience in the game. It allows for micromanagement through trade, limited resources, production chains, and production data. Villagers have their own life cycles. They can work in over 35 different professions. Each villager has needs for hunger, energy, health, and warmth. When they're hungry, they eat, and when their inventory runs out of food, they purchase more. When their energy depletes while working or during cold weather, they return home to rest. They are born, grow, receive educatio",
   "zhDescription": "《Settlements Rising》是中世纪城市建造与殖民模拟游戏。从零建立定居点，管理完整供应链，发展贸易路线。每个村民有独立技能、需求和日常活动。",
   "genres": [
     "Indie",
@@ -59,13 +59,16 @@
   "supportsCoop": false,
   "supportsController": false,
   "steamDeckVerified": false,
-  "positiveReviews": 406,
-  "negativeReviews": 0,
+  "positiveReviews": 150,
+  "negativeReviews": 36,
   "featured": false,
   "guideCount": 0,
   "metaDescriptionEn": "Settlements Rising is a medieval city building and colony management game. It offers a lively colony experience with simulated villagers, dozens of professions and resources, natural disasters, and raids, while providing full control over the colony through trade, production chains and datas.",
   "metaDescriptionZh": "《定居点崛起》城市建造攻略 — 供应链管理、贸易路线、防御策略。",
   "similarGames": [],
   "source": "steam_api",
-  "fetchedAt": "2026-06-08T07:20:51.108Z"
+  "fetchedAt": "2026-06-08T07:20:51.108Z",
+  "reviewScore": 8,
+  "reviewDesc": "Very Positive",
+  "topReviews": []
 }

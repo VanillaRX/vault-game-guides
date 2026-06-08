@@ -5,7 +5,7 @@
   "zhTitle": "前往中世纪",
   "shortDescription": "Build and manage your own castle settlement in a land reclaimed by wilderness. With detailed management, survival strategy, and a moddable sandbox world, Going Medieval challenges you to build the mightiest colony this side of the apocalypse.",
   "zhShortDescription": "3D 殖民模拟，建造多层城堡、管理居民心理。",
-  "description": "When civilization is decimated by rampant plague, a lucky few emerge from the ashes. Help them settle in a dangerous wilderness reclaimed by nature. Build them a home, shape their lives, and defend them from bandits and beasts in a lawless, realistic post-calamity world. The Dark Age is yours to rebuild. From three lost travellers to a thriving walled city, build greatness from desolation. Use 3D terrain tools to create the perfect stronghold, from sprawling multi-storey forts to winding underground caverns. Construct, furnish and decorate your chambers, workshops, chapels, libraries and more, using stone, clay, and other gathered materials. Each settler is a unique character. Consider Grimbold, for example. As a Swineherd, his Animal Handling is second to none. But his personality is Savage, so he’d make a strong Brawler. He likes nice clothes, his religion is dear to him — and he’s hungry. Satisfy Grimbold’s needs, use his talents, and he’ll be a happy settler — key to a happy settlement. Build impenetrable defenses and set traps against unrelenting waves of raiders. Research and craft medieval tech, arm your settlers and command them in battle. Tailor your strategy to your villager’s skills, and upgrade them through hunting and combat. Explore your randomly-generated multi-level map and manipulate it to your will. Terraform the earth and water for construction, design, or military strategy. Build up or dig down, go humble or baronial, and use the modding tools to unearth a whole new level of creative freedom. We think you'll love Going Medieval if you enjoy... RimWorld, Manor Lords, Kingdom Come: Deliverance II, Timberborn, Crusader Kings III, Civilization, Total War: Medieval II, Age of Empires IV, Frostpunk 2, Nova Roma, Kingdoms and Castles.",
+  "description": "When civilization is decimated by rampant plague, a lucky few emerge from the ashes. Help them settle in a dangerous wilderness reclaimed by nature. Build them a home, shape their lives, and defend them from bandits and beasts in a lawless, realistic post-calamity world. The Dark Age is yours to rebuild. From three lost travellers to a thriving walled city, build greatness from desolation. Use 3D terrain tools to create the perfect stronghold, from sprawling multi-storey forts to winding underground caverns. Construct, furnish and decorate your chambers, workshops, chapels, libraries and more, using stone, clay, and other gathered materials. Each settler is a unique character. Consider Grimbold, for example. As a Swineherd, his Animal Handling is second to none. But his personality is Sava",
   "zhDescription": "《前往中世纪》是灾后中世纪世界的3D殖民模拟游戏。带领幸存者从零建造定居点。多层建筑系统可以建造真正意义上的城堡。居民有独立心理状态、技能和需求。",
   "genres": [
     "Indie",
@@ -50,8 +50,8 @@
   "supportsCoop": false,
   "supportsController": false,
   "steamDeckVerified": false,
-  "positiveReviews": 16649,
-  "negativeReviews": 0,
+  "positiveReviews": 7513,
+  "negativeReviews": 950,
   "metacriticScore": 76,
   "featured": false,
   "guideCount": 0,
@@ -60,5 +60,94 @@
   "similarGames": [],
   "source": "steam_api",
   "fetchedAt": "2026-06-08T07:20:10.530Z",
-  "aliases": []
+  "aliases": [],
+  "reviewScore": 8,
+  "reviewDesc": "Very Positive",
+  "topReviews": [
+    {
+      "recommendationid": "225635154",
+      "author": {
+        "steamid": "76561199008365394",
+        "personaname": "goobydrewbie",
+        "persona_status": "offline",
+        "profile_url": "https://steamcommunity.com/profiles/76561199008365394/",
+        "num_games_owned": 0,
+        "num_reviews": 1,
+        "playtime_forever": 7120,
+        "playtime_last_two_weeks": 0,
+        "playtime_at_review": 7120,
+        "last_played": 1778910870,
+        "avatar": "1c0b5c37a442a2d39f32902ec42f2e26ba6a142e"
+      },
+      "language": "english",
+      "review": "NEEDS a family mechanic. This is a massive, fundamental flaw. The entire concept of \"medieval\" society is built on the backbone of bloodlines, dynasties, and family units.\n\nWhen you think of a medieval settlement, you think of building a homestead for a family, passing down a blacksmith trade from father to daughter, or cementing alliances. Stripping that out doesn't just feel like a missing feature; it actively guts the roleplay and immersion of the entire era.\n\nInstead, Going Medieval forces you into this bizarre, clinical loop where your colony is basically just a glorified commune or an ov…",
+      "timestamp_created": 1778910797,
+      "timestamp_updated": 1778912068,
+      "voted_up": false,
+      "votes_up": 154,
+      "votes_funny": 5,
+      "weighted_vote_score": "0.784303665161132812",
+      "comment_count": 0,
+      "steam_purchase": true,
+      "received_for_free": false,
+      "refunded": false,
+      "written_during_early_access": false,
+      "primarily_steam_deck": false,
+      "app_release_date": "1622559561",
+      "reactions": [
+        {
+          "reaction_type": 31,
+          "count": 15
+        },
+        {
+          "reaction_type": 26,
+          "count": 1
+        },
+        {
+          "reaction_type": 27,
+          "count": 1
+        },
+        {
+          "reaction_type": 28,
+          "count": 1
+        },
+        {
+          "reaction_type": 29,
+          "count": 1
+        }
+      ]
+    },
+    {
+      "recommendationid": "225292589",
+      "author": {
+        "steamid": "76561199856634960",
+        "personaname": "HELLCAT",
+        "persona_status": "offline",
+        "profile_url": "https://steamcommunity.com/profiles/76561199856634960/",
+        "num_games_owned": 0,
+        "num_reviews": 1,
+        "playtime_forever": 7164,
+        "playtime_last_two_weeks": 0,
+        "playtime_at_review": 4155,
+        "last_played": 1779044051,
+        "avatar": "1eb0519d197a8215ad49b7cf6b20c8b5d97799f6"
+      },
+      "language": "english",
+      "review": "Very nice game, but please add the ability to make new child settlers.",
+      "timestamp_created": 1778525582,
+      "timestamp_updated": 1778525582,
+      "voted_up": true,
+      "votes_up": 20,
+      "votes_funny": 1,
+      "weighted_vote_score": "0.665865123271942139",
+      "comment_count": 0,
+      "steam_purchase": false,
+      "received_for_free": false,
+      "refunded": false,
+      "written_during_early_access": false,
+      "primarily_steam_deck": false,
+      "app_release_date": "1622559561",
+      "reactions": []
+    }
+  ]
 }

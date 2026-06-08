@@ -5,7 +5,7 @@
   "zhTitle": "丁克姆",
   "shortDescription": "Dinkum is a survival life simulation game set on an island inspired by the rugged Australian outback. Farm, hunt, mine, fish, and forage to gather resources, expand your town, and discover what makes Dinkum so special—either solo or with friends.",
   "zhShortDescription": "澳洲荒野版动物森友会——耕种、建造、探索。",
-  "description": "G'Day! Grab your tools, gather resources, and build your town while hanging out with friends and enjoying the charm of Dinkum. A Survival Life Sim with Endless Possibilities Plant crops, raise animals, and build your dream farm, or roam the island catching fish and bugs at your own pace. With changing seasons and weather affecting how your crops grow, every day brings a new challenge. Slip on your flip-flops to hunt for rare fish, bugs, or ores. Every moment becomes a special adventure. Explore and Survive the Wild From red deserts and lush forests to hidden mines, Dinkum is full of wild places to explore. Hunt wild animals, gather resources, and learn how to survive in the great outdoors. The creatures might look cute, but don't let your guard down! You'll need tools, weapons, and a solid strategy to make it out in one piece. Will you go head-to-head, or set traps and play it smart? The choice is yours. Build Your Town Your Way What starts as a simple campfire and a sleeping bag can grow into a thriving town with shops, fountains, flower beds, and windmills. Craft furniture and decorations to personalize your home, reshape the island to design your ideal town layout, and customize your character's look from head to toe. Invite friends over to show off your one-of-a-kind creation! The Joy of Growing Together Sell your harvest and foraged goods to earn Dinks, and reinvest them to help your town flourish. As your town grows, new shops will open, visitors will stop by—and some might even decide to stay for good. Celebrate with festivals and build a vibrant, lively town, whether you're playing solo or with friends.",
+  "description": "G'Day! Grab your tools, gather resources, and build your town while hanging out with friends and enjoying the charm of Dinkum. A Survival Life Sim with Endless Possibilities Plant crops, raise animals, and build your dream farm, or roam the island catching fish and bugs at your own pace. With changing seasons and weather affecting how your crops grow, every day brings a new challenge. Slip on your flip-flops to hunt for rare fish, bugs, or ores. Every moment becomes a special adventure. Explore and Survive the Wild From red deserts and lush forests to hidden mines, Dinkum is full of wild places to explore. Hunt wild animals, gather resources, and learn how to survive in the great outdoors. The creatures might look cute, but don't let your guard down! You'll need tools, weapons, and a solid",
   "zhDescription": "《Dinkum》是设定在澳大利亚荒野的生活模拟游戏。在一片原始荒野中建立家园——耕种、钓鱼、采矿、捕虫，与动物村民交朋友。支持多人合作，和朋友们一起开荒。",
   "genres": [
     "Adventure",
@@ -56,13 +56,16 @@
   "supportsCoop": true,
   "supportsController": true,
   "steamDeckVerified": false,
-  "positiveReviews": 24333,
-  "negativeReviews": 0,
+  "positiveReviews": 14672,
+  "negativeReviews": 985,
   "featured": false,
   "guideCount": 0,
   "metaDescriptionEn": "Dinkum is a survival life simulation game set on an island inspired by the rugged Australian outback. Farm, hunt, mine, fish, and forage to gather resources, expand your town, and discover what makes Dinkum so special—either solo or with friends.",
   "metaDescriptionZh": "《Dinkum》新手攻略 — 开荒技巧、赚钱方法、动物村民好感度、多人合作指南。",
   "similarGames": [],
   "source": "steam_api",
-  "fetchedAt": "2026-06-08T07:17:29.889Z"
+  "fetchedAt": "2026-06-08T07:17:29.889Z",
+  "reviewScore": 8,
+  "reviewDesc": "Very Positive",
+  "topReviews": []
 }

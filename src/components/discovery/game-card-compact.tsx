@@ -15,7 +15,7 @@ export function GameCardCompact({ game, lang, reason, similarityScore, rank }: P
 
   return (
     <Link
-      href={`/games/${game.slug}`}
+      href={`/game/${game.slug}`}
       className="group flex gap-4 rounded-xl border border-[var(--border)] bg-[var(--card)] p-4 transition-all hover:border-[var(--accent)]/50 hover:-translate-y-0.5"
     >
       {/* Rank badge */}

@@ -5,7 +5,7 @@
   "zhTitle": "艾尔登法环",
   "shortDescription": "THE CRITICALLY ACCLAIMED FANTASY ACTION RPG. Rise, Tarnished, and be guided by grace to brandish the power of the Elden Ring and become an Elden Lord in the Lands Between.",
   "zhShortDescription": "FromSoftware 巅峰之作，在交界地中探索、战斗、征服半神。",
-  "description": "THE CRITICALLY ACCLAIMED FANTASY ACTION RPG Rise, Tarnished, and be guided by grace to brandish the power of the Elden Ring. • A Breathtaking World Full of Excitement and Mystery The Lands Between are part of a vast continent where magnificent open fields and huge dungeons with complex and three-dimensional designs are seamlessly connected. As you explore, the joy of discovering unknown and overwhelming threats awaits you. Mastery of the terrain and knowledge of its secrets can help you overcome enemies and defeat formidable bosses or lead invading players into traps. • Defeat Challenging Foes in Intense Combat Combat in ELDEN RING is simple to learn yet offers hidden depths of mastery. As you seek to become the Elden Lord, you’ll need to explore the balance between attacking and avoiding damage, use a wide variety of weapons, spells, &amp; summons, and perfect your timing to take advantage of your opponents’ weaknesses. • Create and Build Your Own Character In addition to customizing the appearance of your character, there are countless ways to combine the weapons, armor, usable items, and magic that you equip. You can develop your character according to your play style. No matter if you prefer bold physical confrontation, tactical spellcasting, or the subtle art of stealth, you’ll be able to find gear that supports your choices. • An Epic Drama Born from a Myth Created by George R.R. Martin The founding mythology of Elden Ring was written by George R. R. Martin and adapted into a rich multilayered story. Intersecting goals and desires between the characters create an intense narrative that weaves throughout the Lands Between. The events of the game can unravel in many ways, depending on your interventions. • Play Alongside a Massive Worldwide Community The Tarnished community is massive and active. Your friends may already be among them. You can play with up to two other Tarnished as your cooperative teammates, either by inviting them using a shared password or by summoning them from a pool of nearby community members. There are also ample opportunities to face off against other players, either through co-op invasions, invited duels, or the many player battle options available in the three Colosseums.",
+  "description": "THE CRITICALLY ACCLAIMED FANTASY ACTION RPG Rise, Tarnished, and be guided by grace to brandish the power of the Elden Ring. • A Breathtaking World Full of Excitement and Mystery The Lands Between are part of a vast continent where magnificent open fields and huge dungeons with complex and three-dimensional designs are seamlessly connected. As you explore, the joy of discovering unknown and overwhelming threats awaits you. Mastery of the terrain and knowledge of its secrets can help you overcome enemies and defeat formidable bosses or lead invading players into traps. • Defeat Challenging Foes in Intense Combat Combat in ELDEN RING is simple to learn yet offers hidden depths of mastery. As you seek to become the Elden Lord, you’ll need to explore the balance between attacking and avoiding ",
   "zhDescription": "《艾尔登法环》是 FromSoftware 的开放世界动作 RPG 巅峰之作。魂系战斗深度与开放世界自由度的完美结合，迷宫般的地下城和史诗级的 BOSS 战令人难忘。",
   "genres": [
     "Action",
@@ -44,8 +44,8 @@
   "supportsCoop": true,
   "supportsController": true,
   "steamDeckVerified": false,
-  "positiveReviews": 819305,
-  "negativeReviews": 0,
+  "positiveReviews": 404416,
+  "negativeReviews": 24406,
   "metacriticScore": 94,
   "featured": false,
   "guideCount": 0,
@@ -53,5 +53,259 @@
   "metaDescriptionZh": "《艾尔登法环》BOSS 攻略与配装指南 — 全BOSS打法、武器推荐、魔法流派。",
   "similarGames": [],
   "source": "steam_api",
-  "fetchedAt": "2026-06-08T07:22:58.822Z"
+  "fetchedAt": "2026-06-08T07:22:58.822Z",
+  "reviewScore": 8,
+  "reviewDesc": "Very Positive",
+  "topReviews": [
+    {
+      "recommendationid": "225878861",
+      "author": {
+        "steamid": "76561199805406692",
+        "personaname": "eternal",
+        "persona_status": "in-game",
+        "profile_url": "https://steamcommunity.com/profiles/76561199805406692/",
+        "num_games_owned": 277,
+        "num_reviews": 6,
+        "playtime_forever": 6511,
+        "playtime_last_two_weeks": 113,
+        "playtime_at_review": 5648,
+        "last_played": 1780244859,
+        "avatar": "9c8b3cedea7e4f8e2c20e0966b1ee52791415a9b"
+      },
+      "language": "russian",
+      "review": "Когда Миядзаки били в детстве, ремнем замахивались с задержкой чтобы он не увернулся, это все знают. Но мало кто знает продолжение этой великой истории.\nОднажды Миядзаки адаптировался к этому, заучил все возможные фреймы ремня, и больше не получал урон. Но его отец не растерялся, и потратил 2 года на то, чтобы снова удивить своего любимого сына. Теперь он наносил в 10 раз больше урона ремнем, прыгал как угорелый по всей комнате, а так же использовал быстрые комбинации ударов (в перемешку со старыми добрыми задержками), от чего глаза Миядзаки не успевали фокусироваться на нем. Но отец знал что …",
+      "timestamp_created": 1779145883,
+      "timestamp_updated": 1779145883,
+      "voted_up": true,
+      "votes_up": 155,
+      "votes_funny": 75,
+      "weighted_vote_score": "0.936501026153564453",
+      "comment_count": 2,
+      "steam_purchase": true,
+      "received_for_free": false,
+      "refunded": false,
+      "written_during_early_access": false,
+      "primarily_steam_deck": false,
+      "app_release_date": "1645744078",
+      "reactions": [
+        {
+          "reaction_type": 28,
+          "count": 9
+        },
+        {
+          "reaction_type": 24,
+          "count": 2
+        },
+        {
+          "reaction_type": 29,
+          "count": 2
+        },
+        {
+          "reaction_type": 31,
+          "count": 2
+        },
+        {
+          "reaction_type": 25,
+          "count": 1
+        },
+        {
+          "reaction_type": 35,
+          "count": 1
+        }
+      ]
+    },
+    {
+      "recommendationid": "225981378",
+      "author": {
+        "steamid": "76561198071065769",
+        "personaname": "m4rk3y_bl33d",
+        "persona_status": "offline",
+        "profile_url": "https://steamcommunity.com/profiles/76561198071065769/",
+        "num_games_owned": 0,
+        "num_reviews": 8,
+        "playtime_forever": 61924,
+        "playtime_last_two_weeks": 2810,
+        "playtime_at_review": 61924,
+        "last_played": 1780612351,
+        "avatar": "dbebfeb8727d23b0358a71960564316c2cdce504"
+      },
+      "language": "english",
+      "review": "The ultimate GAMING experience! Honestly, this is one of those cases where writing a review feels unnecessary because words simply can't do it justice.\n\nI hadn’t bought a Collector’s Edition in a long time, but even before this game came out, I knew I had to get the CE of Elden Ring.\n\nThe game is perfect, and it belongs in the category of “you absolutely have to play this before you die.” If I really had to mention a negative, it would probably be the reused enemies, which are the game’s biggest flaw. But the gameplay, exploration, and boss fights are all masterclass level! (ER has the weakest…",
+      "timestamp_created": 1779270954,
+      "timestamp_updated": 1780789418,
+      "voted_up": true,
+      "votes_up": 108,
+      "votes_funny": 3,
+      "weighted_vote_score": "0.821210980415344238",
+      "comment_count": 3,
+      "steam_purchase": false,
+      "received_for_free": false,
+      "refunded": false,
+      "written_during_early_access": false,
+      "primarily_steam_deck": false,
+      "app_release_date": "1645744078",
+      "hardware": {
+        "manufacturer": "ASUS",
+        "model": "System Product Name",
+        "dx_video_card": "NVIDIA GeForce RTX 5060",
+        "dx_vendorid": 4318,
+        "dx_deviceid": 11525,
+        "num_gpu": 1,
+        "system_ram": "32557",
+        "os": "Windows 11",
+        "cpu_vendor": "GenuineIntel",
+        "cpu_name": "13th Gen Intel(R) Core(TM) i7-13700F",
+        "gaming_device_type": 1,
+        "dx_driver_version": "32.0.15.9186",
+        "adapter_description": "NVIDIA GeForce RTX 5060",
+        "driver_version": "32.0.15.9186",
+        "driver_date": "2026-1-20",
+        "vram_size": 8150,
+        "screen_width": null,
+        "screen_height": null,
+        "precise_frame_rate": null
+      },
+      "reactions": [
+        {
+          "reaction_type": 29,
+          "count": 2
+        },
+        {
+          "reaction_type": 28,
+          "count": 1
+        },
+        {
+          "reaction_type": 31,
+          "count": 1
+        },
+        {
+          "reaction_type": 32,
+          "count": 1
+        },
+        {
+          "reaction_type": 33,
+          "count": 1
+        }
+      ]
+    },
+    {
+      "recommendationid": "225804474",
+      "author": {
+        "steamid": "76561199218220009",
+        "personaname": "G.O.A.T",
+        "persona_status": "offline",
+        "profile_url": "https://steamcommunity.com/profiles/76561199218220009/",
+        "num_games_owned": 0,
+        "num_reviews": 2,
+        "playtime_forever": 122215,
+        "playtime_last_two_weeks": 7777,
+        "playtime_at_review": 112599,
+        "last_played": 1780884046,
+        "avatar": "0051edf2be937dca26ccfcc4c55807d93f50540e"
+      },
+      "language": "brazilian",
+      "review": "é um jogo bom, mas chegando perto das duas mil horas fica só mais umas 15 build pra testar, podiam ter colocado mais conteúdo",
+      "timestamp_created": 1779059386,
+      "timestamp_updated": 1779059386,
+      "voted_up": true,
+      "votes_up": 47,
+      "votes_funny": 69,
+      "weighted_vote_score": "0.818615257740020752",
+      "comment_count": 0,
+      "steam_purchase": false,
+      "received_for_free": false,
+      "refunded": false,
+      "written_during_early_access": false,
+      "primarily_steam_deck": false,
+      "app_release_date": "1645744078",
+      "reactions": [
+        {
+          "reaction_type": 24,
+          "count": 3
+        }
+      ]
+    },
+    {
+      "recommendationid": "225995258",
+      "author": {
+        "steamid": "76561199051119201",
+        "personaname": "Zx1aoy",
+        "persona_status": "offline",
+        "profile_url": "https://steamcommunity.com/id/4263932/",
+        "num_games_owned": 149,
+        "num_reviews": 10,
+        "playtime_forever": 6922,
+        "playtime_last_two_weeks": 2429,
+        "playtime_at_review": 4340,
+        "last_played": 1780886123,
+        "avatar": "f7b21fda4b55638c75ed14f40153bbffbfe089d3"
+      },
+      "language": "schinese",
+      "review": "说实在的，我完全不懂，为什么法环里面这些NPC也依旧是没有善终的。\r\n你要是说黑魂系列，火要灭了，大家都得完蛋，世界马上要完蛋了。这种末世背景下，大家都很惨那很正常。\r\n但是交界地有到这种程度吗？交界地的事说白了就是玛丽卡这一家打内战。可以说说是乱世，但完全不到灭世的地步。这样的世界观下，居然NPC也基本没有好的结局。\r\n柯林疯了，d和他的孪生兄弟死了，菲雅死了，罗杰尔死了，铁匠修古也要死了，罗德莉卡好不容易脱离了接肢的命运，还不容易走上自己作为调灵师的道路，居然要留在圆桌和修谷一起赴死。就连解指婆婆恩雅，最支持我们的人，也随着死亡卢恩的释放死去了。整个大赐福的人几乎死光了，唯一幸终的是涅斐丽，甚至成为了史东薇尔新王。\r\n再说其他NPC，对我们最好的魔法老师瑟濂，明明都已经重返学院，要重兴源流了，却化作魔法师球了。米莉森自杀了，虾哥被食粪者诅咒，拉雅要带着被整个交界地歧视的蛇人的身份，孤独的活下去。布莱德，伊吉，他们都死了。亚历山大明明已经成为强者，却还是输掉了和我们的决斗，破碎了。霍斯劳放弃了成为英雄的愿望，却死在了壶村。\r\n巨人山顶上，梅琳娜牺牲自己点燃了黄金树。\r\n也许三指真的是对的。",
+      "timestamp_created": 1779287088,
+      "timestamp_updated": 1779287088,
+      "voted_up": true,
+      "votes_up": 40,
+      "votes_funny": 0,
+      "weighted_vote_score": "0.800243854522705078",
+      "comment_count": 0,
+      "steam_purchase": false,
+      "received_for_free": false,
+      "refunded": false,
+      "written_during_early_access": false,
+      "primarily_steam_deck": false,
+      "app_release_date": "1645744078",
+      "reactions": [
+        {
+          "reaction_type": 26,
+          "count": 1
+        },
+        {
+          "reaction_type": 31,
+          "count": 1
+        },
+        {
+          "reaction_type": 32,
+          "count": 1
+        }
+      ]
+    },
+    {
+      "recommendationid": "225971727",
+      "author": {
+        "steamid": "76561197983587835",
+        "personaname": "Hoodoo Guru",
+        "persona_status": "online",
+        "profile_url": "https://steamcommunity.com/profiles/76561197983587835/",
+        "num_games_owned": 0,
+        "num_reviews": 1,
+        "playtime_forever": 18106,
+        "playtime_last_two_weeks": 530,
+        "playtime_at_review": 17280,
+        "last_played": 1780879680,
+        "avatar": "fef49e7fa7e1997310d705b2a6158ff8dc1cdfeb"
+      },
+      "language": "english",
+      "review": "This game is very addictive and it is huge! It took me 275 hours to play and now I have started the DLC. One of the best games I have ever played, and I have been playing games for 50 years!",
+      "timestamp_created": 1779254077,
+      "timestamp_updated": 1779254077,
+      "voted_up": true,
+      "votes_up": 54,
+      "votes_funny": 3,
+      "weighted_vote_score": "0.799957752227783203",
+      "comment_count": 0,
+      "steam_purchase": true,
+      "received_for_free": false,
+      "refunded": false,
+      "written_during_early_access": false,
+      "primarily_steam_deck": false,
+      "app_release_date": "1645744078",
+      "reactions": [
+        {
+          "reaction_type": 35,
+          "count": 4
+        }
+      ]
+    }
+  ]
 }

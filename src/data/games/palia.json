@@ -5,7 +5,7 @@
   "zhTitle": "帕里亚",
   "shortDescription": "Discover a welcoming world in Palia, a free-to-play fantasy life sim adventure where you can craft, explore, and create the life and home of your dreams. With nearly endless ways to make Palia your home, you’ll find relaxation and joy in every corner of this vibrant, heartwarming world.",
   "zhShortDescription": "免费 MMO 生活模拟，建造家园、耕种捕鱼。",
-  "description": "Welcome to Palia, The Fantasy Life Sim Adventure For You and Your Friends! Discover a welcoming world in Palia, a free-to-play fantasy life sim adventure where you can craft, explore, and create the life and home of your dreams. With nearly endless ways to make Palia your home, you’ll find relaxation and joy in every corner of this vibrant, heartwarming world. Live Your Fantasy Dream Life Dive into a world rich with adventure and lore. Complete quests that reveal the secrets of Ancient Humans, deepen your connections with Palia’s Villagers, raise adorable animal companions on your Ranch, and help shape the story around you. Craft, Build, and Make Memories Together Design your ideal space with near limitless possibilities! Craft items, place Building Blocks, and landscape with Yardwork Decor to create a home that’s uniquely yours, both inside and out. Display your creativity and join Home Tours to get inspired by the community's incredible designs. Journey to the Royal Highlands, a Land of Ancient Majesty Step into the Royal Highlands, a sprawling region surrounding the ruins of an ancient palace lost to time. Meet new Villagers, encounter unique flora and fauna, and uncover long-forgotten secrets hidden across these beautiful, sun-kissed lands. Saddle Up for New Adventures Meet your very own horse and journey side by side across Palia’s gorgeous landscapes where every mounted adventure becomes faster, farther, and full of possibilities. Discover the Secrets of Elderwood, an Ancient Magical Forest Explore a dense, magical forest filled with surprises around every corner. Discover new artifacts, creatures, insects, and more when you unveil Elderwood's mysteries with friends. A World That Grows With You Palia changes and evolves throughout the year with seasonal updates and celebrations. Each season brings new adventures, Bulletin Board quests, community events, progression paths, and surprises to enjoy with friends. Between fall and winter to spring and summer, there’s always something fresh to enjoy that will keep you coming back. Build Lasting Relationships Grow meaningful relationships with lovable Villagers or team up with fellow adventurers for unforgettable journeys. Chill out by collecting and trading irresistibly adorable Plushies, Potato Pods, and Stickers, fostering friendships one collectible at a time. Explore, Gather, and Thrive Wander through Kilima Valley, Bahari Bay, the Elderwood, and the Royal Highlands to gather rare insects, forage for ingredients, and enjoy the scenic beauty of Palia. Tend to your home plot, nurture your garden, and live your dream life. Your Adventure, Your Way Whether solo or with friends, Palia is a place where you’re always welcome. Discover a cozy community filled with new friends, enchanting magic, shared adventures, and endless charm.",
+  "description": "Welcome to Palia, The Fantasy Life Sim Adventure For You and Your Friends! Discover a welcoming world in Palia, a free-to-play fantasy life sim adventure where you can craft, explore, and create the life and home of your dreams. With nearly endless ways to make Palia your home, you’ll find relaxation and joy in every corner of this vibrant, heartwarming world. Live Your Fantasy Dream Life Dive into a world rich with adventure and lore. Complete quests that reveal the secrets of Ancient Humans, deepen your connections with Palia’s Villagers, raise adorable animal companions on your Ranch, and help shape the story around you. Craft, Build, and Make Memories Together Design your ideal space with near limitless possibilities! Craft items, place Building Blocks, and landscape with Yardwork Deco",
   "zhDescription": "《Palia》是免费多人在线生活模拟游戏。建造装饰家园、耕种作物、钓鱼捕虫、狩猎采矿。强调合作而非竞争——和全球玩家一起探索冒险。画面温馨精致。",
   "genres": [
     "Adventure",
@@ -54,13 +54,241 @@
   "supportsCoop": true,
   "supportsController": true,
   "steamDeckVerified": false,
-  "positiveReviews": 0,
-  "negativeReviews": 0,
+  "positiveReviews": 39,
+  "negativeReviews": 2,
   "featured": false,
   "guideCount": 0,
   "metaDescriptionEn": "Discover a welcoming world in Palia, a free-to-play fantasy life sim adventure where you can craft, explore, and create the life and home of your dreams. With nearly endless ways to make Palia your home, you’ll find relaxation and joy in every corner of this vibrant, heartwarming world.",
   "metaDescriptionZh": "《帕里亚》新手指南 — 家园建造、技能升级、社区活动参与攻略。",
   "similarGames": [],
   "source": "steam_api",
-  "fetchedAt": "2026-06-08T07:18:23.459Z"
+  "fetchedAt": "2026-06-08T07:18:23.459Z",
+  "reviewScore": 7,
+  "reviewDesc": "Positive",
+  "topReviews": [
+    {
+      "recommendationid": "225746419",
+      "author": {
+        "steamid": "76561199082127028",
+        "personaname": "SZN",
+        "persona_status": "online",
+        "profile_url": "https://steamcommunity.com/id/rookienumbahs/",
+        "num_games_owned": 0,
+        "num_reviews": 3,
+        "playtime_forever": 38173,
+        "playtime_last_two_weeks": 7864,
+        "playtime_at_review": 36884,
+        "last_played": 1780830977,
+        "avatar": "8545dc6c496c61df213803a9347a39d81feb100e"
+      },
+      "language": "english",
+      "review": "Imagine grinding through every quest the game has to offer, finally earning a rare black horse with a flaming mane as a reward for your dedication… and then the developers turn around and say: “Nice horse, mind coughing up €25 if you actually want to ride it?”\n\nThat’s honestly what Palia’s monetization feels like right now.\n\nCosmetic cash shops are one thing, but locking features or meaningful rewards behind absurd pricing after players already earned them through gameplay just feels insulting. It completely kills the sense of achievement.\n\nEDIT: I think the developers listened... The new Riff…",
+      "timestamp_created": 1779012775,
+      "timestamp_updated": 1780472589,
+      "voted_up": false,
+      "votes_up": 803,
+      "votes_funny": 5,
+      "weighted_vote_score": "0.948340773582458496",
+      "comment_count": 37,
+      "steam_purchase": true,
+      "received_for_free": false,
+      "refunded": false,
+      "written_during_early_access": false,
+      "primarily_steam_deck": false,
+      "app_release_date": "1711391760",
+      "reactions": [
+        {
+          "reaction_type": 29,
+          "count": 61
+        },
+        {
+          "reaction_type": 26,
+          "count": 8
+        },
+        {
+          "reaction_type": 31,
+          "count": 8
+        },
+        {
+          "reaction_type": 30,
+          "count": 5
+        },
+        {
+          "reaction_type": 24,
+          "count": 3
+        },
+        {
+          "reaction_type": 27,
+          "count": 2
+        },
+        {
+          "reaction_type": 32,
+          "count": 2
+        },
+        {
+          "reaction_type": 28,
+          "count": 1
+        },
+        {
+          "reaction_type": 34,
+          "count": 1
+        }
+      ]
+    },
+    {
+      "recommendationid": "225443667",
+      "author": {
+        "steamid": "76561197969364612",
+        "personaname": "Tizonae",
+        "persona_status": "offline",
+        "profile_url": "https://steamcommunity.com/id/tizonae/",
+        "num_games_owned": 496,
+        "num_reviews": 50,
+        "playtime_forever": 1033,
+        "playtime_last_two_weeks": 1,
+        "playtime_at_review": 573,
+        "last_played": 1780056199,
+        "avatar": "197b216d0bc0424981342a42f32991cfa94ea29f"
+      },
+      "language": "english",
+      "review": "Mixed feelings on it. I started playing in the alpha days and recently came back, there are lots of things to like about the game but a few things hold it back from being ultimately a game I can just dive super deep into.\n\nLikes:\n• Very charming aesthetic and presentation. The graphics are simple like WoW/Dreamlight, the music is great, it's just a pleasant world to be in.\n• Lots of things to do, you don't have to stick to one hobby or activity at any time.\n• Many quests to do with varying levels of interesting lore going on.\n\nDislikes:\n• Lots of information/quest guidance is just not shown yo…",
+      "timestamp_created": 1778723524,
+      "timestamp_updated": 1778723524,
+      "voted_up": true,
+      "votes_up": 37,
+      "votes_funny": 1,
+      "weighted_vote_score": "0.801890790462493896",
+      "comment_count": 0,
+      "steam_purchase": true,
+      "received_for_free": false,
+      "refunded": false,
+      "written_during_early_access": false,
+      "primarily_steam_deck": false,
+      "app_release_date": "1711391760",
+      "reactions": []
+    },
+    {
+      "recommendationid": "225395160",
+      "author": {
+        "steamid": "76561198405807366",
+        "personaname": "sh8ne",
+        "persona_status": "offline",
+        "profile_url": "https://steamcommunity.com/id/sh8ne/",
+        "num_games_owned": 0,
+        "num_reviews": 8,
+        "playtime_forever": 7598,
+        "playtime_last_two_weeks": 0,
+        "playtime_at_review": 7598,
+        "last_played": 1772090380,
+        "avatar": "1191c81a57194f64acfcda94f0fd0cb94e92eff7"
+      },
+      "language": "russian",
+      "review": "Провела в игре порядочно времени, привела друзей, чтобы играть вместе, участвовала в активностях, взаимодействовала с другими игроками - и теперь всё, подключиться нельзя из-за ограничения по стране. Очень круто, конечно. \nДля игры, которая во многом говорит о возможностях, о терпении, учит коммуникации, такое решение лицемерно. \nКрайне осуждаю.",
+      "timestamp_created": 1778666254,
+      "timestamp_updated": 1778666254,
+      "voted_up": false,
+      "votes_up": 104,
+      "votes_funny": 12,
+      "weighted_vote_score": "0.78995823860168457",
+      "comment_count": 0,
+      "steam_purchase": true,
+      "received_for_free": false,
+      "refunded": false,
+      "written_during_early_access": false,
+      "primarily_steam_deck": false,
+      "app_release_date": "1711391760",
+      "reactions": [
+        {
+          "reaction_type": 28,
+          "count": 3
+        },
+        {
+          "reaction_type": 34,
+          "count": 1
+        },
+        {
+          "reaction_type": 35,
+          "count": 1
+        }
+      ]
+    },
+    {
+      "recommendationid": "226093319",
+      "author": {
+        "steamid": "76561198374423584",
+        "personaname": "slothy",
+        "persona_status": "offline",
+        "profile_url": "https://steamcommunity.com/id/heyslothy/",
+        "num_games_owned": 0,
+        "num_reviews": 23,
+        "playtime_forever": 29579,
+        "playtime_last_two_weeks": 0,
+        "playtime_at_review": 29579,
+        "last_played": 1762806632,
+        "avatar": "cce6147ca06841d0d2fa8fc98a1b7429506938a1"
+      },
+      "language": "english",
+      "review": "I have mixed feelings when it comes to Palia; I wish there was a neutral button for this one. I've been playing since closed beta, way before it was available on Steam, so I have hundreds of hours played beyond these 500h. I played on multiple accounts but Steam only allows you to link one, so keep that in mind. You can only create one character per account.\n\nI was really excited to get a \"cozy MMO\" that could give me a break from Warcraft. I spent a decent amount of time playing and participating in communities in the last -almost- 3 years and I dropped a decent amount of money in the cash sh…",
+      "timestamp_created": 1779395358,
+      "timestamp_updated": 1779764936,
+      "voted_up": false,
+      "votes_up": 35,
+      "votes_funny": 0,
+      "weighted_vote_score": "0.738214433193206787",
+      "comment_count": 0,
+      "steam_purchase": true,
+      "received_for_free": false,
+      "refunded": false,
+      "written_during_early_access": false,
+      "primarily_steam_deck": false,
+      "app_release_date": "1711391760",
+      "reactions": [
+        {
+          "reaction_type": 29,
+          "count": 3
+        }
+      ]
+    },
+    {
+      "recommendationid": "225403210",
+      "author": {
+        "steamid": "76561198828721221",
+        "personaname": "SomethingRealCreativ",
+        "persona_status": "offline",
+        "profile_url": "https://steamcommunity.com/profiles/76561198828721221/",
+        "num_games_owned": 0,
+        "num_reviews": 7,
+        "playtime_forever": 21702,
+        "playtime_last_two_weeks": 0,
+        "playtime_at_review": 21702,
+        "last_played": 1778677342,
+        "avatar": "1a8a047cd77f68608a965ece2b744815454681f5"
+      },
+      "language": "english",
+      "review": "I would rather they put a price on the game and get rid of the microtransactions. This game was fun in the beginning, and I played it constantly, but now anytime I log in, it's just a eye roll at all the things I \"could\" buy with real money.",
+      "timestamp_created": 1778677821,
+      "timestamp_updated": 1778677821,
+      "voted_up": false,
+      "votes_up": 51,
+      "votes_funny": 1,
+      "weighted_vote_score": "0.737369537353515625",
+      "comment_count": 0,
+      "steam_purchase": true,
+      "received_for_free": false,
+      "refunded": false,
+      "written_during_early_access": false,
+      "primarily_steam_deck": false,
+      "app_release_date": "1711391760",
+      "reactions": [
+        {
+          "reaction_type": 29,
+          "count": 2
+        },
+        {
+          "reaction_type": 26,
+          "count": 1
+        }
+      ]
+    }
+  ]
 }

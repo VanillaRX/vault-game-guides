@@ -30,7 +30,7 @@ export function GameCard({
   const { t } = useLang();
   return (
     <Link
-      href={`/games/${slug}`}
+      href={`/game/${slug}`}
       className="group block rounded-xl border border-[var(--border)] bg-[var(--card)] p-0.5 transition-all duration-300 hover:-translate-y-1 hover:border-[var(--accent)] hover:shadow-[0_0_20px_rgba(168,85,247,0.15)]"
       style={{ animationDelay: `${index * 80}ms` }}
     >

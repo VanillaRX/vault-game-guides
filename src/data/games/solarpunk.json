@@ -5,7 +5,7 @@
   "zhTitle": "太阳朋克",
   "shortDescription": "Solarpunk is a survival game in a technically advanced world of floating islands. Alone or together with your friends, you can construct buildings, grow food, craft gadgets and hop on your airship to explore distant islands in the sky.",
   "zhShortDescription": "漂浮岛屿上的太阳能朋克生存——建造飞艇农场、自动化生产。",
-  "description": "Solarpunk is a survival game in a technically advanced world of floating islands. Alone or together with your friends, you can construct buildings, grow food, craft gadgets and explore distant islands with your own airship. Use sunlight, wind and water to create an energy system and automate your processes like gathering resources and watering your plants. 🏠 Build freely Design your dream home base with a wide range of materials and decorations. You’re free to build cozy spaces, add tiny details, and make your island feel just like home. These buildings were crafted by our amazing community in the demo! ⚡ Energy system Generate electricity using wind and solar energy. Weather conditions affect how much energy you produce, so you’ll need to plan ahead. Store energy in batteries and use wireless power to keep your base running smoothly. 👥 Multiplayer Play solo or with friends. Everyone has their own inventory, and you can decide whether to build something together or create your own little corner in the sky. 🐷 Animals &amp; Farming In Solarpunk, you live in symbiosis with animals. There is no exploitation, only coexistence. Pigs, for example, will dig up truffles if treated well. Growing fruits and vegetables is your main source of food. Plant seeds in the ground and harvest them once they’re fully grown. 🤖 Automation Automate your tasks using transport drones to gather resources, giving you more time to build and explore your skybound home. ✈️ Airship Each player can build their own airship. Use it to travel to surrounding islands and discover new resources.",
+  "description": "Solarpunk is a survival game in a technically advanced world of floating islands. Alone or together with your friends, you can construct buildings, grow food, craft gadgets and explore distant islands with your own airship. Use sunlight, wind and water to create an energy system and automate your processes like gathering resources and watering your plants. 🏠 Build freely Design your dream home base with a wide range of materials and decorations. You’re free to build cozy spaces, add tiny details, and make your island feel just like home. These buildings were crafted by our amazing community in the demo! ⚡ Energy system Generate electricity using wind and solar energy. Weather conditions affect how much energy you produce, so you’ll need to plan ahead. Store energy in batteries and use wir",
   "zhDescription": "《Solarpunk》是漂浮天空岛屿上的太阳能朋克生存游戏。收集太阳能、水和资源，建造飞艇、农田和自动化系统。支持单人冒险和多人合作，画面明亮鲜艳。",
   "genres": [
     "Adventure",
@@ -60,5 +60,8 @@
   "metaDescriptionZh": "《太阳朋克》天空生存攻略 — 飞艇建造、太阳能管理、自动化农场设计。",
   "similarGames": [],
   "source": "steam_api",
-  "fetchedAt": "2026-06-08T07:18:50.204Z"
+  "fetchedAt": "2026-06-08T07:18:50.204Z",
+  "reviewScore": 0,
+  "reviewDesc": "No user reviews",
+  "topReviews": []
 }

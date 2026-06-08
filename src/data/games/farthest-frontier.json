@@ -5,7 +5,7 @@
   "zhTitle": "最远的边陲",
   "shortDescription": "Protect and guide your people as you forge a town from untamed wilderness at the edge of the known world. Harvest raw materials, hunt, fish and farm to survive. Produce crafted items to trade, consume, equip and fight with as you battle for your survival against the elements and outside threats.",
   "zhShortDescription": "中世纪城镇建造与生存模拟，抵御掠夺者，熬过寒冬。",
-  "description": "Protect and guide your small band of settlers to forge a town from untamed wilderness at the edge of the known world. Harvest raw materials, hunt, fish and farm to sustain your advancing town. Produce crafted items for villagers to trade, consume, equip and fight with as you battle for your survival against the elements and outside threats (pacifist mode available for players who do not want to engage in combat). Key Features Harvest, Grow, Craft - Harvest 16 different raw materials from wood, stone and clay, to metal ores, wild herbs, and honey. Grow 19 types of food, including forage items, fish and game, plus 12 food crops, each with different characteristics. Produce 32 crafted items and materials in a multi-tiered economy. Build and Advance - Construct over 190 different buildings as you grow your town from a fledgling settlement to a bustling city. Your town center and housing will advance through multiple building tiers as the prosperity and desirability of your town increases and advancements are made in a vast 140+ point Tech Tree. Upgrade production buildings to increase efficiency and enable production of more advanced items. Construct a temple and customize your people’s faith with discoverable relics. Most Detailed Farming System Ever - Strategically select from 12 crops with unique growing characteristics and configure crop rotations to maintain soil fertility, avoid heat and frost damage, and prevent the accumulation of diseases. Cultivate your fields over time, removing weeds and rocks, raising fertility and adjusting soil mixture to achieve maximum crop production to keep your growing population fed. Advanced Town Simulation - Villagers actively live their lives and perform their jobs in real time. Watch as villagers carry goods across town from remote work-sites to be processed into materials and crafted into items. See foods and goods delivered to homes, the trade post or stored for later use. Develop roads, transport wagons and improve storage methods to facilitate the efficient movement of goods through your town and prevent spoilage. Randomly Generated Maps - No game is ever quite the same with beautiful, completely randomized terrain generation and resource distribution. Unique biomes and map themes increase replayability, with extreme maps leading to unique challenges. Controls allow players to specify the amount of water or mountains they desire, even down to which resources can generate on the map. Idyllic to Brutal - Customizable difficulty options allow players to turn off features like invaders and disease, for a more tranquil experience or max out difficulty to truly test their town-builder prowess. Enable custom game options to cater the experience to your desires. Environmental Interaction - Develop your economy based on which resources are locally abundant and produce items for trade to acquire that which you lack. Erect fencing to keep deer away from crop fields and stop bears from raiding food storage. Manage tree cover to prevent underground water supplies from drying up. Balance the need to clear land for agriculture around vital natural resources like wild growing medicinal plants and forage items. All Them Old-Timey Diseases! - Ensure your villagers have clean water to stop outbreaks of dysentery and cholera. Collect berries and plant greens to avoid scurvy and ensure a healthy diet. Make sure villagers are properly shoed and clothed to reduce chances of contracting tetanus, rabies or frostbite. Build a healer’s house to quarantine the infected and provide herbs and medicine for treatment. Manage rodent populations by collecting waste, securely storing food and employing rat catchers to ward off the feared bubonic plague. Fend Off Would-Be Invaders - Choose to play on pacifist and avoid combat altogether or engage with varying levels of raider difficulty to raise the stakes for your town’s survival. Progress from wood palisades to stone walls, build towers and barracks, recruit and equip soldiers in the defense of your town as rising prosperity attracts the attention of raiders and foreign armies seeking plunder. Steam Workshop Integration - With full support for modding through the freely available Unity development tools and Steam Workshop, players have the power to take the game's strong foundation and build upon and reinvent it to their wildest desires. Crate Entertainment is a fully independent developer and publisher located outside Boston, MA. Crate is best known for the critically-acclaimed action-RPG, Grim Dawn. Join the Crate community and help shape the future of development of our games and be among the first to receive news about Farthest Frontier by participating in polls and discussions on our forum.",
+  "description": "Protect and guide your small band of settlers to forge a town from untamed wilderness at the edge of the known world. Harvest raw materials, hunt, fish and farm to sustain your advancing town. Produce crafted items for villagers to trade, consume, equip and fight with as you battle for your survival against the elements and outside threats (pacifist mode available for players who do not want to engage in combat). Key Features Harvest, Grow, Craft - Harvest 16 different raw materials from wood, stone and clay, to metal ores, wild herbs, and honey. Grow 19 types of food, including forage items, fish and game, plus 12 food crops, each with different characteristics. Produce 32 crafted items and materials in a multi-tiered economy. Build and Advance - Construct over 190 different buildings as ",
   "zhDescription": "《最远的边陲》是一款精致的中世纪城市建造与生存模拟。从十几名定居者开始造房屋、开农田、建防御。每个冬天都是生存考验——食物、燃料、疾病缺一不可。",
   "genres": [
     "Indie",
@@ -64,8 +64,8 @@
   "supportsCoop": false,
   "supportsController": false,
   "steamDeckVerified": false,
-  "positiveReviews": 23560,
-  "negativeReviews": 0,
+  "positiveReviews": 9264,
+  "negativeReviews": 1386,
   "metacriticScore": 83,
   "featured": false,
   "guideCount": 0,
@@ -74,5 +74,187 @@
   "similarGames": [],
   "source": "steam_api",
   "fetchedAt": "2026-06-08T07:20:03.804Z",
-  "aliases": []
+  "aliases": [],
+  "reviewScore": 8,
+  "reviewDesc": "Very Positive",
+  "topReviews": [
+    {
+      "recommendationid": "226688634",
+      "author": {
+        "steamid": "76561198858468497",
+        "personaname": "米开朗菠萝🍍",
+        "persona_status": "online",
+        "profile_url": "https://steamcommunity.com/id/04172011/",
+        "num_games_owned": 1953,
+        "num_reviews": 690,
+        "playtime_forever": 920,
+        "playtime_last_two_weeks": 0,
+        "playtime_at_review": 920,
+        "last_played": 1779483986,
+        "avatar": "40f14705ee2f36e993cd16f97bd1406ee08e3132"
+      },
+      "language": "schinese",
+      "review": "这不是最远的边陲，这是最远的公厕\n什么中世纪城镇发展管理都是虚的，核心玩法就只是居民拉屎，然后运屎，然后把屎变肥料，然后拿肥料浇菜，然后吃屎浇出来的菜，然后再次循环",
+      "timestamp_created": 1780052354,
+      "timestamp_updated": 1780052354,
+      "voted_up": true,
+      "votes_up": 35,
+      "votes_funny": 38,
+      "weighted_vote_score": "0.796275556087493896",
+      "comment_count": 0,
+      "steam_purchase": true,
+      "received_for_free": false,
+      "refunded": false,
+      "written_during_early_access": false,
+      "primarily_steam_deck": false,
+      "app_release_date": "1660053745",
+      "reactions": []
+    },
+    {
+      "recommendationid": "226328241",
+      "author": {
+        "steamid": "76561198006588138",
+        "personaname": "Aluvard",
+        "persona_status": "offline",
+        "profile_url": "https://steamcommunity.com/profiles/76561198006588138/",
+        "num_games_owned": 226,
+        "num_reviews": 72,
+        "playtime_forever": 2016,
+        "playtime_last_two_weeks": 0,
+        "playtime_at_review": 2016,
+        "last_played": 1779620016,
+        "avatar": "28f8cf4c31180793952fdbcc336ea763c032ae35"
+      },
+      "language": "english",
+      "review": "To be honest, Crate Entertainment is the last developer I would have expected to make such a radical genre shift and move away from a tried-and-true formula to create something completely new. And yet, that’s exactly what they did. They abandoned the H&S genre and decided to create a classic survival city-builder… and yet they decided to make the task even more difficult for themselves.\nIf you take a look for an overview of the currently available city builders you’ll notice a pattern. Absolutely every game tries to do something which will set it apart from the competition; it might be an orig…",
+      "timestamp_created": 1779646725,
+      "timestamp_updated": 1779663762,
+      "voted_up": true,
+      "votes_up": 35,
+      "votes_funny": 1,
+      "weighted_vote_score": "0.730323731899261475",
+      "comment_count": 0,
+      "steam_purchase": true,
+      "received_for_free": false,
+      "refunded": false,
+      "written_during_early_access": false,
+      "primarily_steam_deck": false,
+      "app_release_date": "1660053745",
+      "reactions": [
+        {
+          "reaction_type": 26,
+          "count": 4
+        },
+        {
+          "reaction_type": 31,
+          "count": 1
+        }
+      ]
+    },
+    {
+      "recommendationid": "226657622",
+      "author": {
+        "steamid": "76561199092273313",
+        "personaname": "nomad",
+        "persona_status": "offline",
+        "profile_url": "https://steamcommunity.com/profiles/76561199092273313/",
+        "num_games_owned": 0,
+        "num_reviews": 10,
+        "playtime_forever": 1860,
+        "playtime_last_two_weeks": 1237,
+        "playtime_at_review": 1406,
+        "last_played": 1780701443,
+        "avatar": "7ae70ea5cab227caec0e4998d4917ff34023eccb"
+      },
+      "language": "english",
+      "review": "You can play for 10 in game years, and if there is a bandit camp near your settlement all it takes is one settler running past it and getting killed. After that workers and nearby settlers will constantly try to carry that body to the cemetery for burial and they will keep dying to the same bandit camp over and over again. At that point the game is basically over because this bug has not been fixed for 8 years and the developers still have not added a simple option to cancel the burial of a specific corpse.",
+      "timestamp_created": 1780008089,
+      "timestamp_updated": 1780008089,
+      "voted_up": false,
+      "votes_up": 37,
+      "votes_funny": 16,
+      "weighted_vote_score": "0.712827026844024658",
+      "comment_count": 4,
+      "steam_purchase": true,
+      "received_for_free": false,
+      "refunded": false,
+      "written_during_early_access": false,
+      "primarily_steam_deck": false,
+      "app_release_date": "1660053745",
+      "reactions": [
+        {
+          "reaction_type": 30,
+          "count": 2
+        },
+        {
+          "reaction_type": 26,
+          "count": 1
+        }
+      ]
+    },
+    {
+      "recommendationid": "226960211",
+      "author": {
+        "steamid": "76561198112647052",
+        "personaname": "Dillonra",
+        "persona_status": "offline",
+        "profile_url": "https://steamcommunity.com/id/Lerilael/",
+        "num_games_owned": 0,
+        "num_reviews": 502,
+        "playtime_forever": 632,
+        "playtime_last_two_weeks": 632,
+        "playtime_at_review": 454,
+        "last_played": 1780414356,
+        "avatar": "ce66bda28f5b80dc7e74ab0ac0ab20c97520ecf1"
+      },
+      "language": "russian",
+      "review": "Как долго скитались эти люди, прежде чем ушли достаточно далеко от прежних невзгод – от жадных баронов, которые так и норовили отобрать последнее, от невыносимого голода, когда хлеб приходилось делать из пшеницы наполовину с лебедой, где часто оказывалась и спорынья, которая вызывала мучительные галлюцинации, а что такое сытость – никто из них и не помнил. Спали плохо, ели плохо, жили в страхе, не верили ни в какое будущее. Подписывались договоры, гремели войны, сменялись династии, история наполнялась новыми сюжетами, менялись флаги, нравы, архитектура – для крестьян же не менялось ничего. Им …",
+      "timestamp_created": 1780338547,
+      "timestamp_updated": 1780338977,
+      "voted_up": true,
+      "votes_up": 20,
+      "votes_funny": 2,
+      "weighted_vote_score": "0.703141987323760986",
+      "comment_count": 0,
+      "steam_purchase": true,
+      "received_for_free": false,
+      "refunded": false,
+      "written_during_early_access": false,
+      "primarily_steam_deck": false,
+      "app_release_date": "1660053745",
+      "reactions": []
+    },
+    {
+      "recommendationid": "225891054",
+      "author": {
+        "steamid": "76561198748477782",
+        "personaname": "galantxiao",
+        "persona_status": "online",
+        "profile_url": "https://steamcommunity.com/profiles/76561198748477782/",
+        "num_games_owned": 0,
+        "num_reviews": 1,
+        "playtime_forever": 10821,
+        "playtime_last_two_weeks": 516,
+        "playtime_at_review": 9523,
+        "last_played": 1779811094,
+        "avatar": "894f638adc621d65fc3fbd55612ae7e8532927f4"
+      },
+      "language": "tchinese",
+      "review": "這個遊戲玩起來心很累\n所有的突發事件全是負回饋 每年不是天災就是人禍\n人民生病,穀物枯竭,極端天氣,房屋失火,食物腐爛,人民吃不飽,被侵略等...\n遊戲中沒有任何穀物豐收,產能加倍,風調雨順的正向事件\n最重要的是被侵略打贏戰爭沒有任何的好處...就是贏而已 沒有任何獎勵...(戰爭的目的是為了消澳你的資源)\n遊戲中做任何事主要是在維持平衡 維持在一個各方面都剛好的水平 而且維持得很累(每個事件都是負面事件)\n玩了快100小時 視窗跳的都是負面事件 對心情影響蠻大的\n看社會新聞 偶而都能看看到好人好事\n\n再更新\n我又多玩了30小時 人來到了1200人\n我是純新手沒裝MOD 我只想把這遊戲體驗完而已\n這遊戲充滿種種惡意 所有負面事件總是同一時間發生\n戰爭(一次面對4個不同方向的部隊) 人民患病(這還好他會自己找醫院 只是一直跳提示很煩)\n人口移民(當你建築物不足時你要趕快蓋房子緊急安置 你不讓移民進來有時會卡工人數量 會影響工程進行)\n最後一個大魔王!!種田!!\n你的人民每個都是餓死鬼 不種田養不活\n沒甚麼好說的種田就是地獄!!我和AI討論了應該有5小時了\n試了個種方案 嘗試各種輪耕  這30小時都在種田!!!!!!!!!! \n農作物會得各種病 並且會隨風交叉傳染(而且還不知道傳染距離 我哪知道遊戲裡1公尺是多遠)\n一旦得病就要改作物輪耕或休耕 不然你的人民就等著餓死\n一直要顧田 其他…",
+      "timestamp_created": 1779162542,
+      "timestamp_updated": 1779591654,
+      "voted_up": false,
+      "votes_up": 16,
+      "votes_funny": 1,
+      "weighted_vote_score": "0.723272919654846191",
+      "comment_count": 0,
+      "steam_purchase": true,
+      "received_for_free": false,
+      "refunded": false,
+      "written_during_early_access": false,
+      "primarily_steam_deck": false,
+      "app_release_date": "1660053745",
+      "reactions": []
+    }
+  ]
 }

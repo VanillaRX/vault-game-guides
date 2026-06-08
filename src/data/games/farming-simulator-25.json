@@ -5,7 +5,7 @@
   "zhTitle": "模拟农场25",
   "shortDescription": "Farming Simulator 25 invites you to join the rewarding farm life, single-handedly or cooperatively in multiplayer. This Farm is Your Farm!",
   "zhShortDescription": "系列最新作，全新引擎、动态天气、更多作物。",
-  "description": "Farming Simulator 25 invites you to join the rewarding farm life. Whether you build your legacy single-handedly or cooperatively in multiplayer - it’s your farm, you decide! This Farm is Your Farm! Build a farm along winding rivers and historic grain elevators in North America, surrounded by ponds in Central Europe, or in a lush East Asian landscape filled with rice paddies near a neon-lit port city. Grow crops, tend to animals, practice forestry, and manage an empire of business ventures with farm shops, productions, and constructions! Weather-Changing, Ground-Deforming Atmosphere Twisters and hail add new challenges, prompting farmers to prepare and assess the impact on their crops. Tire tracks also leave an impact thanks to ground deformation and plenty of new weather effects, making the view on your farm more romantic and immersive. Start the day with sun rays breaking through the treetops, illuminating the morning mist with golden light! Asian Farming, New Crops &amp; Animals Grow two types of rice on water-retaining rice fields, or spinach, peas, and green beans as Farming Simulator 25 extends the choice of crops to 25 in total. Various tree species plus greenhouse vegetables offer even more variety. Adding Asian farming, you roam the fields operating new types of equipment, while mighty buffalo and goats join cows, sheep, pigs, chickens, horses, and other livestock in pens and pastures. Baby animals, too! Authentic Machinery - GPS activated! Farm more precise with GPS-assisted steering and improved automation. Operate over 400 authentic vehicles &amp; tools from more than 150 international top brands. Including Case IH, CLAAS, Fendt, John Deere, Kubota, Massey Ferguson, New Holland, Valtra, and many more. Choose your favorite brand or discover exciting new technology! Quality-of-Farming Improvements Feel a deeper connection to fields and nature thanks to a general tech upgrade: Improved graphics and physics based on the latest GIANTS Engine 10 refine the experience. Improved accessibility and quality-of-life features make Farming Simulator 25 the most beginner-friendly way to start your life as a newfound or returning farmer. If that’s not enough, download developer-tested user creations from the in-game ModHub!",
+  "description": "Farming Simulator 25 invites you to join the rewarding farm life. Whether you build your legacy single-handedly or cooperatively in multiplayer - it’s your farm, you decide! This Farm is Your Farm! Build a farm along winding rivers and historic grain elevators in North America, surrounded by ponds in Central Europe, or in a lush East Asian landscape filled with rice paddies near a neon-lit port city. Grow crops, tend to animals, practice forestry, and manage an empire of business ventures with farm shops, productions, and constructions! Weather-Changing, Ground-Deforming Atmosphere Twisters and hail add new challenges, prompting farmers to prepare and assess the impact on their crops. Tire tracks also leave an impact thanks to ground deformation and plenty of new weather effects, making th",
   "zhDescription": "《模拟农场25》是系列最新作品。全新引擎带来画质飞跃，新增水稻、菠菜等作物和 GPS 辅助驾驶等现代技术。地图更大、细节更丰富。",
   "genres": [
     "Simulation"
@@ -44,13 +44,168 @@
   "supportsCoop": true,
   "supportsController": true,
   "steamDeckVerified": false,
-  "positiveReviews": 35572,
-  "negativeReviews": 0,
+  "positiveReviews": 12000,
+  "negativeReviews": 2090,
   "featured": false,
   "guideCount": 0,
   "metaDescriptionEn": "Farming Simulator 25 invites you to join the rewarding farm life, single-handedly or cooperatively in multiplayer. This Farm is Your Farm!",
   "metaDescriptionZh": "《模拟农场25》新手指南 — 新作物、新机械、GPS辅助驾驶技巧。",
   "similarGames": [],
   "source": "steam_api",
-  "fetchedAt": "2026-06-08T07:19:30.379Z"
+  "fetchedAt": "2026-06-08T07:19:30.379Z",
+  "reviewScore": 8,
+  "reviewDesc": "Very Positive",
+  "topReviews": [
+    {
+      "recommendationid": "225188629",
+      "author": {
+        "steamid": "76561198770614871",
+        "personaname": "ᄂ 𝐋𝐔𝐏𝐈𝐍 .🎩",
+        "persona_status": "in-game",
+        "profile_url": "https://steamcommunity.com/id/lupinmasterofdisguise/",
+        "num_games_owned": 32,
+        "num_reviews": 20,
+        "playtime_forever": 75879,
+        "playtime_last_two_weeks": 18154,
+        "playtime_at_review": 37171,
+        "last_played": 1780912879,
+        "avatar": "916f788c22ecc386cb9bcb75c437bb7ffdaee657"
+      },
+      "language": "english",
+      "review": "Not very different from other GIANTS Software productions, Farming Simulator 2025 certainly brings some interesting news, implementing three new biomes and as many different methods to deal with the experience. Recommended for anyone who needs to get their hands dirty with mud and for those looking for a quiet experience.",
+      "timestamp_created": 1778410937,
+      "timestamp_updated": 1778410937,
+      "voted_up": true,
+      "votes_up": 64,
+      "votes_funny": 3,
+      "weighted_vote_score": "0.862014055252075195",
+      "comment_count": 7,
+      "steam_purchase": true,
+      "received_for_free": false,
+      "refunded": false,
+      "written_during_early_access": false,
+      "primarily_steam_deck": false,
+      "app_release_date": "1731414840",
+      "reactions": [
+        {
+          "reaction_type": 24,
+          "count": 1
+        },
+        {
+          "reaction_type": 30,
+          "count": 1
+        },
+        {
+          "reaction_type": 33,
+          "count": 1
+        },
+        {
+          "reaction_type": 34,
+          "count": 1
+        }
+      ]
+    },
+    {
+      "recommendationid": "225923797",
+      "author": {
+        "steamid": "76561198122072271",
+        "personaname": "scarredrazor",
+        "persona_status": "offline",
+        "profile_url": "https://steamcommunity.com/profiles/76561198122072271/",
+        "num_games_owned": 0,
+        "num_reviews": 17,
+        "playtime_forever": 15206,
+        "playtime_last_two_weeks": 0,
+        "playtime_at_review": 15206,
+        "last_played": 1779201694,
+        "avatar": "7ae70ea5cab227caec0e4998d4917ff34023eccb"
+      },
+      "language": "english",
+      "review": "The engine for this game was coded by chimps who don't know what multi-core CPUs are. When my GPU is at 64% ultilization, and my CPU is at 33%, I do not expect the game to be running at 54fps with 30fps 1% lows, just because I have 2 AI workers harvesting! And worse, they are so precious about their code that they lock it so that modders aren't even able to fix their damn engine for them! It drives me freaking crazy... And moreso because I love this franchise... And yet it's like they want me to hate it... Us in this community are addicts and GIANTS knows it. So they keep hiring chimps to code…",
+      "timestamp_created": 1779202705,
+      "timestamp_updated": 1779202705,
+      "voted_up": false,
+      "votes_up": 59,
+      "votes_funny": 5,
+      "weighted_vote_score": "0.718255996704101562",
+      "comment_count": 4,
+      "steam_purchase": false,
+      "received_for_free": false,
+      "refunded": false,
+      "written_during_early_access": false,
+      "primarily_steam_deck": false,
+      "app_release_date": "1731414840",
+      "hardware": {
+        "manufacturer": "Micro-Star International Co., Ltd.",
+        "model": "MS-7E24",
+        "dx_video_card": "NVIDIA GeForce RTX 5070 Ti",
+        "dx_vendorid": 4318,
+        "dx_deviceid": 11269,
+        "num_gpu": 1,
+        "system_ram": "32361",
+        "os": "Windows 11",
+        "cpu_vendor": "AuthenticAMD",
+        "cpu_name": "AMD Ryzen 7 7800X3D 8-Core Processor           ",
+        "gaming_device_type": 1,
+        "dx_driver_version": "32.0.15.9186",
+        "adapter_description": "NVIDIA GeForce RTX 5070 Ti",
+        "driver_version": "32.0.15.9186",
+        "driver_date": "2026-1-20",
+        "vram_size": 15995,
+        "screen_width": null,
+        "screen_height": null,
+        "precise_frame_rate": null
+      },
+      "reactions": [
+        {
+          "reaction_type": 32,
+          "count": 3
+        },
+        {
+          "reaction_type": 28,
+          "count": 2
+        },
+        {
+          "reaction_type": 29,
+          "count": 1
+        },
+        {
+          "reaction_type": 31,
+          "count": 1
+        }
+      ]
+    },
+    {
+      "recommendationid": "225281667",
+      "author": {
+        "steamid": "76561198077831171",
+        "personaname": "OkGoogle",
+        "persona_status": "offline",
+        "profile_url": "https://steamcommunity.com/profiles/76561198077831171/",
+        "num_games_owned": 0,
+        "num_reviews": 1,
+        "playtime_forever": 12454,
+        "playtime_last_two_weeks": 0,
+        "playtime_at_review": 10217,
+        "last_played": 1779126327,
+        "avatar": "5a71fa3941c783c918f9a3264659233b43cd3f52"
+      },
+      "language": "russian",
+      "review": "Играл в многие игры из серии Farming Simulator. \nЧто понравилось?\n- В целом игра с каждой новой частью становится приятнее в плане графики, увеличивается количество выращиваемых культур, животных и т.д.\nЧто не нравиться?\n- Разработчики раз за разом продают одну и ту же игру с небольшими изменениями. Физику в игру так и не завезли. Объекты в игре такие как деревья, кусты, заборы и тд. жесткие, на тракторе врезаешься в них если то как будто в 500 тонную бетонную стену, в 2026 году это по моему уже не серьезно.\n- Дайте возможность бить машины проезжающих водителей которые сигналят когда ты чем то…",
+      "timestamp_created": 1778515036,
+      "timestamp_updated": 1778598288,
+      "voted_up": true,
+      "votes_up": 13,
+      "votes_funny": 8,
+      "weighted_vote_score": "0.665186166763305664",
+      "comment_count": 0,
+      "steam_purchase": false,
+      "received_for_free": false,
+      "refunded": false,
+      "written_during_early_access": false,
+      "primarily_steam_deck": false,
+      "app_release_date": "1731414840",
+      "reactions": []
+    }
+  ]
 }

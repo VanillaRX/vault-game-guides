@@ -5,7 +5,7 @@
   "zhTitle": "太阳天堂",
   "shortDescription": "Build your farm and relationships with townsfolk, or forge ahead on a quest of magic, monsters, and dragons. Level up through a skill tree in 8 person multiplayer, or adventure solo!",
   "zhShortDescription": "幻想RPG农场模拟——三座城市、多种种族、魔法耕作。",
-  "description": "A fantasy farming sim with an RPG twist like you’ve never experienced! Immerse yourself in over 30,000 lines of dialogue, romance any (or all…) 23 characters, embark on side quests, interact with hundreds of unique NPCs, solve riddles, and discover secrets all around you in this lore-rich, story-driven world. Your actions may shape your journey, but your choices will determine your legacy. Where will your adventure take you? Sun Haven, a farming sim with no stamina bar! Every Sun Haven playthrough is fully customizable with tons of in-game settings. Adjust the length of each day to be faster or shorter, make yourself invincible to damage, turn off seasonal pests that eat your crops, toggle weather effects on and off, or just enjoy the vanilla game with default settings! Transform your run-down land into a lively farm! Play through all four seasons, each with its own seasonal weather and effects, and utilize upgradeable farming tools and magic spells to grow fruits, vegetables, and flowers! Manage your time across 3 different farms with their own unique crops, fruit trees, and animals to take care of! Cows, chickens, and silk moths, oh my! Raise classic farming livestock like cows, chickens, sheep, pigs, and other fantastical creatures like silk moths, baby griffons, phoenixes, werewolves, tar slimes, and more! In addition to barn animals, you can also collect a ton of pets and mounts that can accompany you on your adventures. Who doesn’t love adorable companions? Adventure together with friends or progress on your own! Share a farm and play with up to 8 friends online, or keep to yourself and play solo. Your characters keep their inventories and experience levels, even if you use the same character for both singleplayer and multiplayer! Decorate your dream home and farm! Upgrade and customize up to 8 houses with hundreds of exterior decoration options for your house’s roof, walls, windows, doors, and patios, as well as over 30 themed sheds that can be placed anywhere on your farm — and that’s not including the treehouse in Nel’Vari and the Apartment in Withergate! Homes, sheds, and farms can be furnished with hundreds of different furniture and decor items that can be purchased, crafted, received in the mail, or traded in multiplayer. Progress the story in four different areas! Explore the medieval town of Sun Haven, the elven forests of Nel’Vari, the monster city of Withergate, or the mysterious underwater region of The Brinestone Deeps! Go on dates, get married, and even start a family! Experience heartwarming events with 23 available marriage candidates across all four towns through gifts, dialogue, events, quests, dates, and more! After getting married, upgrading your house, and maintaining a good relationship with your spouse, you’ll have the option to have one child through the powerful magic in Sun Haven! One fish, two fish, red fish… sewer fish? Enjoy the easy-to-learn, hard-to-master fishing minigame and catch over 130 fish across the world. These fish can be sold, cooked, donated to the Sun Haven Museum, gifted, or used in various quests! Craft to your heart’s content! Build and utilize over 40 unique crafting tables for cooking, smithing, construction, farming, furniture, and even alchemy! All four towns also have town-specific items and recipes! Fight monsters all over the world of Sun Haven! Fight tons of unique enemies across four towns. With swords, crossbows, staffs, and magic spells, the possibilities for combat are endless. Buy or upgrade your armor, eat food to increase your maximum stats, and unlock perks in the massive skill tree to unleash your full potential! Unlock floors in the mines to gather resources, gems, and ore! If you’re in a pinch, you can temporarily unlock mine floors with rusty keys, or permanently unlock them with smelted keys. Grab the chests on every 10th floor, upgrade your armor and tools with better ore, and fight enemies for loot! Take on tough bosses solo or in multiplayer! Test your strength in the Combat Arena alone or with friends. Fight your way through multiple different types of bosses and win amazing loot if you come out on top! An expansive character customization experience! Customize your character to your heart’s content with seven different races, ten different starting professions, and hundreds of clothing, hair, and other customization options. If you decide you want to change your appearance a few hours in, don’t worry — just take a trip to the Sun Haven Salon! A calendar full of events to celebrate! Enjoy seasonal festivals, holidays, and events, and make merry with all the different townsfolk. You’ll find some exclusive shop items such as pets, furniture, and food to buy at these festivals, so don’t forget your wallet! Fill up the museum and put all your hard work on display! The museum needs your help! Be sure to hang onto all the little trinkets you find when you’re out fishing, mining, foraging, or fighting. One adventurer’s trash is a museum’s treasure! Try out different builds with a massive skill tree full of versatile perks! Utilize the combat, exploration, farming, fishing, and mining skill trees to upgrade your character with tons of different buffs, skills, weapons, and spells. Once you hit level 70 in each skill, you can purchase skill elixirs from the Sun Haven Town Hall or craft skill tomes at an anvil to grow even stronger! Show off your completionist tendencies! Go achievement hunting for all 177 Steam Achievements related to romance, quests, storylines, festivals, skills, magic, advancements, combat, fishing, animals, farming, and so much more!",
+  "description": "A fantasy farming sim with an RPG twist like you’ve never experienced! Immerse yourself in over 30,000 lines of dialogue, romance any (or all…) 23 characters, embark on side quests, interact with hundreds of unique NPCs, solve riddles, and discover secrets all around you in this lore-rich, story-driven world. Your actions may shape your journey, but your choices will determine your legacy. Where will your adventure take you? Sun Haven, a farming sim with no stamina bar! Every Sun Haven playthrough is fully customizable with tons of in-game settings. Adjust the length of each day to be faster or shorter, make yourself invincible to damage, turn off seasonal pests that eat your crops, toggle weather effects on and off, or just enjoy the vanilla game with default settings! Transform your run-",
   "zhDescription": "《Sun Haven》是幻想RPG风格农场模拟。经营人类、精灵、恶魔三座不同城市的农场。比传统农场模拟更重RPG元素——技能树、魔法系统、战斗地下城。多种族可选，支持最多8人合作。",
   "genres": [
     "Adventure",
@@ -67,13 +67,90 @@
   "supportsCoop": true,
   "supportsController": true,
   "steamDeckVerified": false,
-  "positiveReviews": 21583,
-  "negativeReviews": 0,
+  "positiveReviews": 10944,
+  "negativeReviews": 2085,
   "featured": false,
   "guideCount": 0,
   "metaDescriptionEn": "Build your farm and relationships with townsfolk, or forge ahead on a quest of magic, monsters, and dragons. Level up through a skill tree in 8 person multiplayer, or adventure solo!",
   "metaDescriptionZh": "《太阳天堂》全种族农场攻略 — 三城市开荒、魔法技能、战斗技巧、NPC好感度。",
   "similarGames": [],
   "source": "steam_api",
-  "fetchedAt": "2026-06-08T07:17:50.010Z"
+  "fetchedAt": "2026-06-08T07:17:50.010Z",
+  "reviewScore": 8,
+  "reviewDesc": "Very Positive",
+  "topReviews": [
+    {
+      "recommendationid": "225724645",
+      "author": {
+        "steamid": "76561198212075353",
+        "personaname": "EmeraldWolfe31",
+        "persona_status": "offline",
+        "profile_url": "https://steamcommunity.com/profiles/76561198212075353/",
+        "num_games_owned": 0,
+        "num_reviews": 2,
+        "playtime_forever": 4536,
+        "playtime_last_two_weeks": 0,
+        "playtime_at_review": 4536,
+        "last_played": 1739062077,
+        "avatar": "87110f1b1778e027714ddb44261d7affc77b78d5"
+      },
+      "language": "english",
+      "review": "I want to love this game...Bug Haven is not worth your money. There is a reason the company has lawsuits against them.\n\nMultiplayer has a 50% chance of connecting and working. Most common bugs are characters permanently freezing (feinting does not fix), character saves disappearing, farms being deleted randomly, animals disappearing, selling portal not showing up, constant crashing and disconnect even if you're in the same room together. It has been like this for years and they refuse to fix it. Developers ignore multiplayer bug reports!!\n\nSingle player is a little better but still has plenty …",
+      "timestamp_created": 1778988884,
+      "timestamp_updated": 1778988884,
+      "voted_up": false,
+      "votes_up": 43,
+      "votes_funny": 1,
+      "weighted_vote_score": "0.782868266105651855",
+      "comment_count": 1,
+      "steam_purchase": false,
+      "received_for_free": false,
+      "refunded": false,
+      "written_during_early_access": false,
+      "primarily_steam_deck": false,
+      "app_release_date": "1624656273",
+      "reactions": [
+        {
+          "reaction_type": 31,
+          "count": 3
+        },
+        {
+          "reaction_type": 29,
+          "count": 2
+        }
+      ]
+    },
+    {
+      "recommendationid": "225079193",
+      "author": {
+        "steamid": "76561199513304448",
+        "personaname": "MiM!C",
+        "persona_status": "offline",
+        "profile_url": "https://steamcommunity.com/profiles/76561199513304448/",
+        "num_games_owned": 0,
+        "num_reviews": 15,
+        "playtime_forever": 2016,
+        "playtime_last_two_weeks": 0,
+        "playtime_at_review": 170,
+        "last_played": 1779065221,
+        "avatar": "8f9977c20c1c483bbf1f4569c7fbb3145a785f64"
+      },
+      "language": "english",
+      "review": "Idk about the devs based on other reviews they don't credit their artists and under pay them, which is a shame because the game is fantastic and the art is very good! Its like Stardew but imo alot easier, they get rid of the energy system which doesn't make you feel like you have to pick which tasks to do. There are races and professions which is really cool! I do recommend this game but if you feel negatively towards the devs then do as you please! Thank you for reading V.V",
+      "timestamp_created": 1778292430,
+      "timestamp_updated": 1778292430,
+      "voted_up": true,
+      "votes_up": 15,
+      "votes_funny": 0,
+      "weighted_vote_score": "0.676037371158599854",
+      "comment_count": 0,
+      "steam_purchase": true,
+      "received_for_free": false,
+      "refunded": false,
+      "written_during_early_access": false,
+      "primarily_steam_deck": false,
+      "app_release_date": "1624656273",
+      "reactions": []
+    }
+  ]
 }

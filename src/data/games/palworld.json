@@ -5,7 +5,7 @@
   "zhTitle": "幻兽帕鲁",
   "shortDescription": "Fight, farm, build and work alongside mysterious creatures called &quot;Pals&quot; in this completely new multiplayer, open world survival and crafting game!",
   "zhShortDescription": "宝可梦+方舟——捕捉帕鲁、建造基地、用枪战斗。",
-  "description": "Q. What kind of game is this? A. In this game, you can peacefully live alongside mysterious creatures known as Pals or risk your life to drive off a ruthless poaching syndicate. Pals can be used to fight, or they can be made to work on farms or factories. You can even sell them or eat them! Survival In a harsh environment where food is scarce and vicious poachers roam, danger waits around every corner. To survive, you must tread carefully and make difficult choices...even if that means eating your own Pals when the time comes. Mounts &amp; Exploration Pals can be mounted to traverse the land, sea and sky—allowing you to traverse all kinds of environment as you explore the world. Building Structures Want to build a pyramid? Put an army of Pals on the job. Don't worry; there are no labor laws for Pals. Production Make use of Pals and their skills to make fire, generate electricity, or mine ore so that you can live a life of comfort. Farming Some Pals are good at planting seeds, while others are skilled at watering or harvesting crops. Work together with your Pals to create an idyllic farmstead. Factories &amp; Automation Letting Pals do the work is the key to automation. Build a factory, place a Pal in it, and they'll keep working as long as they're fed—until they're dead, that is. Dungeon Exploration With Pals on your side you can tackle even the most dangerous areas. When the time comes, you might have to sacrifice one to save your skin. They'll protect your life—even if it costs their own. Breeding &amp; Genetics Breed a Pal and it will inherit the characteristics of its parents. Combine rare pals to create the strongest Pal of them all! Poaching &amp; Crime Endangered Pals live in wildlife sanctuaries. Sneak in and capture rare Pals to get rich quick! It's not a crime if you don't get caught, after all. Multiplayer Multiplayer is supported, so invite a friend and go on an adventure together! And of course you can battle your friends and trade Pals, too. In online co-op play mode, up to 4 players can play together. Additionally, a dedicated server can allow up to 32 players to play together.",
+  "description": "Q. What kind of game is this? A. In this game, you can peacefully live alongside mysterious creatures known as Pals or risk your life to drive off a ruthless poaching syndicate. Pals can be used to fight, or they can be made to work on farms or factories. You can even sell them or eat them! Survival In a harsh environment where food is scarce and vicious poachers roam, danger waits around every corner. To survive, you must tread carefully and make difficult choices...even if that means eating your own Pals when the time comes. Mounts & Exploration Pals can be mounted to traverse the land, sea and sky—allowing you to traverse all kinds of environment as you explore the world. Building Structures Want to build a pyramid? Put an army of Pals on the job. Don't worry; there are no labor laws fo",
   "zhDescription": "《幻兽帕鲁》将生物收集与生存建造疯狂融合。捕捉帕鲁让它们在工厂工作、农场种地、战场战斗——甚至给它们装备枪支。黑色幽默贯穿始终，支持多人合作。",
   "genres": [
     "Action",
@@ -70,13 +70,254 @@
   "supportsCoop": true,
   "supportsController": true,
   "steamDeckVerified": false,
-  "positiveReviews": 355672,
-  "negativeReviews": 0,
+  "positiveReviews": 144485,
+  "negativeReviews": 6909,
   "featured": false,
   "guideCount": 0,
   "metaDescriptionEn": "Fight, farm, build and work alongside mysterious creatures called &quot;Pals&quot; in this completely new multiplayer, open world survival and crafting game!",
   "metaDescriptionZh": "《幻兽帕鲁》全帕鲁图鉴 — 帕鲁捕捉、基地建造、繁殖配方完全指南。",
   "similarGames": [],
   "source": "steam_api",
-  "fetchedAt": "2026-06-08T07:22:11.650Z"
+  "fetchedAt": "2026-06-08T07:22:11.650Z",
+  "reviewScore": 9,
+  "reviewDesc": "Overwhelmingly Positive",
+  "topReviews": [
+    {
+      "recommendationid": "225268479",
+      "author": {
+        "steamid": "76561198196262850",
+        "personaname": "FitDadBlume",
+        "persona_status": "offline",
+        "profile_url": "https://steamcommunity.com/profiles/76561198196262850/",
+        "num_games_owned": 0,
+        "num_reviews": 7,
+        "playtime_forever": 1142,
+        "playtime_last_two_weeks": 293,
+        "playtime_at_review": 990,
+        "last_played": 1780245749,
+        "avatar": "f58dd152ea37605572e257b836e417c56b011676"
+      },
+      "language": "english",
+      "review": "I play multiplayer with my daughter (cross play - me on my PC and my daughter on her Xbox) and it is an absolute  blast. As a parent, tbh some games I play with her just aren't fun to me (Minecraft, for example) but this game is not like that -- it is loads of fun. This game is top tier - the gameplay, combat, and especially the base building with the pals is a lot of fun. There's nothing I would recommend more for a family multiplayer game!",
+      "timestamp_created": 1778501162,
+      "timestamp_updated": 1780148571,
+      "voted_up": true,
+      "votes_up": 81,
+      "votes_funny": 6,
+      "weighted_vote_score": "0.861191153526306152",
+      "comment_count": 0,
+      "steam_purchase": true,
+      "received_for_free": false,
+      "refunded": false,
+      "written_during_early_access": true,
+      "primarily_steam_deck": false,
+      "app_release_date": "1705651175",
+      "reactions": [
+        {
+          "reaction_type": 35,
+          "count": 7
+        },
+        {
+          "reaction_type": 26,
+          "count": 4
+        },
+        {
+          "reaction_type": 25,
+          "count": 3
+        },
+        {
+          "reaction_type": 32,
+          "count": 2
+        },
+        {
+          "reaction_type": 34,
+          "count": 2
+        },
+        {
+          "reaction_type": 24,
+          "count": 1
+        }
+      ]
+    },
+    {
+      "recommendationid": "226299141",
+      "author": {
+        "steamid": "76561199038709833",
+        "personaname": "Revela255",
+        "persona_status": "offline",
+        "profile_url": "https://steamcommunity.com/profiles/76561199038709833/",
+        "num_games_owned": 326,
+        "num_reviews": 93,
+        "playtime_forever": 6500,
+        "playtime_last_two_weeks": 0,
+        "playtime_at_review": 6343,
+        "last_played": 1779690062,
+        "avatar": "5de370e841f9929c9050b6d2a645a8f6f772e075"
+      },
+      "language": "schinese",
+      "review": "[h1]和朋友联机玩了幻兽帕鲁之后，终于知道我的世界的伟大之处了。[/h1] \r\n\r\n先说优点。\r\n（1）帕鲁既可以战斗又可以在基地执行几乎所有种类的工作，而且无论是帕鲁、人还是宝箱怪都可以用帕鲁球抓，游戏一致性很高，非常棒。\r\n（2）地图设计上，犄角旮旯处总有奖励，探图很舒服，早期瞎探图也能捡到蛋和翠叶鼠雕像\r\n（3）因为配种也算是一种工作 夜行性词条会导致帕鲁在晚上不会睡觉而是配种\r\n（4）商人居然也可以抓了带回家（前人们做的rpg游戏里商人可以打死、可以抢劫，这里也是做出了新花样）\r\n（5）朋友提到了一个小点，虽然面板上既有生命值又有防御，但是升级提升数值时只能升生命值，避免了让玩家思考这个没有什么趣味的选择题。\r\n（6）箱子开到的物品与所处位置有关，比如雪地的箱子会开到严冬鹿鹿肉料理\r\n（7）樱岛有一个武士打扮的通缉犯，居然是在竹林里战斗，注意到地点的一瞬间感觉这个场面还是很帅的\r\n（8）樱岛地图做的真不错，麻雀虽小五脏俱全（反观天坠之地不知道为啥非得做这么大），而且很好看\r\n\r\n联机游戏的一个普遍问题在于玩家一起开始的玩家，可能投入了不同时间，导致再次联机时进度不同，投入时间较少的玩家会被迫跳过大量进度。\r\n让我们先看看非沙盒游戏对此有哪些巧妙的解法。（1）进度每人独立：怪猎、深岩银河中，即使进度不同也可以进同一个任务（2）注重提升技巧而非数值：CS中完全没有进度的概念，…",
+      "timestamp_created": 1779621859,
+      "timestamp_updated": 1779621859,
+      "voted_up": true,
+      "votes_up": 37,
+      "votes_funny": 3,
+      "weighted_vote_score": "0.799239218235015869",
+      "comment_count": 3,
+      "steam_purchase": true,
+      "received_for_free": false,
+      "refunded": false,
+      "written_during_early_access": true,
+      "primarily_steam_deck": false,
+      "app_release_date": "1705651175",
+      "hardware": {
+        "manufacturer": "Gigabyte Technology Co., Ltd.",
+        "model": "B650M GAMING PLUS WIFI",
+        "dx_video_card": "NVIDIA GeForce RTX 5070",
+        "dx_vendorid": 4318,
+        "dx_deviceid": 12036,
+        "num_gpu": 1,
+        "system_ram": "31820",
+        "os": "Windows 11",
+        "cpu_vendor": "AuthenticAMD",
+        "cpu_name": "AMD Ryzen 5 9600X 6-Core Processor             ",
+        "gaming_device_type": 1,
+        "dx_driver_version": "32.0.15.9186",
+        "adapter_description": "NVIDIA GeForce RTX 5070",
+        "driver_version": "32.0.15.9186",
+        "driver_date": "2026-1-20",
+        "vram_size": 11943,
+        "screen_width": 2560,
+        "screen_height": 1440,
+        "precise_frame_rate": null
+      },
+      "reactions": [
+        {
+          "reaction_type": 27,
+          "count": 1
+        },
+        {
+          "reaction_type": 32,
+          "count": 1
+        }
+      ]
+    },
+    {
+      "recommendationid": "226571648",
+      "author": {
+        "steamid": "76561198164393245",
+        "personaname": "Hisomi",
+        "persona_status": "offline",
+        "profile_url": "https://steamcommunity.com/id/Hisomi/",
+        "num_games_owned": 737,
+        "num_reviews": 349,
+        "playtime_forever": 1080,
+        "playtime_last_two_weeks": 1080,
+        "playtime_at_review": 35,
+        "last_played": 1780839631,
+        "avatar": "2a1387c122bda71cb5c483f726018e66650c77dd"
+      },
+      "language": "english",
+      "review": "I attacked a bird and the game turned into Dark Souls, 10 out of 10 Pokémon",
+      "timestamp_created": 1779909374,
+      "timestamp_updated": 1779909374,
+      "voted_up": true,
+      "votes_up": 64,
+      "votes_funny": 32,
+      "weighted_vote_score": "0.847266733646392822",
+      "comment_count": 0,
+      "steam_purchase": true,
+      "received_for_free": false,
+      "refunded": false,
+      "written_during_early_access": true,
+      "primarily_steam_deck": false,
+      "app_release_date": "1705651175",
+      "reactions": []
+    },
+    {
+      "recommendationid": "226237475",
+      "author": {
+        "steamid": "76561198113247644",
+        "personaname": "Nonaloth",
+        "persona_status": "offline",
+        "profile_url": "https://steamcommunity.com/profiles/76561198113247644/",
+        "num_games_owned": 722,
+        "num_reviews": 170,
+        "playtime_forever": 7608,
+        "playtime_last_two_weeks": 2658,
+        "playtime_at_review": 4234,
+        "last_played": 1780291651,
+        "avatar": "d3689c2755c7cb7498fc7c6e21c2b3c46634780e"
+      },
+      "language": "brazilian",
+      "review": "A primeira vez que vi o Pal, fiquei encantado.\nMas quando finalmente botei a mão no Pal e fui testar de verdade... percebi que ele não tinha tanta força assim. Não era tudo aquilo que meus amigos falavam sobre o Pal.\n\nAgora, anos depois, resolvi dar outra chance pro Pal. E olha... o Pal amadureceu. Está mais firme, mais consistente, tem objetivos, conteúdo e finalmente parece saber o que quer ser.\n\nPosso dizer que agora sim o Pal está decente e tem um futuro promissor pela frente.\n\nHoje, finalmente, recomendo o Pal.",
+      "timestamp_created": 1779555194,
+      "timestamp_updated": 1779555194,
+      "voted_up": true,
+      "votes_up": 30,
+      "votes_funny": 33,
+      "weighted_vote_score": "0.776615381240844727",
+      "comment_count": 0,
+      "steam_purchase": true,
+      "received_for_free": false,
+      "refunded": false,
+      "written_during_early_access": true,
+      "primarily_steam_deck": false,
+      "app_release_date": "1705651175",
+      "reactions": [
+        {
+          "reaction_type": 26,
+          "count": 1
+        },
+        {
+          "reaction_type": 28,
+          "count": 1
+        }
+      ]
+    },
+    {
+      "recommendationid": "225141349",
+      "author": {
+        "steamid": "76561199433887299",
+        "personaname": "ataurraha786",
+        "persona_status": "offline",
+        "profile_url": "https://steamcommunity.com/profiles/76561199433887299/",
+        "num_games_owned": 89,
+        "num_reviews": 24,
+        "playtime_forever": 448,
+        "playtime_last_two_weeks": 0,
+        "playtime_at_review": 448,
+        "last_played": 1776510163,
+        "avatar": "60dbeb0def831f847c7b2e41cf10923846266680"
+      },
+      "language": "english",
+      "review": "I pirated this game and spent a lot of time alone in my world, wish i could get my prevoius world back. The game is great for sure, even when you are playing it alone. You will enjoy this game for sure. Very beginner friendly as well. I will definitely use this game to introduce gaming to my gf.... if I had one, but we dont need to talk abt that. BUY THE GAME and protect the devs from nintendo.",
+      "timestamp_created": 1778357145,
+      "timestamp_updated": 1778357145,
+      "voted_up": true,
+      "votes_up": 67,
+      "votes_funny": 45,
+      "weighted_vote_score": "0.733580231666564941",
+      "comment_count": 8,
+      "steam_purchase": false,
+      "received_for_free": false,
+      "refunded": false,
+      "written_during_early_access": true,
+      "primarily_steam_deck": false,
+      "app_release_date": "1705651175",
+      "reactions": [
+        {
+          "reaction_type": 28,
+          "count": 7
+        },
+        {
+          "reaction_type": 31,
+          "count": 2
+        },
+        {
+          "reaction_type": 24,
+          "count": 1
+        }
+      ]
+    }
+  ]
 }

@@ -5,7 +5,7 @@
   "zhTitle": "模拟农场22",
   "shortDescription": "Create your farm and let the good times grow! Harvest crops, tend to animals, manage productions, and take on seasonal challenges.",
   "zhShortDescription": "最真实的农业模拟，驾驶真实品牌农用机械经营农场。",
-  "description": "Take on the role of a modern farmer! Agriculture, animal husbandry and forestry offer a huge variety of farming activities while you face the challenges of the four seasons, especially when winter sets in. Creatively build your own farm and extend your farming operations with production chains - forming an agricultural empire! Even run your farm together with friends and enjoy crossplatform multiplayer together. Whether you create a lush vineyard or an olive orchard in the Mediterranean south of France, a vast farmland full of wheat, corn, potatoes and cotton in the US-Midwest or a lively animal farm in the hilly landscape of the European Alpine region: More than 400 machines and tools from over 100 real agricultural brands like Case IH, CLAAS, Fendt, John Deere, Massey Ferguson, New Holland, Valtra and many more are available for your farm. Farming Simulator 22 brings a multitude of new gameplay features and offers more content and player freedom than ever before, including new ground working features like mulching or stone picking, an improved build-mode adding greenhouses and beehives, as well as a new character creator to bring your own, individual farmer to life. A large variety of free community-created modifications, officially tested by the developer GIANTS Software, will extend your farming experience many times over. Rise to the challenges of becoming a successful farmer, start farming and let the good times grow!",
+  "description": "Take on the role of a modern farmer! Agriculture, animal husbandry and forestry offer a huge variety of farming activities while you face the challenges of the four seasons, especially when winter sets in. Creatively build your own farm and extend your farming operations with production chains - forming an agricultural empire! Even run your farm together with friends and enjoy crossplatform multiplayer together. Whether you create a lush vineyard or an olive orchard in the Mediterranean south of France, a vast farmland full of wheat, corn, potatoes and cotton in the US-Midwest or a lively animal farm in the hilly landscape of the European Alpine region: More than 400 machines and tools from over 100 real agricultural brands like Case IH, CLAAS, Fendt, John Deere, Massey Ferguson, New Holla",
   "zhDescription": "《模拟农场22》是最逼真的农业模拟游戏。驾驶 John Deere、Case IH 等真实品牌的农用机械，在广袤田野上耕种、播种、施肥、收割。巨大 MOD 社区让可玩性无限。",
   "genres": [
     "Simulation"
@@ -51,13 +51,16 @@
   "supportsCoop": true,
   "supportsController": true,
   "steamDeckVerified": false,
-  "positiveReviews": 68281,
-  "negativeReviews": 0,
+  "positiveReviews": 23512,
+  "negativeReviews": 1843,
   "featured": false,
   "guideCount": 0,
   "metaDescriptionEn": "Create your farm and let the good times grow! Harvest crops, tend to animals, manage productions, and take on seasonal challenges.",
   "metaDescriptionZh": "《模拟农场22》新手攻略 — 作物选择、机械推荐、畜牧管理指南。",
   "similarGames": [],
   "source": "steam_api",
-  "fetchedAt": "2026-06-08T07:19:23.670Z"
+  "fetchedAt": "2026-06-08T07:19:23.670Z",
+  "reviewScore": 8,
+  "reviewDesc": "Very Positive",
+  "topReviews": []
 }
