@@ -6,7 +6,10 @@
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
-    "lint": "eslint"
+    "lint": "eslint",
+    "fetch:steam": "npx tsx scripts/fetch-steam.ts",
+    "build:data": "npm run fetch:steam",
+    "build:full": "npm run build:data && next build"
   },
   "dependencies": {
     "class-variance-authority": "^0.7.1",

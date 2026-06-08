@@ -1,6 +1,6 @@
 "use client";
 
-import Link from "next/link";
+import { LocalLink as Link } from "@/components/layout/local-link";
 import { useLang } from "@/components/layout/lang-context";
 
 export function Footer() {

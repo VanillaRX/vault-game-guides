@@ -1,6 +1,5 @@
 import type { Metadata } from "next";
 import { Orbitron, Manrope, JetBrains_Mono } from "next/font/google";
-import { ClientLayout } from "@/components/layout/client-layout";
 import "./globals.css";
 
 const orbitron = Orbitron({
@@ -62,7 +61,7 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
         />
       </head>
       <body className="flex min-h-screen flex-col">
-        <ClientLayout>{children}</ClientLayout>
+        {children}
       </body>
     </html>
   );

@@ -5,7 +5,7 @@ export const LANGUAGES: { code: Lang; label: string; nativeLabel: string }[] = [
   { code: "zh", label: "中文", nativeLabel: "中" },
 ];
 
-const t: Record<Lang, Record<string, string>> = {
+export const t: Record<Lang, Record<string, string>> = {
   en: {
     "nav.home": "Home",
     "nav.games": "Games",

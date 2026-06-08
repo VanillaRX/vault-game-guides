@@ -1,30 +1,44 @@
 "use client";
 
 import Link from "next/link";
+import { usePathname } from "next/navigation";
 import { useState } from "react";
-import { Menu, X, Search, Globe } from "lucide-react";
+import { Menu, X, Search } from "lucide-react";
 import { useLang } from "@/components/layout/lang-context";
+
+/** Strip /en/ or /zh/ prefix from pathname. Returns path without lang prefix. */
+function stripLangPrefix(pathname: string): string {
+  if (pathname.startsWith("/en/")) return pathname.slice(3);
+  if (pathname.startsWith("/zh/")) return pathname.slice(3);
+  if (pathname === "/en" || pathname === "/zh") return "";
+  return pathname;
+}
 
 export function Header() {
   const [open, setOpen] = useState(false);
-  const { lang, setLang, t } = useLang();
+  const { lang, t } = useLang();
+  const pathname = usePathname();
+
+  const pathWithoutLang = stripLangPrefix(pathname);
+  const zhPath = `/zh${pathWithoutLang ? `/${pathWithoutLang}` : ""}`;
+  const enPath = `/en${pathWithoutLang ? `/${pathWithoutLang}` : ""}`;
 
   const NAV_LINKS = [
-    { href: "/", label: t("nav.home") },
-    { href: "/games", label: t("nav.games") },
-    { href: "/guides", label: t("nav.guides") },
-    { href: "/about", label: t("nav.about") },
+    { href: `/${lang}`, label: t("nav.home") },
+    { href: `/${lang}/games`, label: t("nav.games") },
+    { href: `/${lang}/guides`, label: t("nav.guides") },
+    { href: `/${lang}/about`, label: t("nav.about") },
   ];
 
   return (
     <header className="sticky top-0 z-50 border-b border-[var(--border)] bg-[var(--bg)]/90 backdrop-blur-md">
       <div className="mx-auto flex h-16 max-w-7xl items-center justify-between px-4 sm:px-6">
-        <Link href="/" className="flex items-center gap-2 group">
+        <Link href={`/${lang}`} className="flex items-center gap-2 group">
           <span className="font-display text-lg font-bold tracking-wider text-[var(--accent)] group-hover:animate-glow">
-            {lang === "zh" ? "攻略" : "VAULT"}
+            VAULT
           </span>
           <span className="font-display text-lg font-bold tracking-wider text-[var(--neon)]">
-            {lang === "zh" ? "库" : "GUIDES"}
+            GUIDES
           </span>
         </Link>
 
@@ -41,10 +55,10 @@ export function Header() {
         </nav>
 
         <div className="flex items-center gap-2">
-          {/* Language switcher */}
+          {/* Language switcher — URL-based navigation */}
           <div className="flex items-center rounded-lg border border-[var(--border)] overflow-hidden">
-            <button
-              onClick={() => setLang("en")}
+            <Link
+              href={enPath}
               className={`px-2 py-1.5 text-[11px] font-semibold transition-colors ${
                 lang === "en"
                   ? "bg-[var(--accent)] text-white"
@@ -52,9 +66,9 @@ export function Header() {
               }`}
             >
               EN
-            </button>
-            <button
-              onClick={() => setLang("zh")}
+            </Link>
+            <Link
+              href={zhPath}
               className={`px-2 py-1.5 text-[11px] font-semibold transition-colors ${
                 lang === "zh"
                   ? "bg-[var(--accent)] text-white"
@@ -62,11 +76,11 @@ export function Header() {
               }`}
             >
               中
-            </button>
+            </Link>
           </div>
 
           <Link
-            href="/search"
+            href={`/${lang}/search`}
             className="rounded-lg border border-[var(--border)] p-2 text-[var(--fg)]/60 transition-colors hover:border-[var(--accent)] hover:text-[var(--accent)]"
             aria-label={t("nav.search")}
           >
