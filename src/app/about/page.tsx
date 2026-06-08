@@ -15,29 +15,26 @@ export default function AboutPage() {
       <div className="mt-8 space-y-5 text-sm leading-relaxed text-[var(--muted)]">
         <p>
           <strong className="text-[var(--fg)]">
-            {zh ? "我们受够了烂攻略。" : "We got tired of bad game guides."}
+            {zh ? "烂攻略太多了。" : "There's a lot of bad guides out there."}
           </strong>{" "}
           {zh
-            ? "你懂的那种：三千字在讲\"什么是区域加成\"，正文还没开始。AI生成的垃圾把基本机制都写错。YouTube视频里那个\"快速技巧\"埋在18分钟深处。"
-            : "You know the type: 3,000 words of \"what is adjacency?\" before any actual strategy. AI-generated slop that gets basic mechanics wrong. YouTube videos where the \"quick tip\" is buried 18 minutes in."}
+            ? "三千字介绍\"什么是区域加成\"，正文还没开始。AI写的攻略数值全错。YouTube上号称\"一分钟学会\"的视频，关键技巧藏在第18分钟。我每个游戏都通关过，大部分不止一次。所以我自己写了。"
+            : "Three thousand words explaining what a district is before giving you any actual strategy. AI-written guides with wrong numbers. \"Quick tips\" videos where the tip is somewhere around minute 18. I've beaten every game on this site, most of them more than once. So I wrote my own guides."}
         </p>
         <p>
           {zh
-            ? "Vault Guides 不一样。每一篇攻略都是通关过的人写的——大多数不止通了一次。我们把策略写在最前面，每个章节都有时间标记，砍掉那些没人看的段落。"
-            : "Vault Guides is different. Every guide is written by someone who has actually beaten the game — often multiple times. We front-load the strategy, timestamp every section, and skip the paragraphs nobody reads."}
+            ? "每篇攻略开头直接给结论。每节标了阅读时间。砍掉了\"游戏介绍\"和\"总结\"——你不需要我告诉你纪元1800是育碧出的，你需要知道工业区怎么摆。"
+            : "Every guide starts with the strategy, not the backstory. Each section has an estimated read time. I cut the intro fluff — you don't need me to tell you Anno 1800 was made by Ubisoft. You need to know where to put the industrial zone."}
         </p>
         <p>
           {zh
-            ? "我们专注策略和经营游戏，因为这是游戏设计最有深度的地方。纪元1800、文明VI、边缘世界、Foundation——这些游戏值得配得上它们深度的攻略。"
-            : "We focus on strategy and management games because that's where the most interesting design lives. Anno 1800, Civ VI, RimWorld, Foundation — these games deserve guides that match their depth."}
+            ? "我只写策略和经营游戏。Anno 1800、文明6、RimWorld、Foundation、最远的边陲、前往中世纪。这些游戏的机制深，社区又小，好攻略难找。"
+            : "I only write about strategy and management games. Anno 1800, Civ 6, RimWorld, Foundation, Farthest Frontier, Going Medieval. Deep mechanics, small communities, hard to find good info."}
         </p>
         <p>
-          <strong className="text-[var(--fg)]">
-            {zh ? "没有账号。没有付费墙。没有\"高级\"攻略。" : "No accounts. No paywalls. No \"premium\" guides."}
-          </strong>{" "}
           {zh
-            ? "我们靠广告运营，为玩家而建。如果你觉得某篇攻略有用，最好的感谢就是分享给一个在同一关卡住的朋友。"
-            : "We're funded by ads and built for players. If you find a guide useful, the best thanks is sharing it with a friend who's stuck on the same problem."}
+            ? "这个站靠广告活着。没有付费墙，没有会员，没有\"高级攻略\"。觉得有用就发给卡在同一关的朋友。有意见或发现错误直接联系我——我回得很快。"
+            : "This site runs on ads. No paywalls, no memberships, no \"premium content.\" If a guide helps you, send it to someone stuck on the same thing. Found a mistake? Email me — I actually respond."}
         </p>
       </div>
     </div>

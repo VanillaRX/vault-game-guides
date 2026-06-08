@@ -11,16 +11,23 @@ export default function ContactPage() {
       <h1 className="font-display text-3xl font-bold tracking-tight">Contact</h1>
       <div className="mt-8 space-y-5 text-sm leading-relaxed text-[var(--muted)]">
         <p>
-          Found a mistake in a guide? Want to suggest a game we should cover? Just want to say the
-          Hollow Knight boss guide saved your sanity? We read everything.
+          Found wrong numbers in a guide? Want a game covered? Just want to say thanks? I read
+          everything.
         </p>
         <p>
-          Email us at{" "}
+          Email:{" "}
           <span className="text-[var(--accent)] font-mono text-xs">
-            hello [at] vaultguides [dot] com
+            vanillarx@gmail.com
           </span>
         </p>
-        <p className="text-xs">We respond within 48 hours. Usually faster.</p>
+        <p>
+          Also on{" "}
+          <a href="https://github.com/VanillaRX/vault-game-guides" className="text-[var(--accent)] hover:underline">
+            GitHub
+          </a>{" "}
+          — issues and PRs welcome.
+        </p>
+        <p className="text-xs">I usually reply within 24 hours.</p>
       </div>
     </div>
   );

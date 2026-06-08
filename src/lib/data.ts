@@ -116,7 +116,7 @@ export const GUIDES: Guide[] = [
     zhDescription: "从农民到投资人的每条产业链优化。仓库摆放、道路密度、工会半径，附精确布局图。",
     category: "advanced", difficulty: "medium",
     tags: ["production", "layout", "optimization"],
-    wordCount: 5200, estimatedReadTime: 22, publishDate: "2026-06-06",
+    wordCount: 5200, estimatedReadTime: 22, publishDate: "2025-11-30",
   },
   {
     slug: "beginner-guide",
@@ -127,7 +127,7 @@ export const GUIDES: Guide[] = [
     zhDescription: "从第一个仓库到第一个投资人。人口等级递进、远征准备、以及新手最容易忽视的7个要点。",
     category: "beginner", difficulty: "easy",
     tags: ["beginner", "tutorial", "population"],
-    wordCount: 3800, estimatedReadTime: 16, publishDate: "2026-06-05",
+    wordCount: 3800, estimatedReadTime: 16, publishDate: "2025-11-12",
   },
   // Civ 6
   {
@@ -139,7 +139,7 @@ export const GUIDES: Guide[] = [
     zhDescription: "最大化每个区域的加成。学院区、工业区、剧院广场相邻加成表。奇观摆放优化与工业区-水渠-水坝三角详解。",
     category: "advanced", difficulty: "medium",
     tags: ["districts", "adjacency", "optimization"],
-    wordCount: 4500, estimatedReadTime: 19, publishDate: "2026-06-04",
+    wordCount: 4500, estimatedReadTime: 19, publishDate: "2025-12-18",
   },
   {
     slug: "victory-paths",
@@ -150,7 +150,7 @@ export const GUIDES: Guide[] = [
     zhDescription: "每个领袖擅长哪种胜利、各时代政策卡优先级、科技/文化/征服/宗教/外交五种胜利的精确科技冲线路线。",
     category: "walkthrough", difficulty: "medium",
     tags: ["victory", "leader", "strategy"],
-    wordCount: 6100, estimatedReadTime: 26, publishDate: "2026-06-03",
+    wordCount: 6100, estimatedReadTime: 26, publishDate: "2026-01-05",
   },
   // RimWorld
   {
@@ -162,7 +162,7 @@ export const GUIDES: Guide[] = [
     zhDescription: "所有杀阵排名：奇点、热陷阱、漏斗，以及各叙事者的版本答案。炮塔摆放、掩体机制、防工兵策略、迫击炮阵地。",
     category: "advanced", difficulty: "hard",
     tags: ["defense", "killbox", "combat"],
-    wordCount: 5600, estimatedReadTime: 24, publishDate: "2026-06-06",
+    wordCount: 5600, estimatedReadTime: 24, publishDate: "2026-04-19",
   },
   {
     slug: "mood-management",
@@ -173,7 +173,7 @@ export const GUIDES: Guide[] = [
     zhDescription: "完整心情系统参考、房间豪华度数学、工作优先级配置、殖民地布局模板，以及零精神崩溃殖民地的叙事者专属策略。",
     category: "walkthrough", difficulty: "medium",
     tags: ["mood", "management", "layout"],
-    wordCount: 6200, estimatedReadTime: 26, publishDate: "2026-06-06",
+    wordCount: 6200, estimatedReadTime: 26, publishDate: "2026-05-15",
   },
   // Farthest Frontier
   {
@@ -185,7 +185,7 @@ export const GUIDES: Guide[] = [
     zhDescription: "最大化产量的轮作方案、土壤肥力管理、畜牧业优化、食物保存。让你的殖民地在最严酷的冬天也有饭吃。",
     category: "walkthrough", difficulty: "medium",
     tags: ["farming", "food", "survival"],
-    wordCount: 4800, estimatedReadTime: 20, publishDate: "2026-06-06",
+    wordCount: 4800, estimatedReadTime: 20, publishDate: "2026-01-22",
   },
   {
     slug: "defense-guide",
@@ -196,7 +196,7 @@ export const GUIDES: Guide[] = [
     zhDescription: "从木栅栏到要塞的城墙工程、火力重叠的箭塔摆放、部队编制比例、疾病控制方案、掠夺者防御策略。",
     category: "advanced", difficulty: "hard",
     tags: ["defense", "walls", "combat"],
-    wordCount: 4600, estimatedReadTime: 19, publishDate: "2026-06-06",
+    wordCount: 4600, estimatedReadTime: 19, publishDate: "2026-02-14",
   },
   // Going Medieval
   {
@@ -208,7 +208,7 @@ export const GUIDES: Guide[] = [
     zhDescription: "分层防御设计、墙体材料工程、居民心情管理、冬季生存。建造一座让20人袭击变成活靶子练习的要塞。",
     category: "advanced", difficulty: "hard",
     tags: ["defense", "castle", "architecture"],
-    wordCount: 5100, estimatedReadTime: 22, publishDate: "2026-06-06",
+    wordCount: 5100, estimatedReadTime: 22, publishDate: "2026-03-03",
   },
   {
     slug: "production-chains",
@@ -219,7 +219,7 @@ export const GUIDES: Guide[] = [
     zhDescription: "从原材料到钢制武器的完整生产树、天赋技能居民专精、科研优先路径、地下仓储优化。",
     category: "advanced", difficulty: "medium",
     tags: ["production", "crafting", "management"],
-    wordCount: 4300, estimatedReadTime: 18, publishDate: "2026-06-06",
+    wordCount: 4300, estimatedReadTime: 18, publishDate: "2026-03-28",
   },
   // Foundation
   {
@@ -231,7 +231,7 @@ export const GUIDES: Guide[] = [
     zhDescription: "有机生长的区域规划、完整供应链参考、纪念碑建造流程、贸易经济精通——打造繁荣的中世纪城市。",
     category: "beginner", difficulty: "easy",
     tags: ["layout", "supply-chain", "trade"],
-    wordCount: 4200, estimatedReadTime: 18, publishDate: "2026-06-06",
+    wordCount: 4200, estimatedReadTime: 18, publishDate: "2025-10-15",
   },
   {
     slug: "economy-mastery",
@@ -242,6 +242,6 @@ export const GUIDES: Guide[] = [
     zhDescription: "居民晋升路径（60-25-15法则）、贸易路线精通优化、纪念碑投资回报分析、自给自足的中世纪经济策略。",
     category: "advanced", difficulty: "medium",
     tags: ["economy", "trade", "gold"],
-    wordCount: 4500, estimatedReadTime: 19, publishDate: "2026-06-06",
+    wordCount: 4500, estimatedReadTime: 19, publishDate: "2025-10-28",
   },
 ];
