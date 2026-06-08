@@ -2,16 +2,21 @@
   "slug": "frozenheim",
   "steamAppId": 1134100,
   "title": "Frozenheim",
-  "zhTitle": "",
+  "zhTitle": "冰霜之地",
   "shortDescription": "Lead your Viking clan onto unknown shores and carve out a future for your people in the fjords of Frozenheim. Gather resources, expand, and watch your settlement grow to a bustling town that will withstand the harshness of winter and wrath of other clans.",
-  "zhShortDescription": "",
-  "description": "<p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1134100/extras/84c499f6c87f9c27ba2ec59e0b74cc34.poster.avif?t=1776434093\" width=1170 height=450 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1134100/extras/84c499f6c87f9c27ba2ec59e0b74cc34.webm?t=1776434093\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1134100/extras/84c499f6c87f9c27ba2ec59e0b74cc34.mp4?t=1776434093\" type=\"video/mp4\"></video></span><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1134100/extras/5bd517b39e95512ab8c9a3b83c538dec.poster.avif?t=1776434093\" width=1170 height=450 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1134100/extras/5bd517b39e95512ab8c9a3b83c538dec.webm?t=1776434093\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1134100/extras/5bd517b39e95512ab8c9a3b83c538dec.mp4?t=1776434093\" type=\"video/mp4\"></video></span><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1134100/extras/d60c3ab844951c5b00bc067a2afb11a8.poster.avif?t=1776434093\" width=1170 height=450 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1134100/extras/d60c3ab844951c5b00bc067a2afb11a8.webm?t=1776434093\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1134100/extras/d60c3ab844951c5b00bc067a2afb11a8.mp4?t=1776434093\" type=\"video/mp4\"></video></span><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1134100/extras/10a289bd2323e711319ba2998e2573db.poster.avif?t=1776434093\" width=1170 height=450 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1134100/extras/10a289bd2323e711319ba2998e2573db.webm?t=1776434093\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1134100/extras/10a289bd2323e711319ba2998e2573db.mp4?t=1776434093\" type=\"video/mp4\"></video></span></p>",
-  "zhDescription": "",
+  "zhShortDescription": "北欧维京主题的城市建造与 RTS，建立部落、掠夺敌人。",
+  "description": "",
+  "zhDescription": "《Frozenheim》是北欧维京主题的城市建造与即时战略游戏。在冰天雪地中建立维京部落——建造长屋、港口，管理资源熬过寒冬。融合了城市建造深度和 RTS 战斗节奏。",
   "genres": [
     "Simulation",
     "Strategy"
   ],
-  "tags": [],
+  "tags": [
+    "city-builder",
+    "survival",
+    "strategy",
+    "multiplayer"
+  ],
   "steamTags": [
     "Simulation",
     "Strategy"
@@ -50,7 +55,7 @@
   "featured": false,
   "guideCount": 0,
   "metaDescriptionEn": "Lead your Viking clan onto unknown shores and carve out a future for your people in the fjords of Frozenheim. Gather resources, expand, and watch your settlement grow to a bustling town that will withstand the harshness of winter and wrath of other clans.",
-  "metaDescriptionZh": "",
+  "metaDescriptionZh": "《冰霜之地》维京城镇建造攻略 — 资源管理、部队编制、部落战争策略。",
   "similarGames": [],
   "source": "steam_api",
   "fetchedAt": "2026-06-08T07:20:37.633Z"

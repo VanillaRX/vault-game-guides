@@ -2,18 +2,24 @@
   "slug": "factorio",
   "steamAppId": 427520,
   "title": "Factorio",
-  "zhTitle": "",
+  "zhTitle": "异星工厂",
   "shortDescription": "Factorio is a game about building and creating automated factories to produce items of increasing complexity, within an infinite 2D world. Use your imagination to design your factory, combine simple elements into ingenious structures, and finally protect it from the creatures who don't really like you.",
-  "zhShortDescription": "",
-  "description": "<strong>Factorio</strong> is a game in which you build and maintain factories. You will be mining resources, researching technologies, building infrastructure, automating production and fighting enemies. In the beginning you will find yourself chopping trees, mining ores and crafting mechanical arms and transport belts by hand, but in short time you can become an industrial powerhouse, with huge solar fields, oil refining and cracking, manufacture and deployment of construction and logistic robots, all for your resource needs. However this heavy exploitation of the planet's resources does not sit nicely with the locals, so you will have to be prepared to defend yourself and your machine empire. <br><br>Join forces with other players in cooperative <strong>Multiplayer</strong>, create huge factories, collaborate and delegate tasks between you and your friends. Add mods to increase your enjoyment, from small tweak and helper mods to complete game overhauls, Factorio's ground-up <strong>Modding support</strong> has allowed content creators from around the world to design interesting and innovative features. While the core gameplay is in the form of the freeplay scenario, there are a range of interesting challenges in the form of <strong>Scenarios</strong>. If you don't find any maps or scenarios you enjoy, you can create your own with the in-game <strong>Map Editor</strong>, place down entities, enemies, and terrain in any way you like, and even add your own custom script to make for interesting gameplay.<br><br><strong>Discount Disclaimer:</strong> We don't have any plans to take part in a sale or to reduce the price for the foreseeable future.<h2 class=\"bb_tag\" >What people say about Factorio</h2><br><ul class=\"bb_ul\"><li><i>No other game in the history of gaming handles the logistics side of management simulator so perfectly.</i> - <strong>Reddit</strong><br></li><li><i>I see conveyor belts when I close my eyes. I may have been binging Factorio lately.</i> - <strong>Notch, Mojang</strong><br></li><li><i>Factorio is a super duper awesome game where we use conveyor belts to shoot aliens.</i> - <strong>Zisteau, Youtube</strong></li></ul>",
-  "zhDescription": "",
+  "zhShortDescription": "终极自动化模拟游戏，建造巨型工厂、优化生产线。",
+  "description": "Factorio is a game in which you build and maintain factories. You will be mining resources, researching technologies, building infrastructure, automating production and fighting enemies. In the beginning you will find yourself chopping trees, mining ores and crafting mechanical arms and transport belts by hand, but in short time you can become an industrial powerhouse, with huge solar fields, oil refining and cracking, manufacture and deployment of construction and logistic robots, all for your resource needs. However this heavy exploitation of the planet's resources does not sit nicely with the locals, so you will have to be prepared to defend yourself and your machine empire. Join forces with other players in cooperative Multiplayer , create huge factories, collaborate and delegate tasks between you and your friends. Add mods to increase your enjoyment, from small tweak and helper mods to complete game overhauls, Factorio's ground-up Modding support has allowed content creators from around the world to design interesting and innovative features. While the core gameplay is in the form of the freeplay scenario, there are a range of interesting challenges in the form of Scenarios . If you don't find any maps or scenarios you enjoy, you can create your own with the in-game Map Editor , place down entities, enemies, and terrain in any way you like, and even add your own custom script to make for interesting gameplay. Discount Disclaimer: We don't have any plans to take part in a sale or to reduce the price for the foreseeable future. What people say about Factorio No other game in the history of gaming handles the logistics side of management simulator so perfectly. - Reddit I see conveyor belts when I close my eyes. I may have been binging Factorio lately. - Notch, Mojang Factorio is a super duper awesome game where we use conveyor belts to shoot aliens. - Zisteau, Youtube",
+  "zhDescription": "《异星工厂》是自动化模拟游戏的巅峰之作。从手动采矿开始，逐步建造越来越复杂的自动化生产线——传送带、机械臂、火车、物流机器人。'工厂必须增长'是玩家社区的口头禅。",
   "genres": [
     "Casual",
     "Indie",
     "Simulation",
     "Strategy"
   ],
-  "tags": [],
+  "tags": [
+    "automation",
+    "management",
+    "survival",
+    "crafting",
+    "multiplayer"
+  ],
   "steamTags": [
     "Casual",
     "Indie",
@@ -73,7 +79,7 @@
   "featured": false,
   "guideCount": 0,
   "metaDescriptionEn": "Factorio is a game about building and creating automated factories to produce items of increasing complexity, within an infinite 2D world. Use your imagination to design your factory, combine simple elements into ingenious structures, and finally protect it from the creatures who don't really like you.",
-  "metaDescriptionZh": "",
+  "metaDescriptionZh": "《异星工厂》生产线布局攻略 — 传送带设计、火车信号、核电站建造指南。",
   "similarGames": [],
   "source": "steam_api",
   "fetchedAt": "2026-06-08T07:21:31.351Z"
