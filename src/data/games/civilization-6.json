@@ -1,5 +1,5 @@
 {
-  "slug": "civilization-vi",
+  "slug": "civilization-6",
   "steamAppId": 289070,
   "title": "Sid Meier’s Civilization® VI",
   "zhTitle": "文明VI",
@@ -49,5 +49,8 @@
   "metaDescriptionZh": "《文明VI》区域相邻加成完全攻略 — 学院区、工业区、剧院广场最优摆放。",
   "similarGames": [],
   "source": "steam_api",
-  "fetchedAt": "2026-06-08T07:21:58.151Z"
+  "fetchedAt": "2026-06-08T07:21:58.151Z",
+  "aliases": [
+    "civilization-vi"
+  ]
 }

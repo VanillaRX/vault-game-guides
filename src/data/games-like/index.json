@@ -4,9 +4,24 @@
     "introEn": "RimWorld is a one-of-a-kind colony sim — part base builder, part story generator, part survival game. No game replicates it exactly, but these titles scratch the same itch with colony management, emergent storytelling, or deep simulation mechanics.",
     "introZh": "RimWorld 是独一无二的殖民模拟游戏——既是基地建造，又是故事生成器，还是生存游戏。没有游戏能完全复制它，但这些作品在殖民管理、涌现叙事或深度模拟方面有相似体验。",
     "recommendations": [
-      { "slug": "farthest-frontier", "similarityScore": 82, "reasonEn": "Colony survival with deep resource chains, seasons, and raids — more grounded but hits the same management dopamine.", "reasonZh": "殖民生存，深度资源链，四季和袭击——比 RimWorld 更写实但同样有管理快感。" },
-      { "slug": "going-medieval", "similarityScore": 75, "reasonEn": "3D colony builder with multi-story bases, settler psychology, and castle defense. Like RimWorld in 3D with medieval flavor.", "reasonZh": "3D 殖民建造，多层基地，居民心理系统，城堡防御。像中世纪的 3D 版 RimWorld。" },
-      { "slug": "foundation", "similarityScore": 68, "reasonEn": "Organic gridless city building — less combat but the emergent settlement growth feels RimWorld-adjacent.", "reasonZh": "无网格有机城市建造——战斗较少但城市自然生长的涌现感和 RimWorld 很像。" }
+      {
+        "slug": "farthest-frontier",
+        "similarityScore": 82,
+        "reasonEn": "Colony survival with deep resource chains, seasons, and raids — more grounded but hits the same management dopamine.",
+        "reasonZh": "殖民生存，深度资源链，四季和袭击——比 RimWorld 更写实但同样有管理快感。"
+      },
+      {
+        "slug": "going-medieval",
+        "similarityScore": 75,
+        "reasonEn": "3D colony builder with multi-story bases, settler psychology, and castle defense. Like RimWorld in 3D with medieval flavor.",
+        "reasonZh": "3D 殖民建造，多层基地，居民心理系统，城堡防御。像中世纪的 3D 版 RimWorld。"
+      },
+      {
+        "slug": "foundation",
+        "similarityScore": 68,
+        "reasonEn": "Organic gridless city building — less combat but the emergent settlement growth feels RimWorld-adjacent.",
+        "reasonZh": "无网格有机城市建造——战斗较少但城市自然生长的涌现感和 RimWorld 很像。"
+      }
     ]
   },
   "anno-1800": {
@@ -14,9 +29,24 @@
     "introEn": "Anno 1800 is the gold standard for production chain city builders. If you've optimized every trade route and still want more, these games offer similar supply chain depth.",
     "introZh": "Anno 1800 是产业链城市建造的黄金标准。如果你已经优化了每一条贸易路线还想继续，这些游戏有类似的供应链深度。",
     "recommendations": [
-      { "slug": "foundation", "similarityScore": 78, "reasonEn": "Supply chain management in a medieval setting — monument construction and trade route mastery feel very Anno.", "reasonZh": "中世纪背景的供应链管理——纪念碑建造和贸易路线精通很有 Anno 的感觉。" },
-      { "slug": "farthest-frontier", "similarityScore": 72, "reasonEn": "Detailed resource transformation chains, crop rotation, and seasonal planning. Farmers to artisans progression mirrors Anno's tier system.", "reasonZh": "详细资源转换链、轮作、季节规划。从农民到工匠的递进和 Anno 的等级系统很像。" },
-      { "slug": "going-medieval", "similarityScore": 65, "reasonEn": "Production trees from raw materials to finished goods. Not as complex as Anno, but the crafting depth is satisfying.", "reasonZh": "从原材料到成品的完整生产树。没有 Anno 那么复杂，但制作深度令人满足。" }
+      {
+        "slug": "foundation",
+        "similarityScore": 78,
+        "reasonEn": "Supply chain management in a medieval setting — monument construction and trade route mastery feel very Anno.",
+        "reasonZh": "中世纪背景的供应链管理——纪念碑建造和贸易路线精通很有 Anno 的感觉。"
+      },
+      {
+        "slug": "farthest-frontier",
+        "similarityScore": 72,
+        "reasonEn": "Detailed resource transformation chains, crop rotation, and seasonal planning. Farmers to artisans progression mirrors Anno's tier system.",
+        "reasonZh": "详细资源转换链、轮作、季节规划。从农民到工匠的递进和 Anno 的等级系统很像。"
+      },
+      {
+        "slug": "going-medieval",
+        "similarityScore": 65,
+        "reasonEn": "Production trees from raw materials to finished goods. Not as complex as Anno, but the crafting depth is satisfying.",
+        "reasonZh": "从原材料到成品的完整生产树。没有 Anno 那么复杂，但制作深度令人满足。"
+      }
     ]
   },
   "civilization-6": {
@@ -24,8 +54,18 @@
     "introEn": "Civilization VI is the definitive 4X strategy game. Turn-based empire building with district planning and tech trees. These alternatives offer similar strategic depth.",
     "introZh": "文明 VI 是终极 4X 策略游戏。回合制帝国建设、区域规划、科技树。这些替代品有类似的策略深度。",
     "recommendations": [
-      { "slug": "anno-1800", "similarityScore": 70, "reasonEn": "Different genre but same strategic satisfaction — optimize every tile, plan ahead, watch your empire grow.", "reasonZh": "不同类型但同样的策略满足感——优化每一格土地，提前规划，看着帝国成长。" },
-      { "slug": "rimworld", "similarityScore": 62, "reasonEn": "If you play Civ for the emergent stories and colony management, RimWorld delivers that in a different package.", "reasonZh": "如果你玩文明是为了涌现故事和殖民管理，RimWorld 用一个不同的包装给你同样的体验。" }
+      {
+        "slug": "anno-1800",
+        "similarityScore": 70,
+        "reasonEn": "Different genre but same strategic satisfaction — optimize every tile, plan ahead, watch your empire grow.",
+        "reasonZh": "不同类型但同样的策略满足感——优化每一格土地，提前规划，看着帝国成长。"
+      },
+      {
+        "slug": "rimworld",
+        "similarityScore": 62,
+        "reasonEn": "If you play Civ for the emergent stories and colony management, RimWorld delivers that in a different package.",
+        "reasonZh": "如果你玩文明是为了涌现故事和殖民管理，RimWorld 用一个不同的包装给你同样的体验。"
+      }
     ]
   },
   "stardew-valley": {
@@ -33,9 +73,12 @@
     "introEn": "Stardew Valley redefined the farming sim genre. If you've restored the community center and maxed every friendship, these games capture different pieces of that magic — farming, relationships, crafting, or community building.",
     "introZh": "星露谷物语重新定义了农场模拟类型。如果你已经修好了社区中心、刷满了每个人的好感度，这些游戏各有各的魔法——农耕、社交、制作、或是社区建设。",
     "recommendations": [
-      { "slug": "my-time-at-portia", "similarityScore": 85, "reasonEn": "Workshop-based crafting instead of farming, but same small-town charm, relationship system, and satisfying progression loop.", "reasonZh": "以工坊制作为主而非农耕，但同样的小镇魅力、好感系统和上瘾的进度循环。" },
-      { "slug": "fae-farm", "similarityScore": 72, "reasonEn": "Farming with magic, creature care, and dungeon exploration. Cozier and more polished, with co-op support.", "reasonZh": "有魔法的农耕、养生物、探索地下城。更温馨更精致，还支持合作。" },
-      { "slug": "immortal-life", "similarityScore": 78, "reasonEn": "Chinese cultivation fantasy meets farming sim — grow spirit herbs, craft talismans, and restore a mystical sect village.", "reasonZh": "修仙碰上种田——种灵草、制符箓、重建仙门村庄。中国玩家特别有代入感。" }
+      {
+        "slug": "my-time-at-portia",
+        "similarityScore": 85,
+        "reasonEn": "Workshop-based crafting instead of farming, but same small-town charm, relationship system, and satisfying progression loop.",
+        "reasonZh": "以工坊制作为主而非农耕，但同样的小镇魅力、好感系统和上瘾的进度循环。"
+      }
     ]
   }
 }

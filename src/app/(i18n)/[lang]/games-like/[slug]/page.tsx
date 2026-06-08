@@ -1,7 +1,7 @@
 import { notFound } from "next/navigation";
 import type { Metadata } from "next";
 import { getAllGames, getGameBySlug, getGamesLike } from "@/lib/game-data";
-import { GAMES } from "@/lib/data";
+import { getSimilarGames } from "@/lib/similarity";
 import type { Lang } from "@/lib/i18n";
 import { GamesLikeGrid } from "@/components/discovery/games-like-grid";
 import { LocalLink as Link } from "@/components/layout/local-link";
@@ -11,19 +11,10 @@ interface Props {
 }
 
 export async function generateStaticParams() {
-  // Generate for all games, even those without Games Like data yet
-  const dbGames = getAllGames();
-  const legacyGames = GAMES;
-
-  // Combine slugs (deduplicate)
-  const slugs = [...new Set([
-    ...dbGames.map((g) => g.slug),
-    ...legacyGames.map((g) => g.slug),
-  ])];
-
-  return slugs.flatMap((slug) => [
-    { lang: "en", slug },
-    { lang: "zh", slug },
+  const games = getAllGames();
+  return games.flatMap((g) => [
+    { lang: "en", slug: g.slug },
+    { lang: "zh", slug: g.slug },
   ]);
 }
 
@@ -41,22 +32,25 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
 export default async function GamesLikePage({ params }: Props) {
   const { lang, slug } = await params;
   const game = getGameBySlug(slug);
-  const gamesLikeData = getGamesLike(slug);
+  if (!game) notFound();
 
-  if (!game && !gamesLikeData) notFound();
+  const allGames = getAllGames();
 
   const langKey: Lang = lang === "zh" ? "zh" : "en";
   const title = langKey === "zh"
-    ? (game?.zhTitle || slug)
-    : (game?.title || slug);
+    ? (game.zhTitle || game.title)
+    : game.title;
 
-  // Build recommendations: from AI data if available, otherwise empty
-  const recommendations = gamesLikeData?.recommendations
-    ?.map((r) => {
+  // Priority: curated data → dynamic engine
+  const gamesLikeData = getGamesLike(slug);
+  const dynamicRecs = getSimilarGames(game, allGames, 6);
+
+  const recommendations = (gamesLikeData?.recommendations ?? dynamicRecs)
+    .map((r) => {
       const recGame = getGameBySlug(r.slug);
       return recGame ? { game: recGame, slug: r.slug, similarityScore: r.similarityScore, reasonEn: r.reasonEn, reasonZh: r.reasonZh } : null;
     })
-    .filter((r): r is NonNullable<typeof r> => r !== null) ?? [];
+    .filter((r): r is NonNullable<typeof r> => r !== null);
 
   return (
     <div className="mx-auto max-w-7xl px-4 py-12 sm:px-6 sm:py-20">

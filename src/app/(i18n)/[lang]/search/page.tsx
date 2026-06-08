@@ -1,103 +1,82 @@
 "use client";
 
-import { useState } from "react";
-import Link from "next/link";
+import { useState, useEffect, Suspense } from "react";
+import { useSearchParams, useRouter } from "next/navigation";
 import { Search } from "lucide-react";
-import { GAMES, GUIDES } from "@/lib/data";
 import { useLang } from "@/components/layout/lang-context";
+import { GameCardCompact } from "@/components/discovery/game-card-compact";
+import type { GameEntry, TagEntry } from "@/lib/types";
 
-export default function SearchPage() {
-  const { t } = useLang();
-  const [query, setQuery] = useState("");
+import gamesIndex from "@/data/games/index.json";
+import tagsIndex from "@/data/tags/index.json";
 
-  const filteredGames = query
-    ? GAMES.filter(
-        (g) =>
-          g.title.toLowerCase().includes(query.toLowerCase()) ||
-          g.shortDescription.toLowerCase().includes(query.toLowerCase()),
-      )
-    : [];
+const GAMES: GameEntry[] = (gamesIndex as { games: GameEntry[] }).games ?? [];
+const TAGS: Record<string, TagEntry> = tagsIndex as Record<string, TagEntry>;
 
-  const filteredGuides = query
-    ? GUIDES.filter(
-        (g) =>
-          g.title.toLowerCase().includes(query.toLowerCase()) ||
-          g.description.toLowerCase().includes(query.toLowerCase()),
-      )
-    : [];
+function SearchContent() {
+  const searchParams = useSearchParams();
+  const router = useRouter();
+  const { lang } = useLang();
+  const isZh = lang === "zh";
 
-  const hasResults = filteredGames.length > 0 || filteredGuides.length > 0;
+  const [query, setQuery] = useState(searchParams.get("q") ?? "");
+  const [results, setResults] = useState<GameEntry[]>([]);
+
+  useEffect(() => {
+    if (!query.trim()) { setResults([]); return; }
+    const q = query.toLowerCase();
+    setResults(GAMES.filter((g) =>
+      g.title.toLowerCase().includes(q) ||
+      (g.zhTitle || "").includes(q) ||
+      g.tags.some((t) => t.includes(q))
+    ));
+  }, [query]);
 
   return (
-    <div className="mx-auto max-w-2xl px-4 py-16 sm:px-6 sm:py-24">
-      <h1 className="font-display text-3xl font-bold tracking-tight">{t("nav.search")}</h1>
-
-      <div className="mt-8">
-        <div className="relative">
-          <Search size={18} className="absolute left-4 top-1/2 -translate-y-1/2 text-[var(--muted)]" />
-          <input
-            type="text"
-            value={query}
-            onChange={(e) => setQuery(e.target.value)}
-            placeholder={t("search.placeholder")}
-            className="w-full rounded-xl border border-[var(--border)] bg-[var(--card)] py-3.5 pl-12 pr-4 text-sm text-[var(--fg)] placeholder:text-[var(--muted)]/50 focus:border-[var(--accent)] focus:outline-none"
-            autoFocus
-          />
+    <div className="mx-auto max-w-3xl px-4 py-12 sm:px-6 sm:py-20">
+      <h1 className="font-display text-2xl font-bold tracking-tight">{isZh ? "搜索游戏" : "Search Games"}</h1>
+      <form onSubmit={(e) => { e.preventDefault(); if (query.trim()) router.push(`/${lang}/search?q=${encodeURIComponent(query.trim())}`); }} className="mt-6">
+        <div className="flex items-center gap-2 rounded-xl border border-[var(--border)] bg-[var(--card)] px-4 py-3 transition-colors focus-within:border-[var(--accent)]">
+          <Search size={18} className="text-[var(--muted)] shrink-0" />
+          <input name="q" type="text" value={query} onChange={(e) => setQuery(e.target.value)}
+            placeholder={isZh ? "搜游戏名、标签..." : "Search by name, tag..."}
+            className="flex-1 bg-transparent text-sm text-[var(--fg)] outline-none placeholder:text-[var(--muted)]/50" autoFocus />
         </div>
+      </form>
+      <div className="mt-4 flex flex-wrap gap-2">
+        {Object.values(TAGS).slice(0, 8).map((tag) => (
+          <button key={tag.slug} onClick={() => setQuery(tag.slug.replace(/-/g, " "))}
+            className="rounded-full border border-[var(--border)] bg-[var(--card)]/50 px-2.5 py-1 text-[10px] text-[var(--muted)] transition-all hover:border-[var(--accent)] hover:text-[var(--accent)]">
+            {isZh ? tag.titleZh : tag.titleEn}
+          </button>
+        ))}
       </div>
-
-      {query && (
-        <div className="mt-8">
-          {hasResults ? (
-            <div className="space-y-6">
-              {filteredGames.length > 0 && (
-                <div>
-                  <h2 className="text-xs font-semibold uppercase tracking-wider text-[var(--muted)]">
-                    {t("nav.games")} ({filteredGames.length})
-                  </h2>
-                  <div className="mt-3 space-y-2">
-                    {filteredGames.map((g) => (
-                      <Link
-                        key={g.slug}
-                        href={`/games/${g.slug}`}
-                        className="block rounded-lg border border-[var(--border)] bg-[var(--card)] p-4 transition-colors hover:border-[var(--accent)]"
-                      >
-                        <p className="font-medium">{g.title}</p>
-                        <p className="mt-1 text-xs text-[var(--muted)]">{g.shortDescription}</p>
-                      </Link>
-                    ))}
-                  </div>
-                </div>
-              )}
-              {filteredGuides.length > 0 && (
-                <div>
-                  <h2 className="text-xs font-semibold uppercase tracking-wider text-[var(--muted)]">
-                    {t("nav.guides")} ({filteredGuides.length})
-                  </h2>
-                  <div className="mt-3 space-y-2">
-                    {filteredGuides.map((g) => (
-                      <Link
-                        key={`${g.gameSlug}-${g.slug}`}
-                        href={`/games/${g.gameSlug}/guides/${g.slug}`}
-                        className="block rounded-lg border border-[var(--border)] bg-[var(--card)] p-4 transition-colors hover:border-[var(--accent)]"
-                      >
-                        <p className="font-medium">{g.title}</p>
-                        <p className="mt-1 text-xs text-[var(--muted)]">
-                          {g.description.slice(0, 120)}...
-                        </p>
-                      </Link>
-                    ))}
-                  </div>
-                </div>
-              )}
-            </div>
+      <div className="mt-8 space-y-3">
+        {query.trim() ? (
+          results.length > 0 ? (
+            <>
+              <p className="text-xs text-[var(--muted)]">{results.length} {isZh ? "个结果" : "results"}</p>
+              {results.map((g) => <GameCardCompact key={g.slug} game={g} lang={lang} />)}
+            </>
           ) : (
-            <p className="py-12 text-center text-sm text-[var(--muted)]">
-              {t("search.noResults")} &ldquo;{query}&rdquo;
+            <p className="rounded-xl border border-dashed border-[var(--border)] bg-[var(--card)]/30 p-10 text-center text-sm text-[var(--muted)]">
+              {isZh ? `没找到与"${query}"相关的游戏` : `No games found for "${query}"`}
             </p>
-          )}
-        </div>
-      )}
+          )
+        ) : (
+          <p className="rounded-xl border border-dashed border-[var(--border)] bg-[var(--card)]/30 p-10 text-center text-sm text-[var(--muted)]">
+            {isZh ? "输入游戏名或标签开始搜索" : "Type a game name or tag to search"}
+          </p>
+        )}
+      </div>
     </div>
+  );
+}
+
+export default function SearchPage() {
+  return (
+    <Suspense fallback={<div className="p-20 text-center text-[var(--muted)]">Loading...</div>}>
+      <SearchContent />
+    </Suspense>
   );
 }

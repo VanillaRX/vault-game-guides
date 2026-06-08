@@ -121,7 +121,8 @@
       "metaDescriptionZh": "《纪元1800》产业链布局攻略 — 仓库摆放、工会优化、跨区域供应链完全指南。",
       "similarGames": [],
       "source": "steam_api",
-      "fetchedAt": "2026-06-08T07:20:23.980Z"
+      "fetchedAt": "2026-06-08T07:20:23.980Z",
+      "aliases": []
     },
     {
       "slug": "banished",
@@ -301,7 +302,7 @@
       "fetchedAt": "2026-06-08T07:20:30.958Z"
     },
     {
-      "slug": "civilization-vi",
+      "slug": "civilization-6",
       "steamAppId": 289070,
       "title": "Sid Meier’s Civilization® VI",
       "zhTitle": "文明VI",
@@ -351,7 +352,10 @@
       "metaDescriptionZh": "《文明VI》区域相邻加成完全攻略 — 学院区、工业区、剧院广场最优摆放。",
       "similarGames": [],
       "source": "steam_api",
-      "fetchedAt": "2026-06-08T07:21:58.151Z"
+      "fetchedAt": "2026-06-08T07:21:58.151Z",
+      "aliases": [
+        "civilization-vi"
+      ]
     },
     {
       "slug": "coral-island",
@@ -1028,7 +1032,8 @@
       "metaDescriptionZh": "《最远的边陲》城镇建造攻略 — 农耕轮作、城墙设计、冬季生存、疾病控制。",
       "similarGames": [],
       "source": "steam_api",
-      "fetchedAt": "2026-06-08T07:20:03.804Z"
+      "fetchedAt": "2026-06-08T07:20:03.804Z",
+      "aliases": []
     },
     {
       "slug": "field-of-mistria",
@@ -1165,7 +1170,8 @@
       "guideCount": 0,
       "metaDescriptionEn": "Foundation is a grid-less, laidback medieval city-building game with a focus on organic development, monument construction and resource management.",
       "metaDescriptionZh": "《Foundation》有机城市布局攻略 — 区域规划、供应链、纪念碑建造指南。",
-      "similarGames": []
+      "similarGames": [],
+      "aliases": []
     },
     {
       "slug": "frozenheim",
@@ -1290,7 +1296,8 @@
       "metaDescriptionZh": "《前往中世纪》城堡建造攻略 — 多层建筑设计、居民心情管理、冬季生存策略。",
       "similarGames": [],
       "source": "steam_api",
-      "fetchedAt": "2026-06-08T07:20:10.530Z"
+      "fetchedAt": "2026-06-08T07:20:10.530Z",
+      "aliases": []
     },
     {
       "slug": "jurassic-world-evolution-2",
@@ -2385,7 +2392,8 @@
       "metaDescriptionZh": "《边缘世界》殖民管理攻略 — 杀阵设计、心情优化、殖民地布局指南。",
       "similarGames": [],
       "source": "steam_api",
-      "fetchedAt": "2026-06-08T07:21:18.010Z"
+      "fetchedAt": "2026-06-08T07:21:18.010Z",
+      "aliases": []
     },
     {
       "slug": "roots-of-pacha",
@@ -3521,5 +3529,5 @@
     }
   ],
   "total": 54,
-  "updatedAt": "2026-06-08T07:36:11.984Z"
+  "updatedAt": "2026-06-08T08:19:29.495Z"
 }
