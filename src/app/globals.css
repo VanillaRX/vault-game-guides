@@ -57,6 +57,22 @@
   50%      { opacity: 0.4; }
 }
 
+@keyframes drift-a {
+  0%, 100% { transform: translate(-50%, -50%) translateY(0px) translateX(0px); }
+  25%      { transform: translate(-50%, -50%) translateY(-5px) translateX(2px); }
+  50%      { transform: translate(-50%, -50%) translateY(-2px) translateX(-3px); }
+  75%      { transform: translate(-50%, -50%) translateY(-7px) translateX(4px); }
+}
+@keyframes drift-b {
+  0%, 100% { transform: translate(-50%, -50%) translateY(0px) translateX(0px); }
+  33%      { transform: translate(-50%, -50%) translateY(-4px) translateX(-3px); }
+  66%      { transform: translate(-50%, -50%) translateY(-6px) translateX(2px); }
+}
+@keyframes drift-c {
+  0%, 100% { transform: translate(-50%, -50%) translateY(0px) translateX(0px); }
+  50%      { transform: translate(-50%, -50%) translateY(-6px) translateX(-1px); }
+}
+
 body {
   background: var(--bg);
   color: var(--fg);

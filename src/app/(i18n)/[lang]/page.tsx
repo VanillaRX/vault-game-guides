@@ -1,7 +1,7 @@
 import { LocalLink as Link } from "@/components/layout/local-link";
 import { getAllGames, getAllBestCategories } from "@/lib/game-data";
 import { GameCardCompact } from "@/components/discovery/game-card-compact";
-import { RumorWall } from "@/components/effects/rumor-wall";
+import { GameConstellation } from "@/components/discovery/game-constellation";
 import type { Lang } from "@/lib/i18n";
 import type { GameEntry } from "@/lib/types";
 import { Search } from "lucide-react";
@@ -49,44 +49,25 @@ export default async function Home({ params }: Props) {
 
   return (
     <>
-      {/* Hero — Emotional Discovery */}
-      <section className="relative overflow-hidden border-b border-[var(--border)]">
-        <div className="absolute inset-0 bg-[radial-gradient(ellipse_at_top_right,rgba(168,85,247,0.08),transparent_50%),radial-gradient(ellipse_at_bottom_left,rgba(34,211,160,0.05),transparent_50%)]" />
-        <div className="relative mx-auto max-w-3xl px-4 py-20 text-center sm:py-28">
-          <h1 className="font-display text-3xl font-bold tracking-tight sm:text-5xl">
-            <span className="text-[var(--fg)]">
-              {isZh ? "下一款玩什么？" : "What Should You"}
-            </span>
-            <br />
-            <span className="bg-gradient-to-r from-[var(--accent)] to-[var(--neon)] bg-clip-text text-transparent">
-              {isZh ? "来这里找到答案" : "Play Next?"}
-            </span>
-          </h1>
-          <p className="mt-4 text-sm text-[var(--muted)] sm:text-base">
-            {isZh
-              ? "告诉你一款喜欢的游戏，帮你发现下一款值得投入几十小时的。"
-              : "Tell us a game you loved. We'll help you find the next one worth your time."}
-          </p>
+      {/* Hero — Game Constellation Network */}
+      <GameConstellation />
 
-          {/* Search */}
-          <form action={`/${lang}/search`} className="mt-8 mx-auto max-w-lg">
-            <div className="flex items-center gap-2 rounded-xl border border-[var(--border)] bg-[var(--card)] px-4 py-3 transition-colors focus-within:border-[var(--accent)]">
+      {/* Search bar — compact, below constellation */}
+      <section className="relative border-b border-[var(--border)] bg-[var(--bg)]/50">
+        <div className="mx-auto max-w-7xl px-4 py-6 sm:py-8">
+          <form action={`/${lang}/search`} className="mx-auto max-w-lg">
+            <div className="flex items-center gap-2 rounded-xl border border-[var(--border)] bg-[var(--card)] px-4 py-3 transition-all focus-within:border-[var(--accent)] focus-within:shadow-[0_0_20px_rgba(168,85,247,0.10)]">
               <Search size={18} className="text-[var(--muted)] shrink-0" />
               <input
                 name="q" type="text"
-                placeholder={isZh ? "搜一款你喜欢的游戏..." : "Search a game you loved..."}
+                placeholder={isZh ? "搜游戏名、标签、关键词… 比如「轻松的游戏」" : "Search games, tags, keywords… e.g. 「cozy building」"}
                 className="flex-1 bg-transparent text-sm text-[var(--fg)] outline-none placeholder:text-[var(--muted)]/50"
               />
             </div>
           </form>
-          <p className="mt-3 text-[10px] text-[var(--muted)]/50">
+          <p className="mt-2 text-center text-[10px] text-[var(--muted)]/40">
             {isZh ? "试试：星露谷物语 · RimWorld · 珊瑚岛 · 波西亚时光" : "Try: Stardew Valley · RimWorld · Coral Island · Palworld"}
           </p>
-
-          {/* Rumor Wall */}
-          <div className="mt-6">
-            <RumorWall />
-          </div>
         </div>
       </section>
 
